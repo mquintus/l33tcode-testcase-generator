@@ -7,6 +7,8 @@ This library supports
 
 """
 import random
+import sys
+import time
 
 def write_file(filename: str, string: str):
     """A simple wrapper to write a string to a file.
@@ -25,10 +27,10 @@ def write_file(filename: str, string: str):
     f.close()
 
 
-def write_testcase(**kwargs):
+def write_testcase(tests):
     """Convert test cases into strings, add line breaks    and write out.
     """
-    write_file("\n".join([kwa.__str__() for kwa in kwargs]))
+    write_file(tests)
 
 
 """Generate testcases for 1514_Path_with_Maximum_Probability.py
@@ -62,16 +64,45 @@ def get_testcase_uniform() -> [int, list, list, int, int]:
         succProb.append(1)
     return n,edges,succProb,start,end
 
-def run():
+def replace_grid_field(grid, x, y, char):
+    grid[y] = grid[y][:x] + char + grid[y][x + 1:]
+            
+def main(challenge_id=-1):
+    if int(challenge_id) not in [1514, 864]:
+        print("Required argument challenge_id: must be a value of [1514, 864]")
+        return -1
+        
     tests = []
-    tests.extend([
-        get_testcase_random(),
-        get_testcase_random(),
-        get_testcase_random(),
+    if int(challenge_id) == 1514:       
+        tests.extend([
+            get_testcase_random(),
+            get_testcase_random(),
+            get_testcase_random(),
 
-        get_testcase_uniform(),
-        get_testcase_uniform(),
+            get_testcase_uniform(),
+            get_testcase_uniform(),
 
-        get_testcase_empty()
-    ])
-
+            get_testcase_empty()
+        ])
+        tests = "\n".join([kwa.__str__() for kwa in tests])
+    if int(challenge_id) == 864:
+        grid = ["".join(['.' for i in range(30)]) for j in range(30)]
+        
+        replace_grid_field(grid, 0, 0, '@')
+        replace_grid_field(grid, 29, 29, 'b')
+        replace_grid_field(grid, 20, 1, 'a')
+        replace_grid_field(grid, 20, 2, '#')
+        replace_grid_field(grid, 21, 0, '#')
+        replace_grid_field(grid, 21, 1, 'B')
+        replace_grid_field(grid, 21, 2, '#')
+        replace_grid_field(grid, 15, 15, 'A')
+        replace_grid_field(grid, 14, 16, '#')
+        replace_grid_field(grid, 13, 17, '#')
+        
+        test = '["' + '","'.join([row.__str__() for row in grid]) + '"]'
+        
+        test2 = '["@......#.............#........",".......#######......dB........","#####..#.....#......##........",".......#...#.#..........#.....","...........#.#..........#.....","....########............#.a...","............f...........#.....","######.#E#######D########C####",".......#e...F...........#.....",".......######..........##.....",".......#..............#.......",".......#.......b....##........",".......#...........#..........",".......#.........##...........",".......#........#.............",".......#.......A..............",".......#......#...............",".......#######................","..............................","..............................","..............................","..............................","..............................","..............................","..............................","..............................","..............................","..............................","..............................",".............................c"]'
+        tests = test  + "\n" + test2
+        
+    date = time.time()
+    write_file(f"testcase_{challenge_id}_{int(date)}.txt", tests)
