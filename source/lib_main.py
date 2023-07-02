@@ -68,7 +68,13 @@ def replace_grid_field(grid, x, y, char):
     grid[y] = grid[y][:x] + char + grid[y][x + 1:]
             
 def main(challenge_id=-1):
-    if int(challenge_id) not in [1514, 864, 1970, 2305]:
+    if int(challenge_id) not in [
+        1514, 
+        864, 
+        1970, 
+        2305,
+        1601,
+        ]:
         print("Required argument challenge_id: must be a value of [1514, 864, 1970, 2305]")
         return -1
         
@@ -172,6 +178,28 @@ def main(challenge_id=-1):
             for y in range(row - 1 , -1, -1):
                 cells.append([y+1,x+1])
         tests += "\n" + "\n".join([row.__str__(), col.__str__(), cells.__str__()])
+
+    if int(challenge_id) == 1601:
+        tests = ""
+        for test in range(8):
+            building = 20
+            request_count = 16
+            requests = []
+            for i in range(request_count):
+                requests.append([random.randint(0,building-1),random.randint(0,building-1)])
+            tests += "\n" + "\n".join([building.__str__(), requests.__str__()])
+            
+        building = 20
+        requests = [[0,1],[1,2],[2,3],[3,0],[0,1],[1,2],[2,3],[3,0],[3,4],[4,3],[3,4],[4,3],[3,4],[4,3]]
+        tests += "\n" + "\n".join([building.__str__(), requests.__str__()])
+        
+        building = 4
+        for orig in range(0,4):
+            for dest in range(0,4):
+                requests.append(orig, dest)
+        tests += "\n" + "\n".join([building.__str__(), requests.__str__()])
+
+            
 
     date = time.time()
     write_file(f"testcase_{challenge_id}_{int(date)}.txt", tests)
