@@ -68,6 +68,7 @@ def replace_grid_field(grid, x, y, char):
     grid[y] = grid[y][:x] + char + grid[y][x + 1:]
             
 def main(challenge_id=-1):
+    if int(challenge_id) not in [1514, 864, 1970, 2305]:
     if int(challenge_id) not in [
         1514, 
         864, 
@@ -179,6 +180,7 @@ def main(challenge_id=-1):
                 cells.append([y+1,x+1])
         tests += "\n" + "\n".join([row.__str__(), col.__str__(), cells.__str__()])
 
+    
     if int(challenge_id) == 1601:
         tests = ""
         for test in range(8):
