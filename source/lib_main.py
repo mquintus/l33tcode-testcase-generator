@@ -68,13 +68,14 @@ def replace_grid_field(grid, x, y, char):
     grid[y] = grid[y][:x] + char + grid[y][x + 1:]
             
 def main(challenge_id=-1):
-    if int(challenge_id) not in [1514, 864, 1970, 2305]:
     if int(challenge_id) not in [
         1514, 
         864, 
         1970, 
         2305,
         1601,
+        137,
+        1493,
         ]:
         print("Required argument challenge_id: must be a value of [1514, 864, 1970, 2305]")
         return -1
@@ -202,6 +203,58 @@ def main(challenge_id=-1):
         tests += "\n" + "\n".join([building.__str__(), requests.__str__()])
 
             
+    if int(challenge_id) == 137:
+        def numrandom(i):
+            num = random.randint(-10000,10000)
+            num *= 10000
+            num += i
+            return num
+
+        tests = []
+        for test in range(8):
+            n = 9999
+            nums = []
+            num = 0
+            for i in range(n):
+                num = numrandom(i)
+                nums.append(num)
+                nums.append(num)
+                nums.append(num)
+            i += 1
+            num = numrandom(i)
+            nums.append(num)
+            random.shuffle(nums)
+            tests.append(nums.__str__())
+        tests = '\n'.join(tests)
+
+    if int(challenge_id) == 1493:
+        nums = [0 for i in range(10**5)]
+        tests.append(nums.__str__())
+        nums = [1 for i in range(10**5)]
+        tests.append(nums.__str__())
+        nums = [random.randint(0,1) for i in range(10**5)]
+        tests.append(nums.__str__())
+        nums = [random.randint(0,1) for i in range(10**5)]
+        tests.append(nums.__str__())
+        nums = [random.randint(0,1) for i in range(10**5)]
+        tests.append(nums.__str__())
+        nums = [random.randint(0,1) for i in range(10**5)]
+        tests.append(nums.__str__())
+        nums = [1]
+        tests.append(nums.__str__())
+        nums = [0]
+        tests.append(nums.__str__())
+        nums = [1,1]
+        tests.append(nums.__str__())
+        nums = [0,0]
+        tests.append(nums.__str__())
+        nums = [0,1]
+        tests.append(nums.__str__())
+        nums = [1,0]
+        tests.append(nums.__str__())
+
+        tests = '\n'.join(tests)
+
 
     date = time.time()
     write_file(f"testcase_{challenge_id}_{int(date)}.txt", tests)
