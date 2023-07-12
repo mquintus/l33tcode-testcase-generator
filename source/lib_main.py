@@ -69,7 +69,7 @@ def replace_grid_field(grid, x, y, char):
     grid[y] = grid[y][:x] + char + grid[y][x + 1:]
             
 def main(challenge_id=-1):
-    if int(challenge_id) not in [
+    implemented_challenges = [
         1514, 
         864, 
         1970, 
@@ -82,8 +82,11 @@ def main(challenge_id=-1):
         2272,
         111,
         2551,
-        ]:
-        print("Required argument challenge_id: must be a value of [1514, 864, 1970, 2305]")
+        863,
+        802,
+        ]
+    if int(challenge_id) not in implemented_challenges:
+        print("Required argument challenge_id: must be a value of " + implemented_challenges.__str__())
         return -1
         
     tests = []
@@ -335,6 +338,60 @@ def main(challenge_id=-1):
             test = weights.__str__() + "\n" + k.__str__()
             tests.append(test)
         tests = "\n".join(tests)
+
+    if int(challenge_id) == 863:
+        tests = []
+        possible_values = [i for i in range(500)]
+        for test in range(8):
+            tree = []
+            number_of_nodes = 488
+            #tree = possible_values
+            tree.extend(random.sample(possible_values, number_of_nodes))
+            target = tree[-1]
+            distance = test * 3
+            tests.append("\n".join([tree.__str__(), target.__str__(), distance.__str__()]))
+        tests = "\n".join(tests)
+
+    if int(challenge_id) == 802:
+        tests = []
+        # min test
+        graph = [[0]]
+        tests.append(graph.__str__())
+
+        graph = [[0], [1]]
+        tests.append(graph.__str__())
+
+        graph = [[0,1], [0,1]]
+        tests.append(graph.__str__())
+
+        graph = [[], [1], []]
+        tests.append(graph.__str__())
+       
+        possible_edges = [i for i in range(10**4 - 2)]
+        for test in range(4):
+            graph = []
+            number_of_edges_sum = 0
+            for node in range(10**4 - 2):
+                number_of_edges = random.randint(0,6)
+                number_of_edges_sum += number_of_edges
+                graph.append(sorted(random.sample(possible_edges, number_of_edges)))
+            print(number_of_edges_sum)
+            tests.append(graph.__str__())
+
+        for test in range(4):
+            graph = []
+            number_of_edges = 0
+            number_of_edges_sum = 0
+            for node in range(10**4 - 2):
+                number_of_edges = 6 - (node // 1500)
+                number_of_edges %= len(possible_edges)
+                graph.append(sorted(random.sample(possible_edges, number_of_edges)))
+                number_of_edges_sum += number_of_edges
+            print(number_of_edges, number_of_edges_sum)
+            tests.append(graph.__str__())
+        tests = "\n".join(tests)
+
+        
 
     date = time.time()
     write_file(f"testcase_{challenge_id}_{int(date)}.txt", tests)
