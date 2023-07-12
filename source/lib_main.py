@@ -9,6 +9,7 @@ This library supports
 import random
 import sys
 import time
+import itertools
 
 def write_file(filename: str, string: str):
     """A simple wrapper to write a string to a file.
@@ -76,6 +77,11 @@ def main(challenge_id=-1):
         1601,
         137,
         1493,
+        209,
+        3,
+        2272,
+        111,
+        2551,
         ]:
         print("Required argument challenge_id: must be a value of [1514, 864, 1970, 2305]")
         return -1
@@ -254,7 +260,81 @@ def main(challenge_id=-1):
         tests.append(nums.__str__())
 
         tests = '\n'.join(tests)
+    
+    if int(challenge_id) == 209:
+        tests = [
+            "10000, \n[1337]",
+            "10, \n[1337]"
+        ]
+        
+        for i in range(6):
+            target = random.randint(1, 10**9)
+            nums = [random.randint(1, 10**4) for i in range(10**5)]
+            tests.append(target.__str__() + "\n" + nums.__str__())
+        tests = '\n'.join(tests)
 
+    if int(challenge_id) == 3:
+        letters = """qwertyuiopsdfghjklzxcvbnm,.1234567890-=+_"""
+        tests = [ " ", "", "0", '1', '4', '10', '*', '-' ]
+        x = ["1", "2", "3"]
+        tests.append("".join(["A" for i in range(5*10**4)]))
+        tests.append("".join(["A" for i in range(5*10**4-1)]) + "B")
+        tests.append("B" + "".join(["A" for i in range(5*10**4-2)]) + "B")
+        tests.append("B" + "".join(["A" for i in range(5*10**4-2)]))
+        tests.extend(["".join(list(p)) for p in itertools.product(x, repeat=3)])
+        tests.extend(["".join(list(p)) for p in itertools.product(x, repeat=4)])
+        for i in range(8):
+            test = "".join([letters[random.randint(0,len(letters)-1)] for i in range(5*10**4)])
+            tests.append(test)
+        tests = "\n".join(['"' + test + '"' for test in tests])
+
+    if int(challenge_id) == 2272:
+        letters = 'abc'
+        test = [random.choice(letters) for i in range(10**4)]
+        tests.append('"' + "".join(test) + '"')
+        test = [random.choice(letters) for i in range(10**4)]
+        tests.append('"' + "".join(test) + '"')
+        test = [random.choice(letters) for i in range(10**4)]
+        tests.append('"' + "".join(test) + '"')
+        test = [random.choice(letters) for i in range(10**4)]
+        tests.append('"' + "".join(test) + '"')
+        test = [random.choice(letters) for i in range(10**4)]
+        tests.append('"' + "".join(test) + '"')
+        letters = 'zyqwertyuiopasdfghjklzxcvbnmabc'
+        test = [random.choice(letters) for i in range(10**4)]
+        tests.append('"' + "".join(test) + '"')
+        test = [random.choice(letters) for i in range(10**4)]
+        tests.append('"' + "".join(test) + '"')
+        tests = "\n".join(tests)
+
+    if int(challenge_id) == 111:
+        trees = ["[]", "[1]"]
+        tree = [1]
+        tree.extend([1 for i in range(10**5 - 1)])
+        trees.append(tree.__str__())
+
+        vals = [1, None]
+        tree = [1]
+        tree.extend([None for i in range(10**5 - 1)])
+        for i in range(150):
+            if 2**i + 1 < len(tree):
+                tree[2**i] = 1
+                #tree[i**2-1] = 1
+            else:
+                break
+            #print(i, i**2, tree[i**2])
+                    
+        trees.append(tree.__str__())
+        tests = "\n".join(trees)
+
+    if int(challenge_id) == 2551:
+        tests = []
+        for n in range(8):
+            weights = [random.randint(1, 10**9) for i in range(10**5)]
+            k = random.randint(1, len(weights))
+            test = weights.__str__() + "\n" + k.__str__()
+            tests.append(test)
+        tests = "\n".join(tests)
 
     date = time.time()
     write_file(f"testcase_{challenge_id}_{int(date)}.txt", tests)
