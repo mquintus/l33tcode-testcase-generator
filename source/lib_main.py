@@ -91,6 +91,7 @@ def main(challenge_id=-1):
         863,
         802,
         207,
+        1218,
     ]
     if int(challenge_id) not in implemented_challenges:
         print(
@@ -488,6 +489,11 @@ def main(challenge_id=-1):
             print(number_of_edges, number_of_edges_sum)
             tests.append(str(number_of_nodes) + "\n" + graph.__str__())
         tests = "\n".join(tests)
+
+    if int(challenge_id) == 1218:
+        from . import Generator1218
+
+        tests = Generator1218.generate()
 
     date = time.time()
     write_file(f"testcase_{challenge_id}_{int(date)}.txt", tests)
