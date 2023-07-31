@@ -96,6 +96,7 @@ def main(challenge_id=-1):
         735,
         673,
         1870,
+        712
     ]
     if int(challenge_id) not in implemented_challenges:
         print(
@@ -513,6 +514,10 @@ def main(challenge_id=-1):
     if int(challenge_id) == 1870:
         from . import Generator1870
         tests = Generator1870.generate()
+
+    if int(challenge_id) == 712:
+        from . import Generator712
+        tests = Generator712.generate()
 
 
     date = time.time()
