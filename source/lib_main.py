@@ -98,7 +98,8 @@ def main(challenge_id=-1):
         1870,
         712,
         139,
-        33
+        33,
+        63
     ]
     if int(challenge_id) not in implemented_challenges:
         print(
@@ -528,6 +529,10 @@ def main(challenge_id=-1):
     if int(challenge_id) == 33:
         from . import Generator33
         tests = Generator33.generate()
+
+    if int(challenge_id) == 63:
+        from . import Generator63
+        tests = Generator63.generate()
 
     date = time.time()
     write_file(f"testcase_{challenge_id}_{int(date)}.txt", tests)
