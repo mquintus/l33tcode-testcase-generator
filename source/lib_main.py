@@ -109,6 +109,7 @@ def main(challenge_id=-1):
         97,
         403,
         1326,
+        2707,
         # insert next challenge here
     ]
     if int(challenge_id) not in implemented_challenges:
@@ -579,6 +580,10 @@ def main(challenge_id=-1):
     if int(challenge_id) == 1326:
         from . import Generator1326
         tests = Generator1326.generate()
+
+    if int(challenge_id) == 2707:
+        from . import Generator2707
+        tests = Generator2707.generate()
 
     # insert next challenge import here
 
