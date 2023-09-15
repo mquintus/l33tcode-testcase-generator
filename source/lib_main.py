@@ -114,6 +114,7 @@ def main(challenge_id=-1):
         1282,
         1647,
         135,
+        332,
         # insert next challenge here
     ]
     if int(challenge_id) not in implemented_challenges:
@@ -604,6 +605,10 @@ def main(challenge_id=-1):
     if int(challenge_id) == 135:
         from . import Generator135
         tests = Generator135.generate()
+
+    if int(challenge_id) == 332:
+        from . import Generator332
+        tests = Generator332.generate()
 
     # insert next challenge import here
 
