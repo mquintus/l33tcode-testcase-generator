@@ -1,4 +1,4 @@
-Doing the daily challenge on leetcode.com? Use these testcases to avoid submitting 
+Doing the daily challenge on leetcode.com? Use these testcases to avoid submitting `TLE`, `runtime error`, `out of bounds error`.
 
 # 2023-09-16 - 1631. Path With Minimum Effort
 
