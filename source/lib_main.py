@@ -119,6 +119,9 @@ def main(challenge_id=-1):
         1631,
         # insert next challenge here
     ]
+    if int(challenge_id) == -1:
+        challenge_id = implemented_challenges[-1]
+
     if int(challenge_id) not in implemented_challenges:
         print(
             "Required argument challenge_id: must be a value of "
