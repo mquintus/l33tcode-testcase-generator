@@ -30,7 +30,7 @@ If you are doing l33tcode.com challenges, you know that automatically generating
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
-| `2023-09-16` | [1631](https://leetcode.com/problems/path-with-minimum-effort/) | Path With Minimum Effort | Matrix of Ints               | [/source/Generator1631.py](/source/Generator1631.py) | [/generated/Testcases1631.txt](/generated/Testcases1631.txt) | 
-| `2023-09-15` | [1584](https://www.leetcode.com/problems/min-cost-to-connect-all-points/) | Min Cost to Connect All Points | List of 2D coordinates | [/source/Generator1584.py](/source/Generator1584.py) | [/generated/Testcases1584.txt](/generated/Testcases1584.txt) | 
+| `2023-09-16` | [1631](https://leetcode.com/problems/path-with-minimum-effort/) | Path With Minimum Effort | Matrix of Ints               | [/source/Generator1631.py](/source/Generator1631.py) | [/generated/1631_Path_With_Minimum_Effort.txt](/generated/1631_Path_With_Minimum_Effort.txt) | 
+| `2023-09-15` | [1584](https://www.leetcode.com/problems/min-cost-to-connect-all-points/) | Min Cost to Connect All Points | List of 2D coordinates | [/source/Generator1584.py](/source/Generator1584.py) | [/generated/1584_Min_Cost_to_Connect_All_Points.txt](/generated/1584_Min_Cost_to_Connect_All_Points.txt) | 
 		
 
