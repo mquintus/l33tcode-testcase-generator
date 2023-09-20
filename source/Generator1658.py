@@ -22,14 +22,20 @@ def generate() -> str:
     x = sum(nums)
     tests.append(nums.__str__().replace(' ', '') + "\n" + str(x))
 
-    nums = [1 for _ in range(max_num)]
+    nums = [1 for _ in range(max_num // 10)]
     x = sum(nums)
     tests.append(nums.__str__().replace(' ', '') + "\n" + str(x))
 
-    for l in range(7, 0, -2):
+    for l in [7,3]:
         nums = [random.randint(minval, maxval) for _ in range(max_num // l)]
-        x = min(sum(nums), 10**9)
+        x = min(sum(nums) - 1, 10**9)
         tests.append(nums.__str__().replace(' ', '') + "\n" + str(x))
+
+    for l in [5,1]:
+        nums = [random.randint(minval, maxval) for _ in range(max_num // l)]
+        x = min(sum(nums) + 1, 10**9)
+        tests.append(nums.__str__().replace(' ', '') + "\n" + str(x))
+
 
     return '''
 '''.join(tests)
