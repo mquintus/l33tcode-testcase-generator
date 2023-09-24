@@ -5,18 +5,48 @@ import random
 '''
 def generate() -> str:
     tests = []
-    min_num = 2
-    max_num = 10**4
-    minval = -1000
-    maxval = 1000
 
-    n = min_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
-    n = max_num
-    test = [random.randint(minval, maxval) for _ in n]
-    tests.append(test.__str__().replace(' ', ''))
-    
+    pouring = int(1e9)
+    row = 99
+    col = 99
+    test = pouring.__str__() + "\n" + row.__str__() + "\n" + col.__str__()
+    tests.append(test)
+
+    pouring = int(1e9)
+    row = 99
+    col = 78
+    test = pouring.__str__() + "\n" + row.__str__() + "\n" + col.__str__()
+    tests.append(test)
+
+    pouring = int(1e9)
+    row = 99
+    col = random.randint(40,60)
+    test = pouring.__str__() + "\n" + row.__str__() + "\n" + col.__str__()
+    tests.append(test)
+
+    pouring = int(1e9)
+    row = 0
+    col = 0
+    test = pouring.__str__() + "\n" + row.__str__() + "\n" + col.__str__()
+    tests.append(test)
+
+    pouring = 0
+    row = 0
+    col = 0
+    test = pouring.__str__() + "\n" + row.__str__() + "\n" + col.__str__()
+    tests.append(test)
+
+    pouring = 1
+    row = 0
+    col = 0
+    test = pouring.__str__() + "\n" + row.__str__() + "\n" + col.__str__()
+    tests.append(test)
+
+    pouring = 8
+    row = 3
+    col = 3
+    test = pouring.__str__() + "\n" + row.__str__() + "\n" + col.__str__()
+    tests.append(test)
+
     return '''
 '''.join(tests)

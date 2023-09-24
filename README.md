@@ -3,7 +3,27 @@ Doing the daily challenge on leetcode.com? Use these testcases to avoid submitti
 # Daily Challenge
 
 ```
-
+1000000000
+99
+99
+1000000000
+99
+78
+1000000000
+99
+59
+1000000000
+0
+0
+0
+0
+0
+1
+0
+0
+8
+3
+3
 ```
 
 ## [Click to see the code that generated these testcases for challenge 799](/source/Generator799.py)
