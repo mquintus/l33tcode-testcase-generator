@@ -3,30 +3,10 @@ Doing the daily challenge on leetcode.com? Use these testcases to avoid submitti
 # Daily Challenge
 
 ```
-1000000000
-99
-99
-1000000000
-99
-78
-1000000000
-99
-59
-1000000000
-0
-0
-0
-0
-0
-1
-0
-0
-8
-3
-3
+
 ```
 
-## [Click to see the code that generated these testcases for challenge 799](/source/Generator799.py)
+## [Click to see the code that generated these testcases for challenge 389](/source/Generator389.py)
 
 # L33tcode test case generator
 If you are doing l33tcode.com challenges, you know that automatically generating testcases to double check your answers would be amazing. Fear not - the repo has got you covered.
@@ -43,6 +23,7 @@ If you are doing l33tcode.com challenges, you know that automatically generating
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-09-25` | [389](https://www.leetcode.com/problems/find-the-difference/) | Find the Difference | Hash Table | [/source/Generator389.py](/source/Generator389.py) | [/generated/389_Find_the_Difference.txt](/generated/389_Find_the_Difference.txt) |
 | `2023-09-24` | [799](https://www.leetcode.com/problems/champagne-tower/) | Champagne Tower | Dynamic Programming | [/source/Generator799.py](/source/Generator799.py) | [/generated/799_Champagne_Tower.txt](/generated/799_Champagne_Tower.txt) |
 | `2023-09-23` | [1048](https://www.leetcode.com/problems/longest-string-chain/) | Longest String Chain | Array | [/source/Generator1048.py](/source/Generator1048.py) | [/generated/1048_Longest_String_Chain.txt](/generated/1048_Longest_String_Chain.txt) |
 | `2023-09-22` | [392](https://www.leetcode.com/problems/is-subsequence/) | Is Subsequence | Two Pointers | [/source/Generator392.py](/source/Generator392.py) | [/generated/392_Is_Subsequence.txt](/generated/392_Is_Subsequence.txt) |
