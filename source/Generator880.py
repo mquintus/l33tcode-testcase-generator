@@ -5,18 +5,32 @@ import random
 '''
 def generate() -> str:
     tests = []
-    min_num = 2
-    max_num = 10**4
-    minval = -1000
-    maxval = 1000
+    max_num = 100
+    max_k = 1_000_000_000
+    max_unfolded = 2**63 - 1
+    letters = "abcdefghijklmnopqrstuvwxyz"
 
-    n = min_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
-    n = max_num
-    test = [random.randint(minval, maxval) for _ in n]
-    tests.append(test.__str__().replace(' ', ''))
-    
+    for l in [1,2,3,10,20,50,max_num - 1]:
+        unfolded = 1
+        unfolded_new = 1
+        stack = [random.choice(letters)]
+        for _ in range(l):
+            number = random.randint(-9,9)
+            if number <= 1:
+                unfolded_new += 1
+                if unfolded_new > max_unfolded:
+                    break
+                unfolded = unfolded_new
+                stack.append(random.choice(letters))
+            else:
+                unfolded_new *= number
+                if unfolded_new > max_unfolded:
+                    break
+                unfolded = unfolded_new
+                stack.append(str(number))
+        s = "".join(stack).__str__()
+        k = min(max_k, unfolded)
+        tests.append('"' + s + '"\n' + str(k))
+
     return '''
 '''.join(tests)
