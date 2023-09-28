@@ -3,23 +3,10 @@ Doing the daily challenge on leetcode.com? Use these testcases to avoid submitti
 # Daily Challenge
 
 ```
-"zd"
-1
-"n4l"
-4
-"ltdo"
-3
-"qaigbq7sqar"
-10
-"z6ws66tes56p347jphor8"
-5424910
-"ix3yskhh85lhzg5v5276j5562edm4kfpyvaa75tnl7e89qmp689"
-808441162
-"qp9wr2vvwlr3muhqs8ufv8o7j3ypg5fq85otbh6c22g5dcaak9ezbrbw2i27nga5xl9xucivbbn3pdc3b7o3wwvxgcko7k8ts6ny"
-882400556
+
 ```
 
-## [Click to see the code that generated these testcases for challenge 880](/source/Generator880.py)
+## [Click to see the code that generated these testcases for challenge 905](/source/Generator905.py)
 
 # L33tcode test case generator
 If you are doing l33tcode.com challenges, you know that automatically generating testcases to double check your answers would be amazing. Fear not - the repo has got you covered.
@@ -36,6 +23,7 @@ If you are doing l33tcode.com challenges, you know that automatically generating
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-09-28` | [905](https://www.leetcode.com/problems/sort-array-by-parity/) | Sort Array By Parity | Array | [/source/Generator905.py](/source/Generator905.py) | [/generated/905_Sort_Array_By_Parity.txt](/generated/905_Sort_Array_By_Parity.txt) |
 | `2023-09-27` | [880](https://www.leetcode.com/problems/decoded-string-at-index/) | Decoded String at Index | String | [/source/Generator880.py](/source/Generator880.py) | [/generated/880_Decoded_String_at_Index.txt](/generated/880_Decoded_String_at_Index.txt) |
 | `2023-09-26` | [316](https://www.leetcode.com/problems/remove-duplicate-letters/) | Remove Duplicate Letters | String | [/source/Generator316.py](/source/Generator316.py) | [/generated/316_Remove_Duplicate_Letters.txt](/generated/316_Remove_Duplicate_Letters.txt) |
 | `2023-09-25` | [389](https://www.leetcode.com/problems/find-the-difference/) | Find the Difference | Hash Table | [/source/Generator389.py](/source/Generator389.py) | [/generated/389_Find_the_Difference.txt](/generated/389_Find_the_Difference.txt) |
