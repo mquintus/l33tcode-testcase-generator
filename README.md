@@ -3,17 +3,10 @@ Doing the daily challenge on leetcode.com? Use these testcases to avoid submitti
 # Daily Challenge
 
 ```
-"B"
-"AA"
-"BAB"
-"BAB"
-"AAB"
-"BBABAAAAABAAAAABBBAABBBBBABBBBBABABBBBBABBBAABAABABABBBBBABABBBBBABABAABBBBABAAABBBBBBABAABBBABBBAABAABABBBBBBBAAAAAABBBAAABBBBABAABBAABABAABBBAABBBBAAAABAAAABAABABBBBBABBBAAAABAAAAABABBBABABBBBBBBBAB"
-"BABBBBAAAAAAABBAAABABABABABBAABBABBBBBBBABABAAABABAAABBABAABBAABBAAAAABABBAABBBBBBBAAABAAABBABBABBBBBAABBBABABABBABBBABABABBABBBBBBBABAABBBAABAABBAABABAAABBBBAABAAAAABABBBABAAABABBABAABBABAABBBBBAABAABBBABABABBABBABAAABBBBBBBBABBBAAAAAAABAA"
-"BBABABAABBBABBABBABBBABBBBABBBAAAABBABABBAABABABBBBAAABAABAAAAABAAAAABABBBAAAABBABBAAABBAABBABBBABBAAABAABAAAABBBAABABBBBBBAABAAAAABAABABBABBABBBABABBBAAABAAABABAAABABAABBBABBBBBBABBABBABBAAABBAABBBBBABBABABABABBAAABBAAABBABABBAAABABBAAABAB"
+
 ```
 
-## [Click to see the code that generated these testcases for challenge 2038](/source/Generator2038.py)
+## [Click to see the code that generated these testcases for challenge 1512](/source/Generator1512.py)
 
 # L33tcode test case generator
 If you are doing l33tcode.com challenges, you know that automatically generating testcases to double check your answers would be amazing. Fear not - the repo has got you covered.
@@ -30,6 +23,7 @@ If you are doing l33tcode.com challenges, you know that automatically generating
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-10-03` | [1512](https://www.leetcode.com/problems/number-of-good-pairs/) | Number of Good Pairs | Array | [/source/Generator1512.py](/source/Generator1512.py) | [/generated/1512_Number_of_Good_Pairs.txt](/generated/1512_Number_of_Good_Pairs.txt) |
 | `2023-10-02` | [2038](https://www.leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Remove Colored Pieces if Both Neighbors are the Same Color | Math | [/source/Generator2038.py](/source/Generator2038.py) | [/generated/2038_Remove_Colored_Pieces_if_Both_Neighbors_are_the_Same_Color.txt](/generated/2038_Remove_Colored_Pieces_if_Both_Neighbors_are_the_Same_Color.txt) |
 | `2023-10-01` | [557](https://www.leetcode.com/problems/reverse-words-in-a-string-iii/) | Reverse Words in a String III | Two Pointers | [/source/Generator557.py](/source/Generator557.py) | [/generated/557_Reverse_Words_in_a_String_III.txt](/generated/557_Reverse_Words_in_a_String_III.txt) |
 | `2023-09-30` | [456](https://www.leetcode.com/problems/132-pattern/) | 132 Pattern | Array | [/source/Generator456.py](/source/Generator456.py) | [/generated/456_132_Pattern.txt](/generated/456_132_Pattern.txt) |
