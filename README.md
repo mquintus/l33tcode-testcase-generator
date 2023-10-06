@@ -6,7 +6,7 @@ Doing the daily challenge on leetcode.com? Use these testcases to avoid submitti
 
 ```
 
-## [Click to see the code that generated these testcases for challenge 229](/source/Generator229.py)
+## [Click to see the code that generated these testcases for challenge 343](/source/Generator343.py)
 
 # L33tcode test case generator
 If you are doing l33tcode.com challenges, you know that automatically generating testcases to double check your answers would be amazing. Fear not - the repo has got you covered.
@@ -23,6 +23,7 @@ If you are doing l33tcode.com challenges, you know that automatically generating
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-10-06` | [343](https://www.leetcode.com/problems/integer-break/) | Integer Break | Math | [/source/Generator343.py](/source/Generator343.py) | [/generated/343_Integer_Break.txt](/generated/343_Integer_Break.txt) |
 | `2023-10-05` | [229](https://www.leetcode.com/problems/majority-element-ii/) | Majority Element II | Array | [/source/Generator229.py](/source/Generator229.py) | [/generated/229_Majority_Element_II.txt](/generated/229_Majority_Element_II.txt) |
 | `2023-10-04` | [706](https://www.leetcode.com/problems/design-hashmap/) | Design HashMap | Array | [/source/Generator706.py](/source/Generator706.py) | [/generated/706_Design_HashMap.txt](/generated/706_Design_HashMap.txt) |
 | `2023-10-03` | [1512](https://www.leetcode.com/problems/number-of-good-pairs/) | Number of Good Pairs | Array | [/source/Generator1512.py](/source/Generator1512.py) | [/generated/1512_Number_of_Good_Pairs.txt](/generated/1512_Number_of_Good_Pairs.txt) |
