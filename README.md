@@ -3,15 +3,10 @@ Doing the daily challenge on leetcode.com? Use these testcases to avoid submitti
 # Daily Challenge
 
 ```
-[552310497]
-[41,42]
-[41,43]
-[1000000000,999999998,999999996,999999994,999999992,999999990,999999988,999999986,999999984,999999982,999999980,999999978,999999976,999999974,999999972,999999970,999999968,999999966,999999964,999999962]
-[100,97,94,91,88,85,82,79,76,73,70,67,64,61,58,55,52,49,46,43]
-[1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10]
+
 ```
 
-## [Click to see the code that generated these testcases for challenge 2009](/source/Generator2009.py)
+## [Click to see the code that generated these testcases for challenge 2251](/source/Generator2251.py)
 
 # L33tcode test case generator
 If you are doing l33tcode.com challenges, you know that automatically generating testcases to double check your answers would be amazing. Fear not - the repo has got you covered.
@@ -28,6 +23,7 @@ If you are doing l33tcode.com challenges, you know that automatically generating
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-10-11` | [2251](https://www.leetcode.com/problems/number-of-flowers-in-full-bloom/) | Number of Flowers in Full Bloom | Array | [/source/Generator2251.py](/source/Generator2251.py) | [/generated/2251_Number_of_Flowers_in_Full_Bloom.txt](/generated/2251_Number_of_Flowers_in_Full_Bloom.txt) |
 | `2023-10-10` | [2009](https://www.leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | Minimum Number of Operations to Make Array Continuous | Array | [/source/Generator2009.py](/source/Generator2009.py) | [/generated/2009_Minimum_Number_of_Operations_to_Make_Array_Continuous.txt](/generated/2009_Minimum_Number_of_Operations_to_Make_Array_Continuous.txt) |
 | `2023-10-09` | [34](https://www.leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Find First and Last Position of Element in Sorted Array | Array | [/source/Generator34.py](/source/Generator34.py) | [/generated/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.txt](/generated/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.txt) |
 | `2023-10-08` | [1458](https://www.leetcode.com/problems/max-dot-product-of-two-subsequences/) | Max Dot Product of Two Subsequences | Array | [/source/Generator1458.py](/source/Generator1458.py) | [/generated/1458_Max_Dot_Product_of_Two_Subsequences.txt](/generated/1458_Max_Dot_Product_of_Two_Subsequences.txt) |
