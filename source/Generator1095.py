@@ -5,18 +5,33 @@ import random
 '''
 def generate() -> str:
     tests = []
-    min_num = 2
+    min_num = 3
     max_num = 10**4
-    minval = -1000
-    maxval = 1000
+    minval = 0
+    maxval = 10**9
+    height = -1
 
-    n = min_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
-    n = max_num
-    test = [random.randint(minval, maxval) for _ in n]
-    tests.append(test.__str__().replace(' ', ''))
-    
+    for n in [min_num, 10, 100, 200, 500, 1000, max_num]:
+        peak = random.randint(1, n - 2)
+        mountain = []
+        maxdiff = 10
+        if n == 200:
+            maxdiff = random.randint(1000, 10000)
+        for i in range(n):
+            diff = random.randint(1, maxdiff)
+            if i <= peak:
+                height += diff
+                if height >= maxval:
+                    height = maxval
+                    peak = i
+            else:
+                height -= diff
+                height = max(minval, height)
+            mountain.append(height)
+            if i > peak and height == minval:
+                break
+        target = random.choice(mountain)
+        tests.append(mountain.__str__().replace(' ', '') + "\n" + target.__str__())
+
     return '''
 '''.join(tests)
