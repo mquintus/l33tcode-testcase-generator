@@ -6,7 +6,7 @@ Doing the daily challenge on leetcode.com? Use these testcases to avoid submitti
 
 ```
 
-## [Click to see the code that generated these testcases for challenge 2251](/source/Generator2251.py)
+## [Click to see the code that generated these testcases for challenge 1095](/source/Generator1095.py)
 
 # L33tcode test case generator
 If you are doing l33tcode.com challenges, you know that automatically generating testcases to double check your answers would be amazing. Fear not - the repo has got you covered.
@@ -23,6 +23,7 @@ If you are doing l33tcode.com challenges, you know that automatically generating
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-10-12` | [1095](https://www.leetcode.com/problems/find-in-mountain-array/) | Find in Mountain Array | Array | [/source/Generator1095.py](/source/Generator1095.py) | [/generated/1095_Find_in_Mountain_Array.txt](/generated/1095_Find_in_Mountain_Array.txt) |
 | `2023-10-11` | [2251](https://www.leetcode.com/problems/number-of-flowers-in-full-bloom/) | Number of Flowers in Full Bloom | Array | [/source/Generator2251.py](/source/Generator2251.py) | [/generated/2251_Number_of_Flowers_in_Full_Bloom.txt](/generated/2251_Number_of_Flowers_in_Full_Bloom.txt) |
 | `2023-10-10` | [2009](https://www.leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | Minimum Number of Operations to Make Array Continuous | Array | [/source/Generator2009.py](/source/Generator2009.py) | [/generated/2009_Minimum_Number_of_Operations_to_Make_Array_Continuous.txt](/generated/2009_Minimum_Number_of_Operations_to_Make_Array_Continuous.txt) |
 | `2023-10-09` | [34](https://www.leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Find First and Last Position of Element in Sorted Array | Array | [/source/Generator34.py](/source/Generator34.py) | [/generated/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.txt](/generated/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.txt) |
