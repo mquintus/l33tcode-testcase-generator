@@ -3,23 +3,10 @@ Doing the daily challenge on leetcode.com? Use these testcases to avoid submitti
 # Daily Challenge
 
 ```
-[230960]
-[1]
-[508268,822486]
-[2,1]
-[41602,525670,36378]
-[2,1,1]
-[6213,2984,369171,642134,620737,199694,305820,699482,319309,924530]
-[1,3,5,5,5,3,3,2,9,7]
-[490345,263411,403217,250820,956231,556503,750520,148933,778963,773963]
-[2,3,9,10,10,1,9,9,1,9]
-[83740,886469,791833,214519,20517,45422,19739,232544,173477,351959,998979,704977,188322,492131,310208,847295,455336,974963,542249,138657]
-[20,19,18,12,5,16,17,8,10,4,4,15,19,8,4,9,14,17,9,1]
-[132274,629850,423206,383771,526170,90444,960648,145447,856042,471297,799398,18372,540067,117255,541218,31555,841715,919433,54185,146976,333265,420295,294271,182826,794724,564881,639986,786531,399313,625119,957041,8811,812389,743330,518816,70279,839109,518487,982068,874734,324650,874661,422489,981244,474261,157727,766720,66177,632727,970753,424912,268875,103188,398301,88725,310696,221765,807090,564220,409285,134049,720646,974535,317057,444025,621447,211277,554173,842800,176031,242760,461008,797539,297855,111098,449402,933591,195290,699506,153300,240129,432177,463397,329716,38741,91691,686613,922778,404696,734375,711872,118642,875791,815876,243966,412247,405549,648615,865936,887112]
-[41,33,81,88,98,34,66,17,44,61,97,91,83,83,89,94,16,52,17,59,60,26,12,36,56,66,91,43,63,18,84,55,70,87,76,2,78,47,72,81,8,98,59,80,46,62,52,81,79,13,42,71,17,67,87,100,3,81,23,46,6,43,54,26,40,57,17,30,61,57,75,14,61,73,85,7,30,18,77,8,57,9,45,44,63,1,8,45,57,45,5,90,26,87,72,93,35,65,51,21]
+
 ```
 
-## [Click to see the code that generated these testcases for challenge 2742](/source/Generator2742.py)
+## [Click to see the code that generated these testcases for challenge 1269](/source/Generator1269.py)
 
 # L33tcode test case generator
 If you are doing l33tcode.com challenges, you know that automatically generating testcases to double check your answers would be amazing. Fear not - the repo has got you covered.
@@ -36,6 +23,7 @@ If you are doing l33tcode.com challenges, you know that automatically generating
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-10-15` | [1269](https://www.leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Number of Ways to Stay in the Same Place After Some Steps | Dynamic Programming | [/source/Generator1269.py](/source/Generator1269.py) | [/generated/1269_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps.txt](/generated/1269_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps.txt) |
 | `2023-10-14` | [2742](https://www.leetcode.com/problems/painting-the-walls/) | Painting the Walls | Array | [/source/Generator2742.py](/source/Generator2742.py) | [/generated/2742_Painting_the_Walls.txt](/generated/2742_Painting_the_Walls.txt) |
 | `2023-10-13` | [746](https://www.leetcode.com/problems/min-cost-climbing-stairs/) | Min Cost Climbing Stairs | Array | [/source/Generator746.py](/source/Generator746.py) | [/generated/746_Min_Cost_Climbing_Stairs.txt](/generated/746_Min_Cost_Climbing_Stairs.txt) |
 | `2023-10-12` | [1095](https://www.leetcode.com/problems/find-in-mountain-array/) | Find in Mountain Array | Array | [/source/Generator1095.py](/source/Generator1095.py) | [/generated/1095_Find_in_Mountain_Array.txt](/generated/1095_Find_in_Mountain_Array.txt) |
