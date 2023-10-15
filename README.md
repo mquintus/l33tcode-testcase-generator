@@ -3,7 +3,43 @@ Doing the daily challenge on leetcode.com? Use these testcases to avoid submitti
 # Daily Challenge
 
 ```
+1
+1
+```
 
+```
+1
+1000000
+```
+
+```
+500
+4
+```
+
+```
+344
+206595
+```
+
+```
+3
+3
+```
+
+```
+3
+1000000
+```
+
+```
+500
+3
+```
+
+```
+500
+1000000
 ```
 
 ## [Click to see the code that generated these testcases for challenge 1269](/source/Generator1269.py)

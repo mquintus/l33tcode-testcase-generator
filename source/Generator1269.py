@@ -5,18 +5,27 @@ import random
 '''
 def generate() -> str:
     tests = []
-    min_num = 2
-    max_num = 10**4
-    minval = -1000
-    maxval = 1000
+    min_steps = 1
+    max_steps = 500
+    min_arrl = 1
+    max_arrl = 1_000_000
 
-    n = min_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
-    n = max_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
+    test = [min_steps, min_arrl]
+    tests.append("\n".join([t.__str__() for t in test]))
+
+    test = [min_steps, max_arrl]
+    tests.append("\n".join([t.__str__() for t in test]))
+
+    test = [max_steps, random.randint(2, 10)]
+    tests.append("\n".join([t.__str__() for t in test]))
+
+    test = [random.randint(min_steps, max_steps), random.randint(min_arrl, max_arrl)]
+    tests.append("\n".join([t.__str__() for t in test]))
+
+    for steps in [3, max_steps]:
+        for arrl in [3, max_arrl]:
+            test = [steps, arrl]
+            tests.append("\n".join([t.__str__() for t in test]))
+
     return '''
 '''.join(tests)
