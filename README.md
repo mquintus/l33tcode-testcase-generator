@@ -3,7 +3,14 @@ Doing the daily challenge on leetcode.com? Use these testcases to avoid submitti
 # Daily Challenge
 
 ```
-
+0
+1
+2
+3
+9
+31
+32
+33
 ```
 
 ## [Click to see the code that generated these testcases for challenge 119](/source/Generator119.py)
