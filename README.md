@@ -3,46 +3,10 @@ Doing the daily challenge on leetcode.com? Use these testcases to avoid submitti
 # Daily Challenge
 
 ```
-1
-1
-```
 
 ```
-1
-1000000
-```
 
-```
-500
-4
-```
-
-```
-344
-206595
-```
-
-```
-3
-3
-```
-
-```
-3
-1000000
-```
-
-```
-500
-3
-```
-
-```
-500
-1000000
-```
-
-## [Click to see the code that generated these testcases for challenge 1269](/source/Generator1269.py)
+## [Click to see the code that generated these testcases for challenge 119](/source/Generator119.py)
 
 # L33tcode test case generator
 If you are doing l33tcode.com challenges, you know that automatically generating testcases to double check your answers would be amazing. Fear not - the repo has got you covered.
@@ -59,6 +23,7 @@ If you are doing l33tcode.com challenges, you know that automatically generating
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-10-16` | [119](https://www.leetcode.com/problems/pascals-triangle-ii/) | Pascal's Triangle II | Array | [/source/Generator119.py](/source/Generator119.py) | [/generated/119_Pascal's_Triangle_II.txt](/generated/119_Pascal's_Triangle_II.txt) |
 | `2023-10-15` | [1269](https://www.leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Number of Ways to Stay in the Same Place After Some Steps | Dynamic Programming | [/source/Generator1269.py](/source/Generator1269.py) | [/generated/1269_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps.txt](/generated/1269_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps.txt) |
 | `2023-10-14` | [2742](https://www.leetcode.com/problems/painting-the-walls/) | Painting the Walls | Array | [/source/Generator2742.py](/source/Generator2742.py) | [/generated/2742_Painting_the_Walls.txt](/generated/2742_Painting_the_Walls.txt) |
 | `2023-10-13` | [746](https://www.leetcode.com/problems/min-cost-climbing-stairs/) | Min Cost Climbing Stairs | Array | [/source/Generator746.py](/source/Generator746.py) | [/generated/746_Min_Cost_Climbing_Stairs.txt](/generated/746_Min_Cost_Climbing_Stairs.txt) |
