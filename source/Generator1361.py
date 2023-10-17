@@ -1,22 +1,33 @@
-import random
-
 '''
 1361 - Validate Binary Tree Nodes
 '''
 def generate() -> str:
-    tests = []
-    min_num = 2
-    max_num = 10**4
-    minval = -1000
-    maxval = 1000
-
-    n = min_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
-    n = max_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
+    tests = [
+'''3
+[2, 0, -1]
+[-1, -1, -1]''',
+'''4
+[1,-1,3,-1]
+[2,-1,-1,-1]''',
+'''4
+[1,-1,3,-1]
+[2,3,-1,-1]''',
+'''2
+[1,0]
+[-1,-1]''',
+'''3
+[2, 1, -1]
+[-1, -1, -1]''',
+'''3
+[1,0,-1]
+[-1,-1,-1]''',
+'''4
+[1, -1, -1, -1]
+[2, -1, -1, -1]''',
+'''4
+[1, -1, 3, -1]
+[-1, -1, -1, 2]''',
+    ]
     
     return '''
 '''.join(tests)
