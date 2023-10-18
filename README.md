@@ -3,33 +3,10 @@ Doing the daily challenge on leetcode.com? Use these testcases to avoid submitti
 # Daily Challenge
 
 ```
-3
-[2, 0, -1]
-[-1, -1, -1]
-4
-[1,-1,3,-1]
-[2,-1,-1,-1]
-4
-[1,-1,3,-1]
-[2,3,-1,-1]
-2
-[1,0]
-[-1,-1]
-3
-[2, 1, -1]
-[-1, -1, -1]
-3
-[1,0,-1]
-[-1,-1,-1]
-4
-[1, -1, -1, -1]
-[2, -1, -1, -1]
-4
-[1, -1, 3, -1]
-[-1, -1, -1, 2]
+
 ```
 
-## [Click to see the code that generated these testcases for challenge 1361](/source/Generator1361.py)
+## [Click to see the code that generated these testcases for challenge 2050](/source/Generator2050.py)
 
 # L33tcode test case generator
 If you are doing l33tcode.com challenges, you know that automatically generating testcases to double check your answers would be amazing. Fear not - the repo has got you covered.
@@ -46,6 +23,7 @@ If you are doing l33tcode.com challenges, you know that automatically generating
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-10-18` | [2050](https://www.leetcode.com/problems/parallel-courses-iii/) | Parallel Courses III | Graph | [/source/Generator2050.py](/source/Generator2050.py) | [/generated/2050_Parallel_Courses_III.txt](/generated/2050_Parallel_Courses_III.txt) |
 | `2023-10-17` | [1361](https://www.leetcode.com/problems/validate-binary-tree-nodes/) | Validate Binary Tree Nodes | Graph | [/source/Generator1361.py](/source/Generator1361.py) | [/generated/1361_Validate_Binary_Tree_Nodes.txt](/generated/1361_Validate_Binary_Tree_Nodes.txt) |
 | `2023-10-16` | [119](https://www.leetcode.com/problems/pascals-triangle-ii/) | Pascal's Triangle II | Array | [/source/Generator119.py](/source/Generator119.py) | [/generated/119_Pascal's_Triangle_II.txt](/generated/119_Pascal's_Triangle_II.txt) |
 | `2023-10-15` | [1269](https://www.leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Number of Ways to Stay in the Same Place After Some Steps | Dynamic Programming | [/source/Generator1269.py](/source/Generator1269.py) | [/generated/1269_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps.txt](/generated/1269_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps.txt) |
