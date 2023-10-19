@@ -3,6 +3,7 @@
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-10-19` | [844](https://www.leetcode.com/problems/backspace-string-compare/) | Backspace String Compare | Two Pointers | [/source/Generator844.py](/source/Generator844.py) | [/generated/844_Backspace_String_Compare.txt](/generated/844_Backspace_String_Compare.txt) |
 | `2023-10-18` | [2050](https://www.leetcode.com/problems/parallel-courses-iii/) | Parallel Courses III | Graph | [/source/Generator2050.py](/source/Generator2050.py) | [/generated/2050_Parallel_Courses_III.txt](/generated/2050_Parallel_Courses_III.txt) |
 | `2023-10-17` | [1361](https://www.leetcode.com/problems/validate-binary-tree-nodes/) | Validate Binary Tree Nodes | Graph | [/source/Generator1361.py](/source/Generator1361.py) | [/generated/1361_Validate_Binary_Tree_Nodes.txt](/generated/1361_Validate_Binary_Tree_Nodes.txt) |
 | `2023-10-16` | [119](https://www.leetcode.com/problems/pascals-triangle-ii/) | Pascal's Triangle II | Array | [/source/Generator119.py](/source/Generator119.py) | [/generated/119_Pascal's_Triangle_II.txt](/generated/119_Pascal's_Triangle_II.txt) |
