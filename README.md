@@ -3,6 +3,7 @@
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-10-20` | [341](https://www.leetcode.com/problems/flatten-nested-list-iterator/) | Flatten Nested List Iterator | Stack | [/source/Generator341.py](/source/Generator341.py) | [/generated/341_Flatten_Nested_List_Iterator.txt](/generated/341_Flatten_Nested_List_Iterator.txt) |
 | `2023-10-19` | [844](https://www.leetcode.com/problems/backspace-string-compare/) | Backspace String Compare | Two Pointers | [/source/Generator844.py](/source/Generator844.py) | [/generated/844_Backspace_String_Compare.txt](/generated/844_Backspace_String_Compare.txt) |
 | `2023-10-18` | [2050](https://www.leetcode.com/problems/parallel-courses-iii/) | Parallel Courses III | Graph | [/source/Generator2050.py](/source/Generator2050.py) | [/generated/2050_Parallel_Courses_III.txt](/generated/2050_Parallel_Courses_III.txt) |
 | `2023-10-17` | [1361](https://www.leetcode.com/problems/validate-binary-tree-nodes/) | Validate Binary Tree Nodes | Graph | [/source/Generator1361.py](/source/Generator1361.py) | [/generated/1361_Validate_Binary_Tree_Nodes.txt](/generated/1361_Validate_Binary_Tree_Nodes.txt) |
