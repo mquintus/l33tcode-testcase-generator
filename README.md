@@ -3,6 +3,7 @@
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-10-23` | [342](https://www.leetcode.com/problems/power-of-four/) | Power of Four | Math | [/source/Generator342.py](/source/Generator342.py) | [/generated/342_Power_of_Four.txt](/generated/342_Power_of_Four.txt) |
 | `2023-10-22` | [1793](https://www.leetcode.com/problems/maximum-score-of-a-good-subarray/) | Maximum Score of a Good Subarray | Array | [/source/Generator1793.py](/source/Generator1793.py) | [/generated/1793_Maximum_Score_of_a_Good_Subarray.txt](/generated/1793_Maximum_Score_of_a_Good_Subarray.txt) |
 | `2023-10-21` | [1425](https://www.leetcode.com/problems/constrained-subsequence-sum/) | Constrained Subsequence Sum | Array | [/source/Generator1425.py](/source/Generator1425.py) | [/generated/1425_Constrained_Subsequence_Sum.txt](/generated/1425_Constrained_Subsequence_Sum.txt) |
 | `2023-10-20` | [341](https://www.leetcode.com/problems/flatten-nested-list-iterator/) | Flatten Nested List Iterator | Stack | [/source/Generator341.py](/source/Generator341.py) | [/generated/341_Flatten_Nested_List_Iterator.txt](/generated/341_Flatten_Nested_List_Iterator.txt) |
