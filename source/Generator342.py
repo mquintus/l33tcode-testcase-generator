@@ -1,5 +1,3 @@
-import random
-
 '''
 342 - Power of Four
 '''
