@@ -5,18 +5,28 @@ import random
 '''
 def generate() -> str:
     tests = []
-    min_num = 2
+    min_num = 0
     max_num = 10**4
-    minval = -1000
-    maxval = 1000
+    minval = -100000
+    maxval = 100000
 
-    n = min_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
-    n = max_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
+    def build_tree(global_counter):
+        nodes = []
+
+        while global_counter > 0:
+            global_counter -= 1
+
+            nodes.append(random.randint(minval, maxval))
+
+            skip_child = random.randint(1,10)
+            if 1 == skip_child:
+                nodes.append('null')
+
+        return nodes
+
+    for n in [min_num, 1, 2, 10, 20, 600, 1000, max_num]:
+        nodes = build_tree(n)
+        tests.append(nodes.__str__().replace(' ', '').replace("'", ""))
+
     return '''
 '''.join(tests)
