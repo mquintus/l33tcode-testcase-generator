@@ -3,6 +3,7 @@
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-10-25` | [779](https://www.leetcode.com/problems/k-th-symbol-in-grammar/) | K-th Symbol in Grammar | Math | [/source/Generator779.py](/source/Generator779.py) | [/generated/779_K-th_Symbol_in_Grammar.txt](/generated/779_K-th_Symbol_in_Grammar.txt) |
 | `2023-10-24` | [515](https://www.leetcode.com/problems/find-largest-value-in-each-tree-row/) | Find Largest Value in Each Tree Row | Tree | [/source/Generator515.py](/source/Generator515.py) | [/generated/515_Find_Largest_Value_in_Each_Tree_Row.txt](/generated/515_Find_Largest_Value_in_Each_Tree_Row.txt) |
 | `2023-10-23` | [342](https://www.leetcode.com/problems/power-of-four/) | Power of Four | Math | [/source/Generator342.py](/source/Generator342.py) | [/generated/342_Power_of_Four.txt](/generated/342_Power_of_Four.txt) |
 | `2023-10-22` | [1793](https://www.leetcode.com/problems/maximum-score-of-a-good-subarray/) | Maximum Score of a Good Subarray | Array | [/source/Generator1793.py](/source/Generator1793.py) | [/generated/1793_Maximum_Score_of_a_Good_Subarray.txt](/generated/1793_Maximum_Score_of_a_Good_Subarray.txt) |
