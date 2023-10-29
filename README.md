@@ -3,6 +3,7 @@
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-10-29` | [458](https://www.leetcode.com/problems/poor-pigs/) | Poor Pigs | Math | [/source/Generator458.py](/source/Generator458.py) | [/generated/458_Poor_Pigs.txt](/generated/458_Poor_Pigs.txt) |
 | `2023-10-28` | [1220](https://www.leetcode.com/problems/count-vowels-permutation/) | Count Vowels Permutation | Dynamic Programming | [/source/Generator1220.py](/source/Generator1220.py) | [/generated/1220_Count_Vowels_Permutation.txt](/generated/1220_Count_Vowels_Permutation.txt) |
 | `2023-10-27` | [5](https://www.leetcode.com/problems/longest-palindromic-substring/) | Longest Palindromic Substring | String | [/source/Generator5.py](/source/Generator5.py) | [/generated/5_Longest_Palindromic_Substring.txt](/generated/5_Longest_Palindromic_Substring.txt) |
 | `2023-10-26` | [823](https://www.leetcode.com/problems/binary-trees-with-factors/) | Binary Trees With Factors | Array | [/source/Generator823.py](/source/Generator823.py) | [/generated/823_Binary_Trees_With_Factors.txt](/generated/823_Binary_Trees_With_Factors.txt) |
