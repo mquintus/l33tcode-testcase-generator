@@ -3,6 +3,7 @@
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-11-01` | [501](https://www.leetcode.com/problems/find-mode-in-binary-search-tree/) | Find Mode in Binary Search Tree | Tree | [/source/Generator501.py](/source/Generator501.py) | [/generated/501_Find_Mode_in_Binary_Search_Tree.txt](/generated/501_Find_Mode_in_Binary_Search_Tree.txt) |
 | `2023-10-31` | [2433](https://www.leetcode.com/problems/find-the-original-array-of-prefix-xor/) | Find The Original Array of Prefix Xor | Array | [/source/Generator2433.py](/source/Generator2433.py) | [/generated/2433_Find_The_Original_Array_of_Prefix_Xor.txt](/generated/2433_Find_The_Original_Array_of_Prefix_Xor.txt) |
 | `2023-10-30` | [1356](https://www.leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | Sort Integers by The Number of 1 Bits | Array | [/source/Generator1356.py](/source/Generator1356.py) | [/generated/1356_Sort_Integers_by_The_Number_of_1_Bits.txt](/generated/1356_Sort_Integers_by_The_Number_of_1_Bits.txt) |
 | `2023-10-29` | [458](https://www.leetcode.com/problems/poor-pigs/) | Poor Pigs | Math | [/source/Generator458.py](/source/Generator458.py) | [/generated/458_Poor_Pigs.txt](/generated/458_Poor_Pigs.txt) |
