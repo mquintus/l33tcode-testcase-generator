@@ -3,6 +3,7 @@
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-11-03` | [1441](https://www.leetcode.com/problems/build-an-array-with-stack-operations/) | Build an Array With Stack Operations | Array | [/source/Generator1441.py](/source/Generator1441.py) | [/generated/1441_Build_an_Array_With_Stack_Operations.txt](/generated/1441_Build_an_Array_With_Stack_Operations.txt) |
 | `2023-11-02` | [2265](https://www.leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Count Nodes Equal to Average of Subtree | Tree | [/source/Generator2265.py](/source/Generator2265.py) | [/generated/2265_Count_Nodes_Equal_to_Average_of_Subtree.txt](/generated/2265_Count_Nodes_Equal_to_Average_of_Subtree.txt) |
 | `2023-11-01` | [501](https://www.leetcode.com/problems/find-mode-in-binary-search-tree/) | Find Mode in Binary Search Tree | Tree | [/source/Generator501.py](/source/Generator501.py) | [/generated/501_Find_Mode_in_Binary_Search_Tree.txt](/generated/501_Find_Mode_in_Binary_Search_Tree.txt) |
 | `2023-10-31` | [2433](https://www.leetcode.com/problems/find-the-original-array-of-prefix-xor/) | Find The Original Array of Prefix Xor | Array | [/source/Generator2433.py](/source/Generator2433.py) | [/generated/2433_Find_The_Original_Array_of_Prefix_Xor.txt](/generated/2433_Find_The_Original_Array_of_Prefix_Xor.txt) |
