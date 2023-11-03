@@ -5,18 +5,14 @@ import random
 '''
 def generate() -> str:
     tests = []
-    min_num = 2
-    max_num = 10**4
-    minval = -1000
-    maxval = 1000
+    min_num = 1
+    max_num = 100
 
-    n = min_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
-    n = max_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
+    all_numbers = range(1,101)
+
+    for sel in [min_num, 2, 3, 10, 50, 75, 99, max_num]:
+        test = sorted(list(random.sample(all_numbers, sel)))
+        tests.append(test.__str__().replace(' ', '') + "\n100")
+
     return '''
 '''.join(tests)
