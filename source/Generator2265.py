@@ -1,22 +1,18 @@
-import random
+from .helpers import helpers
 
 '''
 2265 - Count Nodes Equal to Average of Subtree
 '''
 def generate() -> str:
     tests = []
-    min_num = 2
-    max_num = 10**4
-    minval = -1000
+    min_num = 1
+    max_num = 1000
+    minval = 0
     maxval = 1000
 
-    n = min_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
-    n = max_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
+    for n in [min_num, 2, 12, 13, max_num, max_num, max_num, max_num]:
+        test = helpers.binary_tree_with_duplicates(n, minval, maxval)
+        tests.append(test.__str__().replace(' ', '').replace('None', 'null'))
+
     return '''
 '''.join(tests)
