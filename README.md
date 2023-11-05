@@ -3,6 +3,7 @@
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-11-05` | [1535](https://www.leetcode.com/problems/find-the-winner-of-an-array-game/) | Find the Winner of an Array Game | Array | [/source/Generator1535.py](/source/Generator1535.py) | [/generated/1535_Find_the_Winner_of_an_Array_Game.txt](/generated/1535_Find_the_Winner_of_an_Array_Game.txt) |
 | `2023-11-04` | [1503](https://www.leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | Last Moment Before All Ants Fall Out of a Plank | Array | [/source/Generator1503.py](/source/Generator1503.py) | [/generated/1503_Last_Moment_Before_All_Ants_Fall_Out_of_a_Plank.txt](/generated/1503_Last_Moment_Before_All_Ants_Fall_Out_of_a_Plank.txt) |
 | `2023-11-03` | [1441](https://www.leetcode.com/problems/build-an-array-with-stack-operations/) | Build an Array With Stack Operations | Array | [/source/Generator1441.py](/source/Generator1441.py) | [/generated/1441_Build_an_Array_With_Stack_Operations.txt](/generated/1441_Build_an_Array_With_Stack_Operations.txt) |
 | `2023-11-02` | [2265](https://www.leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Count Nodes Equal to Average of Subtree | Tree | [/source/Generator2265.py](/source/Generator2265.py) | [/generated/2265_Count_Nodes_Equal_to_Average_of_Subtree.txt](/generated/2265_Count_Nodes_Equal_to_Average_of_Subtree.txt) |
