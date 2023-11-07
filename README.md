@@ -3,6 +3,7 @@
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-11-07` | [1921](https://www.leetcode.com/problems/eliminate-maximum-number-of-monsters/) | Eliminate Maximum Number of Monsters | Array | [/source/Generator1921.py](/source/Generator1921.py) | [/generated/1921_Eliminate_Maximum_Number_of_Monsters.txt](/generated/1921_Eliminate_Maximum_Number_of_Monsters.txt) |
 | `2023-11-06` | [1845](https://www.leetcode.com/problems/seat-reservation-manager/) | Seat Reservation Manager | Design | [/source/Generator1845.py](/source/Generator1845.py) | [/generated/1845_Seat_Reservation_Manager.txt](/generated/1845_Seat_Reservation_Manager.txt) |
 | `2023-11-05` | [1535](https://www.leetcode.com/problems/find-the-winner-of-an-array-game/) | Find the Winner of an Array Game | Array | [/source/Generator1535.py](/source/Generator1535.py) | [/generated/1535_Find_the_Winner_of_an_Array_Game.txt](/generated/1535_Find_the_Winner_of_an_Array_Game.txt) |
 | `2023-11-04` | [1503](https://www.leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | Last Moment Before All Ants Fall Out of a Plank | Array | [/source/Generator1503.py](/source/Generator1503.py) | [/generated/1503_Last_Moment_Before_All_Ants_Fall_Out_of_a_Plank.txt](/generated/1503_Last_Moment_Before_All_Ants_Fall_Out_of_a_Plank.txt) |
