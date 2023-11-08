@@ -1,5 +1,10 @@
 import random
 
+def get_unique_numbers(n, minVal):
+    unique_numbers = list(range(minVal, minVal + n))
+    random.shuffle(unique_numbers)
+    return unique_numbers
+
 def binary_tree_with_duplicates(n, minVal, maxVal):
     '''
     The datastructure is a list, e.g.
