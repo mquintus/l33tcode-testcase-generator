@@ -3,6 +3,7 @@
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-11-09` | [1759](https://www.leetcode.com/problems/count-number-of-homogenous-substrings/) | Count Number of Homogenous Substrings | Math | [/source/Generator1759.py](/source/Generator1759.py) | [/generated/1759_Count_Number_of_Homogenous_Substrings.txt](/generated/1759_Count_Number_of_Homogenous_Substrings.txt) |
 | `2023-11-08` | [2849](https://www.leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) | Determine if a Cell Is Reachable at a Given Time | Math | [/source/Generator2849.py](/source/Generator2849.py) | [/generated/2849_Determine_if_a_Cell_Is_Reachable_at_a_Given_Time.txt](/generated/2849_Determine_if_a_Cell_Is_Reachable_at_a_Given_Time.txt) |
 | `2023-11-07` | [1921](https://www.leetcode.com/problems/eliminate-maximum-number-of-monsters/) | Eliminate Maximum Number of Monsters | Array | [/source/Generator1921.py](/source/Generator1921.py) | [/generated/1921_Eliminate_Maximum_Number_of_Monsters.txt](/generated/1921_Eliminate_Maximum_Number_of_Monsters.txt) |
 | `2023-11-06` | [1845](https://www.leetcode.com/problems/seat-reservation-manager/) | Seat Reservation Manager | Design | [/source/Generator1845.py](/source/Generator1845.py) | [/generated/1845_Seat_Reservation_Manager.txt](/generated/1845_Seat_Reservation_Manager.txt) |
