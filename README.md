@@ -3,6 +3,7 @@
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-11-11` | [2642](https://www.leetcode.com/problems/design-graph-with-shortest-path-calculator/) | Design Graph With Shortest Path Calculator | Graph | [/source/Generator2642.py](/source/Generator2642.py) | [/generated/2642_Design_Graph_With_Shortest_Path_Calculator.txt](/generated/2642_Design_Graph_With_Shortest_Path_Calculator.txt) |
 | `2023-11-10` | [1743](https://www.leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | Restore the Array From Adjacent Pairs | Array | [/source/Generator1743.py](/source/Generator1743.py) | [/generated/1743_Restore_the_Array_From_Adjacent_Pairs.txt](/generated/1743_Restore_the_Array_From_Adjacent_Pairs.txt) |
 | `2023-11-09` | [1759](https://www.leetcode.com/problems/count-number-of-homogenous-substrings/) | Count Number of Homogenous Substrings | Math | [/source/Generator1759.py](/source/Generator1759.py) | [/generated/1759_Count_Number_of_Homogenous_Substrings.txt](/generated/1759_Count_Number_of_Homogenous_Substrings.txt) |
 | `2023-11-08` | [2849](https://www.leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) | Determine if a Cell Is Reachable at a Given Time | Math | [/source/Generator2849.py](/source/Generator2849.py) | [/generated/2849_Determine_if_a_Cell_Is_Reachable_at_a_Given_Time.txt](/generated/2849_Determine_if_a_Cell_Is_Reachable_at_a_Given_Time.txt) |
