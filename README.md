@@ -3,6 +3,7 @@
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-11-12` | [815](https://www.leetcode.com/problems/bus-routes/) | Bus Routes | Array | [/source/Generator815.py](/source/Generator815.py) | [/generated/815_Bus_Routes.txt](/generated/815_Bus_Routes.txt) |
 | `2023-11-11` | [2642](https://www.leetcode.com/problems/design-graph-with-shortest-path-calculator/) | Design Graph With Shortest Path Calculator | Graph | [/source/Generator2642.py](/source/Generator2642.py) | [/generated/2642_Design_Graph_With_Shortest_Path_Calculator.txt](/generated/2642_Design_Graph_With_Shortest_Path_Calculator.txt) |
 | `2023-11-10` | [1743](https://www.leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | Restore the Array From Adjacent Pairs | Array | [/source/Generator1743.py](/source/Generator1743.py) | [/generated/1743_Restore_the_Array_From_Adjacent_Pairs.txt](/generated/1743_Restore_the_Array_From_Adjacent_Pairs.txt) |
 | `2023-11-09` | [1759](https://www.leetcode.com/problems/count-number-of-homogenous-substrings/) | Count Number of Homogenous Substrings | Math | [/source/Generator1759.py](/source/Generator1759.py) | [/generated/1759_Count_Number_of_Homogenous_Substrings.txt](/generated/1759_Count_Number_of_Homogenous_Substrings.txt) |
