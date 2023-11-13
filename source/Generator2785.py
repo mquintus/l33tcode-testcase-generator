@@ -5,18 +5,23 @@ import random
 '''
 def generate() -> str:
     tests = []
-    min_num = 2
-    max_num = 10**4
-    minval = -1000
-    maxval = 1000
+    min_num = 1
+    max_num = 10**5
+    letters = 'abcedfghijklmnopqrstuvwxyz'
+    letters += letters.upper()
 
-    n = min_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
-    n = max_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
+    vowels = 'aeiouAEIOU'
+
+
+    for n in [min_num, 100, max_num]:
+        test = "".join([random.choice(letters) for _ in range(n)])
+        tests.append(f'"{test}"')
+
+        test = "".join([random.choice(vowels) for _ in range(n)])
+        tests.append(f'"{test}"')
+
+    test = "".join([random.choice('acAB') for _ in range(max_num)])
+    tests.append(f'"{test}"')
+
     return '''
 '''.join(tests)
