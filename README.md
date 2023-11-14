@@ -3,6 +3,7 @@
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-11-14` | [1930](https://www.leetcode.com/problems/unique-length-3-palindromic-subsequences/) | Unique Length-3 Palindromic Subsequences | Hash Table | [/source/Generator1930.py](/source/Generator1930.py) | [/generated/1930_Unique_Length-3_Palindromic_Subsequences.txt](/generated/1930_Unique_Length-3_Palindromic_Subsequences.txt) |
 | `2023-11-13` | [2785](https://www.leetcode.com/problems/sort-vowels-in-a-string/) | Sort Vowels in a String | String | [/source/Generator2785.py](/source/Generator2785.py) | [/generated/2785_Sort_Vowels_in_a_String.txt](/generated/2785_Sort_Vowels_in_a_String.txt) |
 | `2023-11-12` | [815](https://www.leetcode.com/problems/bus-routes/) | Bus Routes | Array | [/source/Generator815.py](/source/Generator815.py) | [/generated/815_Bus_Routes.txt](/generated/815_Bus_Routes.txt) |
 | `2023-11-11` | [2642](https://www.leetcode.com/problems/design-graph-with-shortest-path-calculator/) | Design Graph With Shortest Path Calculator | Graph | [/source/Generator2642.py](/source/Generator2642.py) | [/generated/2642_Design_Graph_With_Shortest_Path_Calculator.txt](/generated/2642_Design_Graph_With_Shortest_Path_Calculator.txt) |
