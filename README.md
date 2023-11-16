@@ -3,6 +3,7 @@
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-11-16` | [1980](https://www.leetcode.com/problems/find-unique-binary-string/) | Find Unique Binary String | Array | [/source/Generator1980.py](/source/Generator1980.py) | [/generated/1980_Find_Unique_Binary_String.txt](/generated/1980_Find_Unique_Binary_String.txt) |
 | `2023-11-15` | [1846](https://www.leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Maximum Element After Decreasing and Rearranging | Array | [/source/Generator1846.py](/source/Generator1846.py) | [/generated/1846_Maximum_Element_After_Decreasing_and_Rearranging.txt](/generated/1846_Maximum_Element_After_Decreasing_and_Rearranging.txt) |
 | `2023-11-14` | [1930](https://www.leetcode.com/problems/unique-length-3-palindromic-subsequences/) | Unique Length-3 Palindromic Subsequences | Hash Table | [/source/Generator1930.py](/source/Generator1930.py) | [/generated/1930_Unique_Length-3_Palindromic_Subsequences.txt](/generated/1930_Unique_Length-3_Palindromic_Subsequences.txt) |
 | `2023-11-13` | [2785](https://www.leetcode.com/problems/sort-vowels-in-a-string/) | Sort Vowels in a String | String | [/source/Generator2785.py](/source/Generator2785.py) | [/generated/2785_Sort_Vowels_in_a_String.txt](/generated/2785_Sort_Vowels_in_a_String.txt) |
