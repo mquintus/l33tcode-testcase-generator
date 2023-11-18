@@ -3,6 +3,7 @@
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-11-18` | [1838](https://www.leetcode.com/problems/frequency-of-the-most-frequent-element/) | Frequency of the Most Frequent Element | Array | [/source/Generator1838.py](/source/Generator1838.py) | [/generated/1838_Frequency_of_the_Most_Frequent_Element.txt](/generated/1838_Frequency_of_the_Most_Frequent_Element.txt) |
 | `2023-11-17` | [1877](https://www.leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | Minimize Maximum Pair Sum in Array | Array | [/source/Generator1877.py](/source/Generator1877.py) | [/generated/1877_Minimize_Maximum_Pair_Sum_in_Array.txt](/generated/1877_Minimize_Maximum_Pair_Sum_in_Array.txt) |
 | `2023-11-16` | [1980](https://www.leetcode.com/problems/find-unique-binary-string/) | Find Unique Binary String | Array | [/source/Generator1980.py](/source/Generator1980.py) | [/generated/1980_Find_Unique_Binary_String.txt](/generated/1980_Find_Unique_Binary_String.txt) |
 | `2023-11-15` | [1846](https://www.leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Maximum Element After Decreasing and Rearranging | Array | [/source/Generator1846.py](/source/Generator1846.py) | [/generated/1846_Maximum_Element_After_Decreasing_and_Rearranging.txt](/generated/1846_Maximum_Element_After_Decreasing_and_Rearranging.txt) |
