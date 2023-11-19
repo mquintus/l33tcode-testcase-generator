@@ -3,6 +3,7 @@
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-11-19` | [1887](https://www.leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | Reduction Operations to Make the Array Elements Equal | Array | [/source/Generator1887.py](/source/Generator1887.py) | [/generated/1887_Reduction_Operations_to_Make_the_Array_Elements_Equal.txt](/generated/1887_Reduction_Operations_to_Make_the_Array_Elements_Equal.txt) |
 | `2023-11-18` | [1838](https://www.leetcode.com/problems/frequency-of-the-most-frequent-element/) | Frequency of the Most Frequent Element | Array | [/source/Generator1838.py](/source/Generator1838.py) | [/generated/1838_Frequency_of_the_Most_Frequent_Element.txt](/generated/1838_Frequency_of_the_Most_Frequent_Element.txt) |
 | `2023-11-17` | [1877](https://www.leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | Minimize Maximum Pair Sum in Array | Array | [/source/Generator1877.py](/source/Generator1877.py) | [/generated/1877_Minimize_Maximum_Pair_Sum_in_Array.txt](/generated/1877_Minimize_Maximum_Pair_Sum_in_Array.txt) |
 | `2023-11-16` | [1980](https://www.leetcode.com/problems/find-unique-binary-string/) | Find Unique Binary String | Array | [/source/Generator1980.py](/source/Generator1980.py) | [/generated/1980_Find_Unique_Binary_String.txt](/generated/1980_Find_Unique_Binary_String.txt) |
