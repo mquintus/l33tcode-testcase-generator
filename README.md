@@ -3,6 +3,7 @@
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-11-21` | [1814](https://www.leetcode.com/problems/count-nice-pairs-in-an-array/) | Count Nice Pairs in an Array | Array | [/source/Generator1814.py](/source/Generator1814.py) | [/generated/1814_Count_Nice_Pairs_in_an_Array.txt](/generated/1814_Count_Nice_Pairs_in_an_Array.txt) |
 | `2023-11-20` | [2391](https://www.leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | Minimum Amount of Time to Collect Garbage | Array | [/source/Generator2391.py](/source/Generator2391.py) | [/generated/2391_Minimum_Amount_of_Time_to_Collect_Garbage.txt](/generated/2391_Minimum_Amount_of_Time_to_Collect_Garbage.txt) |
 | `2023-11-19` | [1887](https://www.leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | Reduction Operations to Make the Array Elements Equal | Array | [/source/Generator1887.py](/source/Generator1887.py) | [/generated/1887_Reduction_Operations_to_Make_the_Array_Elements_Equal.txt](/generated/1887_Reduction_Operations_to_Make_the_Array_Elements_Equal.txt) |
 | `2023-11-18` | [1838](https://www.leetcode.com/problems/frequency-of-the-most-frequent-element/) | Frequency of the Most Frequent Element | Array | [/source/Generator1838.py](/source/Generator1838.py) | [/generated/1838_Frequency_of_the_Most_Frequent_Element.txt](/generated/1838_Frequency_of_the_Most_Frequent_Element.txt) |
