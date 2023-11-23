@@ -3,6 +3,7 @@
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-11-23` | [1630](https://www.leetcode.com/problems/arithmetic-subarrays/) | Arithmetic Subarrays | Array | [/source/Generator1630.py](/source/Generator1630.py) | [/generated/1630_Arithmetic_Subarrays.txt](/generated/1630_Arithmetic_Subarrays.txt) |
 | `2023-11-22` | [1424](https://www.leetcode.com/problems/diagonal-traverse-ii/) | Diagonal Traverse II | Array | [/source/Generator1424.py](/source/Generator1424.py) | [/generated/1424_Diagonal_Traverse_II.txt](/generated/1424_Diagonal_Traverse_II.txt) |
 | `2023-11-21` | [1814](https://www.leetcode.com/problems/count-nice-pairs-in-an-array/) | Count Nice Pairs in an Array | Array | [/source/Generator1814.py](/source/Generator1814.py) | [/generated/1814_Count_Nice_Pairs_in_an_Array.txt](/generated/1814_Count_Nice_Pairs_in_an_Array.txt) |
 | `2023-11-20` | [2391](https://www.leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | Minimum Amount of Time to Collect Garbage | Array | [/source/Generator2391.py](/source/Generator2391.py) | [/generated/2391_Minimum_Amount_of_Time_to_Collect_Garbage.txt](/generated/2391_Minimum_Amount_of_Time_to_Collect_Garbage.txt) |
