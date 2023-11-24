@@ -3,6 +3,7 @@
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-11-24` | [1561](https://www.leetcode.com/problems/maximum-number-of-coins-you-can-get/) | Maximum Number of Coins You Can Get | Array | [/source/Generator1561.py](/source/Generator1561.py) | [/generated/1561_Maximum_Number_of_Coins_You_Can_Get.txt](/generated/1561_Maximum_Number_of_Coins_You_Can_Get.txt) |
 | `2023-11-23` | [1630](https://www.leetcode.com/problems/arithmetic-subarrays/) | Arithmetic Subarrays | Array | [/source/Generator1630.py](/source/Generator1630.py) | [/generated/1630_Arithmetic_Subarrays.txt](/generated/1630_Arithmetic_Subarrays.txt) |
 | `2023-11-22` | [1424](https://www.leetcode.com/problems/diagonal-traverse-ii/) | Diagonal Traverse II | Array | [/source/Generator1424.py](/source/Generator1424.py) | [/generated/1424_Diagonal_Traverse_II.txt](/generated/1424_Diagonal_Traverse_II.txt) |
 | `2023-11-21` | [1814](https://www.leetcode.com/problems/count-nice-pairs-in-an-array/) | Count Nice Pairs in an Array | Array | [/source/Generator1814.py](/source/Generator1814.py) | [/generated/1814_Count_Nice_Pairs_in_an_Array.txt](/generated/1814_Count_Nice_Pairs_in_an_Array.txt) |
