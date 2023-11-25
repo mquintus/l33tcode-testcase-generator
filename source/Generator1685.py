@@ -6,17 +6,18 @@ import random
 def generate() -> str:
     tests = []
     min_num = 2
-    max_num = 10**4
-    minval = -1000
-    maxval = 1000
+    max_num = 10**5
+    minval = 1
+    maxval = 10**4
 
-    n = min_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
-    n = max_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
+    for n in [min_num, 10, 10_000, max_num]:
+        for strategy in ['random', 'identical']:
+            if strategy == 'random':
+                test = [random.randint(minval, maxval) for _ in range(n)]
+                test.sort()
+            elif strategy == 'identical':
+                test = [random.randint(minval, maxval)] * n
+            tests.append(test.__str__().replace(' ', ''))
+
     return '''
 '''.join(tests)
