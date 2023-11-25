@@ -3,6 +3,7 @@
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-11-25` | [1685](https://www.leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | Sum of Absolute Differences in a Sorted Array | Array | [/source/Generator1685.py](/source/Generator1685.py) | [/generated/1685_Sum_of_Absolute_Differences_in_a_Sorted_Array.txt](/generated/1685_Sum_of_Absolute_Differences_in_a_Sorted_Array.txt) |
 | `2023-11-24` | [1561](https://www.leetcode.com/problems/maximum-number-of-coins-you-can-get/) | Maximum Number of Coins You Can Get | Array | [/source/Generator1561.py](/source/Generator1561.py) | [/generated/1561_Maximum_Number_of_Coins_You_Can_Get.txt](/generated/1561_Maximum_Number_of_Coins_You_Can_Get.txt) |
 | `2023-11-23` | [1630](https://www.leetcode.com/problems/arithmetic-subarrays/) | Arithmetic Subarrays | Array | [/source/Generator1630.py](/source/Generator1630.py) | [/generated/1630_Arithmetic_Subarrays.txt](/generated/1630_Arithmetic_Subarrays.txt) |
 | `2023-11-22` | [1424](https://www.leetcode.com/problems/diagonal-traverse-ii/) | Diagonal Traverse II | Array | [/source/Generator1424.py](/source/Generator1424.py) | [/generated/1424_Diagonal_Traverse_II.txt](/generated/1424_Diagonal_Traverse_II.txt) |
