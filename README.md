@@ -3,6 +3,7 @@
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-11-28` | [2147](https://www.leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | Number of Ways to Divide a Long Corridor | Math | [/source/Generator2147.py](/source/Generator2147.py) | [/generated/2147_Number_of_Ways_to_Divide_a_Long_Corridor.txt](/generated/2147_Number_of_Ways_to_Divide_a_Long_Corridor.txt) |
 | `2023-11-27` | [935](https://www.leetcode.com/problems/knight-dialer/) | Knight Dialer | Dynamic Programming | [/source/Generator935.py](/source/Generator935.py) | [/generated/935_Knight_Dialer.txt](/generated/935_Knight_Dialer.txt) |
 | `2023-11-26` | [1727](https://www.leetcode.com/problems/largest-submatrix-with-rearrangements/) | Largest Submatrix With Rearrangements | Array | [/source/Generator1727.py](/source/Generator1727.py) | [/generated/1727_Largest_Submatrix_With_Rearrangements.txt](/generated/1727_Largest_Submatrix_With_Rearrangements.txt) |
 | `2023-11-25` | [1685](https://www.leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | Sum of Absolute Differences in a Sorted Array | Array | [/source/Generator1685.py](/source/Generator1685.py) | [/generated/1685_Sum_of_Absolute_Differences_in_a_Sorted_Array.txt](/generated/1685_Sum_of_Absolute_Differences_in_a_Sorted_Array.txt) |
