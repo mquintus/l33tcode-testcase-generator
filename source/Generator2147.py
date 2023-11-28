@@ -5,15 +5,24 @@ import random
 '''
 def generate() -> str:
     tests = []
-    min_num = 1
     max_num = 10**5
     alphabet = 'SP'
 
-    for n in [min_num, 100, 100, max_num]:
-        test = [random.choice(alphabet) for _ in range(n)]
+    test = ["S"]
+    tests.append('"' + "".join(test) + '"')
+
+    test = ["P"]
+    tests.append('"' + "".join(test) + '"')
+
+    test = ["SS"]
+    tests.append('"' + "".join(test) + '"')
+
+    for n in [100, max_num]:
+        test = list(alphabet * (n//2))
+        random.shuffle(test)
         tests.append('"' + "".join(test) + '"')
 
-        test = [random.choice(alphabet)] * n
+        test = ['S'] * n
         tests.append('"' + "".join(test) + '"')
 
     return '''
