@@ -3,6 +3,7 @@
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-12-02` | [1160](https://www.leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | Find Words That Can Be Formed by Characters | Array | [/source/Generator1160.py](/source/Generator1160.py) | [/generated/1160_Find_Words_That_Can_Be_Formed_by_Characters.txt](/generated/1160_Find_Words_That_Can_Be_Formed_by_Characters.txt) |
 | `2023-12-01` | [1662](https://www.leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Check If Two String Arrays are Equivalent | Array | [/source/Generator1662.py](/source/Generator1662.py) | [/generated/1662_Check_If_Two_String_Arrays_are_Equivalent.txt](/generated/1662_Check_If_Two_String_Arrays_are_Equivalent.txt) |
 | `2023-11-30` | [1611](https://www.leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | Minimum One Bit Operations to Make Integers Zero | Dynamic Programming | [/source/Generator1611.py](/source/Generator1611.py) | [/generated/1611_Minimum_One_Bit_Operations_to_Make_Integers_Zero.txt](/generated/1611_Minimum_One_Bit_Operations_to_Make_Integers_Zero.txt) |
 | `2023-11-29` | [191](https://www.leetcode.com/problems/number-of-1-bits/) | Number of 1 Bits | Divide and Conquer | [/source/Generator191.py](/source/Generator191.py) | [/generated/191_Number_of_1_Bits.txt](/generated/191_Number_of_1_Bits.txt) |
