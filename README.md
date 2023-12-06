@@ -3,6 +3,7 @@
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-12-06` | [1716](https://www.leetcode.com/problems/calculate-money-in-leetcode-bank/) | Calculate Money in Leetcode Bank | Math | [/source/Generator1716.py](/source/Generator1716.py) | [/generated/1716_Calculate_Money_in_Leetcode_Bank.txt](/generated/1716_Calculate_Money_in_Leetcode_Bank.txt) |
 | `2023-12-05` | [1688](https://www.leetcode.com/problems/count-of-matches-in-tournament/) | Count of Matches in Tournament | Math | [/source/Generator1688.py](/source/Generator1688.py) | [/generated/1688_Count_of_Matches_in_Tournament.txt](/generated/1688_Count_of_Matches_in_Tournament.txt) |
 | `2023-12-04` | [2264](https://www.leetcode.com/problems/largest-3-same-digit-number-in-string/) | Largest 3-Same-Digit Number in String | String | [/source/Generator2264.py](/source/Generator2264.py) | [/generated/2264_Largest_3-Same-Digit_Number_in_String.txt](/generated/2264_Largest_3-Same-Digit_Number_in_String.txt) |
 | `2023-12-03` | [1266](https://www.leetcode.com/problems/minimum-time-visiting-all-points/) | Minimum Time Visiting All Points | Array | [/source/Generator1266.py](/source/Generator1266.py) | [/generated/1266_Minimum_Time_Visiting_All_Points.txt](/generated/1266_Minimum_Time_Visiting_All_Points.txt) |
