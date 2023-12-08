@@ -3,6 +3,7 @@
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-12-08` | [606](https://www.leetcode.com/problems/construct-string-from-binary-tree/) | Construct String from Binary Tree | String | [/source/Generator606.py](/source/Generator606.py) | [/generated/606_Construct_String_from_Binary_Tree.txt](/generated/606_Construct_String_from_Binary_Tree.txt) |
 | `2023-12-07` | [1903](https://www.leetcode.com/problems/largest-odd-number-in-string/) | Largest Odd Number in String | Math | [/source/Generator1903.py](/source/Generator1903.py) | [/generated/1903_Largest_Odd_Number_in_String.txt](/generated/1903_Largest_Odd_Number_in_String.txt) |
 | `2023-12-06` | [1716](https://www.leetcode.com/problems/calculate-money-in-leetcode-bank/) | Calculate Money in Leetcode Bank | Math | [/source/Generator1716.py](/source/Generator1716.py) | [/generated/1716_Calculate_Money_in_Leetcode_Bank.txt](/generated/1716_Calculate_Money_in_Leetcode_Bank.txt) |
 | `2023-12-05` | [1688](https://www.leetcode.com/problems/count-of-matches-in-tournament/) | Count of Matches in Tournament | Math | [/source/Generator1688.py](/source/Generator1688.py) | [/generated/1688_Count_of_Matches_in_Tournament.txt](/generated/1688_Count_of_Matches_in_Tournament.txt) |
