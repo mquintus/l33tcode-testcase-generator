@@ -1,4 +1,4 @@
-At the moment I am [creating the testcases automatically](https://github.com/mquintus/l33tcode-cron/) but still need to do a lot of manual customization.
+At the moment I [am creating the testcases automatically](https://github.com/mquintus/l33tcode-cron/blob/main/l33tcode-testcase-generator.config) but still need to do a lot of manual customization.
 Do you want to help me generalize and automate? Send me a pull request with a change if you have an idea how to automate daily testcases based on categories, constraints etc. from the challenge description. 
 
 # Previous Testcases
