@@ -1,22 +1,30 @@
 import random
+from source.helpers.matrix import get_matrix
 
 '''
 867 - Transpose Matrix
 '''
+
 def generate() -> str:
     tests = []
-    min_num = 2
-    max_num = 10**4
+    maxheight = 10**3
+    maxwidth = 10**3
+    max_cells = 10**5
     minval = -1000
     maxval = 1000
 
-    n = min_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
-    n = max_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
+    width = 1
+    height = min(maxheight, max_cells // width)
+    matrix = get_matrix(height, width, minval, maxval)
+    tests.append(matrix.__str__().replace(' ', ''))
+
+    for height in [1, 2, 3, 10, 20, 50, maxheight - 1]:
+        width = min(maxwidth, max_cells // height)
+        matrix = get_matrix(height, width, minval, maxval)
+        tests.append(matrix.__str__().replace(' ', ''))
+
     return '''
 '''.join(tests)
+
+if __name__ == '__main__':
+    print(generate())
