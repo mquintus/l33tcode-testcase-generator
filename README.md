@@ -5,6 +5,7 @@ Do you want to help me generalize and automate? Send me a pull request with a ch
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-12-13` | [1582](https://www.leetcode.com/problems/special-positions-in-a-binary-matrix/) | Special Positions in a Binary Matrix | Array | [/source/Generator1582.py](/source/Generator1582.py) | [/generated/1582_Special_Positions_in_a_Binary_Matrix.txt](/generated/1582_Special_Positions_in_a_Binary_Matrix.txt) |
 | `2023-12-12` | [1464](https://www.leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Maximum Product of Two Elements in an Array | Array | [/source/Generator1464.py](/source/Generator1464.py) | [/generated/1464_Maximum_Product_of_Two_Elements_in_an_Array.txt](/generated/1464_Maximum_Product_of_Two_Elements_in_an_Array.txt) |
 | `2023-12-11` | [1287](https://www.leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | Element Appearing More Than 25% In Sorted Array | Array | [/source/Generator1287.py](/source/Generator1287.py) | [/generated/1287_Element_Appearing_More_Than_25%_In_Sorted_Array.txt](/generated/1287_Element_Appearing_More_Than_25%_In_Sorted_Array.txt) |
 | `2023-12-10` | [867](https://www.leetcode.com/problems/transpose-matrix/) | Transpose Matrix | Array | [/source/Generator867.py](/source/Generator867.py) | [/generated/867_Transpose_Matrix.txt](/generated/867_Transpose_Matrix.txt) |
