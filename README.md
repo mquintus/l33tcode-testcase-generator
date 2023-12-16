@@ -5,6 +5,7 @@ Do you want to help me generalize and automate? Send me a pull request with a ch
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-12-16` | [242](https://www.leetcode.com/problems/valid-anagram/) | Valid Anagram | Hash Table | [/source/Generator242.py](/source/Generator242.py) | [/generated/242_Valid_Anagram.txt](/generated/242_Valid_Anagram.txt) |
 | `2023-12-15` | [1436](https://www.leetcode.com/problems/destination-city/) | Destination City | Hash Table | [/source/Generator1436.py](/source/Generator1436.py) | [/generated/1436_Destination_City.txt](/generated/1436_Destination_City.txt) |
 | `2023-12-14` | [2482](https://www.leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | Difference Between Ones and Zeros in Row and Column | Array | [/source/Generator2482.py](/source/Generator2482.py) | [/generated/2482_Difference_Between_Ones_and_Zeros_in_Row_and_Column.txt](/generated/2482_Difference_Between_Ones_and_Zeros_in_Row_and_Column.txt) |
 | `2023-12-13` | [1582](https://www.leetcode.com/problems/special-positions-in-a-binary-matrix/) | Special Positions in a Binary Matrix | Array | [/source/Generator1582.py](/source/Generator1582.py) | [/generated/1582_Special_Positions_in_a_Binary_Matrix.txt](/generated/1582_Special_Positions_in_a_Binary_Matrix.txt) |
