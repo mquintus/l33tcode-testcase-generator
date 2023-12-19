@@ -5,6 +5,7 @@ Do you want to help me generalize and automate? Send me a pull request with a ch
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-12-19` | [661](https://www.leetcode.com/problems/image-smoother/) | Image Smoother | Array | [/source/Generator661.py](/source/Generator661.py) | [/generated/661_Image_Smoother.txt](/generated/661_Image_Smoother.txt) |
 | `2023-12-18` | [1913](https://www.leetcode.com/problems/maximum-product-difference-between-two-pairs/) | Maximum Product Difference Between Two Pairs | Array | [/source/Generator1913.py](/source/Generator1913.py) | [/generated/1913_Maximum_Product_Difference_Between_Two_Pairs.txt](/generated/1913_Maximum_Product_Difference_Between_Two_Pairs.txt) |
 | `2023-12-17` | [2353](https://www.leetcode.com/problems/design-a-food-rating-system/) | Design a Food Rating System | Hash Table | [/source/Generator2353.py](/source/Generator2353.py) | [/generated/2353_Design_a_Food_Rating_System.txt](/generated/2353_Design_a_Food_Rating_System.txt) |
 | `2023-12-16` | [242](https://www.leetcode.com/problems/valid-anagram/) | Valid Anagram | Hash Table | [/source/Generator242.py](/source/Generator242.py) | [/generated/242_Valid_Anagram.txt](/generated/242_Valid_Anagram.txt) |
