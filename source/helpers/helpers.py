@@ -1,29 +1,5 @@
 import random
 
-def generate_random_dag(num_nodes, num_edges, min_cost, max_cost):
-    edges = []
-    has_edge = {}
-    edge_count = 0
-    probability = 0.0
-
-    # Add edges randomly to create a DAG
-    while edge_count < num_edges:
-        probability += 0.2
-        for i in range(num_nodes):
-            for j in range(i + 1, num_nodes):
-                if (i,j) not in has_edge and random.random() < 0.2:  # Adjust the probability as needed
-                    has_edge[(i,j)] = True
-                    edge_count += 1
-                    cost = random.randint(min_cost, max_cost)
-                    edges.append([i, j, cost])
-                if edge_count == num_edges:
-                    edges.sort()
-                    return edges
-        if probability >= 1:
-            break
-    edges.sort()
-    return edges
-
 def get_unique_numbers(n, minVal):
     unique_numbers = list(range(minVal, minVal + n))
     random.shuffle(unique_numbers)
