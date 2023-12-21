@@ -1,22 +1,21 @@
 import random
+from source.helpers import matrix
 
 '''
 1637 - Widest Vertical Area Between Two Points Containing No Points
 '''
 def generate() -> str:
     tests = []
-    min_num = 2
-    max_num = 10**4
-    minval = -1000
-    maxval = 1000
+    min_width = 2
+    max_width = 10**5
+    minval = 0
+    maxval = 10**9
 
-    n = min_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
-    n = max_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
+    for height in [min_width, 20, 1000, max_width]:
+        for maxval_temp in [7, maxval // height]:
+            width = 2
+            mymatrix = matrix.get_matrix(height, width, minval, maxval_temp)
+            tests.append(mymatrix.__str__().replace(' ', ''))
+
     return '''
 '''.join(tests)
