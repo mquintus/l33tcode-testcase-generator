@@ -5,6 +5,7 @@ Do you want to help me generalize and automate? Send me a pull request with a ch
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-12-21` | [1637](https://www.leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | Widest Vertical Area Between Two Points Containing No Points | Array | [/source/Generator1637.py](/source/Generator1637.py) | [/generated/1637_Widest_Vertical_Area_Between_Two_Points_Containing_No_Points.txt](/generated/1637_Widest_Vertical_Area_Between_Two_Points_Containing_No_Points.txt) |
 | `2023-12-20` | [2706](https://www.leetcode.com/problems/buy-two-chocolates/) | Buy Two Chocolates | Array | [/source/Generator2706.py](/source/Generator2706.py) | [/generated/2706_Buy_Two_Chocolates.txt](/generated/2706_Buy_Two_Chocolates.txt) |
 | `2023-12-19` | [661](https://www.leetcode.com/problems/image-smoother/) | Image Smoother | Array | [/source/Generator661.py](/source/Generator661.py) | [/generated/661_Image_Smoother.txt](/generated/661_Image_Smoother.txt) |
 | `2023-12-18` | [1913](https://www.leetcode.com/problems/maximum-product-difference-between-two-pairs/) | Maximum Product Difference Between Two Pairs | Array | [/source/Generator1913.py](/source/Generator1913.py) | [/generated/1913_Maximum_Product_Difference_Between_Two_Pairs.txt](/generated/1913_Maximum_Product_Difference_Between_Two_Pairs.txt) |
