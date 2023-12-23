@@ -5,6 +5,7 @@ Do you want to help me generalize and automate? Send me a pull request with a ch
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-12-23` | [1496](https://www.leetcode.com/problems/path-crossing/) | Path Crossing | Hash Table | [/source/Generator1496.py](/source/Generator1496.py) | [/generated/1496_Path_Crossing.txt](/generated/1496_Path_Crossing.txt) |
 | `2023-12-22` | [1422](https://www.leetcode.com/problems/maximum-score-after-splitting-a-string/) | Maximum Score After Splitting a String | String | [/source/Generator1422.py](/source/Generator1422.py) | [/generated/1422_Maximum_Score_After_Splitting_a_String.txt](/generated/1422_Maximum_Score_After_Splitting_a_String.txt) |
 | `2023-12-21` | [1637](https://www.leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | Widest Vertical Area Between Two Points Containing No Points | Array | [/source/Generator1637.py](/source/Generator1637.py) | [/generated/1637_Widest_Vertical_Area_Between_Two_Points_Containing_No_Points.txt](/generated/1637_Widest_Vertical_Area_Between_Two_Points_Containing_No_Points.txt) |
 | `2023-12-20` | [2706](https://www.leetcode.com/problems/buy-two-chocolates/) | Buy Two Chocolates | Array | [/source/Generator2706.py](/source/Generator2706.py) | [/generated/2706_Buy_Two_Chocolates.txt](/generated/2706_Buy_Two_Chocolates.txt) |
