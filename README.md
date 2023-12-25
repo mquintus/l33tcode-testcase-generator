@@ -5,6 +5,7 @@ Do you want to help me generalize and automate? Send me a pull request with a ch
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-12-25` | [91](https://www.leetcode.com/problems/decode-ways/) | Decode Ways | String | [/source/Generator91.py](/source/Generator91.py) | [/generated/91_Decode_Ways.txt](/generated/91_Decode_Ways.txt) |
 | `2023-12-24` | [1758](https://www.leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | Minimum Changes To Make Alternating Binary String | String | [/source/Generator1758.py](/source/Generator1758.py) | [/generated/1758_Minimum_Changes_To_Make_Alternating_Binary_String.txt](/generated/1758_Minimum_Changes_To_Make_Alternating_Binary_String.txt) |
 | `2023-12-23` | [1496](https://www.leetcode.com/problems/path-crossing/) | Path Crossing | Hash Table | [/source/Generator1496.py](/source/Generator1496.py) | [/generated/1496_Path_Crossing.txt](/generated/1496_Path_Crossing.txt) |
 | `2023-12-22` | [1422](https://www.leetcode.com/problems/maximum-score-after-splitting-a-string/) | Maximum Score After Splitting a String | String | [/source/Generator1422.py](/source/Generator1422.py) | [/generated/1422_Maximum_Score_After_Splitting_a_String.txt](/generated/1422_Maximum_Score_After_Splitting_a_String.txt) |
