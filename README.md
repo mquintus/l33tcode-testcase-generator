@@ -5,6 +5,7 @@ Do you want to help me generalize and automate? Send me a pull request with a ch
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2023-12-27` | [1578](https://www.leetcode.com/problems/minimum-time-to-make-rope-colorful/) | Minimum Time to Make Rope Colorful | Array | [/source/Generator1578.py](/source/Generator1578.py) | [/generated/1578_Minimum_Time_to_Make_Rope_Colorful.txt](/generated/1578_Minimum_Time_to_Make_Rope_Colorful.txt) |
 | `2023-12-26` | [1155](https://www.leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | Number of Dice Rolls With Target Sum | Dynamic Programming | [/source/Generator1155.py](/source/Generator1155.py) | [/generated/1155_Number_of_Dice_Rolls_With_Target_Sum.txt](/generated/1155_Number_of_Dice_Rolls_With_Target_Sum.txt) |
 | `2023-12-25` | [91](https://www.leetcode.com/problems/decode-ways/) | Decode Ways | String | [/source/Generator91.py](/source/Generator91.py) | [/generated/91_Decode_Ways.txt](/generated/91_Decode_Ways.txt) |
 | `2023-12-24` | [1758](https://www.leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | Minimum Changes To Make Alternating Binary String | String | [/source/Generator1758.py](/source/Generator1758.py) | [/generated/1758_Minimum_Changes_To_Make_Alternating_Binary_String.txt](/generated/1758_Minimum_Changes_To_Make_Alternating_Binary_String.txt) |
