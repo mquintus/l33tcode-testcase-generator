@@ -63,3 +63,9 @@ def generate() -> str:
 
     return '''
 '''.join(tests)
+
+
+
+
+if __name__ == '__main__':
+    print(generate())
