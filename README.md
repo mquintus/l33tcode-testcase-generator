@@ -5,6 +5,7 @@ Do you want to help me generalize and automate? Send me a pull request with a ch
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-01-01` | [455](https://www.leetcode.com/problems/assign-cookies/) | Assign Cookies | Array | [/source/Generator455.py](/source/Generator455.py) | [/generated/455_Assign_Cookies.txt](/generated/455_Assign_Cookies.txt) |
 | `2023-12-31` | [1624](https://www.leetcode.com/problems/largest-substring-between-two-equal-characters/) | Largest Substring Between Two Equal Characters | Hash Table | [/source/Generator1624.py](/source/Generator1624.py) | [/generated/1624_Largest_Substring_Between_Two_Equal_Characters.txt](/generated/1624_Largest_Substring_Between_Two_Equal_Characters.txt) |
 | `2023-12-30` | [1897](https://www.leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | Redistribute Characters to Make All Strings Equal | Hash Table | [/source/Generator1897.py](/source/Generator1897.py) | [/generated/1897_Redistribute_Characters_to_Make_All_Strings_Equal.txt](/generated/1897_Redistribute_Characters_to_Make_All_Strings_Equal.txt) |
 | `2023-12-29` | [1335](https://www.leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | Minimum Difficulty of a Job Schedule | Array | [/source/Generator1335.py](/source/Generator1335.py) | [/generated/1335_Minimum_Difficulty_of_a_Job_Schedule.txt](/generated/1335_Minimum_Difficulty_of_a_Job_Schedule.txt) |
