@@ -5,6 +5,7 @@ Do you want to help me generalize and automate? Send me a pull request with a ch
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-01-03` | [2125](https://www.leetcode.com/problems/number-of-laser-beams-in-a-bank/) | Number of Laser Beams in a Bank | Array | [/source/Generator2125.py](/source/Generator2125.py) | [/generated/2125_Number_of_Laser_Beams_in_a_Bank.txt](/generated/2125_Number_of_Laser_Beams_in_a_Bank.txt) |
 | `2024-01-02` | [2610](https://www.leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | Convert an Array Into a 2D Array With Conditions | Array | [/source/Generator2610.py](/source/Generator2610.py) | [/generated/2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.txt](/generated/2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.txt) |
 | `2024-01-01` | [455](https://www.leetcode.com/problems/assign-cookies/) | Assign Cookies | Array | [/source/Generator455.py](/source/Generator455.py) | [/generated/455_Assign_Cookies.txt](/generated/455_Assign_Cookies.txt) |
 | `2023-12-31` | [1624](https://www.leetcode.com/problems/largest-substring-between-two-equal-characters/) | Largest Substring Between Two Equal Characters | Hash Table | [/source/Generator1624.py](/source/Generator1624.py) | [/generated/1624_Largest_Substring_Between_Two_Equal_Characters.txt](/generated/1624_Largest_Substring_Between_Two_Equal_Characters.txt) |
