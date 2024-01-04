@@ -6,17 +6,28 @@ import random
 def generate() -> str:
     tests = []
     min_num = 2
-    max_num = 10**4
-    minval = -1000
-    maxval = 1000
+    max_num = 10**5
+    minval = 1
 
-    n = min_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
-    n = max_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
+    for n in [min_num, 100, 10000, max_num]:
+        maxval = n // 2
+        test = []
+        while len(test) < n:
+            multiplier = random.randint(2, n)
+            multiplier = min(multiplier, n - len(test))
+            multiplier = max(multiplier, 1)
+            #print(multiplier)
+            test.extend([random.randint(minval, maxval)] * multiplier)
+        tests.append(test.__str__().replace(' ', ''))
+
+        test = []
+        while len(test) < n - 1:
+            multiplier = random.randint(2, n)
+            multiplier = min(multiplier, n - len(test) - 1)
+            multiplier = max(multiplier, 1)
+            test.extend([random.randint(minval, maxval)] * multiplier)
+        test.append(maxval + 1)
+        tests.append(test.__str__().replace(' ', ''))
+
     return '''
 '''.join(tests)
