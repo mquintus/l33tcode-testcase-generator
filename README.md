@@ -5,6 +5,7 @@ Do you want to help me generalize and automate? Send me a pull request with a ch
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-01-06` | [1235](https://www.leetcode.com/problems/maximum-profit-in-job-scheduling/) | Maximum Profit in Job Scheduling | Array | [/source/Generator1235.py](/source/Generator1235.py) | [/generated/1235_Maximum_Profit_in_Job_Scheduling.txt](/generated/1235_Maximum_Profit_in_Job_Scheduling.txt) |
 | `2024-01-05` | [300](https://www.leetcode.com/problems/longest-increasing-subsequence/) | Longest Increasing Subsequence | Array | [/source/Generator300.py](/source/Generator300.py) | [/generated/300_Longest_Increasing_Subsequence.txt](/generated/300_Longest_Increasing_Subsequence.txt) |
 | `2024-01-04` | [2870](https://www.leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) | Minimum Number of Operations to Make Array Empty | Array | [/source/Generator2870.py](/source/Generator2870.py) | [/generated/2870_Minimum_Number_of_Operations_to_Make_Array_Empty.txt](/generated/2870_Minimum_Number_of_Operations_to_Make_Array_Empty.txt) |
 | `2024-01-03` | [2125](https://www.leetcode.com/problems/number-of-laser-beams-in-a-bank/) | Number of Laser Beams in a Bank | Array | [/source/Generator2125.py](/source/Generator2125.py) | [/generated/2125_Number_of_Laser_Beams_in_a_Bank.txt](/generated/2125_Number_of_Laser_Beams_in_a_Bank.txt) |
