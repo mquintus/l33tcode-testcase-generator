@@ -634,566 +634,576 @@ def main(challenge_id=-1):
         tests = "\n".join(tests)
 
     if int(challenge_id) == 1218:
-        from . import Generator1218
+        from source import Generator1218
         tests = Generator1218.generate()
 
     if int(challenge_id) == 1751:
-        from . import Generator1751
+        from source import Generator1751
         tests = Generator1751.generate()
 
     if int(challenge_id) == 735:
-        from . import Generator735
+        from source import Generator735
         tests = Generator735.generate()
 
     if int(challenge_id) == 673:
-        from . import Generator673
+        from source import Generator673
         tests = Generator673.generate()
 
     if int(challenge_id) == 1870:
-        from . import Generator1870
+        from source import Generator1870
         tests = Generator1870.generate()
 
     if int(challenge_id) == 712:
-        from . import Generator712
+        from source import Generator712
         tests = Generator712.generate()
 
     if int(challenge_id) == 139:
-        from . import Generator139
+        from source import Generator139
         tests = Generator139.generate()
 
     if int(challenge_id) == 33:
-        from . import Generator33
+        from source import Generator33
         tests = Generator33.generate()
 
     if int(challenge_id) == 63:
-        from . import Generator63
+        from source import Generator63
         tests = Generator63.generate()
 
     if int(challenge_id) == 2369:
-        from . import Generator2369
+        from source import Generator2369
         tests = Generator2369.generate()
 
     if int(challenge_id) == 239:
-        from . import Generator239
+        from source import Generator239
         tests = Generator239.generate()
 
     if int(challenge_id) == 1615:
-        from . import Generator1615
+        from source import Generator1615
         tests = Generator1615.generate()
 
     if int(challenge_id) == 1489:
-        from . import Generator1489
+        from source import Generator1489
         tests = Generator1489.generate()
 
     if int(challenge_id) == 1203:
-        from . import Generator1203
+        from source import Generator1203
         tests = Generator1203.generate()
 
     if int(challenge_id) == 459:
-        from . import Generator459
+        from source import Generator459
         tests = Generator459.generate()
 
     if int(challenge_id) == 97:
-        from . import Generator97
+        from source import Generator97
         tests = Generator97.generate()
 
     if int(challenge_id) == 403:
-        from . import Generator403
+        from source import Generator403
         tests = Generator403.generate()
 
     if int(challenge_id) == 1326:
-        from . import Generator1326
+        from source import Generator1326
         tests = Generator1326.generate()
 
     if int(challenge_id) == 2707:
-        from . import Generator2707
+        from source import Generator2707
         tests = Generator2707.generate()
 
     if int(challenge_id) == 1376:
-        from . import Generator1376
+        from source import Generator1376
         tests = Generator1376.generate()
 
     if int(challenge_id) == 1282:
-        from . import Generator1282
+        from source import Generator1282
         tests = Generator1282.generate()
 
     if int(challenge_id) == 1647:
-        from . import Generator1647
+        from source import Generator1647
         tests = Generator1647.generate()
 
     if int(challenge_id) == 135:
-        from . import Generator135
+        from source import Generator135
         tests = Generator135.generate()
 
     if int(challenge_id) == 332:
-        from . import Generator332
+        from source import Generator332
         tests = Generator332.generate()
 
     if int(challenge_id) == 1584:
-        from . import Generator1584
+        from source import Generator1584
         tests = Generator1584.generate()
 
     if int(challenge_id) == 1631:
-        from . import Generator1631
+        from source import Generator1631
         tests = Generator1631.generate()
 
     if int(challenge_id) == 847:
-        from . import Generator847
+        from source import Generator847
         tests = Generator847.generate()
 
     if int(challenge_id) == 1337:
-        from . import Generator1337
+        from source import Generator1337
         tests = Generator1337.generate()
 
     if int(challenge_id) == 287:
-        from . import Generator287
+        from source import Generator287
         tests = Generator287.generate()
 
     if int(challenge_id) == 287:
-        from . import Generator287
+        from source import Generator287
         tests = Generator287.generate()
 
     if int(challenge_id) == 1658:
-        from . import Generator1658
+        from source import Generator1658
         tests = Generator1658.generate()
 
     if int(challenge_id) == 4:
-        from . import Generator4
+        from source import Generator4
         tests = Generator4.generate()
 
     if int(challenge_id) == 392:
-        from . import Generator392
+        from source import Generator392
         tests = Generator392.generate()
 
     if int(challenge_id) == 1048:
-        from . import Generator1048
+        from source import Generator1048
         tests = Generator1048.generate()
 
     if int(challenge_id) == 799:
-        from . import Generator799
+        from source import Generator799
         tests = Generator799.generate()
 
     if int(challenge_id) == 389:
-        from . import Generator389
+        from source import Generator389
         tests = Generator389.generate()
 
     if int(challenge_id) == 316:
-        from . import Generator316
+        from source import Generator316
         tests = Generator316.generate()
 
     if int(challenge_id) == 880:
-        from . import Generator880
+        from source import Generator880
         tests = Generator880.generate()
 
     if int(challenge_id) == 905:
-        from . import Generator905
+        from source import Generator905
         tests = Generator905.generate()
 
     if int(challenge_id) == 896:
-        from . import Generator896
+        from source import Generator896
         tests = Generator896.generate()
 
     if int(challenge_id) == 456:
-        from . import Generator456
+        from source import Generator456
         tests = Generator456.generate()
 
     if int(challenge_id) == 557:
-        from . import Generator557
+        from source import Generator557
         tests = Generator557.generate()
 
     if int(challenge_id) == 2038:
-        from . import Generator2038
+        from source import Generator2038
         tests = Generator2038.generate()
 
     if int(challenge_id) == 1512:
-        from . import Generator1512
+        from source import Generator1512
         tests = Generator1512.generate()
 
     if int(challenge_id) == 706:
-        from . import Generator706
+        from source import Generator706
         tests = Generator706.generate()
 
     if int(challenge_id) == 229:
-        from . import Generator229
+        from source import Generator229
         tests = Generator229.generate()
 
     if int(challenge_id) == 343:
-        from . import Generator343
+        from source import Generator343
         tests = Generator343.generate()
 
     if int(challenge_id) == 1420:
-        from . import Generator1420
+        from source import Generator1420
         tests = Generator1420.generate()
 
     if int(challenge_id) == 1458:
-        from . import Generator1458
+        from source import Generator1458
         tests = Generator1458.generate()
 
     if int(challenge_id) == 34:
-        from . import Generator34
+        from source import Generator34
         tests = Generator34.generate()
 
     if int(challenge_id) == 2009:
-        from . import Generator2009
+        from source import Generator2009
         tests = Generator2009.generate()
 
     if int(challenge_id) == 2251:
-        from . import Generator2251
+        from source import Generator2251
         tests = Generator2251.generate()
 
     if int(challenge_id) == 1095:
-        from . import Generator1095
+        from source import Generator1095
         tests = Generator1095.generate()
 
     if int(challenge_id) == 746:
-        from . import Generator746
+        from source import Generator746
         tests = Generator746.generate()
 
     if int(challenge_id) == 2742:
-        from . import Generator2742
+        from source import Generator2742
         tests = Generator2742.generate()
 
     if int(challenge_id) == 1269:
-        from . import Generator1269
+        from source import Generator1269
         tests = Generator1269.generate()
 
     if int(challenge_id) == 119:
-        from . import Generator119
+        from source import Generator119
         tests = Generator119.generate()
 
     if int(challenge_id) == 1361:
-        from . import Generator1361
+        from source import Generator1361
         tests = Generator1361.generate()
 
     if int(challenge_id) == 2050:
-        from . import Generator2050
+        from source import Generator2050
         tests = Generator2050.generate()
 
     if int(challenge_id) == 844:
-        from . import Generator844
+        from source import Generator844
         tests = Generator844.generate()
 
     if int(challenge_id) == 341:
-        from . import Generator341
+        from source import Generator341
         tests = Generator341.generate()
 
     if int(challenge_id) == 1425:
-        from . import Generator1425
+        from source import Generator1425
         tests = Generator1425.generate()
 
     if int(challenge_id) == 1793:
-        from . import Generator1793
+        from source import Generator1793
         tests = Generator1793.generate()
 
     if int(challenge_id) == 342:
-        from . import Generator342
+        from source import Generator342
         tests = Generator342.generate()
 
     if int(challenge_id) == 515:
-        from . import Generator515
+        from source import Generator515
         tests = Generator515.generate()
 
     if int(challenge_id) == 779:
-        from . import Generator779
+        from source import Generator779
         tests = Generator779.generate()
 
     if int(challenge_id) == 823:
-        from . import Generator823
+        from source import Generator823
         tests = Generator823.generate()
 
     if int(challenge_id) == 5:
-        from . import Generator5
+        from source import Generator5
         tests = Generator5.generate()
 
     if int(challenge_id) == 1220:
-        from . import Generator1220
+        from source import Generator1220
         tests = Generator1220.generate()
 
     if int(challenge_id) == 458:
-        from . import Generator458
+        from source import Generator458
         tests = Generator458.generate()
 
     if int(challenge_id) == 1356:
-        from . import Generator1356
+        from source import Generator1356
         tests = Generator1356.generate()
 
     if int(challenge_id) == 2433:
-        from . import Generator2433
+        from source import Generator2433
         tests = Generator2433.generate()
 
     if int(challenge_id) == 501:
-        from . import Generator501
+        from source import Generator501
         tests = Generator501.generate()
 
     if int(challenge_id) == 2265:
-        from . import Generator2265
+        from source import Generator2265
         tests = Generator2265.generate()
 
     if int(challenge_id) == 1441:
-        from . import Generator1441
+        from source import Generator1441
         tests = Generator1441.generate()
 
     if int(challenge_id) == 1503:
-        from . import Generator1503
+        from source import Generator1503
         tests = Generator1503.generate()
 
     if int(challenge_id) == 1535:
-        from . import Generator1535
+        from source import Generator1535
         tests = Generator1535.generate()
 
     if int(challenge_id) == 1845:
-        from . import Generator1845
+        from source import Generator1845
         tests = Generator1845.generate()
 
     if int(challenge_id) == 1921:
-        from . import Generator1921
+        from source import Generator1921
         tests = Generator1921.generate()
 
     if int(challenge_id) == 2849:
-        from . import Generator2849
+        from source import Generator2849
         tests = Generator2849.generate()
 
     if int(challenge_id) == 1759:
-        from . import Generator1759
+        from source import Generator1759
         tests = Generator1759.generate()
 
     if int(challenge_id) == 1743:
-        from . import Generator1743
+        from source import Generator1743
         tests = Generator1743.generate()
 
     if int(challenge_id) == 2642:
-        from . import Generator2642
+        from source import Generator2642
         tests = Generator2642.generate()
 
     if int(challenge_id) == 815:
-        from . import Generator815
+        from source import Generator815
         tests = Generator815.generate()
 
     if int(challenge_id) == 2785:
-        from . import Generator2785
+        from source import Generator2785
         tests = Generator2785.generate()
 
     if int(challenge_id) == 1930:
-        from . import Generator1930
+        from source import Generator1930
         tests = Generator1930.generate()
 
     if int(challenge_id) == 1846:
-        from . import Generator1846
+        from source import Generator1846
         tests = Generator1846.generate()
 
     if int(challenge_id) == 1980:
-        from . import Generator1980
+        from source import Generator1980
         tests = Generator1980.generate()
 
     if int(challenge_id) == 1877:
-        from . import Generator1877
+        from source import Generator1877
         tests = Generator1877.generate()
 
     if int(challenge_id) == 1838:
-        from . import Generator1838
+        from source import Generator1838
         tests = Generator1838.generate()
 
     if int(challenge_id) == 1887:
-        from . import Generator1887
+        from source import Generator1887
         tests = Generator1887.generate()
 
     if int(challenge_id) == 2391:
-        from . import Generator2391
+        from source import Generator2391
         tests = Generator2391.generate()
 
     if int(challenge_id) == 1814:
-        from . import Generator1814
+        from source import Generator1814
         tests = Generator1814.generate()
 
     if int(challenge_id) == 1424:
-        from . import Generator1424
+        from source import Generator1424
         tests = Generator1424.generate()
 
     if int(challenge_id) == 1630:
-        from . import Generator1630
+        from source import Generator1630
         tests = Generator1630.generate()
 
     if int(challenge_id) == 1561:
-        from . import Generator1561
+        from source import Generator1561
         tests = Generator1561.generate()
 
     if int(challenge_id) == 1685:
-        from . import Generator1685
+        from source import Generator1685
         tests = Generator1685.generate()
 
     if int(challenge_id) == 1727:
-        from . import Generator1727
+        from source import Generator1727
         tests = Generator1727.generate()
 
     if int(challenge_id) == 935:
-        from . import Generator935
+        from source import Generator935
         tests = Generator935.generate()
 
     if int(challenge_id) == 2147:
-        from . import Generator2147
+        from source import Generator2147
         tests = Generator2147.generate()
 
     if int(challenge_id) == 191:
-        from . import Generator191
+        from source import Generator191
         tests = Generator191.generate()
 
     if int(challenge_id) == 1611:
-        from . import Generator1611
+        from source import Generator1611
         tests = Generator1611.generate()
 
     if int(challenge_id) == 1662:
-        from . import Generator1662
+        from source import Generator1662
         tests = Generator1662.generate()
 
     if int(challenge_id) == 1160:
-        from . import Generator1160
+        from source import Generator1160
         tests = Generator1160.generate()
 
     if int(challenge_id) == 1266:
-        from . import Generator1266
+        from source import Generator1266
         tests = Generator1266.generate()
 
     if int(challenge_id) == 2264:
-        from . import Generator2264
+        from source import Generator2264
         tests = Generator2264.generate()
 
     if int(challenge_id) == 1688:
-        from . import Generator1688
+        from source import Generator1688
         tests = Generator1688.generate()
 
     if int(challenge_id) == 1716:
-        from . import Generator1716
+        from source import Generator1716
         tests = Generator1716.generate()
 
     if int(challenge_id) == 1903:
-        from . import Generator1903
+        from source import Generator1903
         tests = Generator1903.generate()
 
     if int(challenge_id) == 606:
-        from . import Generator606
+        from source import Generator606
         tests = Generator606.generate()
 
     if int(challenge_id) == 94:
-        from . import Generator94
+        from source import Generator94
         tests = Generator94.generate()
 
     if int(challenge_id) == 867:
-        from . import Generator867
+        from source import Generator867
         tests = Generator867.generate()
 
     if int(challenge_id) == 1287:
-        from . import Generator1287
+        from source import Generator1287
         tests = Generator1287.generate()
 
     if int(challenge_id) == 1464:
-        from . import Generator1464
+        from source import Generator1464
         tests = Generator1464.generate()
 
     if int(challenge_id) == 1582:
-        from . import Generator1582
+        from source import Generator1582
         tests = Generator1582.generate()
 
     if int(challenge_id) == 2482:
-        from . import Generator2482
+        from source import Generator2482
         tests = Generator2482.generate()
 
     if int(challenge_id) == 1436:
-        from . import Generator1436
+        from source import Generator1436
         tests = Generator1436.generate()
 
     if int(challenge_id) == 242:
-        from . import Generator242
+        from source import Generator242
         tests = Generator242.generate()
 
     if int(challenge_id) == 2353:
-        from . import Generator2353
+        from source import Generator2353
         tests = Generator2353.generate()
 
     if int(challenge_id) == 1913:
-        from . import Generator1913
+        from source import Generator1913
         tests = Generator1913.generate()
 
     if int(challenge_id) == 661:
-        from . import Generator661
+        from source import Generator661
         tests = Generator661.generate()
 
     if int(challenge_id) == 2706:
-        from . import Generator2706
+        from source import Generator2706
         tests = Generator2706.generate()
 
     if int(challenge_id) == 1637:
-        from . import Generator1637
+        from source import Generator1637
         tests = Generator1637.generate()
 
     if int(challenge_id) == 1422:
-        from . import Generator1422
+        from source import Generator1422
         tests = Generator1422.generate()
 
     if int(challenge_id) == 1496:
-        from . import Generator1496
+        from source import Generator1496
         tests = Generator1496.generate()
 
     if int(challenge_id) == 1758:
-        from . import Generator1758
+        from source import Generator1758
         tests = Generator1758.generate()
 
     if int(challenge_id) == 91:
-        from . import Generator91
+        from source import Generator91
         tests = Generator91.generate()
 
     if int(challenge_id) == 1155:
-        from . import Generator1155
+        from source import Generator1155
         tests = Generator1155.generate()
 
     if int(challenge_id) == 1578:
-        from . import Generator1578
+        from source import Generator1578
         tests = Generator1578.generate()
 
     if int(challenge_id) == 1335:
-        from . import Generator1335
+        from source import Generator1335
         tests = Generator1335.generate()
 
     if int(challenge_id) == 1897:
-        from . import Generator1897
+        from source import Generator1897
         tests = Generator1897.generate()
 
     if int(challenge_id) == 1624:
-        from . import Generator1624
+        from source import Generator1624
         tests = Generator1624.generate()
 
     if int(challenge_id) == 455:
-        from . import Generator455
+        from source import Generator455
         tests = Generator455.generate()
 
     if int(challenge_id) == 2610:
-        from . import Generator2610
+        from source import Generator2610
         tests = Generator2610.generate()
 
     if int(challenge_id) == 2125:
-        from . import Generator2125
+        from source import Generator2125
         tests = Generator2125.generate()
 
     if int(challenge_id) == 2870:
-        from . import Generator2870
+        from source import Generator2870
         tests = Generator2870.generate()
 
     if int(challenge_id) == 300:
-        from . import Generator300
+        from source import Generator300
         tests = Generator300.generate()
 
     if int(challenge_id) == 1235:
-        from . import Generator1235
+        from source import Generator1235
         tests = Generator1235.generate()
 
     if int(challenge_id) == 446:
-        from . import Generator446
+        from source import Generator446
         tests = Generator446.generate()
 
     if int(challenge_id) == 938:
-        from . import Generator938
+        from source import Generator938
         tests = Generator938.generate()
 
     # insert next challenge import here
 
     date = time.time()
-    write_file(f"testcase_{challenge_id}_{int(date)}.txt", tests)
+    filename = f"testcase_{challenge_id}_{int(date)}.txt"
+    write_file(filename, tests)
+    return filename
+
+if __name__ == "__main__":
+    import argparse
+    parser = argparse.ArgumentParser(description="Generate testcases for a challenge")
+    parser.add_argument("challenge_id", nargs='?', help="The challenge id", default=-1, type=int)
+    args = parser.parse_args()
+    filename = main(args.challenge_id)
+    print("Testcases written to", filename)
