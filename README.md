@@ -5,6 +5,7 @@ Do you want to help me generalize and automate? Send me a pull request with a ch
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-01-08` | [938](https://www.leetcode.com/problems/range-sum-of-bst/) | Range Sum of BST | Tree | [/source/Generator938.py](/source/Generator938.py) | [/generated/938_Range_Sum_of_BST.txt](/generated/938_Range_Sum_of_BST.txt) |
 | `2024-01-07` | [446](https://www.leetcode.com/problems/arithmetic-slices-ii-subsequence/) | Arithmetic Slices II - Subsequence | Array | [/source/Generator446.py](/source/Generator446.py) | [/generated/446_Arithmetic_Slices_II_-_Subsequence.txt](/generated/446_Arithmetic_Slices_II_-_Subsequence.txt) |
 | `2024-01-06` | [1235](https://www.leetcode.com/problems/maximum-profit-in-job-scheduling/) | Maximum Profit in Job Scheduling | Array | [/source/Generator1235.py](/source/Generator1235.py) | [/generated/1235_Maximum_Profit_in_Job_Scheduling.txt](/generated/1235_Maximum_Profit_in_Job_Scheduling.txt) |
 | `2024-01-05` | [300](https://www.leetcode.com/problems/longest-increasing-subsequence/) | Longest Increasing Subsequence | Array | [/source/Generator300.py](/source/Generator300.py) | [/generated/300_Longest_Increasing_Subsequence.txt](/generated/300_Longest_Increasing_Subsequence.txt) |
