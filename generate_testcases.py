@@ -1200,7 +1200,7 @@ def main(challenge_id=-1):
         tests = Generator872.generate()
 
     if int(challenge_id) == 2385:
-        from . import Generator2385
+        from source import Generator2385
         tests = Generator2385.generate()
 
     # insert next challenge import here
