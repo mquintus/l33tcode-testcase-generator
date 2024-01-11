@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-01-11` | [1026](https://www.leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | Maximum Difference Between Node and Ancestor | Tree | [/source/Generator1026.py](/source/Generator1026.py) | [/generated/1026_Maximum_Difference_Between_Node_and_Ancestor.txt](/generated/1026_Maximum_Difference_Between_Node_and_Ancestor.txt) |
 | `2024-01-10` | [2385](https://www.leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | Amount of Time for Binary Tree to Be Infected | Tree | [/source/Generator2385.py](/source/Generator2385.py) | [/generated/2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected.txt](/generated/2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected.txt) |
 | `2024-01-09` | [872](https://www.leetcode.com/problems/leaf-similar-trees/) | Leaf-Similar Trees | Tree | [/source/Generator872.py](/source/Generator872.py) | [/generated/872_Leaf-Similar_Trees.txt](/generated/872_Leaf-Similar_Trees.txt) |
 | `2024-01-08` | [938](https://www.leetcode.com/problems/range-sum-of-bst/) | Range Sum of BST | Tree | [/source/Generator938.py](/source/Generator938.py) | [/generated/938_Range_Sum_of_BST.txt](/generated/938_Range_Sum_of_BST.txt) |
