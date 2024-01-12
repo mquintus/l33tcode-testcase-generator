@@ -6,17 +6,14 @@ import random
 def generate() -> str:
     tests = []
     min_num = 2
-    max_num = 10**4
-    minval = -1000
-    maxval = 1000
+    max_num = 1000
+    alphabet = ""
+    for char in range(ord('a'), ord('z')+1):
+        alphabet += chr(char)
+        alphabet += chr(char).upper()
 
-    n = min_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
-    n = max_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
-    return '''
-'''.join(tests)
+    for n in [min_num, 100, 200, 300, 400, 500, 800, max_num]:
+        test = "".join([random.choice(alphabet) for _ in range(n)])
+        tests.append(f'"{test}"')
+
+    return "\n".join(tests)
