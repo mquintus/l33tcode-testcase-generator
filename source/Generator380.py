@@ -26,9 +26,15 @@ def generate() -> str:
                 value = random.randint(1, 10)
             existing_values.add(value)
             test_line2.append([value])
+            # Do it twice so the second time it fails.
+            test_line1.append(action)
+            test_line2.append([value])
         elif action == 'remove':
             value = random.choice(list(existing_values))
             existing_values.remove(value)
+            test_line2.append([value])
+            # Do it twice so the second time it fails.
+            test_line1.append(action)
             test_line2.append([value])
         else:
             test_line2.append([])
@@ -54,10 +60,18 @@ def generate() -> str:
             value = max(min_value, min(max_value, value))
             existing_values.add(value)
             test_line2.append([value])
+
+            # Do it twice so the second time it fails.
+            if random.random() < 0.1:
+                test_line1.append(action)
+                test_line2.append([value])
         elif action == 'remove':
             value = random.choice(list(existing_values))
             existing_values.remove(value)
             test_line2.append([value])
+            if random.random() < 0.1:
+                test_line1.append(action)
+                test_line2.append([value])
         else:
             test_line2.append([])
     test = (test_line1.__str__() + "\n" + test_line2.__str__()).replace("'", '"').replace(" ", "")
@@ -84,10 +98,16 @@ def generate() -> str:
             value = max(min_value, min(max_value, value))
             existing_values.add(value)
             test_line2.append([value])
+            if random.random() < 0.1:
+                test_line1.append(action)
+                test_line2.append([value])
         elif action == 'remove':
             value = random.choice(list(existing_values))
             existing_values.remove(value)
             test_line2.append([value])
+            if random.random() < 0.1:
+                test_line1.append(action)
+                test_line2.append([value])
         else:
             test_line2.append([])
 
@@ -114,9 +134,15 @@ def generate() -> str:
             value = max(min_value, min(max_value, value))
             existing_values.append(value)
             test_line2.append([value])
+            if random.random() < 0.1:
+                test_line1.append(action)
+                test_line2.append([value])
         elif action == 'remove':
             value = existing_values.pop(0)
             test_line2.append([value])
+            if random.random() < 0.1:
+                test_line1.append(action)
+                test_line2.append([value])
         else:
             test_line2.append([])
     test = (test_line1.__str__() + "\n" + test_line2.__str__()).replace("'", '"').replace(" ", "")
@@ -142,9 +168,15 @@ def generate() -> str:
             value = max(min_value, min(max_value, value))
             existing_values.append(value)
             test_line2.append([value])
+            if random.random() < 0.1:
+                test_line1.append(action)
+                test_line2.append([value])
         elif action == 'remove':
             value = existing_values.pop()
             test_line2.append([value])
+            if random.random() < 0.1:
+                test_line1.append(action)
+                test_line2.append([value])
         else:
             test_line2.append([])
 
@@ -171,9 +203,16 @@ def generate() -> str:
             value = max(min_value, min(max_value, value))
             existing_values.append(value)
             test_line2.append([value])
+            if random.random() < 0.1:
+                test_line1.append(action)
+                test_line2.append([value])
         elif action == 'remove':
             value = existing_values.pop((i) % len(existing_values))
             test_line2.append([value])
+            if random.random() < 0.1:
+                # Delete another random number that (probably) doesn't exist.
+                test_line1.append(action)
+                test_line2.append([random.randint(min_value, max_value)])
         else:
             test_line2.append([])
     test = (test_line1.__str__() + "\n" + test_line2.__str__()).replace("'", '"').replace(" ", "")
@@ -199,17 +238,24 @@ def generate() -> str:
             existing_values.append(value)
             test_line2.append([value])
             j += 1
+            if random.random() < 0.1:
+                test_line1.append(action)
+                test_line2.append([value])
         elif action == 'remove':
             value = existing_values.pop(0)
             test_line2.append([value])
+            # Delete another random number that (probably) doesn't exist.
+            if random.random() < 0.1:
+                test_line1.append(action)
+                test_line2.append([random.randint(min_value, max_value)])
         else:
             test_line2.append([])
     test = (test_line1.__str__() + "\n" + test_line2.__str__()).replace("'", '"').replace(" ", "")
     tests.append(test)
 
 
-    n = 300
-    # TC 7 - 300 * Random Action out of 3
+    n = 10**5
+    # TC 7 - n * Random Action out of 3
     test_line1 = ['RandomizedSet']
     test_line2 = [[]]
     existing_values = set()
@@ -226,10 +272,19 @@ def generate() -> str:
             value = max(min_value, min(max_value, value))
             existing_values.add(value)
             test_line2.append([value])
+            if random.random() < 0.1:
+                test_line1.append(action)
+                test_line2.append([value])
         elif action == 'remove':
             value = random.choice(list(existing_values))
             existing_values.remove(value)
             test_line2.append([value])
+            if random.random() < 0.1:
+                test_line1.append(action)
+                test_line2.append([value])
+            elif random.random() < 0.1:
+                test_line1.append(action)
+                test_line2.append([random.randint(min_value, max_value)])
         else:
             test_line2.append([])
     test = (test_line1.__str__() + "\n" + test_line2.__str__()).replace("'", '"').replace(" ", "")
