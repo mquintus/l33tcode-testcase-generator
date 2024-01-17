@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-01-17` | [1207](https://www.leetcode.com/problems/unique-number-of-occurrences/) | Unique Number of Occurrences | Array | [/source/Generator1207.py](/source/Generator1207.py) | [/generated/1207_Unique_Number_of_Occurrences.txt](/generated/1207_Unique_Number_of_Occurrences.txt) |
 | `2024-01-16` | [380](https://www.leetcode.com/problems/insert-delete-getrandom-o1/) | Insert Delete GetRandom O(1) | Array | [/source/Generator380.py](/source/Generator380.py) | [/generated/380_Insert_Delete_GetRandom_O(1).txt](/generated/380_Insert_Delete_GetRandom_O(1).txt) |
 | `2024-01-15` | [2225](https://www.leetcode.com/problems/find-players-with-zero-or-one-losses/) | Find Players With Zero or One Losses | Array | [/source/Generator2225.py](/source/Generator2225.py) | [/generated/2225_Find_Players_With_Zero_or_One_Losses.txt](/generated/2225_Find_Players_With_Zero_or_One_Losses.txt) |
 | `2024-01-14` | [1657](https://www.leetcode.com/problems/determine-if-two-strings-are-close/) | Determine if Two Strings Are Close | Hash Table | [/source/Generator1657.py](/source/Generator1657.py) | [/generated/1657_Determine_if_Two_Strings_Are_Close.txt](/generated/1657_Determine_if_Two_Strings_Are_Close.txt) |
