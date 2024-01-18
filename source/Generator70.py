@@ -5,18 +5,22 @@ import random
 '''
 def generate() -> str:
     tests = []
-    min_num = 2
-    max_num = 10**4
-    minval = -1000
-    maxval = 1000
+    min_num = 1
+    max_num = 45
 
-    n = min_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
+    all_tests = list(range(min_num, max_num + 1))
+
+    test = all_tests.pop(0)
     tests.append(test.__str__().replace(' ', ''))
-    
-    n = max_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
+
+    test = all_tests.pop()
     tests.append(test.__str__().replace(' ', ''))
-    
+
+    random.shuffle(all_tests)
+
+    for i in range(6):
+        test = all_tests.pop()
+        tests.append(test.__str__().replace(' ', ''))
+
     return '''
 '''.join(tests)
