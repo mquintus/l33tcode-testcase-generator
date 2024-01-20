@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-01-20` | [907](https://www.leetcode.com/problems/sum-of-subarray-minimums/) | Sum of Subarray Minimums | Array | [/source/Generator907.py](/source/Generator907.py) | [/generated/907_Sum_of_Subarray_Minimums.txt](/generated/907_Sum_of_Subarray_Minimums.txt) |
 | `2024-01-19` | [931](https://www.leetcode.com/problems/minimum-falling-path-sum/) | Minimum Falling Path Sum | Array | [/source/Generator931.py](/source/Generator931.py) | [/generated/931_Minimum_Falling_Path_Sum.txt](/generated/931_Minimum_Falling_Path_Sum.txt) |
 | `2024-01-18` | [70](https://www.leetcode.com/problems/climbing-stairs/) | Climbing Stairs | Math | [/source/Generator70.py](/source/Generator70.py) | [/generated/70_Climbing_Stairs.txt](/generated/70_Climbing_Stairs.txt) |
 | `2024-01-17` | [1207](https://www.leetcode.com/problems/unique-number-of-occurrences/) | Unique Number of Occurrences | Array | [/source/Generator1207.py](/source/Generator1207.py) | [/generated/1207_Unique_Number_of_Occurrences.txt](/generated/1207_Unique_Number_of_Occurrences.txt) |
