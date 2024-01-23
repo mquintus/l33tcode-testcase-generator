@@ -5,18 +5,14 @@ import random
 '''
 def generate() -> str:
     tests = []
-    min_num = 2
-    max_num = 10**4
-    minval = -1000
-    maxval = 1000
+    min_num = 1
+    max_num = 16
+    letters = "abcdefghijklmnopqrstuvwxyz"
 
-    n = min_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
-    n = max_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
+    for n in [min_num, 2, 3, 4, max_num, max_num, max_num, max_num]:
+        strlen = random.randint(1, 10)
+        test = ["".join([random.choice(letters) for _ in range(strlen)]) for _ in range(n)]
+        tests.append(test.__str__().replace('\'', '"'))
+
     return '''
 '''.join(tests)
