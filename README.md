@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-01-24` | [1457](https://www.leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | Pseudo-Palindromic Paths in a Binary Tree | Bit Manipulation | [/source/Generator1457.py](/source/Generator1457.py) | [/generated/1457_Pseudo-Palindromic_Paths_in_a_Binary_Tree.txt](/generated/1457_Pseudo-Palindromic_Paths_in_a_Binary_Tree.txt) |
 | `2024-01-23` | [1239](https://www.leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | Maximum Length of a Concatenated String with Unique Characters | Array | [/source/Generator1239.py](/source/Generator1239.py) | [/generated/1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters.txt](/generated/1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters.txt) |
 | `2024-01-22` | [645](https://www.leetcode.com/problems/set-mismatch/) | Set Mismatch | Array | [/source/Generator645.py](/source/Generator645.py) | [/generated/645_Set_Mismatch.txt](/generated/645_Set_Mismatch.txt) |
 | `2024-01-21` | [198](https://www.leetcode.com/problems/house-robber/) | House Robber | Array | [/source/Generator198.py](/source/Generator198.py) | [/generated/198_House_Robber.txt](/generated/198_House_Robber.txt) |
