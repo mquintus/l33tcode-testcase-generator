@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-01-28` | [1074](https://www.leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | Number of Submatrices That Sum to Target | Array | [/source/Generator1074.py](/source/Generator1074.py) | [/generated/1074_Number_of_Submatrices_That_Sum_to_Target.txt](/generated/1074_Number_of_Submatrices_That_Sum_to_Target.txt) |
 | `2024-01-27` | [629](https://www.leetcode.com/problems/k-inverse-pairs-array/) | K Inverse Pairs Array | Dynamic Programming | [/source/Generator629.py](/source/Generator629.py) | [/generated/629_K_Inverse_Pairs_Array.txt](/generated/629_K_Inverse_Pairs_Array.txt) |
 | `2024-01-26` | [576](https://www.leetcode.com/problems/out-of-boundary-paths/) | Out of Boundary Paths | Dynamic Programming | [/source/Generator576.py](/source/Generator576.py) | [/generated/576_Out_of_Boundary_Paths.txt](/generated/576_Out_of_Boundary_Paths.txt) |
 | `2024-01-25` | [1143](https://www.leetcode.com/problems/longest-common-subsequence/) | Longest Common Subsequence | String | [/source/Generator1143.py](/source/Generator1143.py) | [/generated/1143_Longest_Common_Subsequence.txt](/generated/1143_Longest_Common_Subsequence.txt) |
