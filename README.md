@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-01-31` | [739](https://www.leetcode.com/problems/daily-temperatures/) | Daily Temperatures | Array | [/source/Generator739.py](/source/Generator739.py) | [/generated/739_Daily_Temperatures.txt](/generated/739_Daily_Temperatures.txt) |
 | `2024-01-30` | [150](https://www.leetcode.com/problems/evaluate-reverse-polish-notation/) | Evaluate Reverse Polish Notation | Array | [/source/Generator150.py](/source/Generator150.py) | [/generated/150_Evaluate_Reverse_Polish_Notation.txt](/generated/150_Evaluate_Reverse_Polish_Notation.txt) |
 | `2024-01-29` | [232](https://www.leetcode.com/problems/implement-queue-using-stacks/) | Implement Queue using Stacks | Stack | [/source/Generator232.py](/source/Generator232.py) | [/generated/232_Implement_Queue_using_Stacks.txt](/generated/232_Implement_Queue_using_Stacks.txt) |
 | `2024-01-28` | [1074](https://www.leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | Number of Submatrices That Sum to Target | Array | [/source/Generator1074.py](/source/Generator1074.py) | [/generated/1074_Number_of_Submatrices_That_Sum_to_Target.txt](/generated/1074_Number_of_Submatrices_That_Sum_to_Target.txt) |
