@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-02-01` | [2966](https://www.leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | Divide Array Into Arrays With Max Difference | Array | [/source/Generator2966.py](/source/Generator2966.py) | [/generated/2966_Divide_Array_Into_Arrays_With_Max_Difference.txt](/generated/2966_Divide_Array_Into_Arrays_With_Max_Difference.txt) |
 | `2024-01-31` | [739](https://www.leetcode.com/problems/daily-temperatures/) | Daily Temperatures | Array | [/source/Generator739.py](/source/Generator739.py) | [/generated/739_Daily_Temperatures.txt](/generated/739_Daily_Temperatures.txt) |
 | `2024-01-30` | [150](https://www.leetcode.com/problems/evaluate-reverse-polish-notation/) | Evaluate Reverse Polish Notation | Array | [/source/Generator150.py](/source/Generator150.py) | [/generated/150_Evaluate_Reverse_Polish_Notation.txt](/generated/150_Evaluate_Reverse_Polish_Notation.txt) |
 | `2024-01-29` | [232](https://www.leetcode.com/problems/implement-queue-using-stacks/) | Implement Queue using Stacks | Stack | [/source/Generator232.py](/source/Generator232.py) | [/generated/232_Implement_Queue_using_Stacks.txt](/generated/232_Implement_Queue_using_Stacks.txt) |
