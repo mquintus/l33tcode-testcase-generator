@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-02-03` | [1043](https://www.leetcode.com/problems/partition-array-for-maximum-sum/) | Partition Array for Maximum Sum | Array | [/source/Generator1043.py](/source/Generator1043.py) | [/generated/1043_Partition_Array_for_Maximum_Sum.txt](/generated/1043_Partition_Array_for_Maximum_Sum.txt) |
 | `2024-02-02` | [1291](https://www.leetcode.com/problems/sequential-digits/) | Sequential Digits | Enumeration | [/source/Generator1291.py](/source/Generator1291.py) | [/generated/1291_Sequential_Digits.txt](/generated/1291_Sequential_Digits.txt) |
 | `2024-02-01` | [2966](https://www.leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | Divide Array Into Arrays With Max Difference | Array | [/source/Generator2966.py](/source/Generator2966.py) | [/generated/2966_Divide_Array_Into_Arrays_With_Max_Difference.txt](/generated/2966_Divide_Array_Into_Arrays_With_Max_Difference.txt) |
 | `2024-01-31` | [739](https://www.leetcode.com/problems/daily-temperatures/) | Daily Temperatures | Array | [/source/Generator739.py](/source/Generator739.py) | [/generated/739_Daily_Temperatures.txt](/generated/739_Daily_Temperatures.txt) |
