@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-02-06` | [49](https://www.leetcode.com/problems/group-anagrams/) | Group Anagrams | Array | [/source/Generator49.py](/source/Generator49.py) | [/generated/49_Group_Anagrams.txt](/generated/49_Group_Anagrams.txt) |
 | `2024-02-05` | [387](https://www.leetcode.com/problems/first-unique-character-in-a-string/) | First Unique Character in a String | Hash Table | [/source/Generator387.py](/source/Generator387.py) | [/generated/387_First_Unique_Character_in_a_String.txt](/generated/387_First_Unique_Character_in_a_String.txt) |
 | `2024-02-04` | [76](https://www.leetcode.com/problems/minimum-window-substring/) | Minimum Window Substring | Hash Table | [/source/Generator76.py](/source/Generator76.py) | [/generated/76_Minimum_Window_Substring.txt](/generated/76_Minimum_Window_Substring.txt) |
 | `2024-02-03` | [1043](https://www.leetcode.com/problems/partition-array-for-maximum-sum/) | Partition Array for Maximum Sum | Array | [/source/Generator1043.py](/source/Generator1043.py) | [/generated/1043_Partition_Array_for_Maximum_Sum.txt](/generated/1043_Partition_Array_for_Maximum_Sum.txt) |
