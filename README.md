@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-02-07` | [451](https://www.leetcode.com/problems/sort-characters-by-frequency/) | Sort Characters By Frequency | Hash Table | [/source/Generator451.py](/source/Generator451.py) | [/generated/451_Sort_Characters_By_Frequency.txt](/generated/451_Sort_Characters_By_Frequency.txt) |
 | `2024-02-06` | [49](https://www.leetcode.com/problems/group-anagrams/) | Group Anagrams | Array | [/source/Generator49.py](/source/Generator49.py) | [/generated/49_Group_Anagrams.txt](/generated/49_Group_Anagrams.txt) |
 | `2024-02-05` | [387](https://www.leetcode.com/problems/first-unique-character-in-a-string/) | First Unique Character in a String | Hash Table | [/source/Generator387.py](/source/Generator387.py) | [/generated/387_First_Unique_Character_in_a_String.txt](/generated/387_First_Unique_Character_in_a_String.txt) |
 | `2024-02-04` | [76](https://www.leetcode.com/problems/minimum-window-substring/) | Minimum Window Substring | Hash Table | [/source/Generator76.py](/source/Generator76.py) | [/generated/76_Minimum_Window_Substring.txt](/generated/76_Minimum_Window_Substring.txt) |
