@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-02-10` | [647](https://www.leetcode.com/problems/palindromic-substrings/) | Palindromic Substrings | String | [/source/Generator647.py](/source/Generator647.py) | [/generated/647_Palindromic_Substrings.txt](/generated/647_Palindromic_Substrings.txt) |
 | `2024-02-09` | [368](https://www.leetcode.com/problems/largest-divisible-subset/) | Largest Divisible Subset | Array | [/source/Generator368.py](/source/Generator368.py) | [/generated/368_Largest_Divisible_Subset.txt](/generated/368_Largest_Divisible_Subset.txt) |
 | `2024-02-08` | [279](https://www.leetcode.com/problems/perfect-squares/) | Perfect Squares | Math | [/source/Generator279.py](/source/Generator279.py) | [/generated/279_Perfect_Squares.txt](/generated/279_Perfect_Squares.txt) |
 | `2024-02-07` | [451](https://www.leetcode.com/problems/sort-characters-by-frequency/) | Sort Characters By Frequency | Hash Table | [/source/Generator451.py](/source/Generator451.py) | [/generated/451_Sort_Characters_By_Frequency.txt](/generated/451_Sort_Characters_By_Frequency.txt) |
