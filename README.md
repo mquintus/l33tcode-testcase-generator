@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-02-13` | [2108](https://www.leetcode.com/problems/find-first-palindromic-string-in-the-array/) | Find First Palindromic String in the Array | Array | [/source/Generator2108.py](/source/Generator2108.py) | [/generated/2108_Find_First_Palindromic_String_in_the_Array.txt](/generated/2108_Find_First_Palindromic_String_in_the_Array.txt) |
 | `2024-02-12` | [169](https://www.leetcode.com/problems/majority-element/) | Majority Element | Array | [/source/Generator169.py](/source/Generator169.py) | [/generated/169_Majority_Element.txt](/generated/169_Majority_Element.txt) |
 | `2024-02-11` | [1463](https://www.leetcode.com/problems/cherry-pickup-ii/) | Cherry Pickup II | Array | [/source/Generator1463.py](/source/Generator1463.py) | [/generated/1463_Cherry_Pickup_II.txt](/generated/1463_Cherry_Pickup_II.txt) |
 | `2024-02-10` | [647](https://www.leetcode.com/problems/palindromic-substrings/) | Palindromic Substrings | String | [/source/Generator647.py](/source/Generator647.py) | [/generated/647_Palindromic_Substrings.txt](/generated/647_Palindromic_Substrings.txt) |
