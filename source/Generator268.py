@@ -7,16 +7,16 @@ def generate() -> str:
     tests = []
     min_num = 2
     max_num = 10**4
-    minval = -1000
-    maxval = 1000
 
-    n = min_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
-    n = max_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
+    for n in [min_num, 3, 10**3, max_num]:
+        # Remove a random number from the list (except zero)
+        test = [i for i in range(n)]
+        test.remove(random.choice(test[1:]))
+        tests.append(test.__str__().replace(' ', ''))
+
+        # Remove zero from the list
+        test = [i + 1 for i in range(n)]
+        tests.append(test.__str__().replace(' ', ''))
+
     return '''
 '''.join(tests)
