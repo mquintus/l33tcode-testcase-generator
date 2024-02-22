@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-02-22` | [997](https://www.leetcode.com/problems/find-the-town-judge/) | Find the Town Judge | Graph | [/source/Generator997.py](/source/Generator997.py) | [/generated/997_Find_the_Town_Judge.txt](/generated/997_Find_the_Town_Judge.txt) |
 | `2024-02-21` | [201](https://www.leetcode.com/problems/bitwise-and-of-numbers-range/) | Bitwise AND of Numbers Range | Bit Manipulation | [/source/Generator201.py](/source/Generator201.py) | [/generated/201_Bitwise_AND_of_Numbers_Range.txt](/generated/201_Bitwise_AND_of_Numbers_Range.txt) |
 | `2024-02-20` | [268](https://www.leetcode.com/problems/missing-number/) | Missing Number | Array | [/source/Generator268.py](/source/Generator268.py) | [/generated/268_Missing_Number.txt](/generated/268_Missing_Number.txt) |
 | `2024-02-19` | [231](https://www.leetcode.com/problems/power-of-two/) | Power of Two | Math | [/source/Generator231.py](/source/Generator231.py) | [/generated/231_Power_of_Two.txt](/generated/231_Power_of_Two.txt) |
