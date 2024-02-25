@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-02-25` | [2709](https://www.leetcode.com/problems/greatest-common-divisor-traversal/) | Greatest Common Divisor Traversal | Array | [/source/Generator2709.py](/source/Generator2709.py) | [/generated/2709_Greatest_Common_Divisor_Traversal.txt](/generated/2709_Greatest_Common_Divisor_Traversal.txt) |
 | `2024-02-24` | [2092](https://www.leetcode.com/problems/find-all-people-with-secret/) | Find All People With Secret | Graph | [/source/Generator2092.py](/source/Generator2092.py) | [/generated/2092_Find_All_People_With_Secret.txt](/generated/2092_Find_All_People_With_Secret.txt) |
 | `2024-02-23` | [787](https://www.leetcode.com/problems/cheapest-flights-within-k-stops/) | Cheapest Flights Within K Stops | Graph | [/source/Generator787.py](/source/Generator787.py) | [/generated/787_Cheapest_Flights_Within_K_Stops.txt](/generated/787_Cheapest_Flights_Within_K_Stops.txt) |
 | `2024-02-22` | [997](https://www.leetcode.com/problems/find-the-town-judge/) | Find the Town Judge | Graph | [/source/Generator997.py](/source/Generator997.py) | [/generated/997_Find_the_Town_Judge.txt](/generated/997_Find_the_Town_Judge.txt) |
