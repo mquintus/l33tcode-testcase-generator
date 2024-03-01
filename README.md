@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-03-01` | [2864](https://www.leetcode.com/problems/maximum-odd-binary-number/) | Maximum Odd Binary Number | Math | [/source/Generator2864.py](/source/Generator2864.py) | [/generated/2864_Maximum_Odd_Binary_Number.txt](/generated/2864_Maximum_Odd_Binary_Number.txt) |
 | `2024-02-29` | [1609](https://www.leetcode.com/problems/even-odd-tree/) | Even Odd Tree | Tree | [/source/Generator1609.py](/source/Generator1609.py) | [/generated/1609_Even_Odd_Tree.txt](/generated/1609_Even_Odd_Tree.txt) |
 | `2024-02-28` | [513](https://www.leetcode.com/problems/find-bottom-left-tree-value/) | Find Bottom Left Tree Value | Tree | [/source/Generator513.py](/source/Generator513.py) | [/generated/513_Find_Bottom_Left_Tree_Value.txt](/generated/513_Find_Bottom_Left_Tree_Value.txt) |
 | `2024-02-27` | [543](https://www.leetcode.com/problems/diameter-of-binary-tree/) | Diameter of Binary Tree | Tree | [/source/Generator543.py](/source/Generator543.py) | [/generated/543_Diameter_of_Binary_Tree.txt](/generated/543_Diameter_of_Binary_Tree.txt) |
