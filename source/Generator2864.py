@@ -5,18 +5,32 @@ import random
 '''
 def generate() -> str:
     tests = []
-    min_num = 2
-    max_num = 10**4
-    minval = -1000
-    maxval = 1000
 
-    n = min_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
-    n = max_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
+    s = ['1']
+    tests.append("".join(s))
+
+    s = [str(random.randint(0,1)) for i in range(100)]
+    tests.append("".join(s))
+
+    s = ['1'] + ['0'] * 98 + ['1']
+    tests.append("".join(s))
+
+    s = ['1'] * 50 + ['0'] * 50
+    tests.append("".join(s))
+
+    s = ['1'] * 50 + ['0'] * 49 + ['1']
+    tests.append("".join(s))
+
+    s = ['0'] + ['1'] * 98 + ['0']
+    tests.append("".join(s))
+
+    s = ['0', '1'] * 50
+    tests.append("".join(s))
+
+    s = ['1', '0'] * 50
+    tests.append("".join(s))
+
+    tests = [f'"{test}"' for test in tests]
+
     return '''
 '''.join(tests)
