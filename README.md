@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-03-02` | [977](https://www.leetcode.com/problems/squares-of-a-sorted-array/) | Squares of a Sorted Array | Array | [/source/Generator977.py](/source/Generator977.py) | [/generated/977_Squares_of_a_Sorted_Array.txt](/generated/977_Squares_of_a_Sorted_Array.txt) |
 | `2024-03-01` | [2864](https://www.leetcode.com/problems/maximum-odd-binary-number/) | Maximum Odd Binary Number | Math | [/source/Generator2864.py](/source/Generator2864.py) | [/generated/2864_Maximum_Odd_Binary_Number.txt](/generated/2864_Maximum_Odd_Binary_Number.txt) |
 | `2024-02-29` | [1609](https://www.leetcode.com/problems/even-odd-tree/) | Even Odd Tree | Tree | [/source/Generator1609.py](/source/Generator1609.py) | [/generated/1609_Even_Odd_Tree.txt](/generated/1609_Even_Odd_Tree.txt) |
 | `2024-02-28` | [513](https://www.leetcode.com/problems/find-bottom-left-tree-value/) | Find Bottom Left Tree Value | Tree | [/source/Generator513.py](/source/Generator513.py) | [/generated/513_Find_Bottom_Left_Tree_Value.txt](/generated/513_Find_Bottom_Left_Tree_Value.txt) |
