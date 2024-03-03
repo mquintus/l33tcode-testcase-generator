@@ -5,18 +5,26 @@ import random
 '''
 def generate() -> str:
     tests = []
-    min_num = 2
-    max_num = 10**4
-    minval = -1000
-    maxval = 1000
+    min_num = 1
+    max_num = 30
+    minval = 0
+    maxval = 100
 
-    n = min_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
+    for n in [min_num, 2, 3]:
+        offset = random.randint(minval + maxval // 2, maxval)
+        for delete in range(1, n+1):
+            nodes = [offset - i for i in range(n)]
+            test = nodes.__str__().replace(' ', '')
+            test += f"\n{delete}"
+            tests.append(test)
+
+    offset = random.randint(minval + maxval // 2, maxval)
     n = max_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
+    for delete in [1, n]:
+        nodes = [offset - i for i in range(n)]
+        test = nodes.__str__().replace(' ', '')
+        test += f"\n{delete}"
+        tests.append(test)
+
     return '''
 '''.join(tests)
