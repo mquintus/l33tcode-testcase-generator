@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-03-05` | [1750](https://www.leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | Minimum Length of String After Deleting Similar Ends | Two Pointers | [/source/Generator1750.py](/source/Generator1750.py) | [/generated/1750_Minimum_Length_of_String_After_Deleting_Similar_Ends.txt](/generated/1750_Minimum_Length_of_String_After_Deleting_Similar_Ends.txt) |
 | `2024-03-04` | [948](https://www.leetcode.com/problems/bag-of-tokens/) | Bag of Tokens | Array | [/source/Generator948.py](/source/Generator948.py) | [/generated/948_Bag_of_Tokens.txt](/generated/948_Bag_of_Tokens.txt) |
 | `2024-03-03` | [19](https://www.leetcode.com/problems/remove-nth-node-from-end-of-list/) | Remove Nth Node From End of List | Linked List | [/source/Generator19.py](/source/Generator19.py) | [/generated/19_Remove_Nth_Node_From_End_of_List.txt](/generated/19_Remove_Nth_Node_From_End_of_List.txt) |
 | `2024-03-02` | [977](https://www.leetcode.com/problems/squares-of-a-sorted-array/) | Squares of a Sorted Array | Array | [/source/Generator977.py](/source/Generator977.py) | [/generated/977_Squares_of_a_Sorted_Array.txt](/generated/977_Squares_of_a_Sorted_Array.txt) |
