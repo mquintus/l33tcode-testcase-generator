@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-03-10` | [349](https://www.leetcode.com/problems/intersection-of-two-arrays/) | Intersection of Two Arrays | Sets | [/source/Generator349.py](/source/Generator349.py) | [/generated/349_Intersection_of_Two_Arrays.txt](/generated/349_Intersection_of_Two_Arrays.txt) |
 | `2024-03-09` | [2540](https://www.leetcode.com/problems/minimum-common-value/) | Minimum Common Value | Two Pointer | [/source/Generator2540.py](/source/Generator2540.py) | [/generated/2540_Minimum_Common_Value.txt](/generated/2540_Minimum_Common_Value.txt) |
 | `2024-03-07` | [876](https://www.leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | Two Pointer | [/source/Generator876.py](/source/Generator876.py) | [/generated/876_Middle_of_the_Linked_List.txt](/generated/876_Middle_of_the_Linked_List.txt) |
 | `2024-03-06` | [141](https://www.leetcode.com/problems/linked-list-cycle/) | Linked List Cycle | Hash Table | [/source/Generator141.py](/source/Generator141.py) | [/generated/141_Linked_List_Cycle.txt](/generated/141_Linked_List_Cycle.txt) |
