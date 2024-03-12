@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-03-12` | [1171](https://www.leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | Remove Zero Sum Consecutive Nodes from Linked List | Hash Table | [/source/Generator1171.py](/source/Generator1171.py) | [/generated/1171_Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List.txt](/generated/1171_Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List.txt) |
 | `2024-03-11` | [791](https://www.leetcode.com/problems/custom-sort-string/) | Custom Sort String | Strings | [/source/Generator791.py](/source/Generator791.py) | [/generated/791_Custom_Sort_String.txt](/generated/791_Custom_Sort_String.txt) |
 | `2024-03-10` | [349](https://www.leetcode.com/problems/intersection-of-two-arrays/) | Intersection of Two Arrays | Sets | [/source/Generator349.py](/source/Generator349.py) | [/generated/349_Intersection_of_Two_Arrays.txt](/generated/349_Intersection_of_Two_Arrays.txt) |
 | `2024-03-09` | [2540](https://www.leetcode.com/problems/minimum-common-value/) | Minimum Common Value | Two Pointer | [/source/Generator2540.py](/source/Generator2540.py) | [/generated/2540_Minimum_Common_Value.txt](/generated/2540_Minimum_Common_Value.txt) |
