@@ -5,18 +5,18 @@ import random
 '''
 def generate() -> str:
     tests = []
-    min_num = 2
-    max_num = 10**4
-    minval = -1000
+    minval = 1
     maxval = 1000
 
-    n = min_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
-    n = max_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
+    for i in range(minval, maxval+1):
+        mysum = (i + 1) * i / 2
+        pivot = int(mysum ** .5)
+        if pivot * pivot == mysum:
+            test = str(i+1)
+            tests.append(test)
+            test = str(i)
+            tests.insert(0, test)
+            print(i)
+
     return '''
-'''.join(tests)
+'''.join(tests[:8]) + "\n"
