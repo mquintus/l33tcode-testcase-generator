@@ -10,10 +10,14 @@ def generate() -> str:
     minval = 0
     maxval = 1
 
-    for n in [min_num, 2,3,4,10,max_num,max_num]:
+    for n in [min_num, 2,3,4,10,max_num]:
         test = [random.randint(minval, maxval) for _ in range(n)]
         goal = random.randint(0, sum(test))
         tests.append(test.__str__().replace(' ', '') + "\n" + str(goal))
+
+    test = [0] * (max_num // 2 - 1) + [1] + [0] * (max_num // 2 - 1) + [1]
+    goal = 0
+    tests.append(test.__str__().replace(' ', '') + "\n" + str(goal))
 
     test = [0] * max_num
     goal = 0
