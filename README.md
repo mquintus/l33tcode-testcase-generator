@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-03-14` | [930](https://www.leetcode.com/problems/binary-subarrays-with-sum/) | Binary Subarrays With Sum | Array | [/source/Generator930.py](/source/Generator930.py) | [/generated/930_Binary_Subarrays_With_Sum.txt](/generated/930_Binary_Subarrays_With_Sum.txt) |
 | `2024-03-13` | [2485](https://www.leetcode.com/problems/find-the-pivot-integer/) | Find the Pivot Integer | Math | [/source/Generator2485.py](/source/Generator2485.py) | [/generated/2485_Find_the_Pivot_Integer.txt](/generated/2485_Find_the_Pivot_Integer.txt) |
 | `2024-03-12` | [1171](https://www.leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | Remove Zero Sum Consecutive Nodes from Linked List | Hash Table | [/source/Generator1171.py](/source/Generator1171.py) | [/generated/1171_Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List.txt](/generated/1171_Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List.txt) |
 | `2024-03-11` | [791](https://www.leetcode.com/problems/custom-sort-string/) | Custom Sort String | Strings | [/source/Generator791.py](/source/Generator791.py) | [/generated/791_Custom_Sort_String.txt](/generated/791_Custom_Sort_String.txt) |
