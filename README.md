@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-03-18` | [452](https://www.leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Minimum Number of Arrows to Burst Balloons | Array | [/source/Generator452.py](/source/Generator452.py) | [/generated/452_Minimum_Number_of_Arrows_to_Burst_Balloons.txt](/generated/452_Minimum_Number_of_Arrows_to_Burst_Balloons.txt) |
 | `2024-03-17` | [57](https://www.leetcode.com/problems/insert-interval/) | Insert Interval | Array | [/source/Generator57.py](/source/Generator57.py) | [/generated/57_Insert_Interval.txt](/generated/57_Insert_Interval.txt) |
 | `2024-03-16` | [525](https://www.leetcode.com/problems/contiguous-array/) | Contiguous Array | Array | [/source/Generator525.py](/source/Generator525.py) | [/generated/525_Contiguous_Array.txt](/generated/525_Contiguous_Array.txt) |
 | `2024-03-15` | [238](https://www.leetcode.com/problems/product-of-array-except-self/) | Product of Array Except Self | Array | [/source/Generator238.py](/source/Generator238.py) | [/generated/238_Product_of_Array_Except_Self.txt](/generated/238_Product_of_Array_Except_Self.txt) |
