@@ -5,18 +5,16 @@ import random
 '''
 def generate() -> str:
     tests = []
-    min_num = 2
-    max_num = 10**4
-    minval = -1000
-    maxval = 1000
+    min_num = 0
+    max_num = 100
+    minval = -5000
+    maxval = 5000
 
-    n = min_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
-    n = max_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
+    for n in [min_num, 1, 2, 3, max_num - 3, max_num - 2, max_num - 1, max_num]:
+        offset = random.randint(0, (maxval-minval))
+        diff = random.randint(-10, 10)
+        test = [minval + (offset + i * diff) % (maxval-minval) for i in range(n)]
+        tests.append(test.__str__().replace(' ', ''))
+
     return '''
 '''.join(tests)
