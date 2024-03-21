@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-03-21` | [206](https://www.leetcode.com/problems/reverse-linked-list/) | Reverse Linked List | Linked List | [/source/Generator206.py](/source/Generator206.py) | [/generated/206_Reverse_Linked_List.txt](/generated/206_Reverse_Linked_List.txt) |
 | `2024-03-20` | [1669](https://www.leetcode.com/problems/merge-in-between-linked-lists/) | Merge In Between Linked Lists | Linked List | [/source/Generator1669.py](/source/Generator1669.py) | [/generated/1669_Merge_In_Between_Linked_Lists.txt](/generated/1669_Merge_In_Between_Linked_Lists.txt) |
 | `2024-03-19` | [621](https://www.leetcode.com/problems/task-scheduler/) | Task Scheduler | Array | [/source/Generator621.py](/source/Generator621.py) | [/generated/621_Task_Scheduler.txt](/generated/621_Task_Scheduler.txt) |
 | `2024-03-18` | [452](https://www.leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Minimum Number of Arrows to Burst Balloons | Array | [/source/Generator452.py](/source/Generator452.py) | [/generated/452_Minimum_Number_of_Arrows_to_Burst_Balloons.txt](/generated/452_Minimum_Number_of_Arrows_to_Burst_Balloons.txt) |
