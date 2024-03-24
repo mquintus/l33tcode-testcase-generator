@@ -6,17 +6,21 @@ import random
 def generate() -> str:
     tests = []
     min_num = 2
-    max_num = 10**4
-    minval = -1000
-    maxval = 1000
+    max_num = 10**5
 
-    n = min_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
-    n = max_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
+    for n in [min_num, 3, 4, 5, 99, 100, max_num - 1, max_num]:
+        test = [i for i in range(1, n)]
+        random.shuffle(test)
+
+        duplicate_number = random.randint(1, n-1)
+        freq = 2
+        if random.choice([True, False]):
+            freq = random.randint(2, n)
+        test = test[:-freq+1]
+        test.extend([duplicate_number] * freq)
+
+        random.shuffle(test)
+        tests.append(test.__str__().replace(' ', ''))
+
     return '''
 '''.join(tests)
