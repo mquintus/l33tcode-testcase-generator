@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-03-25` | [442](https://www.leetcode.com/problems/find-all-duplicates-in-an-array/) | Find All Duplicates in an Array | Array | [/source/Generator442.py](/source/Generator442.py) | [/generated/442_Find_All_Duplicates_in_an_Array.txt](/generated/442_Find_All_Duplicates_in_an_Array.txt) |
 | `2024-03-24` | [287](https://www.leetcode.com/problems/find-the-duplicate-number/) | Find the Duplicate Number | Array | [/source/Generator287.py](/source/Generator287.py) | [/generated/287_Find_the_Duplicate_Number.txt](/generated/287_Find_the_Duplicate_Number.txt) |
 | `2024-03-23` | [143](https://www.leetcode.com/problems/reorder-list/) | Reorder List | Linked List | [/source/Generator143.py](/source/Generator143.py) | [/generated/143_Reorder_List.txt](/generated/143_Reorder_List.txt) |
 | `2024-03-22` | [234](https://www.leetcode.com/problems/palindrome-linked-list/) | Palindrome Linked List | Linked List | [/source/Generator234.py](/source/Generator234.py) | [/generated/234_Palindrome_Linked_List.txt](/generated/234_Palindrome_Linked_List.txt) |
