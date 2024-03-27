@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-03-27` | [713](https://www.leetcode.com/problems/subarray-product-less-than-k/) | Subarray Product Less Than K | Array | [/source/Generator713.py](/source/Generator713.py) | [/generated/713_Subarray_Product_Less_Than_K.txt](/generated/713_Subarray_Product_Less_Than_K.txt) |
 | `2024-03-26` | [41](https://www.leetcode.com/problems/first-missing-positive/) | First Missing Positive | Array | [/source/Generator41.py](/source/Generator41.py) | [/generated/41_First_Missing_Positive.txt](/generated/41_First_Missing_Positive.txt) |
 | `2024-03-25` | [442](https://www.leetcode.com/problems/find-all-duplicates-in-an-array/) | Find All Duplicates in an Array | Array | [/source/Generator442.py](/source/Generator442.py) | [/generated/442_Find_All_Duplicates_in_an_Array.txt](/generated/442_Find_All_Duplicates_in_an_Array.txt) |
 | `2024-03-24` | [287](https://www.leetcode.com/problems/find-the-duplicate-number/) | Find the Duplicate Number | Array | [/source/Generator287.py](/source/Generator287.py) | [/generated/287_Find_the_Duplicate_Number.txt](/generated/287_Find_the_Duplicate_Number.txt) |
