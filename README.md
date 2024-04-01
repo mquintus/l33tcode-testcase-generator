@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-04-01` | [58](https://www.leetcode.com/problems/length-of-last-word/) | Length of Last Word | String | [/source/Generator58.py](/source/Generator58.py) | [/generated/58_Length_of_Last_Word.txt](/generated/58_Length_of_Last_Word.txt) |
 | `2024-03-31` | [2444](https://www.leetcode.com/problems/count-subarrays-with-fixed-bounds/) | Count Subarrays With Fixed Bounds | Array | [/source/Generator2444.py](/source/Generator2444.py) | [/generated/2444_Count_Subarrays_With_Fixed_Bounds.txt](/generated/2444_Count_Subarrays_With_Fixed_Bounds.txt) |
 | `2024-03-30` | [992](https://www.leetcode.com/problems/subarrays-with-k-different-integers/) | Subarrays with K Different Integers | Array | [/source/Generator992.py](/source/Generator992.py) | [/generated/992_Subarrays_with_K_Different_Integers.txt](/generated/992_Subarrays_with_K_Different_Integers.txt) |
 | `2024-03-29` | [2962](https://www.leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/) | Count Subarrays Where Max Element Appears at Least K Times | Array | [/source/Generator2962.py](/source/Generator2962.py) | [/generated/2962_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times.txt](/generated/2962_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times.txt) |
