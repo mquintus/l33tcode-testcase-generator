@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-04-02` | [205](https://www.leetcode.com/problems/isomorphic-strings/) | Isomorphic Strings | Hash Table | [/source/Generator205.py](/source/Generator205.py) | [/generated/205_Isomorphic_Strings.txt](/generated/205_Isomorphic_Strings.txt) |
 | `2024-04-01` | [58](https://www.leetcode.com/problems/length-of-last-word/) | Length of Last Word | String | [/source/Generator58.py](/source/Generator58.py) | [/generated/58_Length_of_Last_Word.txt](/generated/58_Length_of_Last_Word.txt) |
 | `2024-03-31` | [2444](https://www.leetcode.com/problems/count-subarrays-with-fixed-bounds/) | Count Subarrays With Fixed Bounds | Array | [/source/Generator2444.py](/source/Generator2444.py) | [/generated/2444_Count_Subarrays_With_Fixed_Bounds.txt](/generated/2444_Count_Subarrays_With_Fixed_Bounds.txt) |
 | `2024-03-30` | [992](https://www.leetcode.com/problems/subarrays-with-k-different-integers/) | Subarrays with K Different Integers | Array | [/source/Generator992.py](/source/Generator992.py) | [/generated/992_Subarrays_with_K_Different_Integers.txt](/generated/992_Subarrays_with_K_Different_Integers.txt) |
