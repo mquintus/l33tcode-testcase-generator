@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-04-04` | [1614](https://www.leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Maximum Nesting Depth of the Parentheses | String | [/source/Generator1614.py](/source/Generator1614.py) | [/generated/1614_Maximum_Nesting_Depth_of_the_Parentheses.txt](/generated/1614_Maximum_Nesting_Depth_of_the_Parentheses.txt) |
 | `2024-04-03` | [79](https://www.leetcode.com/problems/word-search/) | Word Search | Array | [/source/Generator79.py](/source/Generator79.py) | [/generated/79_Word_Search.txt](/generated/79_Word_Search.txt) |
 | `2024-04-02` | [205](https://www.leetcode.com/problems/isomorphic-strings/) | Isomorphic Strings | Hash Table | [/source/Generator205.py](/source/Generator205.py) | [/generated/205_Isomorphic_Strings.txt](/generated/205_Isomorphic_Strings.txt) |
 | `2024-04-01` | [58](https://www.leetcode.com/problems/length-of-last-word/) | Length of Last Word | String | [/source/Generator58.py](/source/Generator58.py) | [/generated/58_Length_of_Last_Word.txt](/generated/58_Length_of_Last_Word.txt) |
