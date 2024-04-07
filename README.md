@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-04-07` | [678](https://www.leetcode.com/problems/valid-parenthesis-string/) | Valid Parenthesis String | String | [/source/Generator678.py](/source/Generator678.py) | [/generated/678_Valid_Parenthesis_String.txt](/generated/678_Valid_Parenthesis_String.txt) |
 | `2024-04-06` | [1249](https://www.leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Minimum Remove to Make Valid Parentheses | String | [/source/Generator1249.py](/source/Generator1249.py) | [/generated/1249_Minimum_Remove_to_Make_Valid_Parentheses.txt](/generated/1249_Minimum_Remove_to_Make_Valid_Parentheses.txt) |
 | `2024-04-05` | [1544](https://www.leetcode.com/problems/make-the-string-great/) | Make The String Great | String | [/source/Generator1544.py](/source/Generator1544.py) | [/generated/1544_Make_The_String_Great.txt](/generated/1544_Make_The_String_Great.txt) |
 | `2024-04-04` | [1614](https://www.leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Maximum Nesting Depth of the Parentheses | String | [/source/Generator1614.py](/source/Generator1614.py) | [/generated/1614_Maximum_Nesting_Depth_of_the_Parentheses.txt](/generated/1614_Maximum_Nesting_Depth_of_the_Parentheses.txt) |
