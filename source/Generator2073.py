@@ -5,18 +5,48 @@ import random
 '''
 def generate() -> str:
     tests = []
-    min_num = 2
-    max_num = 10**4
-    minval = -1000
-    maxval = 1000
+    min_num = 1
+    max_num = 100
+    minval = 1
+    maxval = 100
 
-    n = min_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
+
+    for n in [min_num, min_num+1]:
+        test = [random.randint(minval, maxval) for _ in range(n)]
+        k = random.randint(0, n-1)
+        tests.append(test.__str__().replace(' ', '')+"\n"+str(k))
+
+    n = max_num - 2
+    test = [i+1 for i in range(n)]
+    k = n - 1
+    tests.append(test.__str__().replace(' ', '')+"\n"+str(k))
+
+    n = max_num - 1
+    test = [max(1,n-i-1) for i in range(n)]
+    k = n - 1
+    tests.append(test.__str__().replace(' ', '')+"\n"+str(k))
     
+    n = max_num - 2
+    test = []
+    for i in range(n//2):
+        test.append(n - 10 - i)
+        test.append(    10 + i)
+    k = n - 2
+    tests.append(test.__str__().replace(' ', '')+"\n"+str(k))
+
+    n = max_num - 1
+    test = []
+    for i in range(n//2):
+        test.append(    10 + i)
+        test.append(n - 10 - i)
+    k = n - 2
+    tests.append(test.__str__().replace(' ', '')+"\n"+str(k))
+
     n = max_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
+    test = [maxval for _ in range(n)]
+    k = n - 1
+    tests.append(test.__str__().replace(' ', '')+"\n"+str(k))
+        
     
     return '''
 '''.join(tests)
