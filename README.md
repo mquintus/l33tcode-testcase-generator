@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-04-10` | [950](https://www.leetcode.com/problems/reveal-cards-in-increasing-order/) | Reveal Cards In Increasing Order | Array | [/source/Generator950.py](/source/Generator950.py) | [/generated/950_Reveal_Cards_In_Increasing_Order.txt](/generated/950_Reveal_Cards_In_Increasing_Order.txt) |
 | `2024-04-09` | [2073](https://www.leetcode.com/problems/time-needed-to-buy-tickets/) | Time Needed to Buy Tickets | Array | [/source/Generator2073.py](/source/Generator2073.py) | [/generated/2073_Time_Needed_to_Buy_Tickets.txt](/generated/2073_Time_Needed_to_Buy_Tickets.txt) |
 | `2024-04-08` | [1700](https://www.leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | Number of Students Unable to Eat Lunch | Array | [/source/Generator1700.py](/source/Generator1700.py) | [/generated/1700_Number_of_Students_Unable_to_Eat_Lunch.txt](/generated/1700_Number_of_Students_Unable_to_Eat_Lunch.txt) |
 | `2024-04-07` | [678](https://www.leetcode.com/problems/valid-parenthesis-string/) | Valid Parenthesis String | String | [/source/Generator678.py](/source/Generator678.py) | [/generated/678_Valid_Parenthesis_String.txt](/generated/678_Valid_Parenthesis_String.txt) |
