@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-04-12` | [42](https://www.leetcode.com/problems/trapping-rain-water/) | Trapping Rain Water | Array | [/source/Generator42.py](/source/Generator42.py) | [/generated/42_Trapping_Rain_Water.txt](/generated/42_Trapping_Rain_Water.txt) |
 | `2024-04-11` | [402](https://www.leetcode.com/problems/remove-k-digits/) | Remove K Digits | String | [/source/Generator402.py](/source/Generator402.py) | [/generated/402_Remove_K_Digits.txt](/generated/402_Remove_K_Digits.txt) |
 | `2024-04-10` | [950](https://www.leetcode.com/problems/reveal-cards-in-increasing-order/) | Reveal Cards In Increasing Order | Array | [/source/Generator950.py](/source/Generator950.py) | [/generated/950_Reveal_Cards_In_Increasing_Order.txt](/generated/950_Reveal_Cards_In_Increasing_Order.txt) |
 | `2024-04-09` | [2073](https://www.leetcode.com/problems/time-needed-to-buy-tickets/) | Time Needed to Buy Tickets | Array | [/source/Generator2073.py](/source/Generator2073.py) | [/generated/2073_Time_Needed_to_Buy_Tickets.txt](/generated/2073_Time_Needed_to_Buy_Tickets.txt) |
