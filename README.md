@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-04-13` | [85](https://www.leetcode.com/problems/maximal-rectangle/) | Maximal Rectangle | Array | [/source/Generator85.py](/source/Generator85.py) | [/generated/85_Maximal_Rectangle.txt](/generated/85_Maximal_Rectangle.txt) |
 | `2024-04-12` | [42](https://www.leetcode.com/problems/trapping-rain-water/) | Trapping Rain Water | Array | [/source/Generator42.py](/source/Generator42.py) | [/generated/42_Trapping_Rain_Water.txt](/generated/42_Trapping_Rain_Water.txt) |
 | `2024-04-11` | [402](https://www.leetcode.com/problems/remove-k-digits/) | Remove K Digits | String | [/source/Generator402.py](/source/Generator402.py) | [/generated/402_Remove_K_Digits.txt](/generated/402_Remove_K_Digits.txt) |
 | `2024-04-10` | [950](https://www.leetcode.com/problems/reveal-cards-in-increasing-order/) | Reveal Cards In Increasing Order | Array | [/source/Generator950.py](/source/Generator950.py) | [/generated/950_Reveal_Cards_In_Increasing_Order.txt](/generated/950_Reveal_Cards_In_Increasing_Order.txt) |
