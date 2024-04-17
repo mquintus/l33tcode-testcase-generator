@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-04-17` | [988](https://www.leetcode.com/problems/smallest-string-starting-from-leaf/) | Smallest String Starting From Leaf | String | [/source/Generator988.py](/source/Generator988.py) | [/generated/988_Smallest_String_Starting_From_Leaf.txt](/generated/988_Smallest_String_Starting_From_Leaf.txt) |
 | `2024-04-16` | [623](https://www.leetcode.com/problems/add-one-row-to-tree/) | Add One Row to Tree | Tree | [/source/Generator623.py](/source/Generator623.py) | [/generated/623_Add_One_Row_to_Tree.txt](/generated/623_Add_One_Row_to_Tree.txt) |
 | `2024-04-15` | [129](https://www.leetcode.com/problems/sum-root-to-leaf-numbers/) | Sum Root to Leaf Numbers | Tree | [/source/Generator129.py](/source/Generator129.py) | [/generated/129_Sum_Root_to_Leaf_Numbers.txt](/generated/129_Sum_Root_to_Leaf_Numbers.txt) |
 | `2024-04-14` | [404](https://www.leetcode.com/problems/sum-of-left-leaves/) | Sum of Left Leaves | Tree | [/source/Generator404.py](/source/Generator404.py) | [/generated/404_Sum_of_Left_Leaves.txt](/generated/404_Sum_of_Left_Leaves.txt) |
