@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-04-20` | [1992](https://www.leetcode.com/problems/find-all-groups-of-farmland/) | Find All Groups of Farmland | Array | [/source/Generator1992.py](/source/Generator1992.py) | [/generated/1992_Find_All_Groups_of_Farmland.txt](/generated/1992_Find_All_Groups_of_Farmland.txt) |
 | `2024-04-19` | [200](https://www.leetcode.com/problems/number-of-islands/) | Number of Islands | Array | [/source/Generator200.py](/source/Generator200.py) | [/generated/200_Number_of_Islands.txt](/generated/200_Number_of_Islands.txt) |
 | `2024-04-18` | [463](https://www.leetcode.com/problems/island-perimeter/) | Island Perimeter | Array | [/source/Generator463.py](/source/Generator463.py) | [/generated/463_Island_Perimeter.txt](/generated/463_Island_Perimeter.txt) |
 | `2024-04-17` | [988](https://www.leetcode.com/problems/smallest-string-starting-from-leaf/) | Smallest String Starting From Leaf | String | [/source/Generator988.py](/source/Generator988.py) | [/generated/988_Smallest_String_Starting_From_Leaf.txt](/generated/988_Smallest_String_Starting_From_Leaf.txt) |
