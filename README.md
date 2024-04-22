@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-04-22` | [752](https://www.leetcode.com/problems/open-the-lock/) | Open the Lock | Array | [/source/Generator752.py](/source/Generator752.py) | [/generated/752_Open_the_Lock.txt](/generated/752_Open_the_Lock.txt) |
 | `2024-04-21` | [1971](https://www.leetcode.com/problems/find-if-path-exists-in-graph/) | Find if Path Exists in Graph | Graph | [/source/Generator1971.py](/source/Generator1971.py) | [/generated/1971_Find_if_Path_Exists_in_Graph.txt](/generated/1971_Find_if_Path_Exists_in_Graph.txt) |
 | `2024-04-20` | [1992](https://www.leetcode.com/problems/find-all-groups-of-farmland/) | Find All Groups of Farmland | Array | [/source/Generator1992.py](/source/Generator1992.py) | [/generated/1992_Find_All_Groups_of_Farmland.txt](/generated/1992_Find_All_Groups_of_Farmland.txt) |
 | `2024-04-19` | [200](https://www.leetcode.com/problems/number-of-islands/) | Number of Islands | Array | [/source/Generator200.py](/source/Generator200.py) | [/generated/200_Number_of_Islands.txt](/generated/200_Number_of_Islands.txt) |
