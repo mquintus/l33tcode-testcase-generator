@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-04-27` | [514](https://www.leetcode.com/problems/freedom-trail/) | Freedom Trail | String | [/source/Generator514.py](/source/Generator514.py) | [/generated/514_Freedom_Trail.txt](/generated/514_Freedom_Trail.txt) |
 | `2024-04-26` | [1289](https://www.leetcode.com/problems/minimum-falling-path-sum-ii/) | Minimum Falling Path Sum II | Array | [/source/Generator1289.py](/source/Generator1289.py) | [/generated/1289_Minimum_Falling_Path_Sum_II.txt](/generated/1289_Minimum_Falling_Path_Sum_II.txt) |
 | `2024-04-25` | [2370](https://www.leetcode.com/problems/longest-ideal-subsequence/) | Longest Ideal Subsequence | Hash Table | [/source/Generator2370.py](/source/Generator2370.py) | [/generated/2370_Longest_Ideal_Subsequence.txt](/generated/2370_Longest_Ideal_Subsequence.txt) |
 | `2024-04-24` | [1137](https://www.leetcode.com/problems/n-th-tribonacci-number/) | N-th Tribonacci Number | Math | [/source/Generator1137.py](/source/Generator1137.py) | [/generated/1137_N-th_Tribonacci_Number.txt](/generated/1137_N-th_Tribonacci_Number.txt) |
