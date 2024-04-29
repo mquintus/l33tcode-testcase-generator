@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-04-29` | [2997](https://www.leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Minimum Number of Operations to Make Array XOR Equal to K | Array | [/source/Generator2997.py](/source/Generator2997.py) | [/generated/2997_Minimum_Number_of_Operations_to_Make_Array_XOR_Equal_to_K.txt](/generated/2997_Minimum_Number_of_Operations_to_Make_Array_XOR_Equal_to_K.txt) |
 | `2024-04-28` | [834](https://www.leetcode.com/problems/sum-of-distances-in-tree/) | Sum of Distances in Tree | Graph | [/source/Generator834.py](/source/Generator834.py) | [/generated/834_Sum_of_Distances_in_Tree.txt](/generated/834_Sum_of_Distances_in_Tree.txt) |
 | `2024-04-27` | [514](https://www.leetcode.com/problems/freedom-trail/) | Freedom Trail | String | [/source/Generator514.py](/source/Generator514.py) | [/generated/514_Freedom_Trail.txt](/generated/514_Freedom_Trail.txt) |
 | `2024-04-26` | [1289](https://www.leetcode.com/problems/minimum-falling-path-sum-ii/) | Minimum Falling Path Sum II | Array | [/source/Generator1289.py](/source/Generator1289.py) | [/generated/1289_Minimum_Falling_Path_Sum_II.txt](/generated/1289_Minimum_Falling_Path_Sum_II.txt) |
