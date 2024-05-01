@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-05-01` | [2000](https://www.leetcode.com/problems/reverse-prefix-of-word/) | Reverse Prefix of Word | Two Pointers | [/source/Generator2000.py](/source/Generator2000.py) | [/generated/2000_Reverse_Prefix_of_Word.txt](/generated/2000_Reverse_Prefix_of_Word.txt) |
 | `2024-04-30` | [1915](https://www.leetcode.com/problems/number-of-wonderful-substrings/) | Number of Wonderful Substrings | Hash Table | [/source/Generator1915.py](/source/Generator1915.py) | [/generated/1915_Number_of_Wonderful_Substrings.txt](/generated/1915_Number_of_Wonderful_Substrings.txt) |
 | `2024-04-29` | [2997](https://www.leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Minimum Number of Operations to Make Array XOR Equal to K | Array | [/source/Generator2997.py](/source/Generator2997.py) | [/generated/2997_Minimum_Number_of_Operations_to_Make_Array_XOR_Equal_to_K.txt](/generated/2997_Minimum_Number_of_Operations_to_Make_Array_XOR_Equal_to_K.txt) |
 | `2024-04-28` | [834](https://www.leetcode.com/problems/sum-of-distances-in-tree/) | Sum of Distances in Tree | Graph | [/source/Generator834.py](/source/Generator834.py) | [/generated/834_Sum_of_Distances_in_Tree.txt](/generated/834_Sum_of_Distances_in_Tree.txt) |
