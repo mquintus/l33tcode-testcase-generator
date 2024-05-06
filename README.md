@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-05-06` | [2487](https://www.leetcode.com/problems/remove-nodes-from-linked-list/) | Remove Nodes From Linked List | Linked List | [/source/Generator2487.py](/source/Generator2487.py) | [/generated/2487_Remove_Nodes_From_Linked_List.txt](/generated/2487_Remove_Nodes_From_Linked_List.txt) |
 | `2024-05-05` | [237](https://www.leetcode.com/problems/delete-node-in-a-linked-list/) | Delete Node in a Linked List | Linked List | [/source/Generator237.py](/source/Generator237.py) | [/generated/237_Delete_Node_in_a_Linked_List.txt](/generated/237_Delete_Node_in_a_Linked_List.txt) |
 | `2024-05-04` | [881](https://www.leetcode.com/problems/boats-to-save-people/) | Boats to Save People | Array | [/source/Generator881.py](/source/Generator881.py) | [/generated/881_Boats_to_Save_People.txt](/generated/881_Boats_to_Save_People.txt) |
 | `2024-05-03` | [165](https://www.leetcode.com/problems/compare-version-numbers/) | Compare Version Numbers | Two Pointers | [/source/Generator165.py](/source/Generator165.py) | [/generated/165_Compare_Version_Numbers.txt](/generated/165_Compare_Version_Numbers.txt) |
