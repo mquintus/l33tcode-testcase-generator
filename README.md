@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-05-09` | [3075](https://www.leetcode.com/problems/maximize-happiness-of-selected-children/) | Maximize Happiness of Selected Children | Array | [/source/Generator3075.py](/source/Generator3075.py) | [/generated/3075_Maximize_Happiness_of_Selected_Children.txt](/generated/3075_Maximize_Happiness_of_Selected_Children.txt) |
 | `2024-05-08` | [506](https://www.leetcode.com/problems/relative-ranks/) | Relative Ranks | Array | [/source/Generator506.py](/source/Generator506.py) | [/generated/506_Relative_Ranks.txt](/generated/506_Relative_Ranks.txt) |
 | `2024-05-07` | [2816](https://www.leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | Double a Number Represented as a Linked List | Linked List | [/source/Generator2816.py](/source/Generator2816.py) | [/generated/2816_Double_a_Number_Represented_as_a_Linked_List.txt](/generated/2816_Double_a_Number_Represented_as_a_Linked_List.txt) |
 | `2024-05-06` | [2487](https://www.leetcode.com/problems/remove-nodes-from-linked-list/) | Remove Nodes From Linked List | Linked List | [/source/Generator2487.py](/source/Generator2487.py) | [/generated/2487_Remove_Nodes_From_Linked_List.txt](/generated/2487_Remove_Nodes_From_Linked_List.txt) |
