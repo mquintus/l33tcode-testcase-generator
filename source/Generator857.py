@@ -5,18 +5,21 @@ import random
 '''
 def generate() -> str:
     tests = []
-    min_num = 2
+    min_num = 1
     max_num = 10**4
-    minval = -1000
-    maxval = 1000
-
+    
     n = min_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
-    n = max_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
+    k = 1
+    quality = [random.randint(1, n) for _ in range(n)]
+    wages   = [random.randint(1, n) for _ in range(n)]
+    test = f"{quality}\n{wages}\n{k}"
+    tests.append(test.replace(' ', ''))
+
+    for n in [100, max_num]:
+        for k in [3, n//3, 2*(n//3)]: 
+            quality = [random.randint(1, n) for _ in range(n)]
+            wages   = [random.randint(1, n) for _ in range(n)]
+            test = f"{quality}\n{wages}\n{k}"
+            tests.append(test.replace(' ', ''))
     return '''
 '''.join(tests)
