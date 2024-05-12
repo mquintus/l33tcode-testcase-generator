@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-05-12` | [2373](https://www.leetcode.com/problems/largest-local-values-in-a-matrix/) | Largest Local Values in a Matrix | Array | [/source/Generator2373.py](/source/Generator2373.py) | [/generated/2373_Largest_Local_Values_in_a_Matrix.txt](/generated/2373_Largest_Local_Values_in_a_Matrix.txt) |
 | `2024-05-11` | [857](https://www.leetcode.com/problems/minimum-cost-to-hire-k-workers/) | Minimum Cost to Hire K Workers | Array | [/source/Generator857.py](/source/Generator857.py) | [/generated/857_Minimum_Cost_to_Hire_K_Workers.txt](/generated/857_Minimum_Cost_to_Hire_K_Workers.txt) |
 | `2024-05-10` | [786](https://www.leetcode.com/problems/k-th-smallest-prime-fraction/) | K-th Smallest Prime Fraction | Array | [/source/Generator786.py](/source/Generator786.py) | [/generated/786_K-th_Smallest_Prime_Fraction.txt](/generated/786_K-th_Smallest_Prime_Fraction.txt) |
 | `2024-05-09` | [3075](https://www.leetcode.com/problems/maximize-happiness-of-selected-children/) | Maximize Happiness of Selected Children | Array | [/source/Generator3075.py](/source/Generator3075.py) | [/generated/3075_Maximize_Happiness_of_Selected_Children.txt](/generated/3075_Maximize_Happiness_of_Selected_Children.txt) |
