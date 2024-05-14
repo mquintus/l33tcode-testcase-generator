@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-05-14` | [1219](https://www.leetcode.com/problems/path-with-maximum-gold/) | Path with Maximum Gold | Array | [/source/Generator1219.py](/source/Generator1219.py) | [/generated/1219_Path_with_Maximum_Gold.txt](/generated/1219_Path_with_Maximum_Gold.txt) |
 | `2024-05-13` | [861](https://www.leetcode.com/problems/score-after-flipping-matrix/) | Score After Flipping Matrix | Array | [/source/Generator861.py](/source/Generator861.py) | [/generated/861_Score_After_Flipping_Matrix.txt](/generated/861_Score_After_Flipping_Matrix.txt) |
 | `2024-05-12` | [2373](https://www.leetcode.com/problems/largest-local-values-in-a-matrix/) | Largest Local Values in a Matrix | Array | [/source/Generator2373.py](/source/Generator2373.py) | [/generated/2373_Largest_Local_Values_in_a_Matrix.txt](/generated/2373_Largest_Local_Values_in_a_Matrix.txt) |
 | `2024-05-11` | [857](https://www.leetcode.com/problems/minimum-cost-to-hire-k-workers/) | Minimum Cost to Hire K Workers | Array | [/source/Generator857.py](/source/Generator857.py) | [/generated/857_Minimum_Cost_to_Hire_K_Workers.txt](/generated/857_Minimum_Cost_to_Hire_K_Workers.txt) |
