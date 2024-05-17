@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-05-17` | [1325](https://www.leetcode.com/problems/delete-leaves-with-a-given-value/) | Delete Leaves With a Given Value | Tree | [/source/Generator1325.py](/source/Generator1325.py) | [/generated/1325_Delete_Leaves_With_a_Given_Value.txt](/generated/1325_Delete_Leaves_With_a_Given_Value.txt) |
 | `2024-05-16` | [2331](https://www.leetcode.com/problems/evaluate-boolean-binary-tree/) | Evaluate Boolean Binary Tree | Tree | [/source/Generator2331.py](/source/Generator2331.py) | [/generated/2331_Evaluate_Boolean_Binary_Tree.txt](/generated/2331_Evaluate_Boolean_Binary_Tree.txt) |
 | `2024-05-15` | [2812](https://www.leetcode.com/problems/find-the-safest-path-in-a-grid/) | Find the Safest Path in a Grid | Array | [/source/Generator2812.py](/source/Generator2812.py) | [/generated/2812_Find_the_Safest_Path_in_a_Grid.txt](/generated/2812_Find_the_Safest_Path_in_a_Grid.txt) |
 | `2024-05-14` | [1219](https://www.leetcode.com/problems/path-with-maximum-gold/) | Path with Maximum Gold | Array | [/source/Generator1219.py](/source/Generator1219.py) | [/generated/1219_Path_with_Maximum_Gold.txt](/generated/1219_Path_with_Maximum_Gold.txt) |
