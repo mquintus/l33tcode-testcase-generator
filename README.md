@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-05-20` | [1863](https://www.leetcode.com/problems/sum-of-all-subset-xor-totals/) | Sum of All Subset XOR Totals | Array | [/source/Generator1863.py](/source/Generator1863.py) | [/generated/1863_Sum_of_All_Subset_XOR_Totals.txt](/generated/1863_Sum_of_All_Subset_XOR_Totals.txt) |
 | `2024-05-19` | [3068](https://www.leetcode.com/problems/find-the-maximum-sum-of-node-values/) | Find the Maximum Sum of Node Values | Array | [/source/Generator3068.py](/source/Generator3068.py) | [/generated/3068_Find_the_Maximum_Sum_of_Node_Values.txt](/generated/3068_Find_the_Maximum_Sum_of_Node_Values.txt) |
 | `2024-05-18` | [979](https://www.leetcode.com/problems/distribute-coins-in-binary-tree/) | Distribute Coins in Binary Tree | Tree | [/source/Generator979.py](/source/Generator979.py) | [/generated/979_Distribute_Coins_in_Binary_Tree.txt](/generated/979_Distribute_Coins_in_Binary_Tree.txt) |
 | `2024-05-17` | [1325](https://www.leetcode.com/problems/delete-leaves-with-a-given-value/) | Delete Leaves With a Given Value | Tree | [/source/Generator1325.py](/source/Generator1325.py) | [/generated/1325_Delete_Leaves_With_a_Given_Value.txt](/generated/1325_Delete_Leaves_With_a_Given_Value.txt) |
