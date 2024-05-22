@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-05-22` | [131](https://www.leetcode.com/problems/palindrome-partitioning/) | Palindrome Partitioning | String | [/source/Generator131.py](/source/Generator131.py) | [/generated/131_Palindrome_Partitioning.txt](/generated/131_Palindrome_Partitioning.txt) |
 | `2024-05-21` | [78](https://www.leetcode.com/problems/subsets/) | Subsets | Array | [/source/Generator78.py](/source/Generator78.py) | [/generated/78_Subsets.txt](/generated/78_Subsets.txt) |
 | `2024-05-20` | [1863](https://www.leetcode.com/problems/sum-of-all-subset-xor-totals/) | Sum of All Subset XOR Totals | Array | [/source/Generator1863.py](/source/Generator1863.py) | [/generated/1863_Sum_of_All_Subset_XOR_Totals.txt](/generated/1863_Sum_of_All_Subset_XOR_Totals.txt) |
 | `2024-05-19` | [3068](https://www.leetcode.com/problems/find-the-maximum-sum-of-node-values/) | Find the Maximum Sum of Node Values | Array | [/source/Generator3068.py](/source/Generator3068.py) | [/generated/3068_Find_the_Maximum_Sum_of_Node_Values.txt](/generated/3068_Find_the_Maximum_Sum_of_Node_Values.txt) |
