@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-05-26` | [552](https://www.leetcode.com/problems/student-attendance-record-ii/) | Student Attendance Record II | Dynamic Programming | [/source/Generator552.py](/source/Generator552.py) | [/generated/552_Student_Attendance_Record_II.txt](/generated/552_Student_Attendance_Record_II.txt) |
 | `2024-05-25` | [140](https://www.leetcode.com/problems/word-break-ii/) | Word Break II | Array | [/source/Generator140.py](/source/Generator140.py) | [/generated/140_Word_Break_II.txt](/generated/140_Word_Break_II.txt) |
 | `2024-05-24` | [1255](https://www.leetcode.com/problems/maximum-score-words-formed-by-letters/) | Maximum Score Words Formed by Letters | Array | [/source/Generator1255.py](/source/Generator1255.py) | [/generated/1255_Maximum_Score_Words_Formed_by_Letters.txt](/generated/1255_Maximum_Score_Words_Formed_by_Letters.txt) |
 | `2024-05-23` | [2597](https://www.leetcode.com/problems/the-number-of-beautiful-subsets/) | The Number of Beautiful Subsets | Array | [/source/Generator2597.py](/source/Generator2597.py) | [/generated/2597_The_Number_of_Beautiful_Subsets.txt](/generated/2597_The_Number_of_Beautiful_Subsets.txt) |
