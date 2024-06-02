@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-06-02` | [344](https://www.leetcode.com/problems/reverse-string/) | Reverse String | Two Pointers | [/source/Generator344.py](/source/Generator344.py) | [/generated/344_Reverse_String.txt](/generated/344_Reverse_String.txt) |
 | `2024-06-01` | [3110](https://www.leetcode.com/problems/score-of-a-string/) | Score of a String | String | [/source/Generator3110.py](/source/Generator3110.py) | [/generated/3110_Score_of_a_String.txt](/generated/3110_Score_of_a_String.txt) |
 | `2024-05-31` | [260](https://www.leetcode.com/problems/single-number-iii/) | Single Number III | Array | [/source/Generator260.py](/source/Generator260.py) | [/generated/260_Single_Number_III.txt](/generated/260_Single_Number_III.txt) |
 | `2024-05-30` | [1442](https://www.leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | Count Triplets That Can Form Two Arrays of Equal XOR | Array | [/source/Generator1442.py](/source/Generator1442.py) | [/generated/1442_Count_Triplets_That_Can_Form_Two_Arrays_of_Equal_XOR.txt](/generated/1442_Count_Triplets_That_Can_Form_Two_Arrays_of_Equal_XOR.txt) |
