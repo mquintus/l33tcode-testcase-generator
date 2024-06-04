@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-06-04` | [409](https://www.leetcode.com/problems/longest-palindrome/) | Longest Palindrome | Hash Table | [/source/Generator409.py](/source/Generator409.py) | [/generated/409_Longest_Palindrome.txt](/generated/409_Longest_Palindrome.txt) |
 | `2024-06-03` | [2486](https://www.leetcode.com/problems/append-characters-to-string-to-make-subsequence/) | Append Characters to String to Make Subsequence | Two Pointers | [/source/Generator2486.py](/source/Generator2486.py) | [/generated/2486_Append_Characters_to_String_to_Make_Subsequence.txt](/generated/2486_Append_Characters_to_String_to_Make_Subsequence.txt) |
 | `2024-06-02` | [344](https://www.leetcode.com/problems/reverse-string/) | Reverse String | Two Pointers | [/source/Generator344.py](/source/Generator344.py) | [/generated/344_Reverse_String.txt](/generated/344_Reverse_String.txt) |
 | `2024-06-01` | [3110](https://www.leetcode.com/problems/score-of-a-string/) | Score of a String | String | [/source/Generator3110.py](/source/Generator3110.py) | [/generated/3110_Score_of_a_String.txt](/generated/3110_Score_of_a_String.txt) |
