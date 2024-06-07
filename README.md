@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-06-07` | [648](https://www.leetcode.com/problems/replace-words/) | Replace Words | Array | [/source/Generator648.py](/source/Generator648.py) | [/generated/648_Replace_Words.txt](/generated/648_Replace_Words.txt) |
 | `2024-06-06` | [846](https://www.leetcode.com/problems/hand-of-straights/) | Hand of Straights | Array | [/source/Generator846.py](/source/Generator846.py) | [/generated/846_Hand_of_Straights.txt](/generated/846_Hand_of_Straights.txt) |
 | `2024-06-05` | [1002](https://www.leetcode.com/problems/find-common-characters/) | Find Common Characters | Array | [/source/Generator1002.py](/source/Generator1002.py) | [/generated/1002_Find_Common_Characters.txt](/generated/1002_Find_Common_Characters.txt) |
 | `2024-06-04` | [409](https://www.leetcode.com/problems/longest-palindrome/) | Longest Palindrome | Hash Table | [/source/Generator409.py](/source/Generator409.py) | [/generated/409_Longest_Palindrome.txt](/generated/409_Longest_Palindrome.txt) |
