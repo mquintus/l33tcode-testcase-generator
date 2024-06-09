@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-06-09` | [974](https://www.leetcode.com/problems/subarray-sums-divisible-by-k/) | Subarray Sums Divisible by K | Array | [/source/Generator974.py](/source/Generator974.py) | [/generated/974_Subarray_Sums_Divisible_by_K.txt](/generated/974_Subarray_Sums_Divisible_by_K.txt) |
 | `2024-06-08` | [523](https://www.leetcode.com/problems/continuous-subarray-sum/) | Continuous Subarray Sum | Array | [/source/Generator523.py](/source/Generator523.py) | [/generated/523_Continuous_Subarray_Sum.txt](/generated/523_Continuous_Subarray_Sum.txt) |
 | `2024-06-07` | [648](https://www.leetcode.com/problems/replace-words/) | Replace Words | Array | [/source/Generator648.py](/source/Generator648.py) | [/generated/648_Replace_Words.txt](/generated/648_Replace_Words.txt) |
 | `2024-06-06` | [846](https://www.leetcode.com/problems/hand-of-straights/) | Hand of Straights | Array | [/source/Generator846.py](/source/Generator846.py) | [/generated/846_Hand_of_Straights.txt](/generated/846_Hand_of_Straights.txt) |
