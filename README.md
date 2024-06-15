@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-06-15` | [502](https://www.leetcode.com/problems/ipo/) | IPO | Array | [/source/Generator502.py](/source/Generator502.py) | [/generated/502_IPO.txt](/generated/502_IPO.txt) |
 | `2024-06-14` | [945](https://www.leetcode.com/problems/minimum-increment-to-make-array-unique/) | Minimum Increment to Make Array Unique | Array | [/source/Generator945.py](/source/Generator945.py) | [/generated/945_Minimum_Increment_to_Make_Array_Unique.txt](/generated/945_Minimum_Increment_to_Make_Array_Unique.txt) |
 | `2024-06-13` | [2037](https://www.leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | Minimum Number of Moves to Seat Everyone | Array | [/source/Generator2037.py](/source/Generator2037.py) | [/generated/2037_Minimum_Number_of_Moves_to_Seat_Everyone.txt](/generated/2037_Minimum_Number_of_Moves_to_Seat_Everyone.txt) |
 | `2024-06-12` | [75](https://www.leetcode.com/problems/sort-colors/) | Sort Colors | Array | [/source/Generator75.py](/source/Generator75.py) | [/generated/75_Sort_Colors.txt](/generated/75_Sort_Colors.txt) |
