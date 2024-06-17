@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-06-17` | [633](https://www.leetcode.com/problems/sum-of-square-numbers/) | Sum of Square Numbers | Math | [/source/Generator633.py](/source/Generator633.py) | [/generated/633_Sum_of_Square_Numbers.txt](/generated/633_Sum_of_Square_Numbers.txt) |
 | `2024-06-16` | [330](https://www.leetcode.com/problems/patching-array/) | Patching Array | Array | [/source/Generator330.py](/source/Generator330.py) | [/generated/330_Patching_Array.txt](/generated/330_Patching_Array.txt) |
 | `2024-06-15` | [502](https://www.leetcode.com/problems/ipo/) | IPO | Array | [/source/Generator502.py](/source/Generator502.py) | [/generated/502_IPO.txt](/generated/502_IPO.txt) |
 | `2024-06-14` | [945](https://www.leetcode.com/problems/minimum-increment-to-make-array-unique/) | Minimum Increment to Make Array Unique | Array | [/source/Generator945.py](/source/Generator945.py) | [/generated/945_Minimum_Increment_to_Make_Array_Unique.txt](/generated/945_Minimum_Increment_to_Make_Array_Unique.txt) |
