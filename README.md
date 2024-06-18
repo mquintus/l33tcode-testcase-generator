@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-06-18` | [826](https://www.leetcode.com/problems/most-profit-assigning-work/) | Most Profit Assigning Work | Array | [/source/Generator826.py](/source/Generator826.py) | [/generated/826_Most_Profit_Assigning_Work.txt](/generated/826_Most_Profit_Assigning_Work.txt) |
 | `2024-06-17` | [633](https://www.leetcode.com/problems/sum-of-square-numbers/) | Sum of Square Numbers | Math | [/source/Generator633.py](/source/Generator633.py) | [/generated/633_Sum_of_Square_Numbers.txt](/generated/633_Sum_of_Square_Numbers.txt) |
 | `2024-06-16` | [330](https://www.leetcode.com/problems/patching-array/) | Patching Array | Array | [/source/Generator330.py](/source/Generator330.py) | [/generated/330_Patching_Array.txt](/generated/330_Patching_Array.txt) |
 | `2024-06-15` | [502](https://www.leetcode.com/problems/ipo/) | IPO | Array | [/source/Generator502.py](/source/Generator502.py) | [/generated/502_IPO.txt](/generated/502_IPO.txt) |
