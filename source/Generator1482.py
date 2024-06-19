@@ -90,6 +90,15 @@ def generate() -> str:
         m = n // k
         test = [random.randint(minval, maxval) for _ in range(n)]
         tests.append(test.__str__().replace(' ', '') + "\n" + str(m) + "\n" + str(k))
-    
+
+   # Random Testcases
+    for n in [min_num, 4321, 10000, 20000, max_num]:
+        max_k = min(n, 20)
+        k = random.randint(min_k, max_k)
+        m = n // k
+        test = [random.randint(minval, maxval) for _ in range(n)]
+        tests.append(test.__str__().replace(' ', '') + "\n" + str(m) + "\n" + str(k))
+
+  
     return '''
 '''.join(tests)
