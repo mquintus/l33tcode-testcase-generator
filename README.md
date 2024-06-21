@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-06-21` | [1052](https://www.leetcode.com/problems/grumpy-bookstore-owner/) | Grumpy Bookstore Owner | Array | [/source/Generator1052.py](/source/Generator1052.py) | [/generated/1052_Grumpy_Bookstore_Owner.txt](/generated/1052_Grumpy_Bookstore_Owner.txt) |
 | `2024-06-20` | [1552](https://www.leetcode.com/problems/magnetic-force-between-two-balls/) | Magnetic Force Between Two Balls | Array | [/source/Generator1552.py](/source/Generator1552.py) | [/generated/1552_Magnetic_Force_Between_Two_Balls.txt](/generated/1552_Magnetic_Force_Between_Two_Balls.txt) |
 | `2024-06-19` | [1482](https://www.leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Minimum Number of Days to Make m Bouquets | Array | [/source/Generator1482.py](/source/Generator1482.py) | [/generated/1482_Minimum_Number_of_Days_to_Make_m_Bouquets.txt](/generated/1482_Minimum_Number_of_Days_to_Make_m_Bouquets.txt) |
 | `2024-06-18` | [826](https://www.leetcode.com/problems/most-profit-assigning-work/) | Most Profit Assigning Work | Array | [/source/Generator826.py](/source/Generator826.py) | [/generated/826_Most_Profit_Assigning_Work.txt](/generated/826_Most_Profit_Assigning_Work.txt) |
