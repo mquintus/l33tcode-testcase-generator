@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-06-27` | [1791](https://www.leetcode.com/problems/find-center-of-star-graph/) | Find Center of Star Graph | Graph | [/source/Generator1791.py](/source/Generator1791.py) | [/generated/1791_Find_Center_of_Star_Graph.txt](/generated/1791_Find_Center_of_Star_Graph.txt) |
 | `2024-06-26` | [1382](https://www.leetcode.com/problems/balance-a-binary-search-tree/) | Balance a Binary Search Tree | Divide and Conquer | [/source/Generator1382.py](/source/Generator1382.py) | [/generated/1382_Balance_a_Binary_Search_Tree.txt](/generated/1382_Balance_a_Binary_Search_Tree.txt) |
 | `2024-06-25` | [1038](https://www.leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | Binary Search Tree to Greater Sum Tree | Tree | [/source/Generator1038.py](/source/Generator1038.py) | [/generated/1038_Binary_Search_Tree_to_Greater_Sum_Tree.txt](/generated/1038_Binary_Search_Tree_to_Greater_Sum_Tree.txt) |
 | `2024-06-24` | [995](https://www.leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | Minimum Number of K Consecutive Bit Flips | Array | [/source/Generator995.py](/source/Generator995.py) | [/generated/995_Minimum_Number_of_K_Consecutive_Bit_Flips.txt](/generated/995_Minimum_Number_of_K_Consecutive_Bit_Flips.txt) |
