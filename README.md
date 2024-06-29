@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-06-29` | [2192](https://www.leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | All Ancestors of a Node in a Directed Acyclic Graph | Graph | [/source/Generator2192.py](/source/Generator2192.py) | [/generated/2192_All_Ancestors_of_a_Node_in_a_Directed_Acyclic_Graph.txt](/generated/2192_All_Ancestors_of_a_Node_in_a_Directed_Acyclic_Graph.txt) |
 | `2024-06-28` | [2285](https://www.leetcode.com/problems/maximum-total-importance-of-roads/) | Maximum Total Importance of Roads | Graph | [/source/Generator2285.py](/source/Generator2285.py) | [/generated/2285_Maximum_Total_Importance_of_Roads.txt](/generated/2285_Maximum_Total_Importance_of_Roads.txt) |
 | `2024-06-27` | [1791](https://www.leetcode.com/problems/find-center-of-star-graph/) | Find Center of Star Graph | Graph | [/source/Generator1791.py](/source/Generator1791.py) | [/generated/1791_Find_Center_of_Star_Graph.txt](/generated/1791_Find_Center_of_Star_Graph.txt) |
 | `2024-06-26` | [1382](https://www.leetcode.com/problems/balance-a-binary-search-tree/) | Balance a Binary Search Tree | Divide and Conquer | [/source/Generator1382.py](/source/Generator1382.py) | [/generated/1382_Balance_a_Binary_Search_Tree.txt](/generated/1382_Balance_a_Binary_Search_Tree.txt) |
