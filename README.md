@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-07-04` | [2181](https://www.leetcode.com/problems/merge-nodes-in-between-zeros/) | Merge Nodes in Between Zeros | Linked List | [/source/Generator2181.py](/source/Generator2181.py) | [/generated/2181_Merge_Nodes_in_Between_Zeros.txt](/generated/2181_Merge_Nodes_in_Between_Zeros.txt) |
 | `2024-07-03` | [1509](https://www.leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Minimum Difference Between Largest and Smallest Value in Three Moves | Array | [/source/Generator1509.py](/source/Generator1509.py) | [/generated/1509_Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves.txt](/generated/1509_Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves.txt) |
 | `2024-07-02` | [350](https://www.leetcode.com/problems/intersection-of-two-arrays-ii/) | Intersection of Two Arrays II | Array | [/source/Generator350.py](/source/Generator350.py) | [/generated/350_Intersection_of_Two_Arrays_II.txt](/generated/350_Intersection_of_Two_Arrays_II.txt) |
 | `2024-07-01` | [1550](https://www.leetcode.com/problems/three-consecutive-odds/) | Three Consecutive Odds | Array | [/source/Generator1550.py](/source/Generator1550.py) | [/generated/1550_Three_Consecutive_Odds.txt](/generated/1550_Three_Consecutive_Odds.txt) |
