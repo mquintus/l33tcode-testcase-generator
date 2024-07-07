@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-07-07` | [1518](https://www.leetcode.com/problems/water-bottles/) | Water Bottles | Math | [/source/Generator1518.py](/source/Generator1518.py) | [/generated/1518_Water_Bottles.txt](/generated/1518_Water_Bottles.txt) |
 | `2024-07-06` | [2582](https://www.leetcode.com/problems/pass-the-pillow/) | Pass the Pillow | Math | [/source/Generator2582.py](/source/Generator2582.py) | [/generated/2582_Pass_the_Pillow.txt](/generated/2582_Pass_the_Pillow.txt) |
 | `2024-07-05` | [2058](https://www.leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Find the Minimum and Maximum Number of Nodes Between Critical Points | Linked List | [/source/Generator2058.py](/source/Generator2058.py) | [/generated/2058_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.txt](/generated/2058_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.txt) |
 | `2024-07-04` | [2181](https://www.leetcode.com/problems/merge-nodes-in-between-zeros/) | Merge Nodes in Between Zeros | Linked List | [/source/Generator2181.py](/source/Generator2181.py) | [/generated/2181_Merge_Nodes_in_Between_Zeros.txt](/generated/2181_Merge_Nodes_in_Between_Zeros.txt) |
