@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-07-11` | [1190](https://www.leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Reverse Substrings Between Each Pair of Parentheses | String | [/source/Generator1190.py](/source/Generator1190.py) | [/generated/1190_Reverse_Substrings_Between_Each_Pair_of_Parentheses.txt](/generated/1190_Reverse_Substrings_Between_Each_Pair_of_Parentheses.txt) |
 | `2024-07-10` | [1598](https://www.leetcode.com/problems/crawler-log-folder/) | Crawler Log Folder | Array | [/source/Generator1598.py](/source/Generator1598.py) | [/generated/1598_Crawler_Log_Folder.txt](/generated/1598_Crawler_Log_Folder.txt) |
 | `2024-07-09` | [1701](https://www.leetcode.com/problems/average-waiting-time/) | Average Waiting Time | Array | [/source/Generator1701.py](/source/Generator1701.py) | [/generated/1701_Average_Waiting_Time.txt](/generated/1701_Average_Waiting_Time.txt) |
 | `2024-07-08` | [1823](https://www.leetcode.com/problems/find-the-winner-of-the-circular-game/) | Find the Winner of the Circular Game | Array | [/source/Generator1823.py](/source/Generator1823.py) | [/generated/1823_Find_the_Winner_of_the_Circular_Game.txt](/generated/1823_Find_the_Winner_of_the_Circular_Game.txt) |
