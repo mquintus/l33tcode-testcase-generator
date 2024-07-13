@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-07-13` | [2751](https://www.leetcode.com/problems/robot-collisions/) | Robot Collisions | Array | [/source/Generator2751.py](/source/Generator2751.py) | [/generated/2751_Robot_Collisions.txt](/generated/2751_Robot_Collisions.txt) |
 | `2024-07-12` | [1717](https://www.leetcode.com/problems/maximum-score-from-removing-substrings/) | Maximum Score From Removing Substrings | String | [/source/Generator1717.py](/source/Generator1717.py) | [/generated/1717_Maximum_Score_From_Removing_Substrings.txt](/generated/1717_Maximum_Score_From_Removing_Substrings.txt) |
 | `2024-07-11` | [1190](https://www.leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Reverse Substrings Between Each Pair of Parentheses | String | [/source/Generator1190.py](/source/Generator1190.py) | [/generated/1190_Reverse_Substrings_Between_Each_Pair_of_Parentheses.txt](/generated/1190_Reverse_Substrings_Between_Each_Pair_of_Parentheses.txt) |
 | `2024-07-10` | [1598](https://www.leetcode.com/problems/crawler-log-folder/) | Crawler Log Folder | Array | [/source/Generator1598.py](/source/Generator1598.py) | [/generated/1598_Crawler_Log_Folder.txt](/generated/1598_Crawler_Log_Folder.txt) |
