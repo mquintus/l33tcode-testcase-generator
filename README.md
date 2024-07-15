@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-07-15` | [2196](https://www.leetcode.com/problems/create-binary-tree-from-descriptions/) | Create Binary Tree From Descriptions | Array | [/source/Generator2196.py](/source/Generator2196.py) | [/generated/2196_Create_Binary_Tree_From_Descriptions.txt](/generated/2196_Create_Binary_Tree_From_Descriptions.txt) |
 | `2024-07-14` | [726](https://www.leetcode.com/problems/number-of-atoms/) | Number of Atoms | Hash Table | [/source/Generator726.py](/source/Generator726.py) | [/generated/726_Number_of_Atoms.txt](/generated/726_Number_of_Atoms.txt) |
 | `2024-07-13` | [2751](https://www.leetcode.com/problems/robot-collisions/) | Robot Collisions | Array | [/source/Generator2751.py](/source/Generator2751.py) | [/generated/2751_Robot_Collisions.txt](/generated/2751_Robot_Collisions.txt) |
 | `2024-07-12` | [1717](https://www.leetcode.com/problems/maximum-score-from-removing-substrings/) | Maximum Score From Removing Substrings | String | [/source/Generator1717.py](/source/Generator1717.py) | [/generated/1717_Maximum_Score_From_Removing_Substrings.txt](/generated/1717_Maximum_Score_From_Removing_Substrings.txt) |
