@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-07-16` | [2096](https://www.leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | Step-By-Step Directions From a Binary Tree Node to Another | String | [/source/Generator2096.py](/source/Generator2096.py) | [/generated/2096_Step-By-Step_Directions_From_a_Binary_Tree_Node_to_Another.txt](/generated/2096_Step-By-Step_Directions_From_a_Binary_Tree_Node_to_Another.txt) |
 | `2024-07-15` | [2196](https://www.leetcode.com/problems/create-binary-tree-from-descriptions/) | Create Binary Tree From Descriptions | Array | [/source/Generator2196.py](/source/Generator2196.py) | [/generated/2196_Create_Binary_Tree_From_Descriptions.txt](/generated/2196_Create_Binary_Tree_From_Descriptions.txt) |
 | `2024-07-14` | [726](https://www.leetcode.com/problems/number-of-atoms/) | Number of Atoms | Hash Table | [/source/Generator726.py](/source/Generator726.py) | [/generated/726_Number_of_Atoms.txt](/generated/726_Number_of_Atoms.txt) |
 | `2024-07-13` | [2751](https://www.leetcode.com/problems/robot-collisions/) | Robot Collisions | Array | [/source/Generator2751.py](/source/Generator2751.py) | [/generated/2751_Robot_Collisions.txt](/generated/2751_Robot_Collisions.txt) |
