@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-07-17` | [1110](https://www.leetcode.com/problems/delete-nodes-and-return-forest/) | Delete Nodes And Return Forest | Array | [/source/Generator1110.py](/source/Generator1110.py) | [/generated/1110_Delete_Nodes_And_Return_Forest.txt](/generated/1110_Delete_Nodes_And_Return_Forest.txt) |
 | `2024-07-16` | [2096](https://www.leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | Step-By-Step Directions From a Binary Tree Node to Another | String | [/source/Generator2096.py](/source/Generator2096.py) | [/generated/2096_Step-By-Step_Directions_From_a_Binary_Tree_Node_to_Another.txt](/generated/2096_Step-By-Step_Directions_From_a_Binary_Tree_Node_to_Another.txt) |
 | `2024-07-15` | [2196](https://www.leetcode.com/problems/create-binary-tree-from-descriptions/) | Create Binary Tree From Descriptions | Array | [/source/Generator2196.py](/source/Generator2196.py) | [/generated/2196_Create_Binary_Tree_From_Descriptions.txt](/generated/2196_Create_Binary_Tree_From_Descriptions.txt) |
 | `2024-07-14` | [726](https://www.leetcode.com/problems/number-of-atoms/) | Number of Atoms | Hash Table | [/source/Generator726.py](/source/Generator726.py) | [/generated/726_Number_of_Atoms.txt](/generated/726_Number_of_Atoms.txt) |
