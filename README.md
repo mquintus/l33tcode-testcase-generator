@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-07-19` | [1380](https://www.leetcode.com/problems/lucky-numbers-in-a-matrix/) | Lucky Numbers in a Matrix | Array | [/source/Generator1380.py](/source/Generator1380.py) | [/generated/1380_Lucky_Numbers_in_a_Matrix.txt](/generated/1380_Lucky_Numbers_in_a_Matrix.txt) |
 | `2024-07-18` | [1530](https://www.leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | Number of Good Leaf Nodes Pairs | Tree | [/source/Generator1530.py](/source/Generator1530.py) | [/generated/1530_Number_of_Good_Leaf_Nodes_Pairs.txt](/generated/1530_Number_of_Good_Leaf_Nodes_Pairs.txt) |
 | `2024-07-17` | [1110](https://www.leetcode.com/problems/delete-nodes-and-return-forest/) | Delete Nodes And Return Forest | Array | [/source/Generator1110.py](/source/Generator1110.py) | [/generated/1110_Delete_Nodes_And_Return_Forest.txt](/generated/1110_Delete_Nodes_And_Return_Forest.txt) |
 | `2024-07-16` | [2096](https://www.leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | Step-By-Step Directions From a Binary Tree Node to Another | String | [/source/Generator2096.py](/source/Generator2096.py) | [/generated/2096_Step-By-Step_Directions_From_a_Binary_Tree_Node_to_Another.txt](/generated/2096_Step-By-Step_Directions_From_a_Binary_Tree_Node_to_Another.txt) |
