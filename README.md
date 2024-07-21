@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-07-21` | [2392](https://www.leetcode.com/problems/build-a-matrix-with-conditions/) | Build a Matrix With Conditions | Graph | [/source/Generator2392.py](/source/Generator2392.py) | [/generated/2392_Build_a_Matrix_With_Conditions.txt](/generated/2392_Build_a_Matrix_With_Conditions.txt) |
 | `2024-07-20` | [1605](https://www.leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | Find Valid Matrix Given Row and Column Sums | Array | [/source/Generator1605.py](/source/Generator1605.py) | [/generated/1605_Find_Valid_Matrix_Given_Row_and_Column_Sums.txt](/generated/1605_Find_Valid_Matrix_Given_Row_and_Column_Sums.txt) |
 | `2024-07-19` | [1380](https://www.leetcode.com/problems/lucky-numbers-in-a-matrix/) | Lucky Numbers in a Matrix | Array | [/source/Generator1380.py](/source/Generator1380.py) | [/generated/1380_Lucky_Numbers_in_a_Matrix.txt](/generated/1380_Lucky_Numbers_in_a_Matrix.txt) |
 | `2024-07-18` | [1530](https://www.leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | Number of Good Leaf Nodes Pairs | Tree | [/source/Generator1530.py](/source/Generator1530.py) | [/generated/1530_Number_of_Good_Leaf_Nodes_Pairs.txt](/generated/1530_Number_of_Good_Leaf_Nodes_Pairs.txt) |
