@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-07-23` | [1636](https://www.leetcode.com/problems/sort-array-by-increasing-frequency/) | Sort Array by Increasing Frequency | Array | [/source/Generator1636.py](/source/Generator1636.py) | [/generated/1636_Sort_Array_by_Increasing_Frequency.txt](/generated/1636_Sort_Array_by_Increasing_Frequency.txt) |
 | `2024-07-22` | [2418](https://www.leetcode.com/problems/sort-the-people/) | Sort the People | Array | [/source/Generator2418.py](/source/Generator2418.py) | [/generated/2418_Sort_the_People.txt](/generated/2418_Sort_the_People.txt) |
 | `2024-07-21` | [2392](https://www.leetcode.com/problems/build-a-matrix-with-conditions/) | Build a Matrix With Conditions | Graph | [/source/Generator2392.py](/source/Generator2392.py) | [/generated/2392_Build_a_Matrix_With_Conditions.txt](/generated/2392_Build_a_Matrix_With_Conditions.txt) |
 | `2024-07-20` | [1605](https://www.leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | Find Valid Matrix Given Row and Column Sums | Array | [/source/Generator1605.py](/source/Generator1605.py) | [/generated/1605_Find_Valid_Matrix_Given_Row_and_Column_Sums.txt](/generated/1605_Find_Valid_Matrix_Given_Row_and_Column_Sums.txt) |
