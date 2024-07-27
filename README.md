@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-07-27` | [2976](https://www.leetcode.com/problems/minimum-cost-to-convert-string-i/) | Minimum Cost to Convert String I | Graph | [/source/Generator2976.py](/source/Generator2976.py) | [/generated/2976_Minimum_Cost_to_Convert_String_I.txt](/generated/2976_Minimum_Cost_to_Convert_String_I.txt) |
 | `2024-07-26` | [1334](https://www.leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Find the City With the Smallest Number of Neighbors at a Threshold Distance | Graph | [/source/Generator1334.py](/source/Generator1334.py) | [/generated/1334_Find_the_City_With_the_Smallest_Number_of_Neighbors_at_a_Threshold_Distance.txt](/generated/1334_Find_the_City_With_the_Smallest_Number_of_Neighbors_at_a_Threshold_Distance.txt) |
 | `2024-07-25` | [912](https://www.leetcode.com/problems/sort-an-array/) | Sort an Array | Array | [/source/Generator912.py](/source/Generator912.py) | [/generated/912_Sort_an_Array.txt](/generated/912_Sort_an_Array.txt) |
 | `2024-07-24` | [2191](https://www.leetcode.com/problems/sort-the-jumbled-numbers/) | Sort the Jumbled Numbers | Array | [/source/Generator2191.py](/source/Generator2191.py) | [/generated/2191_Sort_the_Jumbled_Numbers.txt](/generated/2191_Sort_the_Jumbled_Numbers.txt) |
