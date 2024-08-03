@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-08-03` | [1460](https://www.leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/) | Make Two Arrays Equal by Reversing Subarrays | Array | [/source/Generator1460.py](/source/Generator1460.py) | [/generated/1460_Make_Two_Arrays_Equal_by_Reversing_Subarrays.txt](/generated/1460_Make_Two_Arrays_Equal_by_Reversing_Subarrays.txt) |
 | `2024-08-02` | [2134](https://www.leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) | Minimum Swaps to Group All 1's Together II | Array | [/source/Generator2134.py](/source/Generator2134.py) | [/generated/2134_Minimum_Swaps_to_Group_All_1's_Together_II.txt](/generated/2134_Minimum_Swaps_to_Group_All_1's_Together_II.txt) |
 | `2024-08-01` | [2678](https://www.leetcode.com/problems/number-of-senior-citizens/) | Number of Senior Citizens | Array | [/source/Generator2678.py](/source/Generator2678.py) | [/generated/2678_Number_of_Senior_Citizens.txt](/generated/2678_Number_of_Senior_Citizens.txt) |
 | `2024-07-31` | [1105](https://www.leetcode.com/problems/filling-bookcase-shelves/) | Filling Bookcase Shelves | Array | [/source/Generator1105.py](/source/Generator1105.py) | [/generated/1105_Filling_Bookcase_Shelves.txt](/generated/1105_Filling_Bookcase_Shelves.txt) |
