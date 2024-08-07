@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-08-07` | [273](https://www.leetcode.com/problems/integer-to-english-words/) | Integer to English Words | Math | [/source/Generator273.py](/source/Generator273.py) | [/generated/273_Integer_to_English_Words.txt](/generated/273_Integer_to_English_Words.txt) |
 | `2024-08-06` | [3016](https://www.leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Minimum Number of Pushes to Type Word II | Hash Table | [/source/Generator3016.py](/source/Generator3016.py) | [/generated/3016_Minimum_Number_of_Pushes_to_Type_Word_II.txt](/generated/3016_Minimum_Number_of_Pushes_to_Type_Word_II.txt) |
 | `2024-08-05` | [2053](https://www.leetcode.com/problems/kth-distinct-string-in-an-array/) | Kth Distinct String in an Array | Array | [/source/Generator2053.py](/source/Generator2053.py) | [/generated/2053_Kth_Distinct_String_in_an_Array.txt](/generated/2053_Kth_Distinct_String_in_an_Array.txt) |
 | `2024-08-04` | [1508](https://www.leetcode.com/problems/range-sum-of-sorted-subarray-sums/) | Range Sum of Sorted Subarray Sums | Array | [/source/Generator1508.py](/source/Generator1508.py) | [/generated/1508_Range_Sum_of_Sorted_Subarray_Sums.txt](/generated/1508_Range_Sum_of_Sorted_Subarray_Sums.txt) |
