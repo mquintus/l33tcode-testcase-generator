@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-08-08` | [885](https://www.leetcode.com/problems/spiral-matrix-iii/) | Spiral Matrix III | Array | [/source/Generator885.py](/source/Generator885.py) | [/generated/885_Spiral_Matrix_III.txt](/generated/885_Spiral_Matrix_III.txt) |
 | `2024-08-07` | [273](https://www.leetcode.com/problems/integer-to-english-words/) | Integer to English Words | Math | [/source/Generator273.py](/source/Generator273.py) | [/generated/273_Integer_to_English_Words.txt](/generated/273_Integer_to_English_Words.txt) |
 | `2024-08-06` | [3016](https://www.leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Minimum Number of Pushes to Type Word II | Hash Table | [/source/Generator3016.py](/source/Generator3016.py) | [/generated/3016_Minimum_Number_of_Pushes_to_Type_Word_II.txt](/generated/3016_Minimum_Number_of_Pushes_to_Type_Word_II.txt) |
 | `2024-08-05` | [2053](https://www.leetcode.com/problems/kth-distinct-string-in-an-array/) | Kth Distinct String in an Array | Array | [/source/Generator2053.py](/source/Generator2053.py) | [/generated/2053_Kth_Distinct_String_in_an_Array.txt](/generated/2053_Kth_Distinct_String_in_an_Array.txt) |
