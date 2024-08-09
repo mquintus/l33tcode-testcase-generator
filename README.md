@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-08-09` | [840](https://www.leetcode.com/problems/magic-squares-in-grid/) | Magic Squares In Grid | Array | [/source/Generator840.py](/source/Generator840.py) | [/generated/840_Magic_Squares_In_Grid.txt](/generated/840_Magic_Squares_In_Grid.txt) |
 | `2024-08-08` | [885](https://www.leetcode.com/problems/spiral-matrix-iii/) | Spiral Matrix III | Array | [/source/Generator885.py](/source/Generator885.py) | [/generated/885_Spiral_Matrix_III.txt](/generated/885_Spiral_Matrix_III.txt) |
 | `2024-08-07` | [273](https://www.leetcode.com/problems/integer-to-english-words/) | Integer to English Words | Math | [/source/Generator273.py](/source/Generator273.py) | [/generated/273_Integer_to_English_Words.txt](/generated/273_Integer_to_English_Words.txt) |
 | `2024-08-06` | [3016](https://www.leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Minimum Number of Pushes to Type Word II | Hash Table | [/source/Generator3016.py](/source/Generator3016.py) | [/generated/3016_Minimum_Number_of_Pushes_to_Type_Word_II.txt](/generated/3016_Minimum_Number_of_Pushes_to_Type_Word_II.txt) |
