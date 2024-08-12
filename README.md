@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-08-12` | [703](https://www.leetcode.com/problems/kth-largest-element-in-a-stream/) | Kth Largest Element in a Stream | Tree | [/source/Generator703.py](/source/Generator703.py) | [/generated/703_Kth_Largest_Element_in_a_Stream.txt](/generated/703_Kth_Largest_Element_in_a_Stream.txt) |
 | `2024-08-11` | [1568](https://www.leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) | Minimum Number of Days to Disconnect Island | Array | [/source/Generator1568.py](/source/Generator1568.py) | [/generated/1568_Minimum_Number_of_Days_to_Disconnect_Island.txt](/generated/1568_Minimum_Number_of_Days_to_Disconnect_Island.txt) |
 | `2024-08-10` | [959](https://www.leetcode.com/problems/regions-cut-by-slashes/) | Regions Cut By Slashes | Array | [/source/Generator959.py](/source/Generator959.py) | [/generated/959_Regions_Cut_By_Slashes.txt](/generated/959_Regions_Cut_By_Slashes.txt) |
 | `2024-08-09` | [840](https://www.leetcode.com/problems/magic-squares-in-grid/) | Magic Squares In Grid | Array | [/source/Generator840.py](/source/Generator840.py) | [/generated/840_Magic_Squares_In_Grid.txt](/generated/840_Magic_Squares_In_Grid.txt) |
