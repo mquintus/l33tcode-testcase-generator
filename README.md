@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-08-14` | [719](https://www.leetcode.com/problems/find-k-th-smallest-pair-distance/) | Find K-th Smallest Pair Distance | Array | [/source/Generator719.py](/source/Generator719.py) | [/generated/719_Find_K-th_Smallest_Pair_Distance.txt](/generated/719_Find_K-th_Smallest_Pair_Distance.txt) |
 | `2024-08-13` | [40](https://www.leetcode.com/problems/combination-sum-ii/) | Combination Sum II | Array | [/source/Generator40.py](/source/Generator40.py) | [/generated/40_Combination_Sum_II.txt](/generated/40_Combination_Sum_II.txt) |
 | `2024-08-12` | [703](https://www.leetcode.com/problems/kth-largest-element-in-a-stream/) | Kth Largest Element in a Stream | Tree | [/source/Generator703.py](/source/Generator703.py) | [/generated/703_Kth_Largest_Element_in_a_Stream.txt](/generated/703_Kth_Largest_Element_in_a_Stream.txt) |
 | `2024-08-11` | [1568](https://www.leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) | Minimum Number of Days to Disconnect Island | Array | [/source/Generator1568.py](/source/Generator1568.py) | [/generated/1568_Minimum_Number_of_Days_to_Disconnect_Island.txt](/generated/1568_Minimum_Number_of_Days_to_Disconnect_Island.txt) |
