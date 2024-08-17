@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-08-17` | [1937](https://www.leetcode.com/problems/maximum-number-of-points-with-cost/) | Maximum Number of Points with Cost | Array | [/source/Generator1937.py](/source/Generator1937.py) | [/generated/1937_Maximum_Number_of_Points_with_Cost.txt](/generated/1937_Maximum_Number_of_Points_with_Cost.txt) |
 | `2024-08-15` | [860](https://www.leetcode.com/problems/lemonade-change/) | Lemonade Change | Array | [/source/Generator860.py](/source/Generator860.py) | [/generated/860_Lemonade_Change.txt](/generated/860_Lemonade_Change.txt) |
 | `2024-08-14` | [719](https://www.leetcode.com/problems/find-k-th-smallest-pair-distance/) | Find K-th Smallest Pair Distance | Array | [/source/Generator719.py](/source/Generator719.py) | [/generated/719_Find_K-th_Smallest_Pair_Distance.txt](/generated/719_Find_K-th_Smallest_Pair_Distance.txt) |
 | `2024-08-13` | [40](https://www.leetcode.com/problems/combination-sum-ii/) | Combination Sum II | Array | [/source/Generator40.py](/source/Generator40.py) | [/generated/40_Combination_Sum_II.txt](/generated/40_Combination_Sum_II.txt) |
