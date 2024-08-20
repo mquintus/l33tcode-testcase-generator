@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-08-20` | [1140](https://www.leetcode.com/problems/stone-game-ii/) | Stone Game II | Array | [/source/Generator1140.py](/source/Generator1140.py) | [/generated/1140_Stone_Game_II.txt](/generated/1140_Stone_Game_II.txt) |
 | `2024-08-19` | [650](https://www.leetcode.com/problems/2-keys-keyboard/) | 2 Keys Keyboard | Math | [/source/Generator650.py](/source/Generator650.py) | [/generated/650_2_Keys_Keyboard.txt](/generated/650_2_Keys_Keyboard.txt) |
 | `2024-08-18` | [264](https://www.leetcode.com/problems/ugly-number-ii/) | Ugly Number II | Hash Table | [/source/Generator264.py](/source/Generator264.py) | [/generated/264_Ugly_Number_II.txt](/generated/264_Ugly_Number_II.txt) |
 | `2024-08-17` | [1937](https://www.leetcode.com/problems/maximum-number-of-points-with-cost/) | Maximum Number of Points with Cost | Array | [/source/Generator1937.py](/source/Generator1937.py) | [/generated/1937_Maximum_Number_of_Points_with_Cost.txt](/generated/1937_Maximum_Number_of_Points_with_Cost.txt) |
