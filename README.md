@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-08-22` | [476](https://www.leetcode.com/problems/number-complement/) | Number Complement | Bit Manipulation | [/source/Generator476.py](/source/Generator476.py) | [/generated/476_Number_Complement.txt](/generated/476_Number_Complement.txt) |
 | `2024-08-21` | [664](https://www.leetcode.com/problems/strange-printer/) | Strange Printer | String | [/source/Generator664.py](/source/Generator664.py) | [/generated/664_Strange_Printer.txt](/generated/664_Strange_Printer.txt) |
 | `2024-08-20` | [1140](https://www.leetcode.com/problems/stone-game-ii/) | Stone Game II | Array | [/source/Generator1140.py](/source/Generator1140.py) | [/generated/1140_Stone_Game_II.txt](/generated/1140_Stone_Game_II.txt) |
 | `2024-08-19` | [650](https://www.leetcode.com/problems/2-keys-keyboard/) | 2 Keys Keyboard | Math | [/source/Generator650.py](/source/Generator650.py) | [/generated/650_2_Keys_Keyboard.txt](/generated/650_2_Keys_Keyboard.txt) |
