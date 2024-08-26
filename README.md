@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-08-26` | [590](https://www.leetcode.com/problems/n-ary-tree-postorder-traversal/) | N-ary Tree Postorder Traversal | Stack | [/source/Generator590.py](/source/Generator590.py) | [/generated/590_N-ary_Tree_Postorder_Traversal.txt](/generated/590_N-ary_Tree_Postorder_Traversal.txt) |
 | `2024-08-25` | [145](https://www.leetcode.com/problems/binary-tree-postorder-traversal/) | Binary Tree Postorder Traversal | Stack | [/source/Generator145.py](/source/Generator145.py) | [/generated/145_Binary_Tree_Postorder_Traversal.txt](/generated/145_Binary_Tree_Postorder_Traversal.txt) |
 | `2024-08-24` | [564](https://www.leetcode.com/problems/find-the-closest-palindrome/) | Find the Closest Palindrome | Math | [/source/Generator564.py](/source/Generator564.py) | [/generated/564_Find_the_Closest_Palindrome.txt](/generated/564_Find_the_Closest_Palindrome.txt) |
 | `2024-08-23` | [592](https://www.leetcode.com/problems/fraction-addition-and-subtraction/) | Fraction Addition and Subtraction | Math | [/source/Generator592.py](/source/Generator592.py) | [/generated/592_Fraction_Addition_and_Subtraction.txt](/generated/592_Fraction_Addition_and_Subtraction.txt) |
