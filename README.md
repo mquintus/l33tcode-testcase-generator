@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-08-27` | [1514](https://www.leetcode.com/problems/path-with-maximum-probability/) | Path with Maximum Probability | Graph | [/source/Generator1514.py](/source/Generator1514.py) | [/generated/1514_Path_with_Maximum_Probability.txt](/generated/1514_Path_with_Maximum_Probability.txt) |
 | `2024-08-26` | [590](https://www.leetcode.com/problems/n-ary-tree-postorder-traversal/) | N-ary Tree Postorder Traversal | Stack | [/source/Generator590.py](/source/Generator590.py) | [/generated/590_N-ary_Tree_Postorder_Traversal.txt](/generated/590_N-ary_Tree_Postorder_Traversal.txt) |
 | `2024-08-25` | [145](https://www.leetcode.com/problems/binary-tree-postorder-traversal/) | Binary Tree Postorder Traversal | Stack | [/source/Generator145.py](/source/Generator145.py) | [/generated/145_Binary_Tree_Postorder_Traversal.txt](/generated/145_Binary_Tree_Postorder_Traversal.txt) |
 | `2024-08-24` | [564](https://www.leetcode.com/problems/find-the-closest-palindrome/) | Find the Closest Palindrome | Math | [/source/Generator564.py](/source/Generator564.py) | [/generated/564_Find_the_Closest_Palindrome.txt](/generated/564_Find_the_Closest_Palindrome.txt) |
