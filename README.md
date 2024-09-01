@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-09-01` | [2022](https://www.leetcode.com/problems/convert-1d-array-into-2d-array/) | Convert 1D Array Into 2D Array | Array | [/source/Generator2022.py](/source/Generator2022.py) | [/generated/2022_Convert_1D_Array_Into_2D_Array.txt](/generated/2022_Convert_1D_Array_Into_2D_Array.txt) |
 | `2024-08-31` | [1514](https://www.leetcode.com/problems/path-with-maximum-probability/) | Path with Maximum Probability | Graph | [/source/Generator1514.py](/source/Generator1514.py) | [/generated/1514_Path_with_Maximum_Probability.txt](/generated/1514_Path_with_Maximum_Probability.txt) |
 | `2024-08-30` | [2699](https://www.leetcode.com/problems/modify-graph-edge-weights/) | Modify Graph Edge Weights | Graph | [/source/Generator2699.py](/source/Generator2699.py) | [/generated/2699_Modify_Graph_Edge_Weights.txt](/generated/2699_Modify_Graph_Edge_Weights.txt) |
 | `2024-08-29` | [947](https://www.leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | Most Stones Removed with Same Row or Column | Graph | [/source/Generator947.py](/source/Generator947.py) | [/generated/947_Most_Stones_Removed_with_Same_Row_or_Column.txt](/generated/947_Most_Stones_Removed_with_Same_Row_or_Column.txt) |
