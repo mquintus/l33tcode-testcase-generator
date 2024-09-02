@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-09-02` | [1894](https://www.leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | Find the Student that Will Replace the Chalk | Array | [/source/Generator1894.py](/source/Generator1894.py) | [/generated/1894_Find_the_Student_that_Will_Replace_the_Chalk.txt](/generated/1894_Find_the_Student_that_Will_Replace_the_Chalk.txt) |
 | `2024-09-01` | [2022](https://www.leetcode.com/problems/convert-1d-array-into-2d-array/) | Convert 1D Array Into 2D Array | Array | [/source/Generator2022.py](/source/Generator2022.py) | [/generated/2022_Convert_1D_Array_Into_2D_Array.txt](/generated/2022_Convert_1D_Array_Into_2D_Array.txt) |
 | `2024-08-31` | [1514](https://www.leetcode.com/problems/path-with-maximum-probability/) | Path with Maximum Probability | Graph | [/source/Generator1514.py](/source/Generator1514.py) | [/generated/1514_Path_with_Maximum_Probability.txt](/generated/1514_Path_with_Maximum_Probability.txt) |
 | `2024-08-30` | [2699](https://www.leetcode.com/problems/modify-graph-edge-weights/) | Modify Graph Edge Weights | Graph | [/source/Generator2699.py](/source/Generator2699.py) | [/generated/2699_Modify_Graph_Edge_Weights.txt](/generated/2699_Modify_Graph_Edge_Weights.txt) |
