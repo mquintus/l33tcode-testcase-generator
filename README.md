@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-09-06` | [3217](https://www.leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | Delete Nodes From Linked List Present in Array | Array | [/source/Generator3217.py](/source/Generator3217.py) | [/generated/3217_Delete_Nodes_From_Linked_List_Present_in_Array.txt](/generated/3217_Delete_Nodes_From_Linked_List_Present_in_Array.txt) |
 | `2024-09-05` | [2028](https://www.leetcode.com/problems/find-missing-observations/) | Find Missing Observations | Array | [/source/Generator2028.py](/source/Generator2028.py) | [/generated/2028_Find_Missing_Observations.txt](/generated/2028_Find_Missing_Observations.txt) |
 | `2024-09-04` | [874](https://www.leetcode.com/problems/walking-robot-simulation/) | Walking Robot Simulation | Array | [/source/Generator874.py](/source/Generator874.py) | [/generated/874_Walking_Robot_Simulation.txt](/generated/874_Walking_Robot_Simulation.txt) |
 | `2024-09-03` | [1945](https://www.leetcode.com/problems/sum-of-digits-of-string-after-convert/) | Sum of Digits of String After Convert | String | [/source/Generator1945.py](/source/Generator1945.py) | [/generated/1945_Sum_of_Digits_of_String_After_Convert.txt](/generated/1945_Sum_of_Digits_of_String_After_Convert.txt) |
