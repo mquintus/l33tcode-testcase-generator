@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-09-08` | [725](https://www.leetcode.com/problems/split-linked-list-in-parts/) | Split Linked List in Parts | Linked List | [/source/Generator725.py](/source/Generator725.py) | [/generated/725_Split_Linked_List_in_Parts.txt](/generated/725_Split_Linked_List_in_Parts.txt) |
 | `2024-09-07` | [1367](https://www.leetcode.com/problems/linked-list-in-binary-tree/) | Linked List in Binary Tree | Linked List | [/source/Generator1367.py](/source/Generator1367.py) | [/generated/1367_Linked_List_in_Binary_Tree.txt](/generated/1367_Linked_List_in_Binary_Tree.txt) |
 | `2024-09-06` | [3217](https://www.leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | Delete Nodes From Linked List Present in Array | Array | [/source/Generator3217.py](/source/Generator3217.py) | [/generated/3217_Delete_Nodes_From_Linked_List_Present_in_Array.txt](/generated/3217_Delete_Nodes_From_Linked_List_Present_in_Array.txt) |
 | `2024-09-05` | [2028](https://www.leetcode.com/problems/find-missing-observations/) | Find Missing Observations | Array | [/source/Generator2028.py](/source/Generator2028.py) | [/generated/2028_Find_Missing_Observations.txt](/generated/2028_Find_Missing_Observations.txt) |
