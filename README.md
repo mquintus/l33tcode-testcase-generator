@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-09-14` | [2419](https://www.leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | Longest Subarray With Maximum Bitwise AND | Array | [/source/Generator2419.py](/source/Generator2419.py) | [/generated/2419_Longest_Subarray_With_Maximum_Bitwise_AND.txt](/generated/2419_Longest_Subarray_With_Maximum_Bitwise_AND.txt) |
 | `2024-09-13` | [1310](https://www.leetcode.com/problems/xor-queries-of-a-subarray/) | XOR Queries of a Subarray | Array | [/source/Generator1310.py](/source/Generator1310.py) | [/generated/1310_XOR_Queries_of_a_Subarray.txt](/generated/1310_XOR_Queries_of_a_Subarray.txt) |
 | `2024-09-12` | [1684](https://www.leetcode.com/problems/count-the-number-of-consistent-strings/) | Count the Number of Consistent Strings | Array | [/source/Generator1684.py](/source/Generator1684.py) | [/generated/1684_Count_the_Number_of_Consistent_Strings.txt](/generated/1684_Count_the_Number_of_Consistent_Strings.txt) |
 | `2024-09-11` | [2220](https://www.leetcode.com/problems/minimum-bit-flips-to-convert-number/) | Minimum Bit Flips to Convert Number | Bit Manipulation | [/source/Generator2220.py](/source/Generator2220.py) | [/generated/2220_Minimum_Bit_Flips_to_Convert_Number.txt](/generated/2220_Minimum_Bit_Flips_to_Convert_Number.txt) |
