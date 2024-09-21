@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-09-21` | [386](https://www.leetcode.com/problems/lexicographical-numbers/) | Lexicographical Numbers | Depth-First Search | [/source/Generator386.py](/source/Generator386.py) | [/generated/386_Lexicographical_Numbers.txt](/generated/386_Lexicographical_Numbers.txt) |
 | `2024-09-20` | [214](https://www.leetcode.com/problems/shortest-palindrome/) | Shortest Palindrome | String | [/source/Generator214.py](/source/Generator214.py) | [/generated/214_Shortest_Palindrome.txt](/generated/214_Shortest_Palindrome.txt) |
 | `2024-09-19` | [241](https://www.leetcode.com/problems/different-ways-to-add-parentheses/) | Different Ways to Add Parentheses | Math | [/source/Generator241.py](/source/Generator241.py) | [/generated/241_Different_Ways_to_Add_Parentheses.txt](/generated/241_Different_Ways_to_Add_Parentheses.txt) |
 | `2024-09-18` | [179](https://www.leetcode.com/problems/largest-number/) | Largest Number | Array | [/source/Generator179.py](/source/Generator179.py) | [/generated/179_Largest_Number.txt](/generated/179_Largest_Number.txt) |
