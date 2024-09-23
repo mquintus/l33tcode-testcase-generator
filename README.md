@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-09-23` | [2707](https://www.leetcode.com/problems/extra-characters-in-a-string/) | Extra Characters in a String | Array | [/source/Generator2707.py](/source/Generator2707.py) | [/generated/2707_Extra_Characters_in_a_String.txt](/generated/2707_Extra_Characters_in_a_String.txt) |
 | `2024-09-22` | [440](https://www.leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | K-th Smallest in Lexicographical Order | Trie | [/source/Generator440.py](/source/Generator440.py) | [/generated/440_K-th_Smallest_in_Lexicographical_Order.txt](/generated/440_K-th_Smallest_in_Lexicographical_Order.txt) |
 | `2024-09-21` | [386](https://www.leetcode.com/problems/lexicographical-numbers/) | Lexicographical Numbers | Depth-First Search | [/source/Generator386.py](/source/Generator386.py) | [/generated/386_Lexicographical_Numbers.txt](/generated/386_Lexicographical_Numbers.txt) |
 | `2024-09-20` | [214](https://www.leetcode.com/problems/shortest-palindrome/) | Shortest Palindrome | String | [/source/Generator214.py](/source/Generator214.py) | [/generated/214_Shortest_Palindrome.txt](/generated/214_Shortest_Palindrome.txt) |
