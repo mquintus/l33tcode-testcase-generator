@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-09-26` | [729](https://www.leetcode.com/problems/my-calendar-i/) | My Calendar I | Array | [/source/Generator729.py](/source/Generator729.py) | [/generated/729_My_Calendar_I.txt](/generated/729_My_Calendar_I.txt) |
 | `2024-09-25` | [2416](https://www.leetcode.com/problems/sum-of-prefix-scores-of-strings/) | Sum of Prefix Scores of Strings | Array | [/source/Generator2416.py](/source/Generator2416.py) | [/generated/2416_Sum_of_Prefix_Scores_of_Strings.txt](/generated/2416_Sum_of_Prefix_Scores_of_Strings.txt) |
 | `2024-09-24` | [3043](https://www.leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | Find the Length of the Longest Common Prefix | Array | [/source/Generator3043.py](/source/Generator3043.py) | [/generated/3043_Find_the_Length_of_the_Longest_Common_Prefix.txt](/generated/3043_Find_the_Length_of_the_Longest_Common_Prefix.txt) |
 | `2024-09-23` | [2707](https://www.leetcode.com/problems/extra-characters-in-a-string/) | Extra Characters in a String | Array | [/source/Generator2707.py](/source/Generator2707.py) | [/generated/2707_Extra_Characters_in_a_String.txt](/generated/2707_Extra_Characters_in_a_String.txt) |
