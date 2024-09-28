@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-09-28` | [641](https://www.leetcode.com/problems/design-circular-deque/) | Design Circular Deque | Array | [/source/Generator641.py](/source/Generator641.py) | [/generated/641_Design_Circular_Deque.txt](/generated/641_Design_Circular_Deque.txt) |
 | `2024-09-27` | [731](https://www.leetcode.com/problems/my-calendar-ii/) | My Calendar II | Array | [/source/Generator731.py](/source/Generator731.py) | [/generated/731_My_Calendar_II.txt](/generated/731_My_Calendar_II.txt) |
 | `2024-09-26` | [729](https://www.leetcode.com/problems/my-calendar-i/) | My Calendar I | Array | [/source/Generator729.py](/source/Generator729.py) | [/generated/729_My_Calendar_I.txt](/generated/729_My_Calendar_I.txt) |
 | `2024-09-25` | [2416](https://www.leetcode.com/problems/sum-of-prefix-scores-of-strings/) | Sum of Prefix Scores of Strings | Array | [/source/Generator2416.py](/source/Generator2416.py) | [/generated/2416_Sum_of_Prefix_Scores_of_Strings.txt](/generated/2416_Sum_of_Prefix_Scores_of_Strings.txt) |
