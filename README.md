@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-09-30` | [1381](https://www.leetcode.com/problems/design-a-stack-with-increment-operation/) | Design a Stack With Increment Operation | Array | [/source/Generator1381.py](/source/Generator1381.py) | [/generated/1381_Design_a_Stack_With_Increment_Operation.txt](/generated/1381_Design_a_Stack_With_Increment_Operation.txt) |
 | `2024-09-29` | [432](https://www.leetcode.com/problems/all-oone-data-structure/) | All O'one Data Structure | Hash Table | [/source/Generator432.py](/source/Generator432.py) | [/generated/432_All_O'one_Data_Structure.txt](/generated/432_All_O`one_Data_Structure.txt) |
 | `2024-09-28` | [641](https://www.leetcode.com/problems/design-circular-deque/) | Design Circular Deque | Array | [/source/Generator641.py](/source/Generator641.py) | [/generated/641_Design_Circular_Deque.txt](/generated/641_Design_Circular_Deque.txt) |
 | `2024-09-27` | [731](https://www.leetcode.com/problems/my-calendar-ii/) | My Calendar II | Array | [/source/Generator731.py](/source/Generator731.py) | [/generated/731_My_Calendar_II.txt](/generated/731_My_Calendar_II.txt) |
