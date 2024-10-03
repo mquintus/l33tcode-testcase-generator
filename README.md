@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-10-03` | [1590](https://www.leetcode.com/problems/make-sum-divisible-by-p/) | Make Sum Divisible by P | Array | [/source/Generator1590.py](/source/Generator1590.py) | [/generated/1590_Make_Sum_Divisible_by_P.txt](/generated/1590_Make_Sum_Divisible_by_P.txt) |
 | `2024-10-02` | [1331](https://www.leetcode.com/problems/rank-transform-of-an-array/) | Rank Transform of an Array | Array | [/source/Generator1331.py](/source/Generator1331.py) | [/generated/1331_Rank_Transform_of_an_Array.txt](/generated/1331_Rank_Transform_of_an_Array.txt) |
 | `2024-10-01` | [1497](https://www.leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | Check If Array Pairs Are Divisible by k | Array | [/source/Generator1497.py](/source/Generator1497.py) | [/generated/1497_Check_If_Array_Pairs_Are_Divisible_by_k.txt](/generated/1497_Check_If_Array_Pairs_Are_Divisible_by_k.txt) |
 | `2024-09-30` | [1381](https://www.leetcode.com/problems/design-a-stack-with-increment-operation/) | Design a Stack With Increment Operation | Array | [/source/Generator1381.py](/source/Generator1381.py) | [/generated/1381_Design_a_Stack_With_Increment_Operation.txt](/generated/1381_Design_a_Stack_With_Increment_Operation.txt) |
