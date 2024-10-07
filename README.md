@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-10-07` | [2696](https://www.leetcode.com/problems/minimum-string-length-after-removing-substrings/) | Minimum String Length After Removing Substrings | String | [/source/Generator2696.py](/source/Generator2696.py) | [/generated/2696_Minimum_String_Length_After_Removing_Substrings.txt](/generated/2696_Minimum_String_Length_After_Removing_Substrings.txt) |
 | `2024-10-06` | [1813](https://www.leetcode.com/problems/sentence-similarity-iii/) | Sentence Similarity III | Array | [/source/Generator1813.py](/source/Generator1813.py) | [/generated/1813_Sentence_Similarity_III.txt](/generated/1813_Sentence_Similarity_III.txt) |
 | `2024-10-05` | [567](https://www.leetcode.com/problems/permutation-in-string/) | Permutation in String | Hash Table | [/source/Generator567.py](/source/Generator567.py) | [/generated/567_Permutation_in_String.txt](/generated/567_Permutation_in_String.txt) |
 | `2024-10-04` | [2491](https://www.leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | Divide Players Into Teams of Equal Skill | Array | [/source/Generator2491.py](/source/Generator2491.py) | [/generated/2491_Divide_Players_Into_Teams_of_Equal_Skill.txt](/generated/2491_Divide_Players_Into_Teams_of_Equal_Skill.txt) |
