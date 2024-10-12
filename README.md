@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-10-12` | [2406](https://www.leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | Divide Intervals Into Minimum Number of Groups | Array | [/source/Generator2406.py](/source/Generator2406.py) | [/generated/2406_Divide_Intervals_Into_Minimum_Number_of_Groups.txt](/generated/2406_Divide_Intervals_Into_Minimum_Number_of_Groups.txt) |
 | `2024-10-11` | [1942](https://www.leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | The Number of the Smallest Unoccupied Chair | Array | [/source/Generator1942.py](/source/Generator1942.py) | [/generated/1942_The_Number_of_the_Smallest_Unoccupied_Chair.txt](/generated/1942_The_Number_of_the_Smallest_Unoccupied_Chair.txt) |
 | `2024-10-10` | [962](https://www.leetcode.com/problems/maximum-width-ramp/) | Maximum Width Ramp | Array | [/source/Generator962.py](/source/Generator962.py) | [/generated/962_Maximum_Width_Ramp.txt](/generated/962_Maximum_Width_Ramp.txt) |
 | `2024-10-09` | [921](https://www.leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Minimum Add to Make Parentheses Valid | String | [/source/Generator921.py](/source/Generator921.py) | [/generated/921_Minimum_Add_to_Make_Parentheses_Valid.txt](/generated/921_Minimum_Add_to_Make_Parentheses_Valid.txt) |
