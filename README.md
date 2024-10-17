@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-10-17` | [670](https://www.leetcode.com/problems/maximum-swap/) | Maximum Swap | Math | [/source/Generator670.py](/source/Generator670.py) | [/generated/670_Maximum_Swap.txt](/generated/670_Maximum_Swap.txt) |
 | `2024-10-16` | [1405](https://www.leetcode.com/problems/longest-happy-string/) | Longest Happy String | String | [/source/Generator1405.py](/source/Generator1405.py) | [/generated/1405_Longest_Happy_String.txt](/generated/1405_Longest_Happy_String.txt) |
 | `2024-10-15` | [2938](https://www.leetcode.com/problems/separate-black-and-white-balls/) | Separate Black and White Balls | Two Pointers | [/source/Generator2938.py](/source/Generator2938.py) | [/generated/2938_Separate_Black_and_White_Balls.txt](/generated/2938_Separate_Black_and_White_Balls.txt) |
 | `2024-10-14` | [2530](https://www.leetcode.com/problems/maximal-score-after-applying-k-operations/) | Maximal Score After Applying K Operations | Array | [/source/Generator2530.py](/source/Generator2530.py) | [/generated/2530_Maximal_Score_After_Applying_K_Operations.txt](/generated/2530_Maximal_Score_After_Applying_K_Operations.txt) |
