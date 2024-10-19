@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-10-19` | [1545](https://www.leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | Find Kth Bit in Nth Binary String | String | [/source/Generator1545.py](/source/Generator1545.py) | [/generated/1545_Find_Kth_Bit_in_Nth_Binary_String.txt](/generated/1545_Find_Kth_Bit_in_Nth_Binary_String.txt) |
 | `2024-10-18` | [2044](https://www.leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | Count Number of Maximum Bitwise-OR Subsets | Array | [/source/Generator2044.py](/source/Generator2044.py) | [/generated/2044_Count_Number_of_Maximum_Bitwise-OR_Subsets.txt](/generated/2044_Count_Number_of_Maximum_Bitwise-OR_Subsets.txt) |
 | `2024-10-17` | [670](https://www.leetcode.com/problems/maximum-swap/) | Maximum Swap | Math | [/source/Generator670.py](/source/Generator670.py) | [/generated/670_Maximum_Swap.txt](/generated/670_Maximum_Swap.txt) |
 | `2024-10-16` | [1405](https://www.leetcode.com/problems/longest-happy-string/) | Longest Happy String | String | [/source/Generator1405.py](/source/Generator1405.py) | [/generated/1405_Longest_Happy_String.txt](/generated/1405_Longest_Happy_String.txt) |
