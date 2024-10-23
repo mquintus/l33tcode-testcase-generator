@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-10-23` | [2641](https://www.leetcode.com/problems/cousins-in-binary-tree-ii/) | Cousins in Binary Tree II | Hash Table | [/source/Generator2641.py](/source/Generator2641.py) | [/generated/2641_Cousins_in_Binary_Tree_II.txt](/generated/2641_Cousins_in_Binary_Tree_II.txt) |
 | `2024-10-22` | [2583](https://www.leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | Kth Largest Sum in a Binary Tree | Tree | [/source/Generator2583.py](/source/Generator2583.py) | [/generated/2583_Kth_Largest_Sum_in_a_Binary_Tree.txt](/generated/2583_Kth_Largest_Sum_in_a_Binary_Tree.txt) |
 | `2024-10-21` | [1593](https://www.leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | Split a String Into the Max Number of Unique Substrings | Hash Table | [/source/Generator1593.py](/source/Generator1593.py) | [/generated/1593_Split_a_String_Into_the_Max_Number_of_Unique_Substrings.txt](/generated/1593_Split_a_String_Into_the_Max_Number_of_Unique_Substrings.txt) |
 | `2024-10-20` | [1106](https://www.leetcode.com/problems/parsing-a-boolean-expression/) | Parsing A Boolean Expression | String | [/source/Generator1106.py](/source/Generator1106.py) | [/generated/1106_Parsing_A_Boolean_Expression.txt](/generated/1106_Parsing_A_Boolean_Expression.txt) |
