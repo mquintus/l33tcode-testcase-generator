@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-10-26` | [2458](https://www.leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) | Height of Binary Tree After Subtree Removal Queries | Array | [/source/Generator2458.py](/source/Generator2458.py) | [/generated/2458_Height_of_Binary_Tree_After_Subtree_Removal_Queries.txt](/generated/2458_Height_of_Binary_Tree_After_Subtree_Removal_Queries.txt) |
 | `2024-10-25` | [1233](https://www.leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | Remove Sub-Folders from the Filesystem | Array | [/source/Generator1233.py](/source/Generator1233.py) | [/generated/1233_Remove_Sub-Folders_from_the_Filesystem.txt](/generated/1233_Remove_Sub-Folders_from_the_Filesystem.txt) |
 | `2024-10-24` | [951](https://www.leetcode.com/problems/flip-equivalent-binary-trees/) | Flip Equivalent Binary Trees | Tree | [/source/Generator951.py](/source/Generator951.py) | [/generated/951_Flip_Equivalent_Binary_Trees.txt](/generated/951_Flip_Equivalent_Binary_Trees.txt) |
 | `2024-10-23` | [2641](https://www.leetcode.com/problems/cousins-in-binary-tree-ii/) | Cousins in Binary Tree II | Hash Table | [/source/Generator2641.py](/source/Generator2641.py) | [/generated/2641_Cousins_in_Binary_Tree_II.txt](/generated/2641_Cousins_in_Binary_Tree_II.txt) |
