@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-10-31` | [2463](https://www.leetcode.com/problems/minimum-total-distance-traveled/) | Minimum Total Distance Traveled | Array | [/source/Generator2463.py](/source/Generator2463.py) | [/generated/2463_Minimum_Total_Distance_Traveled.txt](/generated/2463_Minimum_Total_Distance_Traveled.txt) |
 | `2024-10-30` | [1671](https://www.leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | Minimum Number of Removals to Make Mountain Array | Array | [/source/Generator1671.py](/source/Generator1671.py) | [/generated/1671_Minimum_Number_of_Removals_to_Make_Mountain_Array.txt](/generated/1671_Minimum_Number_of_Removals_to_Make_Mountain_Array.txt) |
 | `2024-10-29` | [2684](https://www.leetcode.com/problems/maximum-number-of-moves-in-a-grid/) | Maximum Number of Moves in a Grid | Array | [/source/Generator2684.py](/source/Generator2684.py) | [/generated/2684_Maximum_Number_of_Moves_in_a_Grid.txt](/generated/2684_Maximum_Number_of_Moves_in_a_Grid.txt) |
 | `2024-10-28` | [2501](https://www.leetcode.com/problems/longest-square-streak-in-an-array/) | Longest Square Streak in an Array | Array | [/source/Generator2501.py](/source/Generator2501.py) | [/generated/2501_Longest_Square_Streak_in_an_Array.txt](/generated/2501_Longest_Square_Streak_in_an_Array.txt) |
