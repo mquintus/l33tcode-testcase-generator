@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-11-02` | [2490](https://www.leetcode.com/problems/circular-sentence/) | Circular Sentence | String | [/source/Generator2490.py](/source/Generator2490.py) | [/generated/2490_Circular_Sentence.txt](/generated/2490_Circular_Sentence.txt) |
 | `2024-11-01` | [1957](https://www.leetcode.com/problems/delete-characters-to-make-fancy-string/) | Delete Characters to Make Fancy String | String | [/source/Generator1957.py](/source/Generator1957.py) | [/generated/1957_Delete_Characters_to_Make_Fancy_String.txt](/generated/1957_Delete_Characters_to_Make_Fancy_String.txt) |
 | `2024-10-31` | [2463](https://www.leetcode.com/problems/minimum-total-distance-traveled/) | Minimum Total Distance Traveled | Array | [/source/Generator2463.py](/source/Generator2463.py) | [/generated/2463_Minimum_Total_Distance_Traveled.txt](/generated/2463_Minimum_Total_Distance_Traveled.txt) |
 | `2024-10-30` | [1671](https://www.leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | Minimum Number of Removals to Make Mountain Array | Array | [/source/Generator1671.py](/source/Generator1671.py) | [/generated/1671_Minimum_Number_of_Removals_to_Make_Mountain_Array.txt](/generated/1671_Minimum_Number_of_Removals_to_Make_Mountain_Array.txt) |
