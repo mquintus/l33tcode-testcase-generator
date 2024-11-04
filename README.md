@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-11-04` | [3163](https://www.leetcode.com/problems/string-compression-iii/) | String Compression III | String | [/source/Generator3163.py](/source/Generator3163.py) | [/generated/3163_String_Compression_III.txt](/generated/3163_String_Compression_III.txt) |
 | `2024-11-03` | [796](https://www.leetcode.com/problems/rotate-string/) | Rotate String | String | [/source/Generator796.py](/source/Generator796.py) | [/generated/796_Rotate_String.txt](/generated/796_Rotate_String.txt) |
 | `2024-11-02` | [2490](https://www.leetcode.com/problems/circular-sentence/) | Circular Sentence | String | [/source/Generator2490.py](/source/Generator2490.py) | [/generated/2490_Circular_Sentence.txt](/generated/2490_Circular_Sentence.txt) |
 | `2024-11-01` | [1957](https://www.leetcode.com/problems/delete-characters-to-make-fancy-string/) | Delete Characters to Make Fancy String | String | [/source/Generator1957.py](/source/Generator1957.py) | [/generated/1957_Delete_Characters_to_Make_Fancy_String.txt](/generated/1957_Delete_Characters_to_Make_Fancy_String.txt) |
