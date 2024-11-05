@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-11-05` | [2914](https://www.leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | Minimum Number of Changes to Make Binary String Beautiful | String | [/source/Generator2914.py](/source/Generator2914.py) | [/generated/2914_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.txt](/generated/2914_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.txt) |
 | `2024-11-04` | [3163](https://www.leetcode.com/problems/string-compression-iii/) | String Compression III | String | [/source/Generator3163.py](/source/Generator3163.py) | [/generated/3163_String_Compression_III.txt](/generated/3163_String_Compression_III.txt) |
 | `2024-11-03` | [796](https://www.leetcode.com/problems/rotate-string/) | Rotate String | String | [/source/Generator796.py](/source/Generator796.py) | [/generated/796_Rotate_String.txt](/generated/796_Rotate_String.txt) |
 | `2024-11-02` | [2490](https://www.leetcode.com/problems/circular-sentence/) | Circular Sentence | String | [/source/Generator2490.py](/source/Generator2490.py) | [/generated/2490_Circular_Sentence.txt](/generated/2490_Circular_Sentence.txt) |
