@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-11-10` | [3097](https://www.leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/) | Shortest Subarray With OR at Least K II | Array | [/source/Generator3097.py](/source/Generator3097.py) | [/generated/3097_Shortest_Subarray_With_OR_at_Least_K_II.txt](/generated/3097_Shortest_Subarray_With_OR_at_Least_K_II.txt) |
 | `2024-11-09` | [3133](https://www.leetcode.com/problems/minimum-array-end/) | Minimum Array End | Bit Manipulation | [/source/Generator3133.py](/source/Generator3133.py) | [/generated/3133_Minimum_Array_End.txt](/generated/3133_Minimum_Array_End.txt) |
 | `2024-11-08` | [1829](https://www.leetcode.com/problems/maximum-xor-for-each-query/) | Maximum XOR for Each Query | Array | [/source/Generator1829.py](/source/Generator1829.py) | [/generated/1829_Maximum_XOR_for_Each_Query.txt](/generated/1829_Maximum_XOR_for_Each_Query.txt) |
 | `2024-11-07` | [2275](https://www.leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | Largest Combination With Bitwise AND Greater Than Zero | Array | [/source/Generator2275.py](/source/Generator2275.py) | [/generated/2275_Largest_Combination_With_Bitwise_AND_Greater_Than_Zero.txt](/generated/2275_Largest_Combination_With_Bitwise_AND_Greater_Than_Zero.txt) |
