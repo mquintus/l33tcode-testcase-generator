@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-11-12` | [2070](https://www.leetcode.com/problems/most-beautiful-item-for-each-query/) | Most Beautiful Item for Each Query | Array | [/source/Generator2070.py](/source/Generator2070.py) | [/generated/2070_Most_Beautiful_Item_for_Each_Query.txt](/generated/2070_Most_Beautiful_Item_for_Each_Query.txt) |
 | `2024-11-11` | [2601](https://www.leetcode.com/problems/prime-subtraction-operation/) | Prime Subtraction Operation | Array | [/source/Generator2601.py](/source/Generator2601.py) | [/generated/2601_Prime_Subtraction_Operation.txt](/generated/2601_Prime_Subtraction_Operation.txt) |
 | `2024-11-10` | [3097](https://www.leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/) | Shortest Subarray With OR at Least K II | Array | [/source/Generator3097.py](/source/Generator3097.py) | [/generated/3097_Shortest_Subarray_With_OR_at_Least_K_II.txt](/generated/3097_Shortest_Subarray_With_OR_at_Least_K_II.txt) |
 | `2024-11-09` | [3133](https://www.leetcode.com/problems/minimum-array-end/) | Minimum Array End | Bit Manipulation | [/source/Generator3133.py](/source/Generator3133.py) | [/generated/3133_Minimum_Array_End.txt](/generated/3133_Minimum_Array_End.txt) |
