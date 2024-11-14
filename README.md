@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-11-14` | [2064](https://www.leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | Minimized Maximum of Products Distributed to Any Store | Array | [/source/Generator2064.py](/source/Generator2064.py) | [/generated/2064_Minimized_Maximum_of_Products_Distributed_to_Any_Store.txt](/generated/2064_Minimized_Maximum_of_Products_Distributed_to_Any_Store.txt) |
 | `2024-11-13` | [2563](https://www.leetcode.com/problems/count-the-number-of-fair-pairs/) | Count the Number of Fair Pairs | Array | [/source/Generator2563.py](/source/Generator2563.py) | [/generated/2563_Count_the_Number_of_Fair_Pairs.txt](/generated/2563_Count_the_Number_of_Fair_Pairs.txt) |
 | `2024-11-12` | [2070](https://www.leetcode.com/problems/most-beautiful-item-for-each-query/) | Most Beautiful Item for Each Query | Array | [/source/Generator2070.py](/source/Generator2070.py) | [/generated/2070_Most_Beautiful_Item_for_Each_Query.txt](/generated/2070_Most_Beautiful_Item_for_Each_Query.txt) |
 | `2024-11-11` | [2601](https://www.leetcode.com/problems/prime-subtraction-operation/) | Prime Subtraction Operation | Array | [/source/Generator2601.py](/source/Generator2601.py) | [/generated/2601_Prime_Subtraction_Operation.txt](/generated/2601_Prime_Subtraction_Operation.txt) |
