@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-11-19` | [2461](https://www.leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | Maximum Sum of Distinct Subarrays With Length K | Array | [/source/Generator2461.py](/source/Generator2461.py) | [/generated/2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K.txt](/generated/2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K.txt) |
 | `2024-11-18` | [1652](https://www.leetcode.com/problems/defuse-the-bomb/) | Defuse the Bomb | Array | [/source/Generator1652.py](/source/Generator1652.py) | [/generated/1652_Defuse_the_Bomb.txt](/generated/1652_Defuse_the_Bomb.txt) |
 | `2024-11-17` | [862](https://www.leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | Shortest Subarray with Sum at Least K | Array | [/source/Generator862.py](/source/Generator862.py) | [/generated/862_Shortest_Subarray_with_Sum_at_Least_K.txt](/generated/862_Shortest_Subarray_with_Sum_at_Least_K.txt) |
 | `2024-11-16` | [3254](https://www.leetcode.com/problems/find-the-power-of-k-size-subarrays-i/) | Find the Power of K-Size Subarrays I | Array | [/source/Generator3254.py](/source/Generator3254.py) | [/generated/3254_Find_the_Power_of_K-Size_Subarrays_I.txt](/generated/3254_Find_the_Power_of_K-Size_Subarrays_I.txt) |
