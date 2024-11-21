@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-11-21` | [2257](https://www.leetcode.com/problems/count-unguarded-cells-in-the-grid/) | Count Unguarded Cells in the Grid | Array | [/source/Generator2257.py](/source/Generator2257.py) | [/generated/2257_Count_Unguarded_Cells_in_the_Grid.txt](/generated/2257_Count_Unguarded_Cells_in_the_Grid.txt) |
 | `2024-11-20` | [2516](https://www.leetcode.com/problems/take-k-of-each-character-from-left-and-right/) | Take K of Each Character From Left and Right | Hash Table | [/source/Generator2516.py](/source/Generator2516.py) | [/generated/2516_Take_K_of_Each_Character_From_Left_and_Right.txt](/generated/2516_Take_K_of_Each_Character_From_Left_and_Right.txt) |
 | `2024-11-19` | [2461](https://www.leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | Maximum Sum of Distinct Subarrays With Length K | Array | [/source/Generator2461.py](/source/Generator2461.py) | [/generated/2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K.txt](/generated/2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K.txt) |
 | `2024-11-18` | [1652](https://www.leetcode.com/problems/defuse-the-bomb/) | Defuse the Bomb | Array | [/source/Generator1652.py](/source/Generator1652.py) | [/generated/1652_Defuse_the_Bomb.txt](/generated/1652_Defuse_the_Bomb.txt) |
