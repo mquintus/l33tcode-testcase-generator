@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-11-23` | [1861](https://www.leetcode.com/problems/rotating-the-box/) | Rotating the Box | Array | [/source/Generator1861.py](/source/Generator1861.py) | [/generated/1861_Rotating_the_Box.txt](/generated/1861_Rotating_the_Box.txt) |
 | `2024-11-22` | [1072](https://www.leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | Flip Columns For Maximum Number of Equal Rows | Array | [/source/Generator1072.py](/source/Generator1072.py) | [/generated/1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows.txt](/generated/1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows.txt) |
 | `2024-11-21` | [2257](https://www.leetcode.com/problems/count-unguarded-cells-in-the-grid/) | Count Unguarded Cells in the Grid | Array | [/source/Generator2257.py](/source/Generator2257.py) | [/generated/2257_Count_Unguarded_Cells_in_the_Grid.txt](/generated/2257_Count_Unguarded_Cells_in_the_Grid.txt) |
 | `2024-11-20` | [2516](https://www.leetcode.com/problems/take-k-of-each-character-from-left-and-right/) | Take K of Each Character From Left and Right | Hash Table | [/source/Generator2516.py](/source/Generator2516.py) | [/generated/2516_Take_K_of_Each_Character_From_Left_and_Right.txt](/generated/2516_Take_K_of_Each_Character_From_Left_and_Right.txt) |
