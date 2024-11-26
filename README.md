@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-11-26` | [2924](https://www.leetcode.com/problems/find-champion-ii/) | Find Champion II | Graph | [/source/Generator2924.py](/source/Generator2924.py) | [/generated/2924_Find_Champion_II.txt](/generated/2924_Find_Champion_II.txt) |
 | `2024-11-25` | [773](https://www.leetcode.com/problems/sliding-puzzle/) | Sliding Puzzle | Array | [/source/Generator773.py](/source/Generator773.py) | [/generated/773_Sliding_Puzzle.txt](/generated/773_Sliding_Puzzle.txt) |
 | `2024-11-24` | [1975](https://www.leetcode.com/problems/maximum-matrix-sum/) | Maximum Matrix Sum | Array | [/source/Generator1975.py](/source/Generator1975.py) | [/generated/1975_Maximum_Matrix_Sum.txt](/generated/1975_Maximum_Matrix_Sum.txt) |
 | `2024-11-23` | [1861](https://www.leetcode.com/problems/rotating-the-box/) | Rotating the Box | Array | [/source/Generator1861.py](/source/Generator1861.py) | [/generated/1861_Rotating_the_Box1.txt](/generated/1861_Rotating_the_Box1.txt) |
