@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-11-29` | [2577](https://www.leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/) | Minimum Time to Visit a Cell In a Grid | Graph | [/source/Generator2577.py](/source/Generator2577.py) | [/generated/2577_Minimum_Time_to_Visit_a_Cell_In_a_Grid.txt](/generated/2577_Minimum_Time_to_Visit_a_Cell_In_a_Grid.txt) |
 | `2024-11-28` | [2290](https://www.leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | Minimum Obstacle Removal to Reach Corner | Graph | [/source/Generator2290.py](/source/Generator2290.py) | [/generated/2290_Minimum_Obstacle_Removal_to_Reach_Corner.txt](/generated/2290_Minimum_Obstacle_Removal_to_Reach_Corner.txt) |
 | `2024-11-27` | [3243](https://www.leetcode.com/problems/shortest-distance-after-road-addition-queries-i/) | Shortest Distance After Road Addition Queries I | Graph | [/source/Generator3243.py](/source/Generator3243.py) | [/generated/3243_Shortest_Distance_After_Road_Addition_Queries_I.txt](/generated/3243_Shortest_Distance_After_Road_Addition_Queries_I.txt) |
 | `2024-11-26` | [2924](https://www.leetcode.com/problems/find-champion-ii/) | Find Champion II | Graph | [/source/Generator2924.py](/source/Generator2924.py) | [/generated/2924_Find_Champion_II.txt](/generated/2924_Find_Champion_II.txt) |
