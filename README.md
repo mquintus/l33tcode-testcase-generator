@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-12-01` | [1346](https://www.leetcode.com/problems/check-if-n-and-its-double-exist/) | Check If N and Its Double Exist | Array | [/source/Generator1346.py](/source/Generator1346.py) | [/generated/1346_Check_If_N_and_Its_Double_Exist.txt](/generated/1346_Check_If_N_and_Its_Double_Exist.txt) |
 | `2024-11-30` | [2097](https://www.leetcode.com/problems/valid-arrangement-of-pairs/) | Valid Arrangement of Pairs | Graph | [/source/Generator2097.py](/source/Generator2097.py) | [/generated/2097_Valid_Arrangement_of_Pairs.txt](/generated/2097_Valid_Arrangement_of_Pairs.txt) |
 | `2024-11-29` | [2577](https://www.leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/) | Minimum Time to Visit a Cell In a Grid | Graph | [/source/Generator2577.py](/source/Generator2577.py) | [/generated/2577_Minimum_Time_to_Visit_a_Cell_In_a_Grid.txt](/generated/2577_Minimum_Time_to_Visit_a_Cell_In_a_Grid.txt) |
 | `2024-11-28` | [2290](https://www.leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | Minimum Obstacle Removal to Reach Corner | Graph | [/source/Generator2290.py](/source/Generator2290.py) | [/generated/2290_Minimum_Obstacle_Removal_to_Reach_Corner.txt](/generated/2290_Minimum_Obstacle_Removal_to_Reach_Corner.txt) |
