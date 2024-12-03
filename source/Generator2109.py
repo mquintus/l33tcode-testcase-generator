@@ -6,17 +6,24 @@ import random
 def generate() -> str:
     tests = []
     min_num = 2
-    max_num = 10**4
-    minval = -1000
-    maxval = 1000
+    max_num = 3 * 10**5
+    alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
-    n = min_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
-    
+    for n in [min_num, 10, 200, max_num//10, max_num//5, max_num]:
+        number_of_spaces = random.randint(1, n)
+        spaces = list(range(0,n))
+        random.shuffle(spaces)
+        spaces = spaces[:number_of_spaces]
+        spaces.sort()
+        test = "".join([random.choice(alphabet) for _ in range(n)])
+        tests.append('"'+test.__str__()+'"' + "\n" + str(spaces).replace(' ', ''))
+
+    # max out    
     n = max_num
-    test = [random.randint(minval, maxval) for _ in range(n)]
-    tests.append(test.__str__().replace(' ', ''))
+    number_of_spaces = n
+    spaces = list(range(0,n))
+    test = "".join([random.choice(alphabet) for _ in range(n)])
+    tests.append('"'+test.__str__()+'"' + "\n" + str(spaces).replace(' ', ''))
     
     return '''
 '''.join(tests)
