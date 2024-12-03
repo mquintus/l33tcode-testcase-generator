@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-12-03` | [2109](https://www.leetcode.com/problems/adding-spaces-to-a-string/) | Adding Spaces to a String | Array | [/source/Generator2109.py](/source/Generator2109.py) | [/generated/2109_Adding_Spaces_to_a_String.txt](/generated/2109_Adding_Spaces_to_a_String.txt) |
 | `2024-12-02` | [1455](https://www.leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Check If a Word Occurs As a Prefix of Any Word in a Sentence | Two Pointers | [/source/Generator1455.py](/source/Generator1455.py) | [/generated/1455_Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.txt](/generated/1455_Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.txt) |
 | `2024-12-01` | [1346](https://www.leetcode.com/problems/check-if-n-and-its-double-exist/) | Check If N and Its Double Exist | Array | [/source/Generator1346.py](/source/Generator1346.py) | [/generated/1346_Check_If_N_and_Its_Double_Exist.txt](/generated/1346_Check_If_N_and_Its_Double_Exist.txt) |
 | `2024-11-30` | [2097](https://www.leetcode.com/problems/valid-arrangement-of-pairs/) | Valid Arrangement of Pairs | Graph | [/source/Generator2097.py](/source/Generator2097.py) | [/generated/2097_Valid_Arrangement_of_Pairs.txt](/generated/2097_Valid_Arrangement_of_Pairs.txt) |
