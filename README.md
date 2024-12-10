@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-12-10` | [2981](https://www.leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/) | Find Longest Special Substring That Occurs Thrice I | Hash Table | [/source/Generator2981.py](/source/Generator2981.py) | [/generated/2981_Find_Longest_Special_Substring_That_Occurs_Thrice_I.txt](/generated/2981_Find_Longest_Special_Substring_That_Occurs_Thrice_I.txt) |
 | `2024-12-09` | [3152](https://www.leetcode.com/problems/special-array-ii/) | Special Array II | Array | [/source/Generator3152.py](/source/Generator3152.py) | [/generated/3152_Special_Array_II.txt](/generated/3152_Special_Array_II.txt) |
 | `2024-12-08` | [2054](https://www.leetcode.com/problems/two-best-non-overlapping-events/) | Two Best Non-Overlapping Events | Array | [/source/Generator2054.py](/source/Generator2054.py) | [/generated/2054_Two_Best_Non-Overlapping_Events.txt](/generated/2054_Two_Best_Non-Overlapping_Events.txt) |
 | `2024-12-07` | [1760](https://www.leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | Minimum Limit of Balls in a Bag | Array | [/source/Generator1760.py](/source/Generator1760.py) | [/generated/1760_Minimum_Limit_of_Balls_in_a_Bag.txt](/generated/1760_Minimum_Limit_of_Balls_in_a_Bag.txt) |
