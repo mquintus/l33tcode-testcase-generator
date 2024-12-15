@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-12-15` | [1792](https://www.leetcode.com/problems/maximum-average-pass-ratio/) | Maximum Average Pass Ratio | Array | [/source/Generator1792.py](/source/Generator1792.py) | [/generated/1792_Maximum_Average_Pass_Ratio.txt](/generated/1792_Maximum_Average_Pass_Ratio.txt) |
 | `2024-12-14` | [2762](https://www.leetcode.com/problems/continuous-subarrays/) | Continuous Subarrays | Array | [/source/Generator2762.py](/source/Generator2762.py) | [/generated/2762_Continuous_Subarrays.txt](/generated/2762_Continuous_Subarrays.txt) |
 | `2024-12-13` | [2593](https://www.leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) | Find Score of an Array After Marking All Elements | Array | [/source/Generator2593.py](/source/Generator2593.py) | [/generated/2593_Find_Score_of_an_Array_After_Marking_All_Elements.txt](/generated/2593_Find_Score_of_an_Array_After_Marking_All_Elements.txt) |
 | `2024-12-12` | [2558](https://www.leetcode.com/problems/take-gifts-from-the-richest-pile/) | Take Gifts From the Richest Pile | Array | [/source/Generator2558.py](/source/Generator2558.py) | [/generated/2558_Take_Gifts_From_the_Richest_Pile.txt](/generated/2558_Take_Gifts_From_the_Richest_Pile.txt) |
