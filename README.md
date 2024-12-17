@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-12-17` | [2182](https://www.leetcode.com/problems/construct-string-with-repeat-limit/) | Construct String With Repeat Limit | Hash Table | [/source/Generator2182.py](/source/Generator2182.py) | [/generated/2182_Construct_String_With_Repeat_Limit.txt](/generated/2182_Construct_String_With_Repeat_Limit.txt) |
 | `2024-12-16` | [3264](https://www.leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/) | Final Array State After K Multiplication Operations I | Array | [/source/Generator3264.py](/source/Generator3264.py) | [/generated/3264_Final_Array_State_After_K_Multiplication_Operations_I.txt](/generated/3264_Final_Array_State_After_K_Multiplication_Operations_I.txt) |
 | `2024-12-15` | [1792](https://www.leetcode.com/problems/maximum-average-pass-ratio/) | Maximum Average Pass Ratio | Array | [/source/Generator1792.py](/source/Generator1792.py) | [/generated/1792_Maximum_Average_Pass_Ratio.txt](/generated/1792_Maximum_Average_Pass_Ratio.txt) |
 | `2024-12-14` | [2762](https://www.leetcode.com/problems/continuous-subarrays/) | Continuous Subarrays | Array | [/source/Generator2762.py](/source/Generator2762.py) | [/generated/2762_Continuous_Subarrays.txt](/generated/2762_Continuous_Subarrays.txt) |
