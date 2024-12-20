@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-12-20` | [2415](https://www.leetcode.com/problems/reverse-odd-levels-of-binary-tree/) | Reverse Odd Levels of Binary Tree | Tree | [/source/Generator2415.py](/source/Generator2415.py) | [/generated/2415_Reverse_Odd_Levels_of_Binary_Tree.txt](/generated/2415_Reverse_Odd_Levels_of_Binary_Tree.txt) |
 | `2024-12-19` | [769](https://www.leetcode.com/problems/max-chunks-to-make-sorted/) | Max Chunks To Make Sorted | Array | [/source/Generator769.py](/source/Generator769.py) | [/generated/769_Max_Chunks_To_Make_Sorted.txt](/generated/769_Max_Chunks_To_Make_Sorted.txt) |
 | `2024-12-18` | [1475](https://www.leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | Final Prices With a Special Discount in a Shop | Array | [/source/Generator1475.py](/source/Generator1475.py) | [/generated/1475_Final_Prices_With_a_Special_Discount_in_a_Shop.txt](/generated/1475_Final_Prices_With_a_Special_Discount_in_a_Shop.txt) |
 | `2024-12-17` | [2182](https://www.leetcode.com/problems/construct-string-with-repeat-limit/) | Construct String With Repeat Limit | Hash Table | [/source/Generator2182.py](/source/Generator2182.py) | [/generated/2182_Construct_String_With_Repeat_Limit.txt](/generated/2182_Construct_String_With_Repeat_Limit.txt) |
