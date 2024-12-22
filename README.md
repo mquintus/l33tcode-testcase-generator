@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-12-22` | [2940](https://www.leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | Find Building Where Alice and Bob Can Meet | Array | [/source/Generator2940.py](/source/Generator2940.py) | [/generated/2940_Find_Building_Where_Alice_and_Bob_Can_Meet.txt](/generated/2940_Find_Building_Where_Alice_and_Bob_Can_Meet.txt) |
 | `2024-12-21` | [2872](https://www.leetcode.com/problems/maximum-number-of-k-divisible-components/) | Maximum Number of K-Divisible Components | Tree | [/source/Generator2872.py](/source/Generator2872.py) | [/generated/2872_Maximum_Number_of_K-Divisible_Components.txt](/generated/2872_Maximum_Number_of_K-Divisible_Components.txt) |
 | `2024-12-20` | [2415](https://www.leetcode.com/problems/reverse-odd-levels-of-binary-tree/) | Reverse Odd Levels of Binary Tree | Tree | [/source/Generator2415.py](/source/Generator2415.py) | [/generated/2415_Reverse_Odd_Levels_of_Binary_Tree.txt](/generated/2415_Reverse_Odd_Levels_of_Binary_Tree.txt) |
 | `2024-12-19` | [769](https://www.leetcode.com/problems/max-chunks-to-make-sorted/) | Max Chunks To Make Sorted | Array | [/source/Generator769.py](/source/Generator769.py) | [/generated/769_Max_Chunks_To_Make_Sorted.txt](/generated/769_Max_Chunks_To_Make_Sorted.txt) |
