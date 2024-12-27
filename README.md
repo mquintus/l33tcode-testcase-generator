@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2024-12-27` | [1014](https://www.leetcode.com/problems/best-sightseeing-pair/) | Best Sightseeing Pair | Array | [/source/Generator1014.py](/source/Generator1014.py) | [/generated/1014_Best_Sightseeing_Pair.txt](/generated/1014_Best_Sightseeing_Pair.txt) |
 | `2024-12-26` | [494](https://www.leetcode.com/problems/target-sum/) | Target Sum | Array | [/source/Generator494.py](/source/Generator494.py) | [/generated/494_Target_Sum.txt](/generated/494_Target_Sum.txt) |
 | `2024-12-25` | [515](https://www.leetcode.com/problems/find-largest-value-in-each-tree-row/) | Find Largest Value in Each Tree Row | Tree | [/source/Generator515.py](/source/Generator515.py) | [/generated/515_Find_Largest_Value_in_Each_Tree_Row.txt](/generated/515_Find_Largest_Value_in_Each_Tree_Row.txt) |
 | `2024-12-24` | [3203](https://www.leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/) | Find Minimum Diameter After Merging Two Trees | Graph | [/source/Generator3203.py](/source/Generator3203.py) | [/generated/3203_Find_Minimum_Diameter_After_Merging_Two_Trees.txt](/generated/3203_Find_Minimum_Diameter_After_Merging_Two_Trees.txt) |
