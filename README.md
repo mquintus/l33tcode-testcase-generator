@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-01-02` | [2559](https://www.leetcode.com/problems/count-vowel-strings-in-ranges/) | Count Vowel Strings in Ranges | Array | [/source/Generator2559.py](/source/Generator2559.py) | [/generated/2559_Count_Vowel_Strings_in_Ranges.txt](/generated/2559_Count_Vowel_Strings_in_Ranges.txt) |
 | `2025-01-01` | [1422](https://www.leetcode.com/problems/maximum-score-after-splitting-a-string/) | Maximum Score After Splitting a String | String | [/source/Generator1422.py](/source/Generator1422.py) | [/generated/1422_Maximum_Score_After_Splitting_a_String.txt](/generated/1422_Maximum_Score_After_Splitting_a_String.txt) |
 | `2024-12-31` | [983](https://www.leetcode.com/problems/minimum-cost-for-tickets/) | Minimum Cost For Tickets | Array | [/source/Generator983.py](/source/Generator983.py) | [/generated/983_Minimum_Cost_For_Tickets.txt](/generated/983_Minimum_Cost_For_Tickets.txt) |
 | `2024-12-30` | [2466](https://www.leetcode.com/problems/count-ways-to-build-good-strings/) | Count Ways To Build Good Strings | Dynamic Programming | [/source/Generator2466.py](/source/Generator2466.py) | [/generated/2466_Count_Ways_To_Build_Good_Strings.txt](/generated/2466_Count_Ways_To_Build_Good_Strings.txt) |
