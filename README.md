@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-01-04` | [1930](https://www.leetcode.com/problems/unique-length-3-palindromic-subsequences/) | Unique Length-3 Palindromic Subsequences | Hash Table | [/source/Generator1930.py](/source/Generator1930.py) | [/generated/1930_Unique_Length-3_Palindromic_Subsequences.txt](/generated/1930_Unique_Length-3_Palindromic_Subsequences.txt) |
 | `2025-01-03` | [2270](https://www.leetcode.com/problems/number-of-ways-to-split-array/) | Number of Ways to Split Array | Array | [/source/Generator2270.py](/source/Generator2270.py) | [/generated/2270_Number_of_Ways_to_Split_Array.txt](/generated/2270_Number_of_Ways_to_Split_Array.txt) |
 | `2025-01-02` | [2559](https://www.leetcode.com/problems/count-vowel-strings-in-ranges/) | Count Vowel Strings in Ranges | Array | [/source/Generator2559.py](/source/Generator2559.py) | [/generated/2559_Count_Vowel_Strings_in_Ranges.txt](/generated/2559_Count_Vowel_Strings_in_Ranges.txt) |
 | `2025-01-01` | [1422](https://www.leetcode.com/problems/maximum-score-after-splitting-a-string/) | Maximum Score After Splitting a String | String | [/source/Generator1422.py](/source/Generator1422.py) | [/generated/1422_Maximum_Score_After_Splitting_a_String.txt](/generated/1422_Maximum_Score_After_Splitting_a_String.txt) |
