@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-01-06` | [1769](https://www.leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | Minimum Number of Operations to Move All Balls to Each Box | Array | [/source/Generator1769.py](/source/Generator1769.py) | [/generated/1769_Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.txt](/generated/1769_Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.txt) |
 | `2025-01-05` | [2381](https://www.leetcode.com/problems/shifting-letters-ii/) | Shifting Letters II | Array | [/source/Generator2381.py](/source/Generator2381.py) | [/generated/2381_Shifting_Letters_II.txt](/generated/2381_Shifting_Letters_II.txt) |
 | `2025-01-04` | [1930](https://www.leetcode.com/problems/unique-length-3-palindromic-subsequences/) | Unique Length-3 Palindromic Subsequences | Hash Table | [/source/Generator1930.py](/source/Generator1930.py) | [/generated/1930_Unique_Length-3_Palindromic_Subsequences.txt](/generated/1930_Unique_Length-3_Palindromic_Subsequences.txt) |
 | `2025-01-03` | [2270](https://www.leetcode.com/problems/number-of-ways-to-split-array/) | Number of Ways to Split Array | Array | [/source/Generator2270.py](/source/Generator2270.py) | [/generated/2270_Number_of_Ways_to_Split_Array.txt](/generated/2270_Number_of_Ways_to_Split_Array.txt) |
