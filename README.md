@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-01-10` | [916](https://www.leetcode.com/problems/word-subsets/) | Word Subsets | Array | [/source/Generator916.py](/source/Generator916.py) | [/generated/916_Word_Subsets.txt](/generated/916_Word_Subsets.txt) |
 | `2025-01-09` | [2185](https://www.leetcode.com/problems/counting-words-with-a-given-prefix/) | Counting Words With a Given Prefix | Array | [/source/Generator2185.py](/source/Generator2185.py) | [/generated/2185_Counting_Words_With_a_Given_Prefix.txt](/generated/2185_Counting_Words_With_a_Given_Prefix.txt) |
 | `2025-01-08` | [3042](https://www.leetcode.com/problems/count-prefix-and-suffix-pairs-i/) | Count Prefix and Suffix Pairs I | Array | [/source/Generator3042.py](/source/Generator3042.py) | [/generated/3042_Count_Prefix_and_Suffix_Pairs_I.txt](/generated/3042_Count_Prefix_and_Suffix_Pairs_I.txt) |
 | `2025-01-07` | [1408](https://www.leetcode.com/problems/string-matching-in-an-array/) | String Matching in an Array | Array | [/source/Generator1408.py](/source/Generator1408.py) | [/generated/1408_String_Matching_in_an_Array.txt](/generated/1408_String_Matching_in_an_Array.txt) |
