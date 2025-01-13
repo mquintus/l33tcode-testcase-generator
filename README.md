@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-01-13` | [3223](https://www.leetcode.com/problems/minimum-length-of-string-after-operations/) | Minimum Length of String After Operations | Hash Table | [/source/Generator3223.py](/source/Generator3223.py) | [/generated/3223_Minimum_Length_of_String_After_Operations.txt](/generated/3223_Minimum_Length_of_String_After_Operations.txt) |
 | `2025-01-12` | [2116](https://www.leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/) | Check if a Parentheses String Can Be Valid | String | [/source/Generator2116.py](/source/Generator2116.py) | [/generated/2116_Check_if_a_Parentheses_String_Can_Be_Valid.txt](/generated/2116_Check_if_a_Parentheses_String_Can_Be_Valid.txt) |
 | `2025-01-11` | [1400](https://www.leetcode.com/problems/construct-k-palindrome-strings/) | Construct K Palindrome Strings | Hash Table | [/source/Generator1400.py](/source/Generator1400.py) | [/generated/1400_Construct_K_Palindrome_Strings.txt](/generated/1400_Construct_K_Palindrome_Strings.txt) |
 | `2025-01-10` | [916](https://www.leetcode.com/problems/word-subsets/) | Word Subsets | Array | [/source/Generator916.py](/source/Generator916.py) | [/generated/916_Word_Subsets.txt](/generated/916_Word_Subsets.txt) |
