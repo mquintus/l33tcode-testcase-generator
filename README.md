@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-01-17` | [2683](https://www.leetcode.com/problems/neighboring-bitwise-xor/) | Neighboring Bitwise XOR | Array | [/source/Generator2683.py](/source/Generator2683.py) | [/generated/2683_Neighboring_Bitwise_XOR.txt](/generated/2683_Neighboring_Bitwise_XOR.txt) |
 | `2025-01-16` | [2425](https://www.leetcode.com/problems/bitwise-xor-of-all-pairings/) | Bitwise XOR of All Pairings | Array | [/source/Generator2425.py](/source/Generator2425.py) | [/generated/2425_Bitwise_XOR_of_All_Pairings.txt](/generated/2425_Bitwise_XOR_of_All_Pairings.txt) |
 | `2025-01-15` | [2429](https://www.leetcode.com/problems/minimize-xor/) | Minimize XOR | Greedy | [/source/Generator2429.py](/source/Generator2429.py) | [/generated/2429_Minimize_XOR.txt](/generated/2429_Minimize_XOR.txt) |
 | `2025-01-14` | [2657](https://www.leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | Find the Prefix Common Array of Two Arrays | Array | [/source/Generator2657.py](/source/Generator2657.py) | [/generated/2657_Find_the_Prefix_Common_Array_of_Two_Arrays.txt](/generated/2657_Find_the_Prefix_Common_Array_of_Two_Arrays.txt) |
