@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-01-19` | [407](https://www.leetcode.com/problems/trapping-rain-water-ii/) | Trapping Rain Water II | Array | [/source/Generator407.py](/source/Generator407.py) | [/generated/407_Trapping_Rain_Water_II.txt](/generated/407_Trapping_Rain_Water_II.txt) |
 | `2025-01-18` | [1368](https://www.leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Minimum Cost to Make at Least One Valid Path in a Grid | Graph | [/source/Generator1368.py](/source/Generator1368.py) | [/generated/1368_Minimum_Cost_to_Make_at_Least_One_Valid_Path_in_a_Grid.txt](/generated/1368_Minimum_Cost_to_Make_at_Least_One_Valid_Path_in_a_Grid.txt) |
 | `2025-01-17` | [2683](https://www.leetcode.com/problems/neighboring-bitwise-xor/) | Neighboring Bitwise XOR | Array | [/source/Generator2683.py](/source/Generator2683.py) | [/generated/2683_Neighboring_Bitwise_XOR.txt](/generated/2683_Neighboring_Bitwise_XOR.txt) |
 | `2025-01-16` | [2425](https://www.leetcode.com/problems/bitwise-xor-of-all-pairings/) | Bitwise XOR of All Pairings | Array | [/source/Generator2425.py](/source/Generator2425.py) | [/generated/2425_Bitwise_XOR_of_All_Pairings.txt](/generated/2425_Bitwise_XOR_of_All_Pairings.txt) |
