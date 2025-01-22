@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-01-22` | [1765](https://www.leetcode.com/problems/map-of-highest-peak/) | Map of Highest Peak | Array | [/source/Generator1765.py](/source/Generator1765.py) | [/generated/1765_Map_of_Highest_Peak.txt](/generated/1765_Map_of_Highest_Peak.txt) |
 | `2025-01-21` | [2017](https://www.leetcode.com/problems/grid-game/) | Grid Game | Array | [/source/Generator2017.py](/source/Generator2017.py) | [/generated/2017_Grid_Game.txt](/generated/2017_Grid_Game.txt) |
 | `2025-01-20` | [2661](https://www.leetcode.com/problems/first-completely-painted-row-or-column/) | First Completely Painted Row or Column | Array | [/source/Generator2661.py](/source/Generator2661.py) | [/generated/2661_First_Completely_Painted_Row_or_Column.txt](/generated/2661_First_Completely_Painted_Row_or_Column.txt) |
 | `2025-01-19` | [407](https://www.leetcode.com/problems/trapping-rain-water-ii/) | Trapping Rain Water II | Array | [/source/Generator407.py](/source/Generator407.py) | [/generated/407_Trapping_Rain_Water_II.txt](/generated/407_Trapping_Rain_Water_II.txt) |
