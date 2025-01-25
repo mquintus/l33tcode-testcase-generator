@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-01-25` | [2948](https://www.leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | Make Lexicographically Smallest Array by Swapping Elements | Array | [/source/Generator2948.py](/source/Generator2948.py) | [/generated/2948_Make_Lexicographically_Smallest_Array_by_Swapping_Elements.txt](/generated/2948_Make_Lexicographically_Smallest_Array_by_Swapping_Elements.txt) |
 | `2025-01-24` | [802](https://www.leetcode.com/problems/find-eventual-safe-states/) | Find Eventual Safe States | Graph | [/source/Generator802.py](/source/Generator802.py) | [/generated/802_Find_Eventual_Safe_States.txt](/generated/802_Find_Eventual_Safe_States.txt) |
 | `2025-01-23` | [1267](https://www.leetcode.com/problems/count-servers-that-communicate/) | Count Servers that Communicate | Array | [/source/Generator1267.py](/source/Generator1267.py) | [/generated/1267_Count_Servers_that_Communicate.txt](/generated/1267_Count_Servers_that_Communicate.txt) |
 | `2025-01-22` | [1765](https://www.leetcode.com/problems/map-of-highest-peak/) | Map of Highest Peak | Array | [/source/Generator1765.py](/source/Generator1765.py) | [/generated/1765_Map_of_Highest_Peak.txt](/generated/1765_Map_of_Highest_Peak.txt) |
