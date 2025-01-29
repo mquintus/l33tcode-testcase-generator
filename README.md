@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-01-29` | [684](https://www.leetcode.com/problems/redundant-connection/) | Redundant Connection | Graph | [/source/Generator684.py](/source/Generator684.py) | [/generated/684_Redundant_Connection.txt](/generated/684_Redundant_Connection.txt) |
 | `2025-01-28` | [2658](https://www.leetcode.com/problems/maximum-number-of-fish-in-a-grid/) | Maximum Number of Fish in a Grid | Array | [/source/Generator2658.py](/source/Generator2658.py) | [/generated/2658_Maximum_Number_of_Fish_in_a_Grid.txt](/generated/2658_Maximum_Number_of_Fish_in_a_Grid.txt) |
 | `2025-01-27` | [1462](https://www.leetcode.com/problems/course-schedule-iv/) | Course Schedule IV | Graph | [/source/Generator1462.py](/source/Generator1462.py) | [/generated/1462_Course_Schedule_IV.txt](/generated/1462_Course_Schedule_IV.txt) |
 | `2025-01-26` | [2127](https://www.leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/) | Maximum Employees to Be Invited to a Meeting | Graph | [/source/Generator2127.py](/source/Generator2127.py) | [/generated/2127_Maximum_Employees_to_Be_Invited_to_a_Meeting.txt](/generated/2127_Maximum_Employees_to_Be_Invited_to_a_Meeting.txt) |
