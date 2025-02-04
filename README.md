@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-02-04` | [1800](https://www.leetcode.com/problems/maximum-ascending-subarray-sum/) | Maximum Ascending Subarray Sum | Array | [/source/Generator1800.py](/source/Generator1800.py) | [/generated/1800_Maximum_Ascending_Subarray_Sum.txt](/generated/1800_Maximum_Ascending_Subarray_Sum.txt) |
 | `2025-02-03` | [3105](https://www.leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | Longest Strictly Increasing or Strictly Decreasing Subarray | Array | [/source/Generator3105.py](/source/Generator3105.py) | [/generated/3105_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.txt](/generated/3105_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.txt) |
 | `2025-02-02` | [1752](https://www.leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Check if Array Is Sorted and Rotated | Array | [/source/Generator1752.py](/source/Generator1752.py) | [/generated/1752_Check_if_Array_Is_Sorted_and_Rotated.txt](/generated/1752_Check_if_Array_Is_Sorted_and_Rotated.txt) |
 | `2025-02-01` | [3151](https://www.leetcode.com/problems/special-array-i/) | Special Array I | Array | [/source/Generator3151.py](/source/Generator3151.py) | [/generated/3151_Special_Array_I.txt](/generated/3151_Special_Array_I.txt) |
