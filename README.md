@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-02-10` | [3174](https://www.leetcode.com/problems/clear-digits/) | Clear Digits | String | [/source/Generator3174.py](/source/Generator3174.py) | [/generated/3174_Clear_Digits.txt](/generated/3174_Clear_Digits.txt) |
 | `2025-02-09` | [2364](https://www.leetcode.com/problems/count-number-of-bad-pairs/) | Count Number of Bad Pairs | Array | [/source/Generator2364.py](/source/Generator2364.py) | [/generated/2364_Count_Number_of_Bad_Pairs.txt](/generated/2364_Count_Number_of_Bad_Pairs.txt) |
 | `2025-02-08` | [2349](https://www.leetcode.com/problems/design-a-number-container-system/) | Design a Number Container System | Hash Table | [/source/Generator2349.py](/source/Generator2349.py) | [/generated/2349_Design_a_Number_Container_System.txt](/generated/2349_Design_a_Number_Container_System.txt) |
 | `2025-02-07` | [3160](https://www.leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/) | Find the Number of Distinct Colors Among the Balls | Array | [/source/Generator3160.py](/source/Generator3160.py) | [/generated/3160_Find_the_Number_of_Distinct_Colors_Among_the_Balls.txt](/generated/3160_Find_the_Number_of_Distinct_Colors_Among_the_Balls.txt) |
