@@ -632,6 +632,7 @@ def main(challenge_id=-1):
         1910,
         2342,
         3066,
+        1352,
         # insert next challenge here
     ]
     if int(challenge_id) == -1:
@@ -3197,6 +3198,10 @@ def main(challenge_id=-1):
     if int(challenge_id) == 3066:
         from source import Generator3066
         tests = Generator3066.generate()
+
+    if int(challenge_id) == 1352:
+        from source import Generator1352
+        tests = Generator1352.generate()
 
     # insert next challenge import here
 
