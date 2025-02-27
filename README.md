@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-02-27` | [873](https://www.leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | Length of Longest Fibonacci Subsequence | Array | [/source/Generator873.py](/source/Generator873.py) | [/generated/873_Length_of_Longest_Fibonacci_Subsequence.txt](/generated/873_Length_of_Longest_Fibonacci_Subsequence.txt) |
 | `2025-02-26` | [1749](https://www.leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | Maximum Absolute Sum of Any Subarray | Array | [/source/Generator1749.py](/source/Generator1749.py) | [/generated/1749_Maximum_Absolute_Sum_of_Any_Subarray.txt](/generated/1749_Maximum_Absolute_Sum_of_Any_Subarray.txt) |
 | `2025-02-25` | [1524](https://www.leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Number of Sub-arrays With Odd Sum | Array | [/source/Generator1524.py](/source/Generator1524.py) | [/generated/1524_Number_of_Sub-arrays_With_Odd_Sum.txt](/generated/1524_Number_of_Sub-arrays_With_Odd_Sum.txt) |
 | `2025-02-24` | [2467](https://www.leetcode.com/problems/most-profitable-path-in-a-tree/) | Most Profitable Path in a Tree | Graph | [/source/Generator2467.py](/source/Generator2467.py) | [/generated/2467_Most_Profitable_Path_in_a_Tree.txt](/generated/2467_Most_Profitable_Path_in_a_Tree.txt) |
