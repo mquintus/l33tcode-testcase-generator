@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-03-01` | [2460](https://www.leetcode.com/problems/apply-operations-to-an-array/) | Apply Operations to an Array | Array | [/source/Generator2460.py](/source/Generator2460.py) | [/generated/2460_Apply_Operations_to_an_Array.txt](/generated/2460_Apply_Operations_to_an_Array.txt) |
 | `2025-02-28` | [1092](https://www.leetcode.com/problems/shortest-common-supersequence/) | Shortest Common Supersequence  | String | [/source/Generator1092.py](/source/Generator1092.py) | [/generated/1092_Shortest_Common_Supersequence_.txt](/generated/1092_Shortest_Common_Supersequence_.txt) |
 | `2025-02-27` | [873](https://www.leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | Length of Longest Fibonacci Subsequence | Array | [/source/Generator873.py](/source/Generator873.py) | [/generated/873_Length_of_Longest_Fibonacci_Subsequence.txt](/generated/873_Length_of_Longest_Fibonacci_Subsequence.txt) |
 | `2025-02-26` | [1749](https://www.leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | Maximum Absolute Sum of Any Subarray | Array | [/source/Generator1749.py](/source/Generator1749.py) | [/generated/1749_Maximum_Absolute_Sum_of_Any_Subarray.txt](/generated/1749_Maximum_Absolute_Sum_of_Any_Subarray.txt) |
