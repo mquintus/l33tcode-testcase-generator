@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-03-03` | [2161](https://www.leetcode.com/problems/partition-array-according-to-given-pivot/) | Partition Array According to Given Pivot | Array | [/source/Generator2161.py](/source/Generator2161.py) | [/generated/2161_Partition_Array_According_to_Given_Pivot.txt](/generated/2161_Partition_Array_According_to_Given_Pivot.txt) |
 | `2025-03-02` | [2570](https://www.leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | Merge Two 2D Arrays by Summing Values | Array | [/source/Generator2570.py](/source/Generator2570.py) | [/generated/2570_Merge_Two_2D_Arrays_by_Summing_Values.txt](/generated/2570_Merge_Two_2D_Arrays_by_Summing_Values.txt) |
 | `2025-03-01` | [2460](https://www.leetcode.com/problems/apply-operations-to-an-array/) | Apply Operations to an Array | Array | [/source/Generator2460.py](/source/Generator2460.py) | [/generated/2460_Apply_Operations_to_an_Array.txt](/generated/2460_Apply_Operations_to_an_Array.txt) |
 | `2025-02-28` | [1092](https://www.leetcode.com/problems/shortest-common-supersequence/) | Shortest Common Supersequence  | String | [/source/Generator1092.py](/source/Generator1092.py) | [/generated/1092_Shortest_Common_Supersequence_.txt](/generated/1092_Shortest_Common_Supersequence_.txt) |
