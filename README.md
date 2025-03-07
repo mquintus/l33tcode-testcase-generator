@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-03-07` | [2523](https://www.leetcode.com/problems/closest-prime-numbers-in-range/) | Closest Prime Numbers in Range | Math | [/source/Generator2523.py](/source/Generator2523.py) | [/generated/2523_Closest_Prime_Numbers_in_Range.txt](/generated/2523_Closest_Prime_Numbers_in_Range.txt) |
 | `2025-03-06` | [2965](https://www.leetcode.com/problems/find-missing-and-repeated-values/) | Find Missing and Repeated Values | Array | [/source/Generator2965.py](/source/Generator2965.py) | [/generated/2965_Find_Missing_and_Repeated_Values.txt](/generated/2965_Find_Missing_and_Repeated_Values.txt) |
 | `2025-03-05` | [2579](https://www.leetcode.com/problems/count-total-number-of-colored-cells/) | Count Total Number of Colored Cells | Math | [/source/Generator2579.py](/source/Generator2579.py) | [/generated/2579_Count_Total_Number_of_Colored_Cells.txt](/generated/2579_Count_Total_Number_of_Colored_Cells.txt) |
 | `2025-03-04` | [1780](https://www.leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | Check if Number is a Sum of Powers of Three | Math | [/source/Generator1780.py](/source/Generator1780.py) | [/generated/1780_Check_if_Number_is_a_Sum_of_Powers_of_Three.txt](/generated/1780_Check_if_Number_is_a_Sum_of_Powers_of_Three.txt) |
