@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-03-09` | [3208](https://www.leetcode.com/problems/alternating-groups-ii/) | Alternating Groups II | Array | [/source/Generator3208.py](/source/Generator3208.py) | [/generated/3208_Alternating_Groups_II.txt](/generated/3208_Alternating_Groups_II.txt) |
 | `2025-03-08` | [2379](https://www.leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | Minimum Recolors to Get K Consecutive Black Blocks | String | [/source/Generator2379.py](/source/Generator2379.py) | [/generated/2379_Minimum_Recolors_to_Get_K_Consecutive_Black_Blocks.txt](/generated/2379_Minimum_Recolors_to_Get_K_Consecutive_Black_Blocks.txt) |
 | `2025-03-07` | [2523](https://www.leetcode.com/problems/closest-prime-numbers-in-range/) | Closest Prime Numbers in Range | Math | [/source/Generator2523.py](/source/Generator2523.py) | [/generated/2523_Closest_Prime_Numbers_in_Range.txt](/generated/2523_Closest_Prime_Numbers_in_Range.txt) |
 | `2025-03-06` | [2965](https://www.leetcode.com/problems/find-missing-and-repeated-values/) | Find Missing and Repeated Values | Array | [/source/Generator2965.py](/source/Generator2965.py) | [/generated/2965_Find_Missing_and_Repeated_Values.txt](/generated/2965_Find_Missing_and_Repeated_Values.txt) |
