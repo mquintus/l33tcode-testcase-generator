@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-03-15` | [2560](https://www.leetcode.com/problems/house-robber-iv/) | House Robber IV | Array | [/source/Generator2560.py](/source/Generator2560.py) | [/generated/2560_House_Robber_IV.txt](/generated/2560_House_Robber_IV.txt) |
 | `2025-03-14` | [2226](https://www.leetcode.com/problems/maximum-candies-allocated-to-k-children/) | Maximum Candies Allocated to K Children | Array | [/source/Generator2226.py](/source/Generator2226.py) | [/generated/2226_Maximum_Candies_Allocated_to_K_Children.txt](/generated/2226_Maximum_Candies_Allocated_to_K_Children.txt) |
 | `2025-03-13` | [3356](https://www.leetcode.com/problems/zero-array-transformation-ii/) | Zero Array Transformation II | Array | [/source/Generator3356.py](/source/Generator3356.py) | [/generated/3356_Zero_Array_Transformation_II.txt](/generated/3356_Zero_Array_Transformation_II.txt) |
 | `2025-03-12` | [2529](https://www.leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | Maximum Count of Positive Integer and Negative Integer | Array | [/source/Generator2529.py](/source/Generator2529.py) | [/generated/2529_Maximum_Count_of_Positive_Integer_and_Negative_Integer.txt](/generated/2529_Maximum_Count_of_Positive_Integer_and_Negative_Integer.txt) |
