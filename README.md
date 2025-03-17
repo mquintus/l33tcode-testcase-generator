@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-03-17` | [2206](https://www.leetcode.com/problems/divide-array-into-equal-pairs/) | Divide Array Into Equal Pairs | Array | [/source/Generator2206.py](/source/Generator2206.py) | [/generated/2206_Divide_Array_Into_Equal_Pairs.txt](/generated/2206_Divide_Array_Into_Equal_Pairs.txt) |
 | `2025-03-16` | [2594](https://www.leetcode.com/problems/minimum-time-to-repair-cars/) | Minimum Time to Repair Cars | Array | [/source/Generator2594.py](/source/Generator2594.py) | [/generated/2594_Minimum_Time_to_Repair_Cars.txt](/generated/2594_Minimum_Time_to_Repair_Cars.txt) |
 | `2025-03-15` | [2560](https://www.leetcode.com/problems/house-robber-iv/) | House Robber IV | Array | [/source/Generator2560.py](/source/Generator2560.py) | [/generated/2560_House_Robber_IV.txt](/generated/2560_House_Robber_IV.txt) |
 | `2025-03-14` | [2226](https://www.leetcode.com/problems/maximum-candies-allocated-to-k-children/) | Maximum Candies Allocated to K Children | Array | [/source/Generator2226.py](/source/Generator2226.py) | [/generated/2226_Maximum_Candies_Allocated_to_K_Children.txt](/generated/2226_Maximum_Candies_Allocated_to_K_Children.txt) |
