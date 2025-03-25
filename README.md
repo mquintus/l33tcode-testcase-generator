@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-03-25` | [3394](https://www.leetcode.com/problems/check-if-grid-can-be-cut-into-sections/) | Check if Grid can be Cut into Sections | Array | [/source/Generator3394.py](/source/Generator3394.py) | [/generated/3394_Check_if_Grid_can_be_Cut_into_Sections.txt](/generated/3394_Check_if_Grid_can_be_Cut_into_Sections.txt) |
 | `2025-03-24` | [3169](https://www.leetcode.com/problems/count-days-without-meetings/) | Count Days Without Meetings | Array | [/source/Generator3169.py](/source/Generator3169.py) | [/generated/3169_Count_Days_Without_Meetings.txt](/generated/3169_Count_Days_Without_Meetings.txt) |
 | `2025-03-23` | [1976](https://www.leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | Number of Ways to Arrive at Destination | Graph | [/source/Generator1976.py](/source/Generator1976.py) | [/generated/1976_Number_of_Ways_to_Arrive_at_Destination.txt](/generated/1976_Number_of_Ways_to_Arrive_at_Destination.txt) |
 | `2025-03-22` | [2685](https://www.leetcode.com/problems/count-the-number-of-complete-components/) | Count the Number of Complete Components | Graph | [/source/Generator2685.py](/source/Generator2685.py) | [/generated/2685_Count_the_Number_of_Complete_Components.txt](/generated/2685_Count_the_Number_of_Complete_Components.txt) |
