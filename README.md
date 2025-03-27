@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-03-27` | [2780](https://www.leetcode.com/problems/minimum-index-of-a-valid-split/) | Minimum Index of a Valid Split | Array | [/source/Generator2780.py](/source/Generator2780.py) | [/generated/2780_Minimum_Index_of_a_Valid_Split.txt](/generated/2780_Minimum_Index_of_a_Valid_Split.txt) |
 | `2025-03-26` | [2033](https://www.leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | Minimum Operations to Make a Uni-Value Grid | Array | [/source/Generator2033.py](/source/Generator2033.py) | [/generated/2033_Minimum_Operations_to_Make_a_Uni-Value_Grid.txt](/generated/2033_Minimum_Operations_to_Make_a_Uni-Value_Grid.txt) |
 | `2025-03-25` | [3394](https://www.leetcode.com/problems/check-if-grid-can-be-cut-into-sections/) | Check if Grid can be Cut into Sections | Array | [/source/Generator3394.py](/source/Generator3394.py) | [/generated/3394_Check_if_Grid_can_be_Cut_into_Sections.txt](/generated/3394_Check_if_Grid_can_be_Cut_into_Sections.txt) |
 | `2025-03-24` | [3169](https://www.leetcode.com/problems/count-days-without-meetings/) | Count Days Without Meetings | Array | [/source/Generator3169.py](/source/Generator3169.py) | [/generated/3169_Count_Days_Without_Meetings.txt](/generated/3169_Count_Days_Without_Meetings.txt) |
