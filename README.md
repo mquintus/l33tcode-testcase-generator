@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-03-30` | [763](https://www.leetcode.com/problems/partition-labels/) | Partition Labels | Hash Table | [/source/Generator763.py](/source/Generator763.py) | [/generated/763_Partition_Labels.txt](/generated/763_Partition_Labels.txt) |
 | `2025-03-29` | [2818](https://www.leetcode.com/problems/apply-operations-to-maximize-score/) | Apply Operations to Maximize Score | Array | [/source/Generator2818.py](/source/Generator2818.py) | [/generated/2818_Apply_Operations_to_Maximize_Score.txt](/generated/2818_Apply_Operations_to_Maximize_Score.txt) |
 | `2025-03-28` | [2503](https://www.leetcode.com/problems/maximum-number-of-points-from-grid-queries/) | Maximum Number of Points From Grid Queries | Array | [/source/Generator2503.py](/source/Generator2503.py) | [/generated/2503_Maximum_Number_of_Points_From_Grid_Queries.txt](/generated/2503_Maximum_Number_of_Points_From_Grid_Queries.txt) |
 | `2025-03-27` | [2780](https://www.leetcode.com/problems/minimum-index-of-a-valid-split/) | Minimum Index of a Valid Split | Array | [/source/Generator2780.py](/source/Generator2780.py) | [/generated/2780_Minimum_Index_of_a_Valid_Split.txt](/generated/2780_Minimum_Index_of_a_Valid_Split.txt) |
