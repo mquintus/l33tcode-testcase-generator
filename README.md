@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-04-05` | [1863](https://www.leetcode.com/problems/sum-of-all-subset-xor-totals/) | Sum of All Subset XOR Totals | Array | [/source/Generator1863.py](/source/Generator1863.py) | [/generated/1863_Sum_of_All_Subset_XOR_Totals.txt](/generated/1863_Sum_of_All_Subset_XOR_Totals.txt) |
 | `2025-04-04` | [1123](https://www.leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | Lowest Common Ancestor of Deepest Leaves | Hash Table | [/source/Generator1123.py](/source/Generator1123.py) | [/generated/1123_Lowest_Common_Ancestor_of_Deepest_Leaves.txt](/generated/1123_Lowest_Common_Ancestor_of_Deepest_Leaves.txt) |
 | `2025-04-03` | [2874](https://www.leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/) | Maximum Value of an Ordered Triplet II | Array | [/source/Generator2874.py](/source/Generator2874.py) | [/generated/2874_Maximum_Value_of_an_Ordered_Triplet_II.txt](/generated/2874_Maximum_Value_of_an_Ordered_Triplet_II.txt) |
 | `2025-04-02` | [2873](https://www.leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/) | Maximum Value of an Ordered Triplet I | Array | [/source/Generator2873.py](/source/Generator2873.py) | [/generated/2873_Maximum_Value_of_an_Ordered_Triplet_I.txt](/generated/2873_Maximum_Value_of_an_Ordered_Triplet_I.txt) |
