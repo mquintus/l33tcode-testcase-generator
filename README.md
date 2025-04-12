@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-04-12` | [3272](https://www.leetcode.com/problems/find-the-count-of-good-integers/) | Find the Count of Good Integers | Hash Table | [/source/Generator3272.py](/source/Generator3272.py) | [/generated/3272_Find_the_Count_of_Good_Integers.txt](/generated/3272_Find_the_Count_of_Good_Integers.txt) |
 | `2025-04-11` | [2843](https://www.leetcode.com/problems/count-symmetric-integers/) |   Count Symmetric Integers | Math | [/source/Generator2843.py](/source/Generator2843.py) | [/generated/2843___Count_Symmetric_Integers.txt](/generated/2843___Count_Symmetric_Integers.txt) |
 | `2025-04-10` | [2999](https://www.leetcode.com/problems/count-the-number-of-powerful-integers/) | Count the Number of Powerful Integers | Math | [/source/Generator2999.py](/source/Generator2999.py) | [/generated/2999_Count_the_Number_of_Powerful_Integers.txt](/generated/2999_Count_the_Number_of_Powerful_Integers.txt) |
 | `2025-04-09` | [3375](https://www.leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/) | Minimum Operations to Make Array Values Equal to K | Array | [/source/Generator3375.py](/source/Generator3375.py) | [/generated/3375_Minimum_Operations_to_Make_Array_Values_Equal_to_K.txt](/generated/3375_Minimum_Operations_to_Make_Array_Values_Equal_to_K.txt) |
