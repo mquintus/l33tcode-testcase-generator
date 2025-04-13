@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-04-13` | [1922](https://www.leetcode.com/problems/count-good-numbers/) | Count Good Numbers | Math | [/source/Generator1922.py](/source/Generator1922.py) | [/generated/1922_Count_Good_Numbers.txt](/generated/1922_Count_Good_Numbers.txt) |
 | `2025-04-12` | [3272](https://www.leetcode.com/problems/find-the-count-of-good-integers/) | Find the Count of Good Integers | Hash Table | [/source/Generator3272.py](/source/Generator3272.py) | [/generated/3272_Find_the_Count_of_Good_Integers.txt](/generated/3272_Find_the_Count_of_Good_Integers.txt) |
 | `2025-04-11` | [2843](https://www.leetcode.com/problems/count-symmetric-integers/) |   Count Symmetric Integers | Math | [/source/Generator2843.py](/source/Generator2843.py) | [/generated/2843___Count_Symmetric_Integers.txt](/generated/2843___Count_Symmetric_Integers.txt) |
 | `2025-04-10` | [2999](https://www.leetcode.com/problems/count-the-number-of-powerful-integers/) | Count the Number of Powerful Integers | Math | [/source/Generator2999.py](/source/Generator2999.py) | [/generated/2999_Count_the_Number_of_Powerful_Integers.txt](/generated/2999_Count_the_Number_of_Powerful_Integers.txt) |
