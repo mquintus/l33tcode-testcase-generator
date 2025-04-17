@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-04-17` | [2176](https://www.leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | Count Equal and Divisible Pairs in an Array | Array | [/source/Generator2176.py](/source/Generator2176.py) | [/generated/2176_Count_Equal_and_Divisible_Pairs_in_an_Array.txt](/generated/2176_Count_Equal_and_Divisible_Pairs_in_an_Array.txt) |
 | `2025-04-16` | [2537](https://www.leetcode.com/problems/count-the-number-of-good-subarrays/) | Count the Number of Good Subarrays | Array | [/source/Generator2537.py](/source/Generator2537.py) | [/generated/2537_Count_the_Number_of_Good_Subarrays.txt](/generated/2537_Count_the_Number_of_Good_Subarrays.txt) |
 | `2025-04-15` | [2179](https://www.leetcode.com/problems/count-good-triplets-in-an-array/) | Count Good Triplets in an Array | Array | [/source/Generator2179.py](/source/Generator2179.py) | [/generated/2179_Count_Good_Triplets_in_an_Array.txt](/generated/2179_Count_Good_Triplets_in_an_Array.txt) |
 | `2025-04-14` | [1534](https://www.leetcode.com/problems/count-good-triplets/) | Count Good Triplets | Array | [/source/Generator1534.py](/source/Generator1534.py) | [/generated/1534_Count_Good_Triplets.txt](/generated/1534_Count_Good_Triplets.txt) |
