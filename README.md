@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-04-21` | [2145](https://www.leetcode.com/problems/count-the-hidden-sequences/) | Count the Hidden Sequences | Array | [/source/Generator2145.py](/source/Generator2145.py) | [/generated/2145_Count_the_Hidden_Sequences.txt](/generated/2145_Count_the_Hidden_Sequences.txt) |
 | `2025-04-20` | [781](https://www.leetcode.com/problems/rabbits-in-forest/) | Rabbits in Forest | Array | [/source/Generator781.py](/source/Generator781.py) | [/generated/781_Rabbits_in_Forest.txt](/generated/781_Rabbits_in_Forest.txt) |
 | `2025-04-19` | [2563](https://www.leetcode.com/problems/count-the-number-of-fair-pairs/) | Count the Number of Fair Pairs | Array | [/source/Generator2563.py](/source/Generator2563.py) | [/generated/2563_Count_the_Number_of_Fair_Pairs.txt](/generated/2563_Count_the_Number_of_Fair_Pairs.txt) |
 | `2025-04-18` | [38](https://www.leetcode.com/problems/count-and-say/) | Count and Say | String | [/source/Generator38.py](/source/Generator38.py) | [/generated/38_Count_and_Say.txt](/generated/38_Count_and_Say.txt) |
