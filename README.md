@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-04-23` | [1399](https://www.leetcode.com/problems/count-largest-group/) | Count Largest Group | Hash Table | [/source/Generator1399.py](/source/Generator1399.py) | [/generated/1399_Count_Largest_Group.txt](/generated/1399_Count_Largest_Group.txt) |
 | `2025-04-22` | [2338](https://www.leetcode.com/problems/count-the-number-of-ideal-arrays/) | Count the Number of Ideal Arrays | Math | [/source/Generator2338.py](/source/Generator2338.py) | [/generated/2338_Count_the_Number_of_Ideal_Arrays.txt](/generated/2338_Count_the_Number_of_Ideal_Arrays.txt) |
 | `2025-04-21` | [2145](https://www.leetcode.com/problems/count-the-hidden-sequences/) | Count the Hidden Sequences | Array | [/source/Generator2145.py](/source/Generator2145.py) | [/generated/2145_Count_the_Hidden_Sequences.txt](/generated/2145_Count_the_Hidden_Sequences.txt) |
 | `2025-04-20` | [781](https://www.leetcode.com/problems/rabbits-in-forest/) | Rabbits in Forest | Array | [/source/Generator781.py](/source/Generator781.py) | [/generated/781_Rabbits_in_Forest.txt](/generated/781_Rabbits_in_Forest.txt) |
