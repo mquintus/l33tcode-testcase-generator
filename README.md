@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-04-26` | [2444](https://www.leetcode.com/problems/count-subarrays-with-fixed-bounds/) | Count Subarrays With Fixed Bounds | Array | [/source/Generator2444.py](/source/Generator2444.py) | [/generated/2444_Count_Subarrays_With_Fixed_Bounds.txt](/generated/2444_Count_Subarrays_With_Fixed_Bounds.txt) |
 | `2025-04-25` | [2845](https://www.leetcode.com/problems/count-of-interesting-subarrays/) | Count of Interesting Subarrays | Array | [/source/Generator2845.py](/source/Generator2845.py) | [/generated/2845_Count_of_Interesting_Subarrays.txt](/generated/2845_Count_of_Interesting_Subarrays.txt) |
 | `2025-04-24` | [2799](https://www.leetcode.com/problems/count-complete-subarrays-in-an-array/) | Count Complete Subarrays in an Array | Array | [/source/Generator2799.py](/source/Generator2799.py) | [/generated/2799_Count_Complete_Subarrays_in_an_Array.txt](/generated/2799_Count_Complete_Subarrays_in_an_Array.txt) |
 | `2025-04-23` | [1399](https://www.leetcode.com/problems/count-largest-group/) | Count Largest Group | Hash Table | [/source/Generator1399.py](/source/Generator1399.py) | [/generated/1399_Count_Largest_Group.txt](/generated/1399_Count_Largest_Group.txt) |
