@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-04-27` | [3392](https://www.leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/) | Count Subarrays of Length Three With a Condition | Array | [/source/Generator3392.py](/source/Generator3392.py) | [/generated/3392_Count_Subarrays_of_Length_Three_With_a_Condition.txt](/generated/3392_Count_Subarrays_of_Length_Three_With_a_Condition.txt) |
 | `2025-04-26` | [2444](https://www.leetcode.com/problems/count-subarrays-with-fixed-bounds/) | Count Subarrays With Fixed Bounds | Array | [/source/Generator2444.py](/source/Generator2444.py) | [/generated/2444_Count_Subarrays_With_Fixed_Bounds.txt](/generated/2444_Count_Subarrays_With_Fixed_Bounds.txt) |
 | `2025-04-25` | [2845](https://www.leetcode.com/problems/count-of-interesting-subarrays/) | Count of Interesting Subarrays | Array | [/source/Generator2845.py](/source/Generator2845.py) | [/generated/2845_Count_of_Interesting_Subarrays.txt](/generated/2845_Count_of_Interesting_Subarrays.txt) |
 | `2025-04-24` | [2799](https://www.leetcode.com/problems/count-complete-subarrays-in-an-array/) | Count Complete Subarrays in an Array | Array | [/source/Generator2799.py](/source/Generator2799.py) | [/generated/2799_Count_Complete_Subarrays_in_an_Array.txt](/generated/2799_Count_Complete_Subarrays_in_an_Array.txt) |
