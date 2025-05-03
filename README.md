@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-05-03` | [1007](https://www.leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | Minimum Domino Rotations For Equal Row | Array | [/source/Generator1007.py](/source/Generator1007.py) | [/generated/1007_Minimum_Domino_Rotations_For_Equal_Row.txt](/generated/1007_Minimum_Domino_Rotations_For_Equal_Row.txt) |
 | `2025-05-02` | [838](https://www.leetcode.com/problems/push-dominoes/) | Push Dominoes | Two Pointers | [/source/Generator838.py](/source/Generator838.py) | [/generated/838_Push_Dominoes.txt](/generated/838_Push_Dominoes.txt) |
 | `2025-05-01` | [2071](https://www.leetcode.com/problems/maximum-number-of-tasks-you-can-assign/) | Maximum Number of Tasks You Can Assign | Array | [/source/Generator2071.py](/source/Generator2071.py) | [/generated/2071_Maximum_Number_of_Tasks_You_Can_Assign.txt](/generated/2071_Maximum_Number_of_Tasks_You_Can_Assign.txt) |
 | `2025-04-30` | [1295](https://www.leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Find Numbers with Even Number of Digits | Array | [/source/Generator1295.py](/source/Generator1295.py) | [/generated/1295_Find_Numbers_with_Even_Number_of_Digits.txt](/generated/1295_Find_Numbers_with_Even_Number_of_Digits.txt) |
