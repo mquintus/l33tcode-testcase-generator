@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-05-05` | [790](https://www.leetcode.com/problems/domino-and-tromino-tiling/) | Domino and Tromino Tiling | Dynamic Programming | [/source/Generator790.py](/source/Generator790.py) | [/generated/790_Domino_and_Tromino_Tiling.txt](/generated/790_Domino_and_Tromino_Tiling.txt) |
 | `2025-05-04` | [1128](https://www.leetcode.com/problems/number-of-equivalent-domino-pairs/) | Number of Equivalent Domino Pairs | Array | [/source/Generator1128.py](/source/Generator1128.py) | [/generated/1128_Number_of_Equivalent_Domino_Pairs.txt](/generated/1128_Number_of_Equivalent_Domino_Pairs.txt) |
 | `2025-05-03` | [1007](https://www.leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | Minimum Domino Rotations For Equal Row | Array | [/source/Generator1007.py](/source/Generator1007.py) | [/generated/1007_Minimum_Domino_Rotations_For_Equal_Row.txt](/generated/1007_Minimum_Domino_Rotations_For_Equal_Row.txt) |
 | `2025-05-02` | [838](https://www.leetcode.com/problems/push-dominoes/) | Push Dominoes | Two Pointers | [/source/Generator838.py](/source/Generator838.py) | [/generated/838_Push_Dominoes.txt](/generated/838_Push_Dominoes.txt) |
