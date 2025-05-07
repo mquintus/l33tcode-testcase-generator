@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-05-07` | [3341](https://www.leetcode.com/problems/find-minimum-time-to-reach-last-room-i/) | Find Minimum Time to Reach Last Room I | Graph | [/source/Generator3341.py](/source/Generator3341.py) | [/generated/3341_Find_Minimum_Time_to_Reach_Last_Room_I.txt](/generated/3341_Find_Minimum_Time_to_Reach_Last_Room_I.txt) |
 | `2025-05-06` | [1920](https://www.leetcode.com/problems/build-array-from-permutation/) | Build Array from Permutation | Array | [/source/Generator1920.py](/source/Generator1920.py) | [/generated/1920_Build_Array_from_Permutation.txt](/generated/1920_Build_Array_from_Permutation.txt) |
 | `2025-05-05` | [790](https://www.leetcode.com/problems/domino-and-tromino-tiling/) | Domino and Tromino Tiling | Dynamic Programming | [/source/Generator790.py](/source/Generator790.py) | [/generated/790_Domino_and_Tromino_Tiling.txt](/generated/790_Domino_and_Tromino_Tiling.txt) |
 | `2025-05-04` | [1128](https://www.leetcode.com/problems/number-of-equivalent-domino-pairs/) | Number of Equivalent Domino Pairs | Array | [/source/Generator1128.py](/source/Generator1128.py) | [/generated/1128_Number_of_Equivalent_Domino_Pairs.txt](/generated/1128_Number_of_Equivalent_Domino_Pairs.txt) |
