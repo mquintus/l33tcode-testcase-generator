@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-05-09` | [3343](https://www.leetcode.com/problems/count-number-of-balanced-permutations/) | Count Number of Balanced Permutations | Math | [/source/Generator3343.py](/source/Generator3343.py) | [/generated/3343_Count_Number_of_Balanced_Permutations.txt](/generated/3343_Count_Number_of_Balanced_Permutations.txt) |
 | `2025-05-08` | [3342](https://www.leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/) | Find Minimum Time to Reach Last Room II | Graph | [/source/Generator3342.py](/source/Generator3342.py) | [/generated/3342_Find_Minimum_Time_to_Reach_Last_Room_II.txt](/generated/3342_Find_Minimum_Time_to_Reach_Last_Room_II.txt) |
 | `2025-05-07` | [3341](https://www.leetcode.com/problems/find-minimum-time-to-reach-last-room-i/) | Find Minimum Time to Reach Last Room I | Graph | [/source/Generator3341.py](/source/Generator3341.py) | [/generated/3341_Find_Minimum_Time_to_Reach_Last_Room_I.txt](/generated/3341_Find_Minimum_Time_to_Reach_Last_Room_I.txt) |
 | `2025-05-06` | [1920](https://www.leetcode.com/problems/build-array-from-permutation/) | Build Array from Permutation | Array | [/source/Generator1920.py](/source/Generator1920.py) | [/generated/1920_Build_Array_from_Permutation.txt](/generated/1920_Build_Array_from_Permutation.txt) |
