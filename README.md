@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-05-12` | [2094](https://www.leetcode.com/problems/finding-3-digit-even-numbers/) | Finding 3-Digit Even Numbers | Array | [/source/Generator2094.py](/source/Generator2094.py) | [/generated/2094_Finding_3-Digit_Even_Numbers.txt](/generated/2094_Finding_3-Digit_Even_Numbers.txt) |
 | `2025-05-11` | [1550](https://www.leetcode.com/problems/three-consecutive-odds/) | Three Consecutive Odds | Array | [/source/Generator1550.py](/source/Generator1550.py) | [/generated/1550_Three_Consecutive_Odds.txt](/generated/1550_Three_Consecutive_Odds.txt) |
 | `2025-05-10` | [2918](https://www.leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Minimum Equal Sum of Two Arrays After Replacing Zeros | Array | [/source/Generator2918.py](/source/Generator2918.py) | [/generated/2918_Minimum_Equal_Sum_of_Two_Arrays_After_Replacing_Zeros.txt](/generated/2918_Minimum_Equal_Sum_of_Two_Arrays_After_Replacing_Zeros.txt) |
 | `2025-05-09` | [3343](https://www.leetcode.com/problems/count-number-of-balanced-permutations/) | Count Number of Balanced Permutations | Math | [/source/Generator3343.py](/source/Generator3343.py) | [/generated/3343_Count_Number_of_Balanced_Permutations.txt](/generated/3343_Count_Number_of_Balanced_Permutations.txt) |
