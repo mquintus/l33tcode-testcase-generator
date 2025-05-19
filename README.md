@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-05-19` | [3024](https://www.leetcode.com/problems/type-of-triangle/) | Type of Triangle | Array | [/source/Generator3024.py](/source/Generator3024.py) | [/generated/3024_Type_of_Triangle.txt](/generated/3024_Type_of_Triangle.txt) |
 | `2025-05-18` | [1931](https://www.leetcode.com/problems/painting-a-grid-with-three-different-colors/) | Painting a Grid With Three Different Colors | Dynamic Programming | [/source/Generator1931.py](/source/Generator1931.py) | [/generated/1931_Painting_a_Grid_With_Three_Different_Colors.txt](/generated/1931_Painting_a_Grid_With_Three_Different_Colors.txt) |
 | `2025-05-17` | [75](https://www.leetcode.com/problems/sort-colors/) | Sort Colors | Array | [/source/Generator75.py](/source/Generator75.py) | [/generated/75_Sort_Colors.txt](/generated/75_Sort_Colors.txt) |
 | `2025-05-16` | [2901](https://www.leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/) | Longest Unequal Adjacent Groups Subsequence II | Array | [/source/Generator2901.py](/source/Generator2901.py) | [/generated/2901_Longest_Unequal_Adjacent_Groups_Subsequence_II.txt](/generated/2901_Longest_Unequal_Adjacent_Groups_Subsequence_II.txt) |
