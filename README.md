@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-05-21` | [73](https://www.leetcode.com/problems/set-matrix-zeroes/) | Set Matrix Zeroes | Array | [/source/Generator73.py](/source/Generator73.py) | [/generated/73_Set_Matrix_Zeroes.txt](/generated/73_Set_Matrix_Zeroes.txt) |
 | `2025-05-20` | [3355](https://www.leetcode.com/problems/zero-array-transformation-i/) | Zero Array Transformation I | Array | [/source/Generator3355.py](/source/Generator3355.py) | [/generated/3355_Zero_Array_Transformation_I.txt](/generated/3355_Zero_Array_Transformation_I.txt) |
 | `2025-05-19` | [3024](https://www.leetcode.com/problems/type-of-triangle/) | Type of Triangle | Array | [/source/Generator3024.py](/source/Generator3024.py) | [/generated/3024_Type_of_Triangle.txt](/generated/3024_Type_of_Triangle.txt) |
 | `2025-05-18` | [1931](https://www.leetcode.com/problems/painting-a-grid-with-three-different-colors/) | Painting a Grid With Three Different Colors | Dynamic Programming | [/source/Generator1931.py](/source/Generator1931.py) | [/generated/1931_Painting_a_Grid_With_Three_Different_Colors.txt](/generated/1931_Painting_a_Grid_With_Three_Different_Colors.txt) |
