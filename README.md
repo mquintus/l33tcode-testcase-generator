@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-05-22` | [3362](https://www.leetcode.com/problems/zero-array-transformation-iii/) | Zero Array Transformation III | Array | [/source/Generator3362.py](/source/Generator3362.py) | [/generated/3362_Zero_Array_Transformation_III.txt](/generated/3362_Zero_Array_Transformation_III.txt) |
 | `2025-05-21` | [73](https://www.leetcode.com/problems/set-matrix-zeroes/) | Set Matrix Zeroes | Array | [/source/Generator73.py](/source/Generator73.py) | [/generated/73_Set_Matrix_Zeroes.txt](/generated/73_Set_Matrix_Zeroes.txt) |
 | `2025-05-20` | [3355](https://www.leetcode.com/problems/zero-array-transformation-i/) | Zero Array Transformation I | Array | [/source/Generator3355.py](/source/Generator3355.py) | [/generated/3355_Zero_Array_Transformation_I.txt](/generated/3355_Zero_Array_Transformation_I.txt) |
 | `2025-05-19` | [3024](https://www.leetcode.com/problems/type-of-triangle/) | Type of Triangle | Array | [/source/Generator3024.py](/source/Generator3024.py) | [/generated/3024_Type_of_Triangle.txt](/generated/3024_Type_of_Triangle.txt) |
