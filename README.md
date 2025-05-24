@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-05-24` | [2942](https://www.leetcode.com/problems/find-words-containing-character/) | Find Words Containing Character | Array | [/source/Generator2942.py](/source/Generator2942.py) | [/generated/2942_Find_Words_Containing_Character.txt](/generated/2942_Find_Words_Containing_Character.txt) |
 | `2025-05-23` | [3068](https://www.leetcode.com/problems/find-the-maximum-sum-of-node-values/) | Find the Maximum Sum of Node Values | Array | [/source/Generator3068.py](/source/Generator3068.py) | [/generated/3068_Find_the_Maximum_Sum_of_Node_Values.txt](/generated/3068_Find_the_Maximum_Sum_of_Node_Values.txt) |
 | `2025-05-22` | [3362](https://www.leetcode.com/problems/zero-array-transformation-iii/) | Zero Array Transformation III | Array | [/source/Generator3362.py](/source/Generator3362.py) | [/generated/3362_Zero_Array_Transformation_III.txt](/generated/3362_Zero_Array_Transformation_III.txt) |
 | `2025-05-21` | [73](https://www.leetcode.com/problems/set-matrix-zeroes/) | Set Matrix Zeroes | Array | [/source/Generator73.py](/source/Generator73.py) | [/generated/73_Set_Matrix_Zeroes.txt](/generated/73_Set_Matrix_Zeroes.txt) |
