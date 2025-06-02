@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-06-02` | [135](https://www.leetcode.com/problems/candy/) | Candy | Array | [/source/Generator135.py](/source/Generator135.py) | [/generated/135_Candy.txt](/generated/135_Candy.txt) |
 | `2025-06-01` | [2929](https://www.leetcode.com/problems/distribute-candies-among-children-ii/) | Distribute Candies Among Children II | Math | [/source/Generator2929.py](/source/Generator2929.py) | [/generated/2929_Distribute_Candies_Among_Children_II.txt](/generated/2929_Distribute_Candies_Among_Children_II.txt) |
 | `2025-05-31` | [909](https://www.leetcode.com/problems/snakes-and-ladders/) | Snakes and Ladders | Array | [/source/Generator909.py](/source/Generator909.py) | [/generated/909_Snakes_and_Ladders.txt](/generated/909_Snakes_and_Ladders.txt) |
 | `2025-05-30` | [2359](https://www.leetcode.com/problems/find-closest-node-to-given-two-nodes/) | Find Closest Node to Given Two Nodes | Graph | [/source/Generator2359.py](/source/Generator2359.py) | [/generated/2359_Find_Closest_Node_to_Given_Two_Nodes.txt](/generated/2359_Find_Closest_Node_to_Given_Two_Nodes.txt) |
