@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-06-04` | [3403](https://www.leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/) | Find the Lexicographically Largest String From the Box I | Two Pointers | [/source/Generator3403.py](/source/Generator3403.py) | [/generated/3403_Find_the_Lexicographically_Largest_String_From_the_Box_I.txt](/generated/3403_Find_the_Lexicographically_Largest_String_From_the_Box_I.txt) |
 | `2025-06-03` | [1298](https://www.leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) | Maximum Candies You Can Get from Boxes | Graph | [/source/Generator1298.py](/source/Generator1298.py) | [/generated/1298_Maximum_Candies_You_Can_Get_from_Boxes.txt](/generated/1298_Maximum_Candies_You_Can_Get_from_Boxes.txt) |
 | `2025-06-02` | [135](https://www.leetcode.com/problems/candy/) | Candy | Array | [/source/Generator135.py](/source/Generator135.py) | [/generated/135_Candy.txt](/generated/135_Candy.txt) |
 | `2025-06-01` | [2929](https://www.leetcode.com/problems/distribute-candies-among-children-ii/) | Distribute Candies Among Children II | Math | [/source/Generator2929.py](/source/Generator2929.py) | [/generated/2929_Distribute_Candies_Among_Children_II.txt](/generated/2929_Distribute_Candies_Among_Children_II.txt) |
