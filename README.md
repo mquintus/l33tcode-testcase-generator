@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-06-25` | [2040](https://www.leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/) | Kth Smallest Product of Two Sorted Arrays | Array | [/source/Generator2040.py](/source/Generator2040.py) | [/generated/2040_Kth_Smallest_Product_of_Two_Sorted_Arrays.txt](/generated/2040_Kth_Smallest_Product_of_Two_Sorted_Arrays.txt) |
 | `2025-06-24` | [2200](https://www.leetcode.com/problems/find-all-k-distant-indices-in-an-array/) | Find All K-Distant Indices in an Array | Array | [/source/Generator2200.py](/source/Generator2200.py) | [/generated/2200_Find_All_K-Distant_Indices_in_an_Array.txt](/generated/2200_Find_All_K-Distant_Indices_in_an_Array.txt) |
 | `2025-06-23` | [2081](https://www.leetcode.com/problems/sum-of-k-mirror-numbers/) | Sum of k-Mirror Numbers | Math | [/source/Generator2081.py](/source/Generator2081.py) | [/generated/2081_Sum_of_k-Mirror_Numbers.txt](/generated/2081_Sum_of_k-Mirror_Numbers.txt) |
 | `2025-06-22` | [2138](https://www.leetcode.com/problems/divide-a-string-into-groups-of-size-k/) | Divide a String Into Groups of Size k | String | [/source/Generator2138.py](/source/Generator2138.py) | [/generated/2138_Divide_a_String_Into_Groups_of_Size_k.txt](/generated/2138_Divide_a_String_Into_Groups_of_Size_k.txt) |
