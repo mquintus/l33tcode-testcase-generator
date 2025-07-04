@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-07-04` | [3307](https://www.leetcode.com/problems/find-the-k-th-character-in-string-game-ii/) | Find the K-th Character in String Game II | Math | [/source/Generator3307.py](/source/Generator3307.py) | [/generated/3307_Find_the_K-th_Character_in_String_Game_II.txt](/generated/3307_Find_the_K-th_Character_in_String_Game_II.txt) |
 | `2025-07-03` | [3304](https://www.leetcode.com/problems/find-the-k-th-character-in-string-game-i/) | Find the K-th Character in String Game I | Math | [/source/Generator3304.py](/source/Generator3304.py) | [/generated/3304_Find_the_K-th_Character_in_String_Game_I.txt](/generated/3304_Find_the_K-th_Character_in_String_Game_I.txt) |
 | `2025-07-02` | [3333](https://www.leetcode.com/problems/find-the-original-typed-string-ii/) | Find the Original Typed String II | String | [/source/Generator3333.py](/source/Generator3333.py) | [/generated/3333_Find_the_Original_Typed_String_II.txt](/generated/3333_Find_the_Original_Typed_String_II.txt) |
 | `2025-07-01` | [3330](https://www.leetcode.com/problems/find-the-original-typed-string-i/) | Find the Original Typed String I | String | [/source/Generator3330.py](/source/Generator3330.py) | [/generated/3330_Find_the_Original_Typed_String_I.txt](/generated/3330_Find_the_Original_Typed_String_I.txt) |
