@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-07-06` | [1865](https://www.leetcode.com/problems/finding-pairs-with-a-certain-sum/) | Finding Pairs With a Certain Sum | Array | [/source/Generator1865.py](/source/Generator1865.py) | [/generated/1865_Finding_Pairs_With_a_Certain_Sum.txt](/generated/1865_Finding_Pairs_With_a_Certain_Sum.txt) |
 | `2025-07-05` | [1394](https://www.leetcode.com/problems/find-lucky-integer-in-an-array/) | Find Lucky Integer in an Array | Array | [/source/Generator1394.py](/source/Generator1394.py) | [/generated/1394_Find_Lucky_Integer_in_an_Array.txt](/generated/1394_Find_Lucky_Integer_in_an_Array.txt) |
 | `2025-07-04` | [3307](https://www.leetcode.com/problems/find-the-k-th-character-in-string-game-ii/) | Find the K-th Character in String Game II | Math | [/source/Generator3307.py](/source/Generator3307.py) | [/generated/3307_Find_the_K-th_Character_in_String_Game_II.txt](/generated/3307_Find_the_K-th_Character_in_String_Game_II.txt) |
 | `2025-07-03` | [3304](https://www.leetcode.com/problems/find-the-k-th-character-in-string-game-i/) | Find the K-th Character in String Game I | Math | [/source/Generator3304.py](/source/Generator3304.py) | [/generated/3304_Find_the_K-th_Character_in_String_Game_I.txt](/generated/3304_Find_the_K-th_Character_in_String_Game_I.txt) |
