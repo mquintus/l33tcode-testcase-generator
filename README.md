@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-07-22` | [1695](https://www.leetcode.com/problems/maximum-erasure-value/) | Maximum Erasure Value | Array | [/source/Generator1695.py](/source/Generator1695.py) | [/generated/1695_Maximum_Erasure_Value.txt](/generated/1695_Maximum_Erasure_Value.txt) |
 | `2025-07-21` | [1957](https://www.leetcode.com/problems/delete-characters-to-make-fancy-string/) | Delete Characters to Make Fancy String | String | [/source/Generator1957.py](/source/Generator1957.py) | [/generated/1957_Delete_Characters_to_Make_Fancy_String.txt](/generated/1957_Delete_Characters_to_Make_Fancy_String.txt) |
 | `2025-07-20` | [1948](https://www.leetcode.com/problems/delete-duplicate-folders-in-system/) | Delete Duplicate Folders in System | Array | [/source/Generator1948.py](/source/Generator1948.py) | [/generated/1948_Delete_Duplicate_Folders_in_System.txt](/generated/1948_Delete_Duplicate_Folders_in_System.txt) |
 | `2025-07-19` | [1233](https://www.leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | Remove Sub-Folders from the Filesystem | Array | [/source/Generator1233.py](/source/Generator1233.py) | [/generated/1233_Remove_Sub-Folders_from_the_Filesystem.txt](/generated/1233_Remove_Sub-Folders_from_the_Filesystem.txt) |
