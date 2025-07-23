@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-07-23` | [1717](https://www.leetcode.com/problems/maximum-score-from-removing-substrings/) | Maximum Score From Removing Substrings | String | [/source/Generator1717.py](/source/Generator1717.py) | [/generated/1717_Maximum_Score_From_Removing_Substrings.txt](/generated/1717_Maximum_Score_From_Removing_Substrings.txt) |
 | `2025-07-22` | [1695](https://www.leetcode.com/problems/maximum-erasure-value/) | Maximum Erasure Value | Array | [/source/Generator1695.py](/source/Generator1695.py) | [/generated/1695_Maximum_Erasure_Value.txt](/generated/1695_Maximum_Erasure_Value.txt) |
 | `2025-07-21` | [1957](https://www.leetcode.com/problems/delete-characters-to-make-fancy-string/) | Delete Characters to Make Fancy String | String | [/source/Generator1957.py](/source/Generator1957.py) | [/generated/1957_Delete_Characters_to_Make_Fancy_String.txt](/generated/1957_Delete_Characters_to_Make_Fancy_String.txt) |
 | `2025-07-20` | [1948](https://www.leetcode.com/problems/delete-duplicate-folders-in-system/) | Delete Duplicate Folders in System | Array | [/source/Generator1948.py](/source/Generator1948.py) | [/generated/1948_Delete_Duplicate_Folders_in_System.txt](/generated/1948_Delete_Duplicate_Folders_in_System.txt) |
