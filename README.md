@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-07-25` | [3487](https://www.leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) | Maximum Unique Subarray Sum After Deletion | Array | [/source/Generator3487.py](/source/Generator3487.py) | [/generated/3487_Maximum_Unique_Subarray_Sum_After_Deletion.txt](/generated/3487_Maximum_Unique_Subarray_Sum_After_Deletion.txt) |
 | `2025-07-24` | [2322](https://www.leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | Minimum Score After Removals on a Tree | Array | [/source/Generator2322.py](/source/Generator2322.py) | [/generated/2322_Minimum_Score_After_Removals_on_a_Tree.txt](/generated/2322_Minimum_Score_After_Removals_on_a_Tree.txt) |
 | `2025-07-23` | [1717](https://www.leetcode.com/problems/maximum-score-from-removing-substrings/) | Maximum Score From Removing Substrings | String | [/source/Generator1717.py](/source/Generator1717.py) | [/generated/1717_Maximum_Score_From_Removing_Substrings.txt](/generated/1717_Maximum_Score_From_Removing_Substrings.txt) |
 | `2025-07-22` | [1695](https://www.leetcode.com/problems/maximum-erasure-value/) | Maximum Erasure Value | Array | [/source/Generator1695.py](/source/Generator1695.py) | [/generated/1695_Maximum_Erasure_Value.txt](/generated/1695_Maximum_Erasure_Value.txt) |
