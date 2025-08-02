@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-08-02` | [2561](https://www.leetcode.com/problems/rearranging-fruits/) | Rearranging Fruits | Array | [/source/Generator2561.py](/source/Generator2561.py) | [/generated/2561_Rearranging_Fruits.txt](/generated/2561_Rearranging_Fruits.txt) |
 | `2025-08-01` | [118](https://www.leetcode.com/problems/pascals-triangle/) | Pascal's Triangle | Array | [/source/Generator118.py](/source/Generator118.py) | [/generated/118_Pascal's_Triangle.txt](/generated/118_Pascal's_Triangle.txt) |
 | `2025-07-31` | [898](https://www.leetcode.com/problems/bitwise-ors-of-subarrays/) | Bitwise ORs of Subarrays | Array | [/source/Generator898.py](/source/Generator898.py) | [/generated/898_Bitwise_ORs_of_Subarrays.txt](/generated/898_Bitwise_ORs_of_Subarrays.txt) |
 | `2025-07-30` | [2419](https://www.leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | Longest Subarray With Maximum Bitwise AND | Array | [/source/Generator2419.py](/source/Generator2419.py) | [/generated/2419_Longest_Subarray_With_Maximum_Bitwise_AND.txt](/generated/2419_Longest_Subarray_With_Maximum_Bitwise_AND.txt) |
