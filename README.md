@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-08-06` | [3479](https://www.leetcode.com/problems/fruits-into-baskets-iii/) | Fruits Into Baskets III | Array | [/source/Generator3479.py](/source/Generator3479.py) | [/generated/3479_Fruits_Into_Baskets_III.txt](/generated/3479_Fruits_Into_Baskets_III.txt) |
 | `2025-08-05` | [3477](https://www.leetcode.com/problems/fruits-into-baskets-ii/) | Fruits Into Baskets II | Array | [/source/Generator3477.py](/source/Generator3477.py) | [/generated/3477_Fruits_Into_Baskets_II.txt](/generated/3477_Fruits_Into_Baskets_II.txt) |
 | `2025-08-04` | [904](https://www.leetcode.com/problems/fruit-into-baskets/) | Fruit Into Baskets | Array | [/source/Generator904.py](/source/Generator904.py) | [/generated/904_Fruit_Into_Baskets.txt](/generated/904_Fruit_Into_Baskets.txt) |
 | `2025-08-03` | [2106](https://www.leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/) | Maximum Fruits Harvested After at Most K Steps | Array | [/source/Generator2106.py](/source/Generator2106.py) | [/generated/2106_Maximum_Fruits_Harvested_After_at_Most_K_Steps.txt](/generated/2106_Maximum_Fruits_Harvested_After_at_Most_K_Steps.txt) |
