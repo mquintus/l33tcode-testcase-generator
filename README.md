@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-08-07` | [3363](https://www.leetcode.com/problems/find-the-maximum-number-of-fruits-collected/) | Find the Maximum Number of Fruits Collected | Array | [/source/Generator3363.py](/source/Generator3363.py) | [/generated/3363_Find_the_Maximum_Number_of_Fruits_Collected.txt](/generated/3363_Find_the_Maximum_Number_of_Fruits_Collected.txt) |
 | `2025-08-06` | [3479](https://www.leetcode.com/problems/fruits-into-baskets-iii/) | Fruits Into Baskets III | Array | [/source/Generator3479.py](/source/Generator3479.py) | [/generated/3479_Fruits_Into_Baskets_III.txt](/generated/3479_Fruits_Into_Baskets_III.txt) |
 | `2025-08-05` | [3477](https://www.leetcode.com/problems/fruits-into-baskets-ii/) | Fruits Into Baskets II | Array | [/source/Generator3477.py](/source/Generator3477.py) | [/generated/3477_Fruits_Into_Baskets_II.txt](/generated/3477_Fruits_Into_Baskets_II.txt) |
 | `2025-08-04` | [904](https://www.leetcode.com/problems/fruit-into-baskets/) | Fruit Into Baskets | Array | [/source/Generator904.py](/source/Generator904.py) | [/generated/904_Fruit_Into_Baskets.txt](/generated/904_Fruit_Into_Baskets.txt) |
