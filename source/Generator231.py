@@ -5,43 +5,18 @@ import random
 '''
 def generate() -> str:
     tests = []
-    min_num = 0
-    max_num = 30
+    min_num = 2
+    max_num = 10**4
+    minval = -1000
+    maxval = 1000
 
-    # Testcase 1: Zero
-    n = 0 
-    tests.append(n.__str__())
-
-    # Testcase 2: Some true number
-    n = 2 ** random.randint(min_num, max_num)
-    tests.append(n.__str__())
+    n = min_num
+    test = [random.randint(minval, maxval) for _ in range(n)]
+    tests.append(test.__str__().replace(' ', ''))
     
-    # Testcase 3: Negative
-    n = -1 * n 
-    tests.append(n.__str__())
+    n = max_num
+    test = [random.randint(minval, maxval) for _ in range(n)]
+    tests.append(test.__str__().replace(' ', ''))
     
-    # Testcase 4: Big number, result true
-    n = (2 ** random.randint(max_num - 6, max_num))
-    tests.append(n.__str__())
-    
-    # Testcase 5: Big number, result true
-    n = (2 ** random.randint(max_num - 12, max_num - 7))
-    tests.append(n.__str__())
-    
-    # Testcase 6: Sum of two valid numbers
-    n = (2 ** random.randint(max_num - 6, max_num - 1))
-    n += (2 ** random.randint(min_num, max_num - 7))
-    tests.append(n.__str__())
-    
-    # Testcase 7: Sum of three valid numbers
-    n += 2 ** max_num
-    tests.append(n.__str__())
-    
-    # Testcase 8: Valid number minus 1
-    n = (2 ** random.randint(max_num - 6, max_num))
-    n -= 1
-    tests.append(n.__str__())
-    
-
     return '''
 '''.join(tests)
