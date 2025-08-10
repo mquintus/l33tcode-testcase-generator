@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-08-10` | [869](https://www.leetcode.com/problems/reordered-power-of-2/) | Reordered Power of 2 | Hash Table | [/source/Generator869.py](/source/Generator869.py) | [/generated/869_Reordered_Power_of_2.txt](/generated/869_Reordered_Power_of_2.txt) |
 | `2025-08-09` | [231](https://www.leetcode.com/problems/power-of-two/) | Power of Two | Math | [/source/Generator231.py](/source/Generator231.py) | [/generated/231_Power_of_Two.txt](/generated/231_Power_of_Two.txt) |
 | `2025-08-08` | [808](https://www.leetcode.com/problems/soup-servings/) | Soup Servings | Math | [/source/Generator808.py](/source/Generator808.py) | [/generated/808_Soup_Servings.txt](/generated/808_Soup_Servings.txt) |
 | `2025-08-07` | [3363](https://www.leetcode.com/problems/find-the-maximum-number-of-fruits-collected/) | Find the Maximum Number of Fruits Collected | Array | [/source/Generator3363.py](/source/Generator3363.py) | [/generated/3363_Find_the_Maximum_Number_of_Fruits_Collected.txt](/generated/3363_Find_the_Maximum_Number_of_Fruits_Collected.txt) |
