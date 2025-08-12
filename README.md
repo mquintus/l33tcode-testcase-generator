@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-08-12` | [2787](https://www.leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | Ways to Express an Integer as Sum of Powers | Dynamic Programming | [/source/Generator2787.py](/source/Generator2787.py) | [/generated/2787_Ways_to_Express_an_Integer_as_Sum_of_Powers.txt](/generated/2787_Ways_to_Express_an_Integer_as_Sum_of_Powers.txt) |
 | `2025-08-11` | [2438](https://www.leetcode.com/problems/range-product-queries-of-powers/) | Range Product Queries of Powers | Array | [/source/Generator2438.py](/source/Generator2438.py) | [/generated/2438_Range_Product_Queries_of_Powers.txt](/generated/2438_Range_Product_Queries_of_Powers.txt) |
 | `2025-08-10` | [869](https://www.leetcode.com/problems/reordered-power-of-2/) | Reordered Power of 2 | Hash Table | [/source/Generator869.py](/source/Generator869.py) | [/generated/869_Reordered_Power_of_2.txt](/generated/869_Reordered_Power_of_2.txt) |
 | `2025-08-09` | [231](https://www.leetcode.com/problems/power-of-two/) | Power of Two | Math | [/source/Generator231.py](/source/Generator231.py) | [/generated/231_Power_of_Two.txt](/generated/231_Power_of_Two.txt) |
