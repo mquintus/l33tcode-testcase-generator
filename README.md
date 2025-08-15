@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-08-15` | [342](https://www.leetcode.com/problems/power-of-four/) | Power of Four | Math | [/source/Generator342.py](/source/Generator342.py) | [/generated/342_Power_of_Four.txt](/generated/342_Power_of_Four.txt) |
 | `2025-08-14` | [2264](https://www.leetcode.com/problems/largest-3-same-digit-number-in-string/) | Largest 3-Same-Digit Number in String | String | [/source/Generator2264.py](/source/Generator2264.py) | [/generated/2264_Largest_3-Same-Digit_Number_in_String.txt](/generated/2264_Largest_3-Same-Digit_Number_in_String.txt) |
 | `2025-08-13` | [326](https://www.leetcode.com/problems/power-of-three/) | Power of Three | Math | [/source/Generator326.py](/source/Generator326.py) | [/generated/326_Power_of_Three.txt](/generated/326_Power_of_Three.txt) |
 | `2025-08-12` | [2787](https://www.leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | Ways to Express an Integer as Sum of Powers | Dynamic Programming | [/source/Generator2787.py](/source/Generator2787.py) | [/generated/2787_Ways_to_Express_an_Integer_as_Sum_of_Powers.txt](/generated/2787_Ways_to_Express_an_Integer_as_Sum_of_Powers.txt) |
