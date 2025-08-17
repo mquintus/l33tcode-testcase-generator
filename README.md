@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-08-17` | [837](https://www.leetcode.com/problems/new-21-game/) | New 21 Game | Math | [/source/Generator837.py](/source/Generator837.py) | [/generated/837_New_21_Game.txt](/generated/837_New_21_Game.txt) |
 | `2025-08-16` | [1323](https://www.leetcode.com/problems/maximum-69-number/) | Maximum 69 Number | Math | [/source/Generator1323.py](/source/Generator1323.py) | [/generated/1323_Maximum_69_Number.txt](/generated/1323_Maximum_69_Number.txt) |
 | `2025-08-15` | [342](https://www.leetcode.com/problems/power-of-four/) | Power of Four | Math | [/source/Generator342.py](/source/Generator342.py) | [/generated/342_Power_of_Four.txt](/generated/342_Power_of_Four.txt) |
 | `2025-08-14` | [2264](https://www.leetcode.com/problems/largest-3-same-digit-number-in-string/) | Largest 3-Same-Digit Number in String | String | [/source/Generator2264.py](/source/Generator2264.py) | [/generated/2264_Largest_3-Same-Digit_Number_in_String.txt](/generated/2264_Largest_3-Same-Digit_Number_in_String.txt) |
