@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-08-20` | [1277](https://www.leetcode.com/problems/count-square-submatrices-with-all-ones/) | Count Square Submatrices with All Ones | Array | [/source/Generator1277.py](/source/Generator1277.py) | [/generated/1277_Count_Square_Submatrices_with_All_Ones.txt](/generated/1277_Count_Square_Submatrices_with_All_Ones.txt) |
 | `2025-08-19` | [2348](https://www.leetcode.com/problems/number-of-zero-filled-subarrays/) | Number of Zero-Filled Subarrays | Array | [/source/Generator2348.py](/source/Generator2348.py) | [/generated/2348_Number_of_Zero-Filled_Subarrays.txt](/generated/2348_Number_of_Zero-Filled_Subarrays.txt) |
 | `2025-08-18` | [679](https://www.leetcode.com/problems/24-game/) | 24 Game | Array | [/source/Generator679.py](/source/Generator679.py) | [/generated/679_24_Game.txt](/generated/679_24_Game.txt) |
 | `2025-08-17` | [837](https://www.leetcode.com/problems/new-21-game/) | New 21 Game | Math | [/source/Generator837.py](/source/Generator837.py) | [/generated/837_New_21_Game.txt](/generated/837_New_21_Game.txt) |
