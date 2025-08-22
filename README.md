@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-08-22` | [3195](https://www.leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/) | Find the Minimum Area to Cover All Ones I | Array | [/source/Generator3195.py](/source/Generator3195.py) | [/generated/3195_Find_the_Minimum_Area_to_Cover_All_Ones_I.txt](/generated/3195_Find_the_Minimum_Area_to_Cover_All_Ones_I.txt) |
 | `2025-08-21` | [1504](https://www.leetcode.com/problems/count-submatrices-with-all-ones/) | Count Submatrices With All Ones | Array | [/source/Generator1504.py](/source/Generator1504.py) | [/generated/1504_Count_Submatrices_With_All_Ones.txt](/generated/1504_Count_Submatrices_With_All_Ones.txt) |
 | `2025-08-20` | [1277](https://www.leetcode.com/problems/count-square-submatrices-with-all-ones/) | Count Square Submatrices with All Ones | Array | [/source/Generator1277.py](/source/Generator1277.py) | [/generated/1277_Count_Square_Submatrices_with_All_Ones.txt](/generated/1277_Count_Square_Submatrices_with_All_Ones.txt) |
 | `2025-08-19` | [2348](https://www.leetcode.com/problems/number-of-zero-filled-subarrays/) | Number of Zero-Filled Subarrays | Array | [/source/Generator2348.py](/source/Generator2348.py) | [/generated/2348_Number_of_Zero-Filled_Subarrays.txt](/generated/2348_Number_of_Zero-Filled_Subarrays.txt) |
