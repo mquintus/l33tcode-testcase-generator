@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-08-31` | [37](https://www.leetcode.com/problems/sudoku-solver/) | Sudoku Solver | Array | [/source/Generator37.py](/source/Generator37.py) | [/generated/37_Sudoku_Solver.txt](/generated/37_Sudoku_Solver.txt) |
 | `2025-08-30` | [36](https://www.leetcode.com/problems/valid-sudoku/) | Valid Sudoku | Array | [/source/Generator36.py](/source/Generator36.py) | [/generated/36_Valid_Sudoku.txt](/generated/36_Valid_Sudoku.txt) |
 | `2025-08-29` | [3021](https://www.leetcode.com/problems/alice-and-bob-playing-flower-game/) | Alice and Bob Playing Flower Game | Math | [/source/Generator3021.py](/source/Generator3021.py) | [/generated/3021_Alice_and_Bob_Playing_Flower_Game.txt](/generated/3021_Alice_and_Bob_Playing_Flower_Game.txt) |
 | `2025-08-28` | [3446](https://www.leetcode.com/problems/sort-matrix-by-diagonals/) | Sort Matrix by Diagonals | Array | [/source/Generator3446.py](/source/Generator3446.py) | [/generated/3446_Sort_Matrix_by_Diagonals.txt](/generated/3446_Sort_Matrix_by_Diagonals.txt) |
