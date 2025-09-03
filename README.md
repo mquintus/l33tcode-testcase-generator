@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-09-03` | [3027](https://www.leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | Find the Number of Ways to Place People II | Array | [/source/Generator3027.py](/source/Generator3027.py) | [/generated/3027_Find_the_Number_of_Ways_to_Place_People_II.txt](/generated/3027_Find_the_Number_of_Ways_to_Place_People_II.txt) |
 | `2025-09-02` | [3025](https://www.leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) | Find the Number of Ways to Place People I | Array | [/source/Generator3025.py](/source/Generator3025.py) | [/generated/3025_Find_the_Number_of_Ways_to_Place_People_I.txt](/generated/3025_Find_the_Number_of_Ways_to_Place_People_I.txt) |
 | `2025-09-01` | [1792](https://www.leetcode.com/problems/maximum-average-pass-ratio/) | Maximum Average Pass Ratio | Array | [/source/Generator1792.py](/source/Generator1792.py) | [/generated/1792_Maximum_Average_Pass_Ratio.txt](/generated/1792_Maximum_Average_Pass_Ratio.txt) |
 | `2025-08-31` | [37](https://www.leetcode.com/problems/sudoku-solver/) | Sudoku Solver | Array | [/source/Generator37.py](/source/Generator37.py) | [/generated/37_Sudoku_Solver.txt](/generated/37_Sudoku_Solver.txt) |
