@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-09-11` | [2785](https://www.leetcode.com/problems/sort-vowels-in-a-string/) | Sort Vowels in a String | String | [/source/Generator2785.py](/source/Generator2785.py) | [/generated/2785_Sort_Vowels_in_a_String.txt](/generated/2785_Sort_Vowels_in_a_String.txt) |
 | `2025-09-10` | [1733](https://www.leetcode.com/problems/minimum-number-of-people-to-teach/) | Minimum Number of People to Teach | Array | [/source/Generator1733.py](/source/Generator1733.py) | [/generated/1733_Minimum_Number_of_People_to_Teach.txt](/generated/1733_Minimum_Number_of_People_to_Teach.txt) |
 | `2025-09-09` | [2327](https://www.leetcode.com/problems/number-of-people-aware-of-a-secret/) | Number of People Aware of a Secret | Dynamic Programming | [/source/Generator2327.py](/source/Generator2327.py) | [/generated/2327_Number_of_People_Aware_of_a_Secret.txt](/generated/2327_Number_of_People_Aware_of_a_Secret.txt) |
 | `2025-09-08` | [1317](https://www.leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | Convert Integer to the Sum of Two No-Zero Integers | Math | [/source/Generator1317.py](/source/Generator1317.py) | [/generated/1317_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers.txt](/generated/1317_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers.txt) |
