@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-09-16` | [2197](https://www.leetcode.com/problems/replace-non-coprime-numbers-in-array/) | Replace Non-Coprime Numbers in Array | Array | [/source/Generator2197.py](/source/Generator2197.py) | [/generated/2197_Replace_Non-Coprime_Numbers_in_Array.txt](/generated/2197_Replace_Non-Coprime_Numbers_in_Array.txt) |
 | `2025-09-15` | [1935](https://www.leetcode.com/problems/maximum-number-of-words-you-can-type/) | Maximum Number of Words You Can Type | Hash Table | [/source/Generator1935.py](/source/Generator1935.py) | [/generated/1935_Maximum_Number_of_Words_You_Can_Type.txt](/generated/1935_Maximum_Number_of_Words_You_Can_Type.txt) |
 | `2025-09-14` | [966](https://www.leetcode.com/problems/vowel-spellchecker/) | Vowel Spellchecker | Array | [/source/Generator966.py](/source/Generator966.py) | [/generated/966_Vowel_Spellchecker.txt](/generated/966_Vowel_Spellchecker.txt) |
 | `2025-09-13` | [3541](https://www.leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | Find Most Frequent Vowel and Consonant | Hash Table | [/source/Generator3541.py](/source/Generator3541.py) | [/generated/3541_Find_Most_Frequent_Vowel_and_Consonant.txt](/generated/3541_Find_Most_Frequent_Vowel_and_Consonant.txt) |
