@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-09-18` | [3408](https://www.leetcode.com/problems/design-task-manager/) | Design Task Manager | Hash Table | [/source/Generator3408.py](/source/Generator3408.py) | [/generated/3408_Design_Task_Manager.txt](/generated/3408_Design_Task_Manager.txt) |
 | `2025-09-17` | [2353](https://www.leetcode.com/problems/design-a-food-rating-system/) | Design a Food Rating System | Array | [/source/Generator2353.py](/source/Generator2353.py) | [/generated/2353_Design_a_Food_Rating_System.txt](/generated/2353_Design_a_Food_Rating_System.txt) |
 | `2025-09-16` | [2197](https://www.leetcode.com/problems/replace-non-coprime-numbers-in-array/) | Replace Non-Coprime Numbers in Array | Array | [/source/Generator2197.py](/source/Generator2197.py) | [/generated/2197_Replace_Non-Coprime_Numbers_in_Array.txt](/generated/2197_Replace_Non-Coprime_Numbers_in_Array.txt) |
 | `2025-09-15` | [1935](https://www.leetcode.com/problems/maximum-number-of-words-you-can-type/) | Maximum Number of Words You Can Type | Hash Table | [/source/Generator1935.py](/source/Generator1935.py) | [/generated/1935_Maximum_Number_of_Words_You_Can_Type.txt](/generated/1935_Maximum_Number_of_Words_You_Can_Type.txt) |
