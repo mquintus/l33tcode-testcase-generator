@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-09-21` | [1912](https://www.leetcode.com/problems/design-movie-rental-system/) | Design Movie Rental System | Array | [/source/Generator1912.py](/source/Generator1912.py) | [/generated/1912_Design_Movie_Rental_System.txt](/generated/1912_Design_Movie_Rental_System.txt) |
 | `2025-09-20` | [3508](https://www.leetcode.com/problems/implement-router/) | Implement Router | Array | [/source/Generator3508.py](/source/Generator3508.py) | [/generated/3508_Implement_Router.txt](/generated/3508_Implement_Router.txt) |
 | `2025-09-19` | [3484](https://www.leetcode.com/problems/design-spreadsheet/) | Design Spreadsheet | Array | [/source/Generator3484.py](/source/Generator3484.py) | [/generated/3484_Design_Spreadsheet.txt](/generated/3484_Design_Spreadsheet.txt) |
 | `2025-09-18` | [3408](https://www.leetcode.com/problems/design-task-manager/) | Design Task Manager | Hash Table | [/source/Generator3408.py](/source/Generator3408.py) | [/generated/3408_Design_Task_Manager.txt](/generated/3408_Design_Task_Manager.txt) |
