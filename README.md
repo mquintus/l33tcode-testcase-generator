@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-09-26` | [611](https://www.leetcode.com/problems/valid-triangle-number/) | Valid Triangle Number | Array | [/source/Generator611.py](/source/Generator611.py) | [/generated/611_Valid_Triangle_Number.txt](/generated/611_Valid_Triangle_Number.txt) |
 | `2025-09-25` | [120](https://www.leetcode.com/problems/triangle/) | Triangle | Array | [/source/Generator120.py](/source/Generator120.py) | [/generated/120_Triangle.txt](/generated/120_Triangle.txt) |
 | `2025-09-24` | [166](https://www.leetcode.com/problems/fraction-to-recurring-decimal/) | Fraction to Recurring Decimal | Hash Table | [/source/Generator166.py](/source/Generator166.py) | [/generated/166_Fraction_to_Recurring_Decimal.txt](/generated/166_Fraction_to_Recurring_Decimal.txt) |
 | `2025-09-23` | [165](https://www.leetcode.com/problems/compare-version-numbers/) | Compare Version Numbers | Two Pointers | [/source/Generator165.py](/source/Generator165.py) | [/generated/165_Compare_Version_Numbers.txt](/generated/165_Compare_Version_Numbers.txt) |
