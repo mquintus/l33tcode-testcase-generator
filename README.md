@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-09-28` | [976](https://www.leetcode.com/problems/largest-perimeter-triangle/) | Largest Perimeter Triangle | Array | [/source/Generator976.py](/source/Generator976.py) | [/generated/976_Largest_Perimeter_Triangle.txt](/generated/976_Largest_Perimeter_Triangle.txt) |
 | `2025-09-27` | [812](https://www.leetcode.com/problems/largest-triangle-area/) | Largest Triangle Area | Array | [/source/Generator812.py](/source/Generator812.py) | [/generated/812_Largest_Triangle_Area.txt](/generated/812_Largest_Triangle_Area.txt) |
 | `2025-09-26` | [611](https://www.leetcode.com/problems/valid-triangle-number/) | Valid Triangle Number | Array | [/source/Generator611.py](/source/Generator611.py) | [/generated/611_Valid_Triangle_Number.txt](/generated/611_Valid_Triangle_Number.txt) |
 | `2025-09-25` | [120](https://www.leetcode.com/problems/triangle/) | Triangle | Array | [/source/Generator120.py](/source/Generator120.py) | [/generated/120_Triangle.txt](/generated/120_Triangle.txt) |
