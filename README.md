@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-10-03` | [407](https://www.leetcode.com/problems/trapping-rain-water-ii/) | Trapping Rain Water II | Array | [/source/Generator407.py](/source/Generator407.py) | [/generated/407_Trapping_Rain_Water_II.txt](/generated/407_Trapping_Rain_Water_II.txt) |
 | `2025-10-02` | [3100](https://www.leetcode.com/problems/water-bottles-ii/) | Water Bottles II | Math | [/source/Generator3100.py](/source/Generator3100.py) | [/generated/3100_Water_Bottles_II.txt](/generated/3100_Water_Bottles_II.txt) |
 | `2025-10-01` | [1518](https://www.leetcode.com/problems/water-bottles/) | Water Bottles | Math | [/source/Generator1518.py](/source/Generator1518.py) | [/generated/1518_Water_Bottles.txt](/generated/1518_Water_Bottles.txt) |
 | `2025-09-30` | [2221](https://www.leetcode.com/problems/find-triangular-sum-of-an-array/) | Find Triangular Sum of an Array | Array | [/source/Generator2221.py](/source/Generator2221.py) | [/generated/2221_Find_Triangular_Sum_of_an_Array.txt](/generated/2221_Find_Triangular_Sum_of_an_Array.txt) |
