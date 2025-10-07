@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-10-07` | [1488](https://www.leetcode.com/problems/avoid-flood-in-the-city/) | Avoid Flood in The City | Array | [/source/Generator1488.py](/source/Generator1488.py) | [/generated/1488_Avoid_Flood_in_The_City.txt](/generated/1488_Avoid_Flood_in_The_City.txt) |
 | `2025-10-06` | [778](https://www.leetcode.com/problems/swim-in-rising-water/) | Swim in Rising Water | Array | [/source/Generator778.py](/source/Generator778.py) | [/generated/778_Swim_in_Rising_Water.txt](/generated/778_Swim_in_Rising_Water.txt) |
 | `2025-10-05` | [417](https://www.leetcode.com/problems/pacific-atlantic-water-flow/) | Pacific Atlantic Water Flow | Array | [/source/Generator417.py](/source/Generator417.py) | [/generated/417_Pacific_Atlantic_Water_Flow.txt](/generated/417_Pacific_Atlantic_Water_Flow.txt) |
 | `2025-10-04` | [11](https://www.leetcode.com/problems/container-with-most-water/) | Container With Most Water | Array | [/source/Generator11.py](/source/Generator11.py) | [/generated/11_Container_With_Most_Water.txt](/generated/11_Container_With_Most_Water.txt) |
