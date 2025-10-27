@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-10-27` | [2125](https://www.leetcode.com/problems/number-of-laser-beams-in-a-bank/) | Number of Laser Beams in a Bank | Array | [/source/Generator2125.py](/source/Generator2125.py) | [/generated/2125_Number_of_Laser_Beams_in_a_Bank.txt](/generated/2125_Number_of_Laser_Beams_in_a_Bank.txt) |
 | `2025-10-26` | [2043](https://www.leetcode.com/problems/simple-bank-system/) | Simple Bank System | Array | [/source/Generator2043.py](/source/Generator2043.py) | [/generated/2043_Simple_Bank_System.txt](/generated/2043_Simple_Bank_System.txt) |
 | `2025-10-25` | [1716](https://www.leetcode.com/problems/calculate-money-in-leetcode-bank/) | Calculate Money in Leetcode Bank | Math | [/source/Generator1716.py](/source/Generator1716.py) | [/generated/1716_Calculate_Money_in_Leetcode_Bank.txt](/generated/1716_Calculate_Money_in_Leetcode_Bank.txt) |
 | `2025-10-24` | [2048](https://www.leetcode.com/problems/next-greater-numerically-balanced-number/) | Next Greater Numerically Balanced Number | Hash Table | [/source/Generator2048.py](/source/Generator2048.py) | [/generated/2048_Next_Greater_Numerically_Balanced_Number.txt](/generated/2048_Next_Greater_Numerically_Balanced_Number.txt) |
