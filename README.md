@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-11-06` | [3607](https://www.leetcode.com/problems/power-grid-maintenance/) | Power Grid Maintenance | Graph | [/source/Generator3607.py](/source/Generator3607.py) | [/generated/3607_Power_Grid_Maintenance.txt](/generated/3607_Power_Grid_Maintenance.txt) |
 | `2025-11-05` | [3321](https://www.leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/) | Find X-Sum of All K-Long Subarrays II | Array | [/source/Generator3321.py](/source/Generator3321.py) | [/generated/3321_Find_X-Sum_of_All_K-Long_Subarrays_II.txt](/generated/3321_Find_X-Sum_of_All_K-Long_Subarrays_II.txt) |
 | `2025-11-04` | [3318](https://www.leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | Find X-Sum of All K-Long Subarrays I | Array | [/source/Generator3318.py](/source/Generator3318.py) | [/generated/3318_Find_X-Sum_of_All_K-Long_Subarrays_I.txt](/generated/3318_Find_X-Sum_of_All_K-Long_Subarrays_I.txt) |
 | `2025-11-03` | [1578](https://www.leetcode.com/problems/minimum-time-to-make-rope-colorful/) | Minimum Time to Make Rope Colorful | Array | [/source/Generator1578.py](/source/Generator1578.py) | [/generated/1578_Minimum_Time_to_Make_Rope_Colorful.txt](/generated/1578_Minimum_Time_to_Make_Rope_Colorful.txt) |
