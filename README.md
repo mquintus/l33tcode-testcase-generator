@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-11-07` | [2528](https://www.leetcode.com/problems/maximize-the-minimum-powered-city/) | Maximize the Minimum Powered City | Array | [/source/Generator2528.py](/source/Generator2528.py) | [/generated/2528_Maximize_the_Minimum_Powered_City.txt](/generated/2528_Maximize_the_Minimum_Powered_City.txt) |
 | `2025-11-06` | [3607](https://www.leetcode.com/problems/power-grid-maintenance/) | Power Grid Maintenance | Graph | [/source/Generator3607.py](/source/Generator3607.py) | [/generated/3607_Power_Grid_Maintenance.txt](/generated/3607_Power_Grid_Maintenance.txt) |
 | `2025-11-05` | [3321](https://www.leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/) | Find X-Sum of All K-Long Subarrays II | Array | [/source/Generator3321.py](/source/Generator3321.py) | [/generated/3321_Find_X-Sum_of_All_K-Long_Subarrays_II.txt](/generated/3321_Find_X-Sum_of_All_K-Long_Subarrays_II.txt) |
 | `2025-11-04` | [3318](https://www.leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | Find X-Sum of All K-Long Subarrays I | Array | [/source/Generator3318.py](/source/Generator3318.py) | [/generated/3318_Find_X-Sum_of_All_K-Long_Subarrays_I.txt](/generated/3318_Find_X-Sum_of_All_K-Long_Subarrays_I.txt) |
