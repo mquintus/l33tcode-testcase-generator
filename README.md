@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-11-09` | [2169](https://www.leetcode.com/problems/count-operations-to-obtain-zero/) | Count Operations to Obtain Zero | Math | [/source/Generator2169.py](/source/Generator2169.py) | [/generated/2169_Count_Operations_to_Obtain_Zero.txt](/generated/2169_Count_Operations_to_Obtain_Zero.txt) |
 | `2025-11-08` | [1611](https://www.leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | Minimum One Bit Operations to Make Integers Zero | Dynamic Programming | [/source/Generator1611.py](/source/Generator1611.py) | [/generated/1611_Minimum_One_Bit_Operations_to_Make_Integers_Zero.txt](/generated/1611_Minimum_One_Bit_Operations_to_Make_Integers_Zero.txt) |
 | `2025-11-07` | [2528](https://www.leetcode.com/problems/maximize-the-minimum-powered-city/) | Maximize the Minimum Powered City | Array | [/source/Generator2528.py](/source/Generator2528.py) | [/generated/2528_Maximize_the_Minimum_Powered_City.txt](/generated/2528_Maximize_the_Minimum_Powered_City.txt) |
 | `2025-11-06` | [3607](https://www.leetcode.com/problems/power-grid-maintenance/) | Power Grid Maintenance | Graph | [/source/Generator3607.py](/source/Generator3607.py) | [/generated/3607_Power_Grid_Maintenance.txt](/generated/3607_Power_Grid_Maintenance.txt) |
