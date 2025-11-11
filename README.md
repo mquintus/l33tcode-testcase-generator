@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-11-11` | [474](https://www.leetcode.com/problems/ones-and-zeroes/) | Ones and Zeroes | Array | [/source/Generator474.py](/source/Generator474.py) | [/generated/474_Ones_and_Zeroes.txt](/generated/474_Ones_and_Zeroes.txt) |
 | `2025-11-10` | [3542](https://www.leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/) | Minimum Operations to Convert All Elements to Zero | Array | [/source/Generator3542.py](/source/Generator3542.py) | [/generated/3542_Minimum_Operations_to_Convert_All_Elements_to_Zero.txt](/generated/3542_Minimum_Operations_to_Convert_All_Elements_to_Zero.txt) |
 | `2025-11-09` | [2169](https://www.leetcode.com/problems/count-operations-to-obtain-zero/) | Count Operations to Obtain Zero | Math | [/source/Generator2169.py](/source/Generator2169.py) | [/generated/2169_Count_Operations_to_Obtain_Zero.txt](/generated/2169_Count_Operations_to_Obtain_Zero.txt) |
 | `2025-11-08` | [1611](https://www.leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | Minimum One Bit Operations to Make Integers Zero | Dynamic Programming | [/source/Generator1611.py](/source/Generator1611.py) | [/generated/1611_Minimum_One_Bit_Operations_to_Make_Integers_Zero.txt](/generated/1611_Minimum_One_Bit_Operations_to_Make_Integers_Zero.txt) |
