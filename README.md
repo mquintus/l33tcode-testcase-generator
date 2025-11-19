@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-11-19` | [2154](https://www.leetcode.com/problems/keep-multiplying-found-values-by-two/) | Keep Multiplying Found Values by Two | Array | [/source/Generator2154.py](/source/Generator2154.py) | [/generated/2154_Keep_Multiplying_Found_Values_by_Two.txt](/generated/2154_Keep_Multiplying_Found_Values_by_Two.txt) |
 | `2025-11-18` | [717](https://www.leetcode.com/problems/1-bit-and-2-bit-characters/) | 1-bit and 2-bit Characters | Array | [/source/Generator717.py](/source/Generator717.py) | [/generated/717_1-bit_and_2-bit_Characters.txt](/generated/717_1-bit_and_2-bit_Characters.txt) |
 | `2025-11-17` | [1437](https://www.leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | Check If All 1's Are at Least Length K Places Away | Array | [/source/Generator1437.py](/source/Generator1437.py) | [/generated/1437_Check_If_All_1's_Are_at_Least_Length_K_Places_Away.txt](/generated/1437_Check_If_All_1's_Are_at_Least_Length_K_Places_Away.txt) |
 | `2025-11-16` | [1513](https://www.leetcode.com/problems/number-of-substrings-with-only-1s/) | Number of Substrings With Only 1s | Math | [/source/Generator1513.py](/source/Generator1513.py) | [/generated/1513_Number_of_Substrings_With_Only_1s.txt](/generated/1513_Number_of_Substrings_With_Only_1s.txt) |
