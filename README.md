@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-11-20` | [757](https://www.leetcode.com/problems/set-intersection-size-at-least-two/) | Set Intersection Size At Least Two | Array | [/source/Generator757.py](/source/Generator757.py) | [/generated/757_Set_Intersection_Size_At_Least_Two.txt](/generated/757_Set_Intersection_Size_At_Least_Two.txt) |
 | `2025-11-19` | [2154](https://www.leetcode.com/problems/keep-multiplying-found-values-by-two/) | Keep Multiplying Found Values by Two | Array | [/source/Generator2154.py](/source/Generator2154.py) | [/generated/2154_Keep_Multiplying_Found_Values_by_Two.txt](/generated/2154_Keep_Multiplying_Found_Values_by_Two.txt) |
 | `2025-11-18` | [717](https://www.leetcode.com/problems/1-bit-and-2-bit-characters/) | 1-bit and 2-bit Characters | Array | [/source/Generator717.py](/source/Generator717.py) | [/generated/717_1-bit_and_2-bit_Characters.txt](/generated/717_1-bit_and_2-bit_Characters.txt) |
 | `2025-11-17` | [1437](https://www.leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | Check If All 1's Are at Least Length K Places Away | Array | [/source/Generator1437.py](/source/Generator1437.py) | [/generated/1437_Check_If_All_1's_Are_at_Least_Length_K_Places_Away.txt](/generated/1437_Check_If_All_1's_Are_at_Least_Length_K_Places_Away.txt) |
