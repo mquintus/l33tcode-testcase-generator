@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-11-26` | [2435](https://www.leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | Paths in Matrix Whose Sum Is Divisible by K | Array | [/source/Generator2435.py](/source/Generator2435.py) | [/generated/2435_Paths_in_Matrix_Whose_Sum_Is_Divisible_by_K.txt](/generated/2435_Paths_in_Matrix_Whose_Sum_Is_Divisible_by_K.txt) |
 | `2025-11-25` | [1015](https://www.leetcode.com/problems/smallest-integer-divisible-by-k/) | Smallest Integer Divisible by K | Hash Table | [/source/Generator1015.py](/source/Generator1015.py) | [/generated/1015_Smallest_Integer_Divisible_by_K.txt](/generated/1015_Smallest_Integer_Divisible_by_K.txt) |
 | `2025-11-24` | [1018](https://www.leetcode.com/problems/binary-prefix-divisible-by-5/) | Binary Prefix Divisible By 5 | Array | [/source/Generator1018.py](/source/Generator1018.py) | [/generated/1018_Binary_Prefix_Divisible_By_5.txt](/generated/1018_Binary_Prefix_Divisible_By_5.txt) |
 | `2025-11-23` | [1262](https://www.leetcode.com/problems/greatest-sum-divisible-by-three/) | Greatest Sum Divisible by Three | Array | [/source/Generator1262.py](/source/Generator1262.py) | [/generated/1262_Greatest_Sum_Divisible_by_Three.txt](/generated/1262_Greatest_Sum_Divisible_by_Three.txt) |
