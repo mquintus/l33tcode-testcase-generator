@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-12-04` | [2211](https://www.leetcode.com/problems/count-collisions-on-a-road/) | Count Collisions on a Road | String | [/source/Generator2211.py](/source/Generator2211.py) | [/generated/2211_Count_Collisions_on_a_Road.txt](/generated/2211_Count_Collisions_on_a_Road.txt) |
 | `2025-12-03` | [3625](https://www.leetcode.com/problems/count-number-of-trapezoids-ii/) | Count Number of Trapezoids II | Array | [/source/Generator3625.py](/source/Generator3625.py) | [/generated/3625_Count_Number_of_Trapezoids_II.txt](/generated/3625_Count_Number_of_Trapezoids_II.txt) |
 | `2025-12-02` | [3623](https://www.leetcode.com/problems/count-number-of-trapezoids-i/) | Count Number of Trapezoids I | Array | [/source/Generator3623.py](/source/Generator3623.py) | [/generated/3623_Count_Number_of_Trapezoids_I.txt](/generated/3623_Count_Number_of_Trapezoids_I.txt) |
 | `2025-12-01` | [2141](https://www.leetcode.com/problems/maximum-running-time-of-n-computers/) | Maximum Running Time of N Computers | Array | [/source/Generator2141.py](/source/Generator2141.py) | [/generated/2141_Maximum_Running_Time_of_N_Computers.txt](/generated/2141_Maximum_Running_Time_of_N_Computers.txt) |
