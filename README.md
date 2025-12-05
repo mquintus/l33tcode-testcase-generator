@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-12-05` | [3432](https://www.leetcode.com/problems/count-partitions-with-even-sum-difference/) | Count Partitions with Even Sum Difference | Array | [/source/Generator3432.py](/source/Generator3432.py) | [/generated/3432_Count_Partitions_with_Even_Sum_Difference.txt](/generated/3432_Count_Partitions_with_Even_Sum_Difference.txt) |
 | `2025-12-04` | [2211](https://www.leetcode.com/problems/count-collisions-on-a-road/) | Count Collisions on a Road | String | [/source/Generator2211.py](/source/Generator2211.py) | [/generated/2211_Count_Collisions_on_a_Road.txt](/generated/2211_Count_Collisions_on_a_Road.txt) |
 | `2025-12-03` | [3625](https://www.leetcode.com/problems/count-number-of-trapezoids-ii/) | Count Number of Trapezoids II | Array | [/source/Generator3625.py](/source/Generator3625.py) | [/generated/3625_Count_Number_of_Trapezoids_II.txt](/generated/3625_Count_Number_of_Trapezoids_II.txt) |
 | `2025-12-02` | [3623](https://www.leetcode.com/problems/count-number-of-trapezoids-i/) | Count Number of Trapezoids I | Array | [/source/Generator3623.py](/source/Generator3623.py) | [/generated/3623_Count_Number_of_Trapezoids_I.txt](/generated/3623_Count_Number_of_Trapezoids_I.txt) |
