@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-12-11` | [3531](https://www.leetcode.com/problems/count-covered-buildings/) | Count Covered Buildings | Array | [/source/Generator3531.py](/source/Generator3531.py) | [/generated/3531_Count_Covered_Buildings.txt](/generated/3531_Count_Covered_Buildings.txt) |
 | `2025-12-10` | [3577](https://www.leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/) | Count the Number of Computer Unlocking Permutations | Array | [/source/Generator3577.py](/source/Generator3577.py) | [/generated/3577_Count_the_Number_of_Computer_Unlocking_Permutations.txt](/generated/3577_Count_the_Number_of_Computer_Unlocking_Permutations.txt) |
 | `2025-12-09` | [3583](https://www.leetcode.com/problems/count-special-triplets/) | Count Special Triplets | Array | [/source/Generator3583.py](/source/Generator3583.py) | [/generated/3583_Count_Special_Triplets.txt](/generated/3583_Count_Special_Triplets.txt) |
 | `2025-12-08` | [1925](https://www.leetcode.com/problems/count-square-sum-triples/) | Count Square Sum Triples | Math | [/source/Generator1925.py](/source/Generator1925.py) | [/generated/1925_Count_Square_Sum_Triples.txt](/generated/1925_Count_Square_Sum_Triples.txt) |
