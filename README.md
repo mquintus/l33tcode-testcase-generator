@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-12-14` | [2147](https://www.leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | Number of Ways to Divide a Long Corridor | Math | [/source/Generator2147.py](/source/Generator2147.py) | [/generated/2147_Number_of_Ways_to_Divide_a_Long_Corridor.txt](/generated/2147_Number_of_Ways_to_Divide_a_Long_Corridor.txt) |
 | `2025-12-13` | [3606](https://www.leetcode.com/problems/coupon-code-validator/) | Coupon Code Validator | Array | [/source/Generator3606.py](/source/Generator3606.py) | [/generated/3606_Coupon_Code_Validator.txt](/generated/3606_Coupon_Code_Validator.txt) |
 | `2025-12-12` | [3433](https://www.leetcode.com/problems/count-mentions-per-user/) | Count Mentions Per User | Array | [/source/Generator3433.py](/source/Generator3433.py) | [/generated/3433_Count_Mentions_Per_User.txt](/generated/3433_Count_Mentions_Per_User.txt) |
 | `2025-12-11` | [3531](https://www.leetcode.com/problems/count-covered-buildings/) | Count Covered Buildings | Array | [/source/Generator3531.py](/source/Generator3531.py) | [/generated/3531_Count_Covered_Buildings.txt](/generated/3531_Count_Covered_Buildings.txt) |
