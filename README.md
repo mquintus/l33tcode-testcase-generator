@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-12-22` | [960](https://www.leetcode.com/problems/delete-columns-to-make-sorted-iii/) | Delete Columns to Make Sorted III | Array | [/source/Generator960.py](/source/Generator960.py) | [/generated/960_Delete_Columns_to_Make_Sorted_III.txt](/generated/960_Delete_Columns_to_Make_Sorted_III.txt) |
 | `2025-12-21` | [955](https://www.leetcode.com/problems/delete-columns-to-make-sorted-ii/) | Delete Columns to Make Sorted II | Array | [/source/Generator955.py](/source/Generator955.py) | [/generated/955_Delete_Columns_to_Make_Sorted_II.txt](/generated/955_Delete_Columns_to_Make_Sorted_II.txt) |
 | `2025-12-20` | [944](https://www.leetcode.com/problems/delete-columns-to-make-sorted/) | Delete Columns to Make Sorted | Array | [/source/Generator944.py](/source/Generator944.py) | [/generated/944_Delete_Columns_to_Make_Sorted.txt](/generated/944_Delete_Columns_to_Make_Sorted.txt) |
 | `2025-12-19` | [2092](https://www.leetcode.com/problems/find-all-people-with-secret/) | Find All People With Secret | Graph | [/source/Generator2092.py](/source/Generator2092.py) | [/generated/2092_Find_All_People_With_Secret.txt](/generated/2092_Find_All_People_With_Secret.txt) |
