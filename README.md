@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-12-24` | [3074](https://www.leetcode.com/problems/apple-redistribution-into-boxes/) | Apple Redistribution into Boxes | Array | [/source/Generator3074.py](/source/Generator3074.py) | [/generated/3074_Apple_Redistribution_into_Boxes.txt](/generated/3074_Apple_Redistribution_into_Boxes.txt) |
 | `2025-12-23` | [2054](https://www.leetcode.com/problems/two-best-non-overlapping-events/) | Two Best Non-Overlapping Events | Array | [/source/Generator2054.py](/source/Generator2054.py) | [/generated/2054_Two_Best_Non-Overlapping_Events.txt](/generated/2054_Two_Best_Non-Overlapping_Events.txt) |
 | `2025-12-22` | [960](https://www.leetcode.com/problems/delete-columns-to-make-sorted-iii/) | Delete Columns to Make Sorted III | Array | [/source/Generator960.py](/source/Generator960.py) | [/generated/960_Delete_Columns_to_Make_Sorted_III.txt](/generated/960_Delete_Columns_to_Make_Sorted_III.txt) |
 | `2025-12-21` | [955](https://www.leetcode.com/problems/delete-columns-to-make-sorted-ii/) | Delete Columns to Make Sorted II | Array | [/source/Generator955.py](/source/Generator955.py) | [/generated/955_Delete_Columns_to_Make_Sorted_II.txt](/generated/955_Delete_Columns_to_Make_Sorted_II.txt) |
