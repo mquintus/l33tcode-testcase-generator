@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-12-26` | [2483](https://www.leetcode.com/problems/minimum-penalty-for-a-shop/) | Minimum Penalty for a Shop | String | [/source/Generator2483.py](/source/Generator2483.py) | [/generated/2483_Minimum_Penalty_for_a_Shop.txt](/generated/2483_Minimum_Penalty_for_a_Shop.txt) |
 | `2025-12-25` | [3075](https://www.leetcode.com/problems/maximize-happiness-of-selected-children/) | Maximize Happiness of Selected Children | Array | [/source/Generator3075.py](/source/Generator3075.py) | [/generated/3075_Maximize_Happiness_of_Selected_Children.txt](/generated/3075_Maximize_Happiness_of_Selected_Children.txt) |
 | `2025-12-24` | [3074](https://www.leetcode.com/problems/apple-redistribution-into-boxes/) | Apple Redistribution into Boxes | Array | [/source/Generator3074.py](/source/Generator3074.py) | [/generated/3074_Apple_Redistribution_into_Boxes.txt](/generated/3074_Apple_Redistribution_into_Boxes.txt) |
 | `2025-12-23` | [2054](https://www.leetcode.com/problems/two-best-non-overlapping-events/) | Two Best Non-Overlapping Events | Array | [/source/Generator2054.py](/source/Generator2054.py) | [/generated/2054_Two_Best_Non-Overlapping_Events.txt](/generated/2054_Two_Best_Non-Overlapping_Events.txt) |
