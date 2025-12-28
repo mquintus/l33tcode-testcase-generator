@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-12-28` | [1351](https://www.leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | Count Negative Numbers in a Sorted Matrix | Array | [/source/Generator1351.py](/source/Generator1351.py) | [/generated/1351_Count_Negative_Numbers_in_a_Sorted_Matrix.txt](/generated/1351_Count_Negative_Numbers_in_a_Sorted_Matrix.txt) |
 | `2025-12-27` | [2402](https://www.leetcode.com/problems/meeting-rooms-iii/) | Meeting Rooms III | Array | [/source/Generator2402.py](/source/Generator2402.py) | [/generated/2402_Meeting_Rooms_III.txt](/generated/2402_Meeting_Rooms_III.txt) |
 | `2025-12-26` | [2483](https://www.leetcode.com/problems/minimum-penalty-for-a-shop/) | Minimum Penalty for a Shop | String | [/source/Generator2483.py](/source/Generator2483.py) | [/generated/2483_Minimum_Penalty_for_a_Shop.txt](/generated/2483_Minimum_Penalty_for_a_Shop.txt) |
 | `2025-12-25` | [3075](https://www.leetcode.com/problems/maximize-happiness-of-selected-children/) | Maximize Happiness of Selected Children | Array | [/source/Generator3075.py](/source/Generator3075.py) | [/generated/3075_Maximize_Happiness_of_Selected_Children.txt](/generated/3075_Maximize_Happiness_of_Selected_Children.txt) |
