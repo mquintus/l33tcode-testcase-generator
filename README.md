@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2025-12-31` | [1970](https://www.leetcode.com/problems/last-day-where-you-can-still-cross/) | Last Day Where You Can Still Cross | Array | [/source/Generator1970.py](/source/Generator1970.py) | [/generated/1970_Last_Day_Where_You_Can_Still_Cross.txt](/generated/1970_Last_Day_Where_You_Can_Still_Cross.txt) |
 | `2025-12-30` | [840](https://www.leetcode.com/problems/magic-squares-in-grid/) | Magic Squares In Grid | Array | [/source/Generator840.py](/source/Generator840.py) | [/generated/840_Magic_Squares_In_Grid.txt](/generated/840_Magic_Squares_In_Grid.txt) |
 | `2025-12-29` | [756](https://www.leetcode.com/problems/pyramid-transition-matrix/) | Pyramid Transition Matrix | Hash Table | [/source/Generator756.py](/source/Generator756.py) | [/generated/756_Pyramid_Transition_Matrix.txt](/generated/756_Pyramid_Transition_Matrix.txt) |
 | `2025-12-28` | [1351](https://www.leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | Count Negative Numbers in a Sorted Matrix | Array | [/source/Generator1351.py](/source/Generator1351.py) | [/generated/1351_Count_Negative_Numbers_in_a_Sorted_Matrix.txt](/generated/1351_Count_Negative_Numbers_in_a_Sorted_Matrix.txt) |
