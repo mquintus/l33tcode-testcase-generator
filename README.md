@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-01-02` | [961](https://www.leetcode.com/problems/n-repeated-element-in-size-2n-array/) | N-Repeated Element in Size 2N Array | Array | [/source/Generator961.py](/source/Generator961.py) | [/generated/961_N-Repeated_Element_in_Size_2N_Array.txt](/generated/961_N-Repeated_Element_in_Size_2N_Array.txt) |
 | `2026-01-01` | [66](https://www.leetcode.com/problems/plus-one/) | Plus One | Array | [/source/Generator66.py](/source/Generator66.py) | [/generated/66_Plus_One.txt](/generated/66_Plus_One.txt) |
 | `2025-12-31` | [1970](https://www.leetcode.com/problems/last-day-where-you-can-still-cross/) | Last Day Where You Can Still Cross | Array | [/source/Generator1970.py](/source/Generator1970.py) | [/generated/1970_Last_Day_Where_You_Can_Still_Cross.txt](/generated/1970_Last_Day_Where_You_Can_Still_Cross.txt) |
 | `2025-12-30` | [840](https://www.leetcode.com/problems/magic-squares-in-grid/) | Magic Squares In Grid | Array | [/source/Generator840.py](/source/Generator840.py) | [/generated/840_Magic_Squares_In_Grid.txt](/generated/840_Magic_Squares_In_Grid.txt) |
