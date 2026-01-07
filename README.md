@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-01-07` | [1339](https://www.leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | Maximum Product of Splitted Binary Tree | Tree | [/source/Generator1339.py](/source/Generator1339.py) | [/generated/1339_Maximum_Product_of_Splitted_Binary_Tree.txt](/generated/1339_Maximum_Product_of_Splitted_Binary_Tree.txt) |
 | `2026-01-06` | [1161](https://www.leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Maximum Level Sum of a Binary Tree | Tree | [/source/Generator1161.py](/source/Generator1161.py) | [/generated/1161_Maximum_Level_Sum_of_a_Binary_Tree.txt](/generated/1161_Maximum_Level_Sum_of_a_Binary_Tree.txt) |
 | `2026-01-05` | [1975](https://www.leetcode.com/problems/maximum-matrix-sum/) | Maximum Matrix Sum | Array | [/source/Generator1975.py](/source/Generator1975.py) | [/generated/1975_Maximum_Matrix_Sum.txt](/generated/1975_Maximum_Matrix_Sum.txt) |
 | `2026-01-04` | [1390](https://www.leetcode.com/problems/four-divisors/) | Four Divisors | Array | [/source/Generator1390.py](/source/Generator1390.py) | [/generated/1390_Four_Divisors.txt](/generated/1390_Four_Divisors.txt) |
