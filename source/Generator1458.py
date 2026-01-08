@@ -15,7 +15,7 @@ def generate() -> str:
     tests.append(test.__str__().replace(' ', ''))
     
     n = max_num
-    test = [random.randint(minval, maxval) for _ in n]
+    test = [random.randint(minval, maxval) for _ in range(n)]
     tests.append(test.__str__().replace(' ', ''))
     
     return '''
