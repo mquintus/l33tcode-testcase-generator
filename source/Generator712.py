@@ -1,33 +1,22 @@
 import random
 
-
+'''
+712 - Minimum ASCII Delete Sum for Two Strings
+'''
 def generate() -> str:
     tests = []
+    min_num = 2
+    max_num = 10**4
+    minval = -1000
+    maxval = 1000
 
-    stringa = 'a'*1000
-    stringb = 'b'*1000
-    test = '"' + stringa.__str__() + '"\n"' + stringb.__str__() + '"'
-    tests.append(test)
-
-    stringa = 'ab'*500
-    stringb = 'ba'*500
-    test = '"' + stringa.__str__() + '"\n"' + stringb.__str__() + '"'
-    tests.append(test)
-
-    stringa = 'abcd'*250
-    stringb = 'zaba'*250
-    test = '"' + stringa.__str__() + '"\n"' + stringb.__str__() + '"'
-    tests.append(test)
-
-    stringa = 'abcd'*250
-    stringb = 'z'
-    test = '"' + stringa.__str__() + '"\n"' + stringb.__str__() + '"'
-    tests.append(test)
-
-    for _ in range(4):
-        stringa = "".join(random.choices('abcdedfghijklmnopqrstuvwxyz', k=1000))
-        stringb = "".join(random.choices('abcdedfghijklmnopqrstuvwxyz', k=1000))
-        test = '"' + stringa.__str__() + '"\n"' + stringb.__str__() + '"'
-        tests.append(test)
-
-    return "\n".join(tests)
+    n = min_num
+    test = [random.randint(minval, maxval) for _ in range(n)]
+    tests.append(test.__str__().replace(' ', ''))
+    
+    n = max_num
+    test = [random.randint(minval, maxval) for _ in range(n)]
+    tests.append(test.__str__().replace(' ', ''))
+    
+    return '''
+'''.join(tests)
