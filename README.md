@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-01-12` | [1266](https://www.leetcode.com/problems/minimum-time-visiting-all-points/) | Minimum Time Visiting All Points | Array | [/source/Generator1266.py](/source/Generator1266.py) | [/generated/1266_Minimum_Time_Visiting_All_Points.txt](/generated/1266_Minimum_Time_Visiting_All_Points.txt) |
 | `2026-01-11` | [85](https://www.leetcode.com/problems/maximal-rectangle/) | Maximal Rectangle | Array | [/source/Generator85.py](/source/Generator85.py) | [/generated/85_Maximal_Rectangle.txt](/generated/85_Maximal_Rectangle.txt) |
 | `2026-01-10` | [712](https://www.leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Minimum ASCII Delete Sum for Two Strings | String | [/source/Generator712.py](/source/Generator712.py) | [/generated/712_Minimum_ASCII_Delete_Sum_for_Two_Strings.txt](/generated/712_Minimum_ASCII_Delete_Sum_for_Two_Strings.txt) |
 | `2026-01-09` | [865](https://www.leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | Smallest Subtree with all the Deepest Nodes | Hash Table | [/source/Generator865.py](/source/Generator865.py) | [/generated/865_Smallest_Subtree_with_all_the_Deepest_Nodes.txt](/generated/865_Smallest_Subtree_with_all_the_Deepest_Nodes.txt) |
