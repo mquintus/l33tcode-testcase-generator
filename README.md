@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-01-14` | [3454](https://www.leetcode.com/problems/separate-squares-ii/) | Separate Squares II | Array | [/source/Generator3454.py](/source/Generator3454.py) | [/generated/3454_Separate_Squares_II.txt](/generated/3454_Separate_Squares_II.txt) |
 | `2026-01-13` | [3453](https://www.leetcode.com/problems/separate-squares-i/) | Separate Squares I | Array | [/source/Generator3453.py](/source/Generator3453.py) | [/generated/3453_Separate_Squares_I.txt](/generated/3453_Separate_Squares_I.txt) |
 | `2026-01-12` | [1266](https://www.leetcode.com/problems/minimum-time-visiting-all-points/) | Minimum Time Visiting All Points | Array | [/source/Generator1266.py](/source/Generator1266.py) | [/generated/1266_Minimum_Time_Visiting_All_Points.txt](/generated/1266_Minimum_Time_Visiting_All_Points.txt) |
 | `2026-01-11` | [85](https://www.leetcode.com/problems/maximal-rectangle/) | Maximal Rectangle | Array | [/source/Generator85.py](/source/Generator85.py) | [/generated/85_Maximal_Rectangle.txt](/generated/85_Maximal_Rectangle.txt) |
