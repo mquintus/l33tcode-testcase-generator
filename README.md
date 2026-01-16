@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-01-16` | [2975](https://www.leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) | Maximum Square Area by Removing Fences From a Field | Array | [/source/Generator2975.py](/source/Generator2975.py) | [/generated/2975_Maximum_Square_Area_by_Removing_Fences_From_a_Field.txt](/generated/2975_Maximum_Square_Area_by_Removing_Fences_From_a_Field.txt) |
 | `2026-01-15` | [2943](https://www.leetcode.com/problems/maximize-area-of-square-hole-in-grid/) | Maximize Area of Square Hole in Grid | Array | [/source/Generator2943.py](/source/Generator2943.py) | [/generated/2943_Maximize_Area_of_Square_Hole_in_Grid.txt](/generated/2943_Maximize_Area_of_Square_Hole_in_Grid.txt) |
 | `2026-01-14` | [3454](https://www.leetcode.com/problems/separate-squares-ii/) | Separate Squares II | Array | [/source/Generator3454.py](/source/Generator3454.py) | [/generated/3454_Separate_Squares_II.txt](/generated/3454_Separate_Squares_II.txt) |
 | `2026-01-13` | [3453](https://www.leetcode.com/problems/separate-squares-i/) | Separate Squares I | Array | [/source/Generator3453.py](/source/Generator3453.py) | [/generated/3453_Separate_Squares_I.txt](/generated/3453_Separate_Squares_I.txt) |
