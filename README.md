@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-01-30` | [2977](https://www.leetcode.com/problems/minimum-cost-to-convert-string-ii/) | Minimum Cost to Convert String II | Array | [/source/Generator2977.py](/source/Generator2977.py) | [/generated/2977_Minimum_Cost_to_Convert_String_II.txt](/generated/2977_Minimum_Cost_to_Convert_String_II.txt) |
 | `2026-01-29` | [2976](https://www.leetcode.com/problems/minimum-cost-to-convert-string-i/) | Minimum Cost to Convert String I | Array | [/source/Generator2976.py](/source/Generator2976.py) | [/generated/2976_Minimum_Cost_to_Convert_String_I.txt](/generated/2976_Minimum_Cost_to_Convert_String_I.txt) |
 | `2026-01-28` | [3651](https://www.leetcode.com/problems/minimum-cost-path-with-teleportations/) | Minimum Cost Path with Teleportations | Array | [/source/Generator3651.py](/source/Generator3651.py) | [/generated/3651_Minimum_Cost_Path_with_Teleportations.txt](/generated/3651_Minimum_Cost_Path_with_Teleportations.txt) |
 | `2026-01-27` | [3650](https://www.leetcode.com/problems/minimum-cost-path-with-edge-reversals/) | Minimum Cost Path with Edge Reversals | Graph Theory | [/source/Generator3650.py](/source/Generator3650.py) | [/generated/3650_Minimum_Cost_Path_with_Edge_Reversals.txt](/generated/3650_Minimum_Cost_Path_with_Edge_Reversals.txt) |
