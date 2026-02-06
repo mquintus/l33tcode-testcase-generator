@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-02-06` | [3634](https://www.leetcode.com/problems/minimum-removals-to-balance-array/) | Minimum Removals to Balance Array | Array | [/source/Generator3634.py](/source/Generator3634.py) | [/generated/3634_Minimum_Removals_to_Balance_Array.txt](/generated/3634_Minimum_Removals_to_Balance_Array.txt) |
 | `2026-02-05` | [3379](https://www.leetcode.com/problems/transformed-array/) | Transformed Array | Array | [/source/Generator3379.py](/source/Generator3379.py) | [/generated/3379_Transformed_Array.txt](/generated/3379_Transformed_Array.txt) |
 | `2026-02-04` | [3640](https://www.leetcode.com/problems/trionic-array-ii/) | Trionic Array II | Array | [/source/Generator3640.py](/source/Generator3640.py) | [/generated/3640_Trionic_Array_II.txt](/generated/3640_Trionic_Array_II.txt) |
 | `2026-02-03` | [3637](https://www.leetcode.com/problems/trionic-array-i/) | Trionic Array I | Array | [/source/Generator3637.py](/source/Generator3637.py) | [/generated/3637_Trionic_Array_I.txt](/generated/3637_Trionic_Array_I.txt) |
