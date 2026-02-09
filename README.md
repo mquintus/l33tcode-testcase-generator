@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-02-09` | [1382](https://www.leetcode.com/problems/balance-a-binary-search-tree/) | Balance a Binary Search Tree | Divide and Conquer | [/source/Generator1382.py](/source/Generator1382.py) | [/generated/1382_Balance_a_Binary_Search_Tree.txt](/generated/1382_Balance_a_Binary_Search_Tree.txt) |
 | `2026-02-08` | [110](https://www.leetcode.com/problems/balanced-binary-tree/) | Balanced Binary Tree | Tree | [/source/Generator110.py](/source/Generator110.py) | [/generated/110_Balanced_Binary_Tree.txt](/generated/110_Balanced_Binary_Tree.txt) |
 | `2026-02-07` | [1653](https://www.leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | Minimum Deletions to Make String Balanced | String | [/source/Generator1653.py](/source/Generator1653.py) | [/generated/1653_Minimum_Deletions_to_Make_String_Balanced.txt](/generated/1653_Minimum_Deletions_to_Make_String_Balanced.txt) |
 | `2026-02-06` | [3634](https://www.leetcode.com/problems/minimum-removals-to-balance-array/) | Minimum Removals to Balance Array | Array | [/source/Generator3634.py](/source/Generator3634.py) | [/generated/3634_Minimum_Removals_to_Balance_Array.txt](/generated/3634_Minimum_Removals_to_Balance_Array.txt) |
