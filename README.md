@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-02-13` | [3714](https://www.leetcode.com/problems/longest-balanced-substring-ii/) | Longest Balanced Substring II | Hash Table | [/source/Generator3714.py](/source/Generator3714.py) | [/generated/3714_Longest_Balanced_Substring_II.txt](/generated/3714_Longest_Balanced_Substring_II.txt) |
 | `2026-02-12` | [3713](https://www.leetcode.com/problems/longest-balanced-substring-i/) | Longest Balanced Substring I | Hash Table | [/source/Generator3713.py](/source/Generator3713.py) | [/generated/3713_Longest_Balanced_Substring_I.txt](/generated/3713_Longest_Balanced_Substring_I.txt) |
 | `2026-02-11` | [3721](https://www.leetcode.com/problems/longest-balanced-subarray-ii/) | Longest Balanced Subarray II | Array | [/source/Generator3721.py](/source/Generator3721.py) | [/generated/3721_Longest_Balanced_Subarray_II.txt](/generated/3721_Longest_Balanced_Subarray_II.txt) |
 | `2026-02-10` | [3719](https://www.leetcode.com/problems/longest-balanced-subarray-i/) | Longest Balanced Subarray I | Array | [/source/Generator3719.py](/source/Generator3719.py) | [/generated/3719_Longest_Balanced_Subarray_I.txt](/generated/3719_Longest_Balanced_Subarray_I.txt) |
