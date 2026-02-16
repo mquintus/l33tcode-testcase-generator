@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-02-16` | [190](https://www.leetcode.com/problems/reverse-bits/) | Reverse Bits | Divide and Conquer | [/source/Generator190.py](/source/Generator190.py) | [/generated/190_Reverse_Bits.txt](/generated/190_Reverse_Bits.txt) |
 | `2026-02-15` | [67](https://www.leetcode.com/problems/add-binary/) | Add Binary | Math | [/source/Generator67.py](/source/Generator67.py) | [/generated/67_Add_Binary.txt](/generated/67_Add_Binary.txt) |
 | `2026-02-14` | [799](https://www.leetcode.com/problems/champagne-tower/) | Champagne Tower | Dynamic Programming | [/source/Generator799.py](/source/Generator799.py) | [/generated/799_Champagne_Tower.txt](/generated/799_Champagne_Tower.txt) |
 | `2026-02-13` | [3714](https://www.leetcode.com/problems/longest-balanced-substring-ii/) | Longest Balanced Substring II | Hash Table | [/source/Generator3714.py](/source/Generator3714.py) | [/generated/3714_Longest_Balanced_Substring_II.txt](/generated/3714_Longest_Balanced_Substring_II.txt) |
