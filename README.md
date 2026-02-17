@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-02-17` | [401](https://www.leetcode.com/problems/binary-watch/) | Binary Watch | Backtracking | [/source/Generator401.py](/source/Generator401.py) | [/generated/401_Binary_Watch.txt](/generated/401_Binary_Watch.txt) |
 | `2026-02-16` | [190](https://www.leetcode.com/problems/reverse-bits/) | Reverse Bits | Divide and Conquer | [/source/Generator190.py](/source/Generator190.py) | [/generated/190_Reverse_Bits.txt](/generated/190_Reverse_Bits.txt) |
 | `2026-02-15` | [67](https://www.leetcode.com/problems/add-binary/) | Add Binary | Math | [/source/Generator67.py](/source/Generator67.py) | [/generated/67_Add_Binary.txt](/generated/67_Add_Binary.txt) |
 | `2026-02-14` | [799](https://www.leetcode.com/problems/champagne-tower/) | Champagne Tower | Dynamic Programming | [/source/Generator799.py](/source/Generator799.py) | [/generated/799_Champagne_Tower.txt](/generated/799_Champagne_Tower.txt) |
