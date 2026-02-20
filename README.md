@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-02-20` | [761](https://www.leetcode.com/problems/special-binary-string/) | Special Binary String | String | [/source/Generator761.py](/source/Generator761.py) | [/generated/761_Special_Binary_String.txt](/generated/761_Special_Binary_String.txt) |
 | `2026-02-19` | [696](https://www.leetcode.com/problems/count-binary-substrings/) | Count Binary Substrings | Two Pointers | [/source/Generator696.py](/source/Generator696.py) | [/generated/696_Count_Binary_Substrings.txt](/generated/696_Count_Binary_Substrings.txt) |
 | `2026-02-18` | [693](https://www.leetcode.com/problems/binary-number-with-alternating-bits/) | Binary Number with Alternating Bits | Bit Manipulation | [/source/Generator693.py](/source/Generator693.py) | [/generated/693_Binary_Number_with_Alternating_Bits.txt](/generated/693_Binary_Number_with_Alternating_Bits.txt) |
 | `2026-02-17` | [401](https://www.leetcode.com/problems/binary-watch/) | Binary Watch | Backtracking | [/source/Generator401.py](/source/Generator401.py) | [/generated/401_Binary_Watch.txt](/generated/401_Binary_Watch.txt) |
