@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-02-22` | [868](https://www.leetcode.com/problems/binary-gap/) | Binary Gap | Bit Manipulation | [/source/Generator868.py](/source/Generator868.py) | [/generated/868_Binary_Gap.txt](/generated/868_Binary_Gap.txt) |
 | `2026-02-21` | [762](https://www.leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | Prime Number of Set Bits in Binary Representation | Math | [/source/Generator762.py](/source/Generator762.py) | [/generated/762_Prime_Number_of_Set_Bits_in_Binary_Representation.txt](/generated/762_Prime_Number_of_Set_Bits_in_Binary_Representation.txt) |
 | `2026-02-20` | [761](https://www.leetcode.com/problems/special-binary-string/) | Special Binary String | String | [/source/Generator761.py](/source/Generator761.py) | [/generated/761_Special_Binary_String.txt](/generated/761_Special_Binary_String.txt) |
 | `2026-02-19` | [696](https://www.leetcode.com/problems/count-binary-substrings/) | Count Binary Substrings | Two Pointers | [/source/Generator696.py](/source/Generator696.py) | [/generated/696_Count_Binary_Substrings.txt](/generated/696_Count_Binary_Substrings.txt) |
