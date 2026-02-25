@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-02-25` | [1356](https://www.leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | Sort Integers by The Number of 1 Bits | Array | [/source/Generator1356.py](/source/Generator1356.py) | [/generated/1356_Sort_Integers_by_The_Number_of_1_Bits.txt](/generated/1356_Sort_Integers_by_The_Number_of_1_Bits.txt) |
 | `2026-02-24` | [1022](https://www.leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | Sum of Root To Leaf Binary Numbers | Tree | [/source/Generator1022.py](/source/Generator1022.py) | [/generated/1022_Sum_of_Root_To_Leaf_Binary_Numbers.txt](/generated/1022_Sum_of_Root_To_Leaf_Binary_Numbers.txt) |
 | `2026-02-23` | [1461](https://www.leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | Check If a String Contains All Binary Codes of Size K | Hash Table | [/source/Generator1461.py](/source/Generator1461.py) | [/generated/1461_Check_If_a_String_Contains_All_Binary_Codes_of_Size_K.txt](/generated/1461_Check_If_a_String_Contains_All_Binary_Codes_of_Size_K.txt) |
 | `2026-02-22` | [868](https://www.leetcode.com/problems/binary-gap/) | Binary Gap | Bit Manipulation | [/source/Generator868.py](/source/Generator868.py) | [/generated/868_Binary_Gap.txt](/generated/868_Binary_Gap.txt) |
