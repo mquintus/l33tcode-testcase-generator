@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-03-11` | [1009](https://www.leetcode.com/problems/complement-of-base-10-integer/) | Complement of Base 10 Integer | Bit Manipulation | [/source/Generator1009.py](/source/Generator1009.py) | [/generated/1009_Complement_of_Base_10_Integer.txt](/generated/1009_Complement_of_Base_10_Integer.txt) |
 | `2026-03-10` | [3130](https://www.leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/) | Find All Possible Stable Binary Arrays II | Dynamic Programming | [/source/Generator3130.py](/source/Generator3130.py) | [/generated/3130_Find_All_Possible_Stable_Binary_Arrays_II.txt](/generated/3130_Find_All_Possible_Stable_Binary_Arrays_II.txt) |
 | `2026-03-09` | [3129](https://www.leetcode.com/problems/find-all-possible-stable-binary-arrays-i/) | Find All Possible Stable Binary Arrays I | Dynamic Programming | [/source/Generator3129.py](/source/Generator3129.py) | [/generated/3129_Find_All_Possible_Stable_Binary_Arrays_I.txt](/generated/3129_Find_All_Possible_Stable_Binary_Arrays_I.txt) |
 | `2026-03-08` | [1980](https://www.leetcode.com/problems/find-unique-binary-string/) | Find Unique Binary String | Array | [/source/Generator1980.py](/source/Generator1980.py) | [/generated/1980_Find_Unique_Binary_String.txt](/generated/1980_Find_Unique_Binary_String.txt) |
