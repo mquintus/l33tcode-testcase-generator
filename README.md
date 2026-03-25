@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-03-25` | [3546](https://www.leetcode.com/problems/equal-sum-grid-partition-i/) | Equal Sum Grid Partition I | Array | [/source/Generator3546.py](/source/Generator3546.py) | [/generated/3546_Equal_Sum_Grid_Partition_I.txt](/generated/3546_Equal_Sum_Grid_Partition_I.txt) |
 | `2026-03-24` | [2906](https://www.leetcode.com/problems/construct-product-matrix/) | Construct Product Matrix | Array | [/source/Generator2906.py](/source/Generator2906.py) | [/generated/2906_Construct_Product_Matrix.txt](/generated/2906_Construct_Product_Matrix.txt) |
 | `2026-03-23` | [1594](https://www.leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | Maximum Non Negative Product in a Matrix | Array | [/source/Generator1594.py](/source/Generator1594.py) | [/generated/1594_Maximum_Non_Negative_Product_in_a_Matrix.txt](/generated/1594_Maximum_Non_Negative_Product_in_a_Matrix.txt) |
 | `2026-03-22` | [1886](https://www.leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | Determine Whether Matrix Can Be Obtained By Rotation | Array | [/source/Generator1886.py](/source/Generator1886.py) | [/generated/1886_Determine_Whether_Matrix_Can_Be_Obtained_By_Rotation.txt](/generated/1886_Determine_Whether_Matrix_Can_Be_Obtained_By_Rotation.txt) |
