@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-03-28` | [2573](https://www.leetcode.com/problems/find-the-string-with-lcp/) | Find the String with LCP | Array | [/source/Generator2573.py](/source/Generator2573.py) | [/generated/2573_Find_the_String_with_LCP.txt](/generated/2573_Find_the_String_with_LCP.txt) |
 | `2026-03-27` | [2946](https://www.leetcode.com/problems/matrix-similarity-after-cyclic-shifts/) | Matrix Similarity After Cyclic Shifts | Array | [/source/Generator2946.py](/source/Generator2946.py) | [/generated/2946_Matrix_Similarity_After_Cyclic_Shifts.txt](/generated/2946_Matrix_Similarity_After_Cyclic_Shifts.txt) |
 | `2026-03-26` | [3548](https://www.leetcode.com/problems/equal-sum-grid-partition-ii/) | Equal Sum Grid Partition II | Array | [/source/Generator3548.py](/source/Generator3548.py) | [/generated/3548_Equal_Sum_Grid_Partition_II.txt](/generated/3548_Equal_Sum_Grid_Partition_II.txt) |
 | `2026-03-25` | [3546](https://www.leetcode.com/problems/equal-sum-grid-partition-i/) | Equal Sum Grid Partition I | Array | [/source/Generator3546.py](/source/Generator3546.py) | [/generated/3546_Equal_Sum_Grid_Partition_I.txt](/generated/3546_Equal_Sum_Grid_Partition_I.txt) |
