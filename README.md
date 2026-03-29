@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-03-29` | [2839](https://www.leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/) | Check if Strings Can be Made Equal With Operations I | String | [/source/Generator2839.py](/source/Generator2839.py) | [/generated/2839_Check_if_Strings_Can_be_Made_Equal_With_Operations_I.txt](/generated/2839_Check_if_Strings_Can_be_Made_Equal_With_Operations_I.txt) |
 | `2026-03-28` | [2573](https://www.leetcode.com/problems/find-the-string-with-lcp/) | Find the String with LCP | Array | [/source/Generator2573.py](/source/Generator2573.py) | [/generated/2573_Find_the_String_with_LCP.txt](/generated/2573_Find_the_String_with_LCP.txt) |
 | `2026-03-27` | [2946](https://www.leetcode.com/problems/matrix-similarity-after-cyclic-shifts/) | Matrix Similarity After Cyclic Shifts | Array | [/source/Generator2946.py](/source/Generator2946.py) | [/generated/2946_Matrix_Similarity_After_Cyclic_Shifts.txt](/generated/2946_Matrix_Similarity_After_Cyclic_Shifts.txt) |
 | `2026-03-26` | [3548](https://www.leetcode.com/problems/equal-sum-grid-partition-ii/) | Equal Sum Grid Partition II | Array | [/source/Generator3548.py](/source/Generator3548.py) | [/generated/3548_Equal_Sum_Grid_Partition_II.txt](/generated/3548_Equal_Sum_Grid_Partition_II.txt) |
