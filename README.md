@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-04-04` | [2075](https://www.leetcode.com/problems/decode-the-slanted-ciphertext/) | Decode the Slanted Ciphertext | String | [/source/Generator2075.py](/source/Generator2075.py) | [/generated/2075_Decode_the_Slanted_Ciphertext.txt](/generated/2075_Decode_the_Slanted_Ciphertext.txt) |
 | `2026-04-03` | [3661](https://www.leetcode.com/problems/maximum-walls-destroyed-by-robots/) | Maximum Walls Destroyed by Robots | Array | [/source/Generator3661.py](/source/Generator3661.py) | [/generated/3661_Maximum_Walls_Destroyed_by_Robots.txt](/generated/3661_Maximum_Walls_Destroyed_by_Robots.txt) |
 | `2026-04-02` | [3418](https://www.leetcode.com/problems/maximum-amount-of-money-robot-can-earn/) | Maximum Amount of Money Robot Can Earn | Array | [/source/Generator3418.py](/source/Generator3418.py) | [/generated/3418_Maximum_Amount_of_Money_Robot_Can_Earn.txt](/generated/3418_Maximum_Amount_of_Money_Robot_Can_Earn.txt) |
 | `2026-04-01` | [2751](https://www.leetcode.com/problems/robot-collisions/) | Robot Collisions | Array | [/source/Generator2751.py](/source/Generator2751.py) | [/generated/2751_Robot_Collisions.txt](/generated/2751_Robot_Collisions.txt) |
