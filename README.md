@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-04-06` | [874](https://www.leetcode.com/problems/walking-robot-simulation/) | Walking Robot Simulation | Array | [/source/Generator874.py](/source/Generator874.py) | [/generated/874_Walking_Robot_Simulation.txt](/generated/874_Walking_Robot_Simulation.txt) |
 | `2026-04-05` | [657](https://www.leetcode.com/problems/robot-return-to-origin/) | Robot Return to Origin | String | [/source/Generator657.py](/source/Generator657.py) | [/generated/657_Robot_Return_to_Origin.txt](/generated/657_Robot_Return_to_Origin.txt) |
 | `2026-04-04` | [2075](https://www.leetcode.com/problems/decode-the-slanted-ciphertext/) | Decode the Slanted Ciphertext | String | [/source/Generator2075.py](/source/Generator2075.py) | [/generated/2075_Decode_the_Slanted_Ciphertext.txt](/generated/2075_Decode_the_Slanted_Ciphertext.txt) |
 | `2026-04-03` | [3661](https://www.leetcode.com/problems/maximum-walls-destroyed-by-robots/) | Maximum Walls Destroyed by Robots | Array | [/source/Generator3661.py](/source/Generator3661.py) | [/generated/3661_Maximum_Walls_Destroyed_by_Robots.txt](/generated/3661_Maximum_Walls_Destroyed_by_Robots.txt) |
