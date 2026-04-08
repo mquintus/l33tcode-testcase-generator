@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-04-08` | [3653](https://www.leetcode.com/problems/xor-after-range-multiplication-queries-i/) | XOR After Range Multiplication Queries I | Array | [/source/Generator3653.py](/source/Generator3653.py) | [/generated/3653_XOR_After_Range_Multiplication_Queries_I.txt](/generated/3653_XOR_After_Range_Multiplication_Queries_I.txt) |
 | `2026-04-07` | [2069](https://www.leetcode.com/problems/walking-robot-simulation-ii/) | Walking Robot Simulation II | Design | [/source/Generator2069.py](/source/Generator2069.py) | [/generated/2069_Walking_Robot_Simulation_II.txt](/generated/2069_Walking_Robot_Simulation_II.txt) |
 | `2026-04-06` | [874](https://www.leetcode.com/problems/walking-robot-simulation/) | Walking Robot Simulation | Array | [/source/Generator874.py](/source/Generator874.py) | [/generated/874_Walking_Robot_Simulation.txt](/generated/874_Walking_Robot_Simulation.txt) |
 | `2026-04-05` | [657](https://www.leetcode.com/problems/robot-return-to-origin/) | Robot Return to Origin | String | [/source/Generator657.py](/source/Generator657.py) | [/generated/657_Robot_Return_to_Origin.txt](/generated/657_Robot_Return_to_Origin.txt) |
