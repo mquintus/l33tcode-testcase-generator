@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-04-09` | [3655](https://www.leetcode.com/problems/xor-after-range-multiplication-queries-ii/) | XOR After Range Multiplication Queries II | Array | [/source/Generator3655.py](/source/Generator3655.py) | [/generated/3655_XOR_After_Range_Multiplication_Queries_II.txt](/generated/3655_XOR_After_Range_Multiplication_Queries_II.txt) |
 | `2026-04-08` | [3653](https://www.leetcode.com/problems/xor-after-range-multiplication-queries-i/) | XOR After Range Multiplication Queries I | Array | [/source/Generator3653.py](/source/Generator3653.py) | [/generated/3653_XOR_After_Range_Multiplication_Queries_I.txt](/generated/3653_XOR_After_Range_Multiplication_Queries_I.txt) |
 | `2026-04-07` | [2069](https://www.leetcode.com/problems/walking-robot-simulation-ii/) | Walking Robot Simulation II | Design | [/source/Generator2069.py](/source/Generator2069.py) | [/generated/2069_Walking_Robot_Simulation_II.txt](/generated/2069_Walking_Robot_Simulation_II.txt) |
 | `2026-04-06` | [874](https://www.leetcode.com/problems/walking-robot-simulation/) | Walking Robot Simulation | Array | [/source/Generator874.py](/source/Generator874.py) | [/generated/874_Walking_Robot_Simulation.txt](/generated/874_Walking_Robot_Simulation.txt) |
