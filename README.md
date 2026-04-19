@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-04-19` | [1855](https://www.leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | Maximum Distance Between a Pair of Values | Array | [/source/Generator1855.py](/source/Generator1855.py) | [/generated/1855_Maximum_Distance_Between_a_Pair_of_Values.txt](/generated/1855_Maximum_Distance_Between_a_Pair_of_Values.txt) |
 | `2026-04-18` | [3783](https://www.leetcode.com/problems/mirror-distance-of-an-integer/) | Mirror Distance of an Integer | Math | [/source/Generator3783.py](/source/Generator3783.py) | [/generated/3783_Mirror_Distance_of_an_Integer.txt](/generated/3783_Mirror_Distance_of_an_Integer.txt) |
 | `2026-04-17` | [3761](https://www.leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | Minimum Absolute Distance Between Mirror Pairs | Array | [/source/Generator3761.py](/source/Generator3761.py) | [/generated/3761_Minimum_Absolute_Distance_Between_Mirror_Pairs.txt](/generated/3761_Minimum_Absolute_Distance_Between_Mirror_Pairs.txt) |
 | `2026-04-16` | [3488](https://www.leetcode.com/problems/closest-equal-element-queries/) | Closest Equal Element Queries | Array | [/source/Generator3488.py](/source/Generator3488.py) | [/generated/3488_Closest_Equal_Element_Queries.txt](/generated/3488_Closest_Equal_Element_Queries.txt) |
