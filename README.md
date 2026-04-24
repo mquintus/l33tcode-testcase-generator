@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-04-24` | [2833](https://www.leetcode.com/problems/furthest-point-from-origin/) | Furthest Point From Origin | String | [/source/Generator2833.py](/source/Generator2833.py) | [/generated/2833_Furthest_Point_From_Origin.txt](/generated/2833_Furthest_Point_From_Origin.txt) |
 | `2026-04-23` | [2615](https://www.leetcode.com/problems/sum-of-distances/) | Sum of Distances | Array | [/source/Generator2615.py](/source/Generator2615.py) | [/generated/2615_Sum_of_Distances.txt](/generated/2615_Sum_of_Distances.txt) |
 | `2026-04-22` | [2452](https://www.leetcode.com/problems/words-within-two-edits-of-dictionary/) | Words Within Two Edits of Dictionary | Array | [/source/Generator2452.py](/source/Generator2452.py) | [/generated/2452_Words_Within_Two_Edits_of_Dictionary.txt](/generated/2452_Words_Within_Two_Edits_of_Dictionary.txt) |
 | `2026-04-21` | [1722](https://www.leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | Minimize Hamming Distance After Swap Operations | Array | [/source/Generator1722.py](/source/Generator1722.py) | [/generated/1722_Minimize_Hamming_Distance_After_Swap_Operations.txt](/generated/1722_Minimize_Hamming_Distance_After_Swap_Operations.txt) |
