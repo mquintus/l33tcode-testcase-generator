@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-04-26` | [1559](https://www.leetcode.com/problems/detect-cycles-in-2d-grid/) | Detect Cycles in 2D Grid | Array | [/source/Generator1559.py](/source/Generator1559.py) | [/generated/1559_Detect_Cycles_in_2D_Grid.txt](/generated/1559_Detect_Cycles_in_2D_Grid.txt) |
 | `2026-04-25` | [3464](https://www.leetcode.com/problems/maximize-the-distance-between-points-on-a-square/) | Maximize the Distance Between Points on a Square | Array | [/source/Generator3464.py](/source/Generator3464.py) | [/generated/3464_Maximize_the_Distance_Between_Points_on_a_Square.txt](/generated/3464_Maximize_the_Distance_Between_Points_on_a_Square.txt) |
 | `2026-04-24` | [2833](https://www.leetcode.com/problems/furthest-point-from-origin/) | Furthest Point From Origin | String | [/source/Generator2833.py](/source/Generator2833.py) | [/generated/2833_Furthest_Point_From_Origin.txt](/generated/2833_Furthest_Point_From_Origin.txt) |
 | `2026-04-23` | [2615](https://www.leetcode.com/problems/sum-of-distances/) | Sum of Distances | Array | [/source/Generator2615.py](/source/Generator2615.py) | [/generated/2615_Sum_of_Distances.txt](/generated/2615_Sum_of_Distances.txt) |
