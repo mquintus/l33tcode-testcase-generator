@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-04-30` | [3742](https://www.leetcode.com/problems/maximum-path-score-in-a-grid/) | Maximum Path Score in a Grid | Array | [/source/Generator3742.py](/source/Generator3742.py) | [/generated/3742_Maximum_Path_Score_in_a_Grid.txt](/generated/3742_Maximum_Path_Score_in_a_Grid.txt) |
 | `2026-04-29` | [3225](https://www.leetcode.com/problems/maximum-score-from-grid-operations/) | Maximum Score From Grid Operations | Array | [/source/Generator3225.py](/source/Generator3225.py) | [/generated/3225_Maximum_Score_From_Grid_Operations.txt](/generated/3225_Maximum_Score_From_Grid_Operations.txt) |
 | `2026-04-28` | [2033](https://www.leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | Minimum Operations to Make a Uni-Value Grid | Array | [/source/Generator2033.py](/source/Generator2033.py) | [/generated/2033_Minimum_Operations_to_Make_a_Uni-Value_Grid.txt](/generated/2033_Minimum_Operations_to_Make_a_Uni-Value_Grid.txt) |
 | `2026-04-27` | [1391](https://www.leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | Check if There is a Valid Path in a Grid | Array | [/source/Generator1391.py](/source/Generator1391.py) | [/generated/1391_Check_if_There_is_a_Valid_Path_in_a_Grid.txt](/generated/1391_Check_if_There_is_a_Valid_Path_in_a_Grid.txt) |
