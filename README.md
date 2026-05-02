@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-05-02` | [788](https://www.leetcode.com/problems/rotated-digits/) | Rotated Digits | Math | [/source/Generator788.py](/source/Generator788.py) | [/generated/788_Rotated_Digits.txt](/generated/788_Rotated_Digits.txt) |
 | `2026-05-01` | [396](https://www.leetcode.com/problems/rotate-function/) | Rotate Function | Array | [/source/Generator396.py](/source/Generator396.py) | [/generated/396_Rotate_Function.txt](/generated/396_Rotate_Function.txt) |
 | `2026-04-30` | [3742](https://www.leetcode.com/problems/maximum-path-score-in-a-grid/) | Maximum Path Score in a Grid | Array | [/source/Generator3742.py](/source/Generator3742.py) | [/generated/3742_Maximum_Path_Score_in_a_Grid.txt](/generated/3742_Maximum_Path_Score_in_a_Grid.txt) |
 | `2026-04-29` | [3225](https://www.leetcode.com/problems/maximum-score-from-grid-operations/) | Maximum Score From Grid Operations | Array | [/source/Generator3225.py](/source/Generator3225.py) | [/generated/3225_Maximum_Score_From_Grid_Operations.txt](/generated/3225_Maximum_Score_From_Grid_Operations.txt) |
