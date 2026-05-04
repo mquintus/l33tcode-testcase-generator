@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-05-04` | [48](https://www.leetcode.com/problems/rotate-image/) | Rotate Image | Array | [/source/Generator48.py](/source/Generator48.py) | [/generated/48_Rotate_Image.txt](/generated/48_Rotate_Image.txt) |
 | `2026-05-03` | [796](https://www.leetcode.com/problems/rotate-string/) | Rotate String | String | [/source/Generator796.py](/source/Generator796.py) | [/generated/796_Rotate_String.txt](/generated/796_Rotate_String.txt) |
 | `2026-05-02` | [788](https://www.leetcode.com/problems/rotated-digits/) | Rotated Digits | Math | [/source/Generator788.py](/source/Generator788.py) | [/generated/788_Rotated_Digits.txt](/generated/788_Rotated_Digits.txt) |
 | `2026-05-01` | [396](https://www.leetcode.com/problems/rotate-function/) | Rotate Function | Array | [/source/Generator396.py](/source/Generator396.py) | [/generated/396_Rotate_Function.txt](/generated/396_Rotate_Function.txt) |
