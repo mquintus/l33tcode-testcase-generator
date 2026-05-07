@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-05-07` | [3660](https://www.leetcode.com/problems/jump-game-ix/) | Jump Game IX | Array | [/source/Generator3660.py](/source/Generator3660.py) | [/generated/3660_Jump_Game_IX.txt](/generated/3660_Jump_Game_IX.txt) |
 | `2026-05-06` | [1861](https://www.leetcode.com/problems/rotating-the-box/) | Rotating the Box | Array | [/source/Generator1861.py](/source/Generator1861.py) | [/generated/1861_Rotating_the_Box.txt](/generated/1861_Rotating_the_Box.txt) |
 | `2026-05-05` | [61](https://www.leetcode.com/problems/rotate-list/) | Rotate List | Linked List | [/source/Generator61.py](/source/Generator61.py) | [/generated/61_Rotate_List.txt](/generated/61_Rotate_List.txt) |
 | `2026-05-04` | [48](https://www.leetcode.com/problems/rotate-image/) | Rotate Image | Array | [/source/Generator48.py](/source/Generator48.py) | [/generated/48_Rotate_Image.txt](/generated/48_Rotate_Image.txt) |
