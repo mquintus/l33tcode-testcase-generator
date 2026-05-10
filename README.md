@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-05-10` | [2770](https://www.leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | Maximum Number of Jumps to Reach the Last Index | Array | [/source/Generator2770.py](/source/Generator2770.py) | [/generated/2770_Maximum_Number_of_Jumps_to_Reach_the_Last_Index.txt](/generated/2770_Maximum_Number_of_Jumps_to_Reach_the_Last_Index.txt) |
 | `2026-05-09` | [1914](https://www.leetcode.com/problems/cyclically-rotating-a-grid/) | Cyclically Rotating a Grid | Array | [/source/Generator1914.py](/source/Generator1914.py) | [/generated/1914_Cyclically_Rotating_a_Grid.txt](/generated/1914_Cyclically_Rotating_a_Grid.txt) |
 | `2026-05-08` | [3629](https://www.leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) | Minimum Jumps to Reach End via Prime Teleportation | Array | [/source/Generator3629.py](/source/Generator3629.py) | [/generated/3629_Minimum_Jumps_to_Reach_End_via_Prime_Teleportation.txt](/generated/3629_Minimum_Jumps_to_Reach_End_via_Prime_Teleportation.txt) |
 | `2026-05-07` | [3660](https://www.leetcode.com/problems/jump-game-ix/) | Jump Game IX | Array | [/source/Generator3660.py](/source/Generator3660.py) | [/generated/3660_Jump_Game_IX.txt](/generated/3660_Jump_Game_IX.txt) |
