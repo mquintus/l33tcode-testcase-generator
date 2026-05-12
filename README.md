@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-05-12` | [1665](https://www.leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | Minimum Initial Energy to Finish Tasks | Array | [/source/Generator1665.py](/source/Generator1665.py) | [/generated/1665_Minimum_Initial_Energy_to_Finish_Tasks.txt](/generated/1665_Minimum_Initial_Energy_to_Finish_Tasks.txt) |
 | `2026-05-11` | [2553](https://www.leetcode.com/problems/separate-the-digits-in-an-array/) | Separate the Digits in an Array | Array | [/source/Generator2553.py](/source/Generator2553.py) | [/generated/2553_Separate_the_Digits_in_an_Array.txt](/generated/2553_Separate_the_Digits_in_an_Array.txt) |
 | `2026-05-10` | [2770](https://www.leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | Maximum Number of Jumps to Reach the Last Index | Array | [/source/Generator2770.py](/source/Generator2770.py) | [/generated/2770_Maximum_Number_of_Jumps_to_Reach_the_Last_Index.txt](/generated/2770_Maximum_Number_of_Jumps_to_Reach_the_Last_Index.txt) |
 | `2026-05-09` | [1914](https://www.leetcode.com/problems/cyclically-rotating-a-grid/) | Cyclically Rotating a Grid | Array | [/source/Generator1914.py](/source/Generator1914.py) | [/generated/1914_Cyclically_Rotating_a_Grid.txt](/generated/1914_Cyclically_Rotating_a_Grid.txt) |
