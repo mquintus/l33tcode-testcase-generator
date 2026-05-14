@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-05-14` | [2784](https://www.leetcode.com/problems/check-if-array-is-good/) | Check if Array is Good | Array | [/source/Generator2784.py](/source/Generator2784.py) | [/generated/2784_Check_if_Array_is_Good.txt](/generated/2784_Check_if_Array_is_Good.txt) |
 | `2026-05-13` | [1674](https://www.leetcode.com/problems/minimum-moves-to-make-array-complementary/) | Minimum Moves to Make Array Complementary | Array | [/source/Generator1674.py](/source/Generator1674.py) | [/generated/1674_Minimum_Moves_to_Make_Array_Complementary.txt](/generated/1674_Minimum_Moves_to_Make_Array_Complementary.txt) |
 | `2026-05-12` | [1665](https://www.leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | Minimum Initial Energy to Finish Tasks | Array | [/source/Generator1665.py](/source/Generator1665.py) | [/generated/1665_Minimum_Initial_Energy_to_Finish_Tasks.txt](/generated/1665_Minimum_Initial_Energy_to_Finish_Tasks.txt) |
 | `2026-05-11` | [2553](https://www.leetcode.com/problems/separate-the-digits-in-an-array/) | Separate the Digits in an Array | Array | [/source/Generator2553.py](/source/Generator2553.py) | [/generated/2553_Separate_the_Digits_in_an_Array.txt](/generated/2553_Separate_the_Digits_in_an_Array.txt) |
