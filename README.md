@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-05-16` | [154](https://www.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Find Minimum in Rotated Sorted Array II | Array | [/source/Generator154.py](/source/Generator154.py) | [/generated/154_Find_Minimum_in_Rotated_Sorted_Array_II.txt](/generated/154_Find_Minimum_in_Rotated_Sorted_Array_II.txt) |
 | `2026-05-15` | [153](https://www.leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Find Minimum in Rotated Sorted Array | Array | [/source/Generator153.py](/source/Generator153.py) | [/generated/153_Find_Minimum_in_Rotated_Sorted_Array.txt](/generated/153_Find_Minimum_in_Rotated_Sorted_Array.txt) |
 | `2026-05-14` | [2784](https://www.leetcode.com/problems/check-if-array-is-good/) | Check if Array is Good | Array | [/source/Generator2784.py](/source/Generator2784.py) | [/generated/2784_Check_if_Array_is_Good.txt](/generated/2784_Check_if_Array_is_Good.txt) |
 | `2026-05-13` | [1674](https://www.leetcode.com/problems/minimum-moves-to-make-array-complementary/) | Minimum Moves to Make Array Complementary | Array | [/source/Generator1674.py](/source/Generator1674.py) | [/generated/1674_Minimum_Moves_to_Make_Array_Complementary.txt](/generated/1674_Minimum_Moves_to_Make_Array_Complementary.txt) |
