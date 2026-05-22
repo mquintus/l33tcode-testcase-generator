@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-05-22` | [33](https://www.leetcode.com/problems/search-in-rotated-sorted-array/) | Search in Rotated Sorted Array | Array | [/source/Generator33.py](/source/Generator33.py) | [/generated/33_Search_in_Rotated_Sorted_Array.txt](/generated/33_Search_in_Rotated_Sorted_Array.txt) |
 | `2026-05-21` | [3043](https://www.leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | Find the Length of the Longest Common Prefix | Array | [/source/Generator3043.py](/source/Generator3043.py) | [/generated/3043_Find_the_Length_of_the_Longest_Common_Prefix.txt](/generated/3043_Find_the_Length_of_the_Longest_Common_Prefix.txt) |
 | `2026-05-20` | [2657](https://www.leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | Find the Prefix Common Array of Two Arrays | Array | [/source/Generator2657.py](/source/Generator2657.py) | [/generated/2657_Find_the_Prefix_Common_Array_of_Two_Arrays.txt](/generated/2657_Find_the_Prefix_Common_Array_of_Two_Arrays.txt) |
 | `2026-05-19` | [2540](https://www.leetcode.com/problems/minimum-common-value/) | Minimum Common Value | Array | [/source/Generator2540.py](/source/Generator2540.py) | [/generated/2540_Minimum_Common_Value.txt](/generated/2540_Minimum_Common_Value.txt) |
