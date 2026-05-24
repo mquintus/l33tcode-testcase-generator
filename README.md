@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-05-24` | [1340](https://www.leetcode.com/problems/jump-game-v/) | Jump Game V | Array | [/source/Generator1340.py](/source/Generator1340.py) | [/generated/1340_Jump_Game_V.txt](/generated/1340_Jump_Game_V.txt) |
 | `2026-05-23` | [1752](https://www.leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Check if Array Is Sorted and Rotated | Array | [/source/Generator1752.py](/source/Generator1752.py) | [/generated/1752_Check_if_Array_Is_Sorted_and_Rotated.txt](/generated/1752_Check_if_Array_Is_Sorted_and_Rotated.txt) |
 | `2026-05-22` | [33](https://www.leetcode.com/problems/search-in-rotated-sorted-array/) | Search in Rotated Sorted Array | Array | [/source/Generator33.py](/source/Generator33.py) | [/generated/33_Search_in_Rotated_Sorted_Array.txt](/generated/33_Search_in_Rotated_Sorted_Array.txt) |
 | `2026-05-21` | [3043](https://www.leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | Find the Length of the Longest Common Prefix | Array | [/source/Generator3043.py](/source/Generator3043.py) | [/generated/3043_Find_the_Length_of_the_Longest_Common_Prefix.txt](/generated/3043_Find_the_Length_of_the_Longest_Common_Prefix.txt) |
