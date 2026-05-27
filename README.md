@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-05-27` | [3121](https://www.leetcode.com/problems/count-the-number-of-special-characters-ii/) | Count the Number of Special Characters II | Hash Table | [/source/Generator3121.py](/source/Generator3121.py) | [/generated/3121_Count_the_Number_of_Special_Characters_II.txt](/generated/3121_Count_the_Number_of_Special_Characters_II.txt) |
 | `2026-05-26` | [3120](https://www.leetcode.com/problems/count-the-number-of-special-characters-i/) | Count the Number of Special Characters I | Hash Table | [/source/Generator3120.py](/source/Generator3120.py) | [/generated/3120_Count_the_Number_of_Special_Characters_I.txt](/generated/3120_Count_the_Number_of_Special_Characters_I.txt) |
 | `2026-05-25` | [1871](https://www.leetcode.com/problems/jump-game-vii/) | Jump Game VII | String | [/source/Generator1871.py](/source/Generator1871.py) | [/generated/1871_Jump_Game_VII.txt](/generated/1871_Jump_Game_VII.txt) |
 | `2026-05-24` | [1340](https://www.leetcode.com/problems/jump-game-v/) | Jump Game V | Array | [/source/Generator1340.py](/source/Generator1340.py) | [/generated/1340_Jump_Game_V.txt](/generated/1340_Jump_Game_V.txt) |
