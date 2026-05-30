@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-05-30` | [3161](https://www.leetcode.com/problems/block-placement-queries/) | Block Placement Queries | Array | [/source/Generator3161.py](/source/Generator3161.py) | [/generated/3161_Block_Placement_Queries.txt](/generated/3161_Block_Placement_Queries.txt) |
 | `2026-05-29` | [3300](https://www.leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | Minimum Element After Replacement With Digit Sum | Array | [/source/Generator3300.py](/source/Generator3300.py) | [/generated/3300_Minimum_Element_After_Replacement_With_Digit_Sum.txt](/generated/3300_Minimum_Element_After_Replacement_With_Digit_Sum.txt) |
 | `2026-05-28` | [3093](https://www.leetcode.com/problems/longest-common-suffix-queries/) | Longest Common Suffix Queries | Array | [/source/Generator3093.py](/source/Generator3093.py) | [/generated/3093_Longest_Common_Suffix_Queries.txt](/generated/3093_Longest_Common_Suffix_Queries.txt) |
 | `2026-05-27` | [3121](https://www.leetcode.com/problems/count-the-number-of-special-characters-ii/) | Count the Number of Special Characters II | Hash Table | [/source/Generator3121.py](/source/Generator3121.py) | [/generated/3121_Count_the_Number_of_Special_Characters_II.txt](/generated/3121_Count_the_Number_of_Special_Characters_II.txt) |
