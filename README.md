@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-06-02` | [3633](https://www.leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | Earliest Finish Time for Land and Water Rides I | Array | [/source/Generator3633.py](/source/Generator3633.py) | [/generated/3633_Earliest_Finish_Time_for_Land_and_Water_Rides_I.txt](/generated/3633_Earliest_Finish_Time_for_Land_and_Water_Rides_I.txt) |
 | `2026-06-01` | [2144](https://www.leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | Minimum Cost of Buying Candies With Discount | Array | [/source/Generator2144.py](/source/Generator2144.py) | [/generated/2144_Minimum_Cost_of_Buying_Candies_With_Discount.txt](/generated/2144_Minimum_Cost_of_Buying_Candies_With_Discount.txt) |
 | `2026-05-31` | [2126](https://www.leetcode.com/problems/destroying-asteroids/) | Destroying Asteroids | Array | [/source/Generator2126.py](/source/Generator2126.py) | [/generated/2126_Destroying_Asteroids.txt](/generated/2126_Destroying_Asteroids.txt) |
 | `2026-05-30` | [3161](https://www.leetcode.com/problems/block-placement-queries/) | Block Placement Queries | Array | [/source/Generator3161.py](/source/Generator3161.py) | [/generated/3161_Block_Placement_Queries.txt](/generated/3161_Block_Placement_Queries.txt) |
