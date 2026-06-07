@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-06-07` | [2196](https://www.leetcode.com/problems/create-binary-tree-from-descriptions/) | Create Binary Tree From Descriptions | Array | [/source/Generator2196.py](/source/Generator2196.py) | [/generated/2196_Create_Binary_Tree_From_Descriptions.txt](/generated/2196_Create_Binary_Tree_From_Descriptions.txt) |
 | `2026-06-06` | [2574](https://www.leetcode.com/problems/left-and-right-sum-differences/) | Left and Right Sum Differences | Array | [/source/Generator2574.py](/source/Generator2574.py) | [/generated/2574_Left_and_Right_Sum_Differences.txt](/generated/2574_Left_and_Right_Sum_Differences.txt) |
 | `2026-06-05` | [3753](https://www.leetcode.com/problems/total-waviness-of-numbers-in-range-ii/) | Total Waviness of Numbers in Range II | Math | [/source/Generator3753.py](/source/Generator3753.py) | [/generated/3753_Total_Waviness_of_Numbers_in_Range_II.txt](/generated/3753_Total_Waviness_of_Numbers_in_Range_II.txt) |
 | `2026-06-04` | [3751](https://www.leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | Total Waviness of Numbers in Range I | Math | [/source/Generator3751.py](/source/Generator3751.py) | [/generated/3751_Total_Waviness_of_Numbers_in_Range_I.txt](/generated/3751_Total_Waviness_of_Numbers_in_Range_I.txt) |
