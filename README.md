@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-06-10` | [3691](https://www.leetcode.com/problems/maximum-total-subarray-value-ii/) | Maximum Total Subarray Value II | Array | [/source/Generator3691.py](/source/Generator3691.py) | [/generated/3691_Maximum_Total_Subarray_Value_II.txt](/generated/3691_Maximum_Total_Subarray_Value_II.txt) |
 | `2026-06-09` | [3689](https://www.leetcode.com/problems/maximum-total-subarray-value-i/) | Maximum Total Subarray Value I | Array | [/source/Generator3689.py](/source/Generator3689.py) | [/generated/3689_Maximum_Total_Subarray_Value_I.txt](/generated/3689_Maximum_Total_Subarray_Value_I.txt) |
 | `2026-06-08` | [2161](https://www.leetcode.com/problems/partition-array-according-to-given-pivot/) | Partition Array According to Given Pivot | Array | [/source/Generator2161.py](/source/Generator2161.py) | [/generated/2161_Partition_Array_According_to_Given_Pivot.txt](/generated/2161_Partition_Array_According_to_Given_Pivot.txt) |
 | `2026-06-07` | [2196](https://www.leetcode.com/problems/create-binary-tree-from-descriptions/) | Create Binary Tree From Descriptions | Array | [/source/Generator2196.py](/source/Generator2196.py) | [/generated/2196_Create_Binary_Tree_From_Descriptions.txt](/generated/2196_Create_Binary_Tree_From_Descriptions.txt) |
