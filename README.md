@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-06-12` | [3559](https://www.leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/) | Number of Ways to Assign Edge Weights II | Array | [/source/Generator3559.py](/source/Generator3559.py) | [/generated/3559_Number_of_Ways_to_Assign_Edge_Weights_II.txt](/generated/3559_Number_of_Ways_to_Assign_Edge_Weights_II.txt) |
 | `2026-06-11` | [3558](https://www.leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/) | Number of Ways to Assign Edge Weights I | Math | [/source/Generator3558.py](/source/Generator3558.py) | [/generated/3558_Number_of_Ways_to_Assign_Edge_Weights_I.txt](/generated/3558_Number_of_Ways_to_Assign_Edge_Weights_I.txt) |
 | `2026-06-10` | [3691](https://www.leetcode.com/problems/maximum-total-subarray-value-ii/) | Maximum Total Subarray Value II | Array | [/source/Generator3691.py](/source/Generator3691.py) | [/generated/3691_Maximum_Total_Subarray_Value_II.txt](/generated/3691_Maximum_Total_Subarray_Value_II.txt) |
 | `2026-06-09` | [3689](https://www.leetcode.com/problems/maximum-total-subarray-value-i/) | Maximum Total Subarray Value I | Array | [/source/Generator3689.py](/source/Generator3689.py) | [/generated/3689_Maximum_Total_Subarray_Value_I.txt](/generated/3689_Maximum_Total_Subarray_Value_I.txt) |
