@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-06-15` | [2095](https://www.leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Delete the Middle Node of a Linked List | Linked List | [/source/Generator2095.py](/source/Generator2095.py) | [/generated/2095_Delete_the_Middle_Node_of_a_Linked_List.txt](/generated/2095_Delete_the_Middle_Node_of_a_Linked_List.txt) |
 | `2026-06-14` | [2130](https://www.leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | Maximum Twin Sum of a Linked List | Linked List | [/source/Generator2130.py](/source/Generator2130.py) | [/generated/2130_Maximum_Twin_Sum_of_a_Linked_List.txt](/generated/2130_Maximum_Twin_Sum_of_a_Linked_List.txt) |
 | `2026-06-13` | [3838](https://www.leetcode.com/problems/weighted-word-mapping/) | Weighted Word Mapping | Array | [/source/Generator3838.py](/source/Generator3838.py) | [/generated/3838_Weighted_Word_Mapping.txt](/generated/3838_Weighted_Word_Mapping.txt) |
 | `2026-06-12` | [3559](https://www.leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/) | Number of Ways to Assign Edge Weights II | Array | [/source/Generator3559.py](/source/Generator3559.py) | [/generated/3559_Number_of_Ways_to_Assign_Edge_Weights_II.txt](/generated/3559_Number_of_Ways_to_Assign_Edge_Weights_II.txt) |
