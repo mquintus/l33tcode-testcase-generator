@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-06-21` | [1833](https://www.leetcode.com/problems/maximum-ice-cream-bars/) | Maximum Ice Cream Bars | Array | [/source/Generator1833.py](/source/Generator1833.py) | [/generated/1833_Maximum_Ice_Cream_Bars.txt](/generated/1833_Maximum_Ice_Cream_Bars.txt) |
 | `2026-06-20` | [1840](https://www.leetcode.com/problems/maximum-building-height/) | Maximum Building Height | Array | [/source/Generator1840.py](/source/Generator1840.py) | [/generated/1840_Maximum_Building_Height.txt](/generated/1840_Maximum_Building_Height.txt) |
 | `2026-06-19` | [1732](https://www.leetcode.com/problems/find-the-highest-altitude/) | Find the Highest Altitude | Array | [/source/Generator1732.py](/source/Generator1732.py) | [/generated/1732_Find_the_Highest_Altitude.txt](/generated/1732_Find_the_Highest_Altitude.txt) |
 | `2026-06-18` | [1344](https://www.leetcode.com/problems/angle-between-hands-of-a-clock/) | Angle Between Hands of a Clock | Math | [/source/Generator1344.py](/source/Generator1344.py) | [/generated/1344_Angle_Between_Hands_of_a_Clock.txt](/generated/1344_Angle_Between_Hands_of_a_Clock.txt) |
