@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-06-23` | [3699](https://www.leetcode.com/problems/number-of-zigzag-arrays-i/) | Number of ZigZag Arrays I | Dynamic Programming | [/source/Generator3699.py](/source/Generator3699.py) | [/generated/3699_Number_of_ZigZag_Arrays_I.txt](/generated/3699_Number_of_ZigZag_Arrays_I.txt) |
 | `2026-06-22` | [1189](https://www.leetcode.com/problems/maximum-number-of-balloons/) | Maximum Number of Balloons | Hash Table | [/source/Generator1189.py](/source/Generator1189.py) | [/generated/1189_Maximum_Number_of_Balloons.txt](/generated/1189_Maximum_Number_of_Balloons.txt) |
 | `2026-06-21` | [1833](https://www.leetcode.com/problems/maximum-ice-cream-bars/) | Maximum Ice Cream Bars | Array | [/source/Generator1833.py](/source/Generator1833.py) | [/generated/1833_Maximum_Ice_Cream_Bars.txt](/generated/1833_Maximum_Ice_Cream_Bars.txt) |
 | `2026-06-20` | [1840](https://www.leetcode.com/problems/maximum-building-height/) | Maximum Building Height | Array | [/source/Generator1840.py](/source/Generator1840.py) | [/generated/1840_Maximum_Building_Height.txt](/generated/1840_Maximum_Building_Height.txt) |
