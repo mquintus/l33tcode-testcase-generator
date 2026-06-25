@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-06-25` | [3737](https://www.leetcode.com/problems/count-subarrays-with-majority-element-i/) | Count Subarrays With Majority Element I | Array | [/source/Generator3737.py](/source/Generator3737.py) | [/generated/3737_Count_Subarrays_With_Majority_Element_I.txt](/generated/3737_Count_Subarrays_With_Majority_Element_I.txt) |
 | `2026-06-24` | [3700](https://www.leetcode.com/problems/number-of-zigzag-arrays-ii/) | Number of ZigZag Arrays II | Math | [/source/Generator3700.py](/source/Generator3700.py) | [/generated/3700_Number_of_ZigZag_Arrays_II.txt](/generated/3700_Number_of_ZigZag_Arrays_II.txt) |
 | `2026-06-23` | [3699](https://www.leetcode.com/problems/number-of-zigzag-arrays-i/) | Number of ZigZag Arrays I | Dynamic Programming | [/source/Generator3699.py](/source/Generator3699.py) | [/generated/3699_Number_of_ZigZag_Arrays_I.txt](/generated/3699_Number_of_ZigZag_Arrays_I.txt) |
 | `2026-06-22` | [1189](https://www.leetcode.com/problems/maximum-number-of-balloons/) | Maximum Number of Balloons | Hash Table | [/source/Generator1189.py](/source/Generator1189.py) | [/generated/1189_Maximum_Number_of_Balloons.txt](/generated/1189_Maximum_Number_of_Balloons.txt) |
