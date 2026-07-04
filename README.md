@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-07-04` | [2492](https://www.leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | Minimum Score of a Path Between Two Cities | Depth-First Search | [/source/Generator2492.py](/source/Generator2492.py) | [/generated/2492_Minimum_Score_of_a_Path_Between_Two_Cities.txt](/generated/2492_Minimum_Score_of_a_Path_Between_Two_Cities.txt) |
 | `2026-07-03` | [3620](https://www.leetcode.com/problems/network-recovery-pathways/) | Network Recovery Pathways | Array | [/source/Generator3620.py](/source/Generator3620.py) | [/generated/3620_Network_Recovery_Pathways.txt](/generated/3620_Network_Recovery_Pathways.txt) |
 | `2026-07-02` | [3286](https://www.leetcode.com/problems/find-a-safe-walk-through-a-grid/) | Find a Safe Walk Through a Grid | Array | [/source/Generator3286.py](/source/Generator3286.py) | [/generated/3286_Find_a_Safe_Walk_Through_a_Grid.txt](/generated/3286_Find_a_Safe_Walk_Through_a_Grid.txt) |
 | `2026-07-01` | [2812](https://www.leetcode.com/problems/find-the-safest-path-in-a-grid/) | Find the Safest Path in a Grid | Array | [/source/Generator2812.py](/source/Generator2812.py) | [/generated/2812_Find_the_Safest_Path_in_a_Grid.txt](/generated/2812_Find_the_Safest_Path_in_a_Grid.txt) |
