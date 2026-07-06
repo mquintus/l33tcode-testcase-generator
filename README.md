@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-07-06` | [1288](https://www.leetcode.com/problems/remove-covered-intervals/) | Remove Covered Intervals | Array | [/source/Generator1288.py](/source/Generator1288.py) | [/generated/1288_Remove_Covered_Intervals.txt](/generated/1288_Remove_Covered_Intervals.txt) |
 | `2026-07-05` | [1301](https://www.leetcode.com/problems/number-of-paths-with-max-score/) | Number of Paths with Max Score | Array | [/source/Generator1301.py](/source/Generator1301.py) | [/generated/1301_Number_of_Paths_with_Max_Score.txt](/generated/1301_Number_of_Paths_with_Max_Score.txt) |
 | `2026-07-04` | [2492](https://www.leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | Minimum Score of a Path Between Two Cities | Depth-First Search | [/source/Generator2492.py](/source/Generator2492.py) | [/generated/2492_Minimum_Score_of_a_Path_Between_Two_Cities.txt](/generated/2492_Minimum_Score_of_a_Path_Between_Two_Cities.txt) |
 | `2026-07-03` | [3620](https://www.leetcode.com/problems/network-recovery-pathways/) | Network Recovery Pathways | Array | [/source/Generator3620.py](/source/Generator3620.py) | [/generated/3620_Network_Recovery_Pathways.txt](/generated/3620_Network_Recovery_Pathways.txt) |
