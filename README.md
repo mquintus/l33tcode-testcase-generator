@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-07-13` | [1291](https://www.leetcode.com/problems/sequential-digits/) | Sequential Digits | Enumeration | [/source/Generator1291.py](/source/Generator1291.py) | [/generated/1291_Sequential_Digits.txt](/generated/1291_Sequential_Digits.txt) |
 | `2026-07-12` | [1331](https://www.leetcode.com/problems/rank-transform-of-an-array/) | Rank Transform of an Array | Array | [/source/Generator1331.py](/source/Generator1331.py) | [/generated/1331_Rank_Transform_of_an_Array.txt](/generated/1331_Rank_Transform_of_an_Array.txt) |
 | `2026-07-11` | [2685](https://www.leetcode.com/problems/count-the-number-of-complete-components/) | Count the Number of Complete Components | Depth-First Search | [/source/Generator2685.py](/source/Generator2685.py) | [/generated/2685_Count_the_Number_of_Complete_Components.txt](/generated/2685_Count_the_Number_of_Complete_Components.txt) |
 | `2026-07-10` | [3534](https://www.leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | Path Existence Queries in a Graph II | Array | [/source/Generator3534.py](/source/Generator3534.py) | [/generated/3534_Path_Existence_Queries_in_a_Graph_II.txt](/generated/3534_Path_Existence_Queries_in_a_Graph_II.txt) |
