@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-07-16` | [3867](https://www.leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | Sum of GCD of Formed Pairs | Array | [/source/Generator3867.py](/source/Generator3867.py) | [/generated/3867_Sum_of_GCD_of_Formed_Pairs.txt](/generated/3867_Sum_of_GCD_of_Formed_Pairs.txt) |
 | `2026-07-15` | [3658](https://www.leetcode.com/problems/gcd-of-odd-and-even-sums/) | GCD of Odd and Even Sums | Math | [/source/Generator3658.py](/source/Generator3658.py) | [/generated/3658_GCD_of_Odd_and_Even_Sums.txt](/generated/3658_GCD_of_Odd_and_Even_Sums.txt) |
 | `2026-07-14` | [3336](https://www.leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) | Find the Number of Subsequences With Equal GCD | Array | [/source/Generator3336.py](/source/Generator3336.py) | [/generated/3336_Find_the_Number_of_Subsequences_With_Equal_GCD.txt](/generated/3336_Find_the_Number_of_Subsequences_With_Equal_GCD.txt) |
 | `2026-07-13` | [1291](https://www.leetcode.com/problems/sequential-digits/) | Sequential Digits | Enumeration | [/source/Generator1291.py](/source/Generator1291.py) | [/generated/1291_Sequential_Digits.txt](/generated/1291_Sequential_Digits.txt) |
