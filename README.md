@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-07-18` | [1979](https://www.leetcode.com/problems/find-greatest-common-divisor-of-array/) | Find Greatest Common Divisor of Array | Array | [/source/Generator1979.py](/source/Generator1979.py) | [/generated/1979_Find_Greatest_Common_Divisor_of_Array.txt](/generated/1979_Find_Greatest_Common_Divisor_of_Array.txt) |
 | `2026-07-17` | [3312](https://www.leetcode.com/problems/sorted-gcd-pair-queries/) | Sorted GCD Pair Queries | Array | [/source/Generator3312.py](/source/Generator3312.py) | [/generated/3312_Sorted_GCD_Pair_Queries.txt](/generated/3312_Sorted_GCD_Pair_Queries.txt) |
 | `2026-07-16` | [3867](https://www.leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | Sum of GCD of Formed Pairs | Array | [/source/Generator3867.py](/source/Generator3867.py) | [/generated/3867_Sum_of_GCD_of_Formed_Pairs.txt](/generated/3867_Sum_of_GCD_of_Formed_Pairs.txt) |
 | `2026-07-15` | [3658](https://www.leetcode.com/problems/gcd-of-odd-and-even-sums/) | GCD of Odd and Even Sums | Math | [/source/Generator3658.py](/source/Generator3658.py) | [/generated/3658_GCD_of_Odd_and_Even_Sums.txt](/generated/3658_GCD_of_Odd_and_Even_Sums.txt) |
