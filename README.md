@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-07-20` | [1260](https://www.leetcode.com/problems/shift-2d-grid/) | Shift 2D Grid | Array | [/source/Generator1260.py](/source/Generator1260.py) | [/generated/1260_Shift_2D_Grid.txt](/generated/1260_Shift_2D_Grid.txt) |
 | `2026-07-19` | [1081](https://www.leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Smallest Subsequence of Distinct Characters | String | [/source/Generator1081.py](/source/Generator1081.py) | [/generated/1081_Smallest_Subsequence_of_Distinct_Characters.txt](/generated/1081_Smallest_Subsequence_of_Distinct_Characters.txt) |
 | `2026-07-18` | [1979](https://www.leetcode.com/problems/find-greatest-common-divisor-of-array/) | Find Greatest Common Divisor of Array | Array | [/source/Generator1979.py](/source/Generator1979.py) | [/generated/1979_Find_Greatest_Common_Divisor_of_Array.txt](/generated/1979_Find_Greatest_Common_Divisor_of_Array.txt) |
 | `2026-07-17` | [3312](https://www.leetcode.com/problems/sorted-gcd-pair-queries/) | Sorted GCD Pair Queries | Array | [/source/Generator3312.py](/source/Generator3312.py) | [/generated/3312_Sorted_GCD_Pair_Queries.txt](/generated/3312_Sorted_GCD_Pair_Queries.txt) |
