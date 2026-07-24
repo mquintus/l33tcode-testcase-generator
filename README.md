@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-07-24` | [3514](https://www.leetcode.com/problems/number-of-unique-xor-triplets-ii/) | Number of Unique XOR Triplets II | Array | [/source/Generator3514.py](/source/Generator3514.py) | [/generated/3514_Number_of_Unique_XOR_Triplets_II.txt](/generated/3514_Number_of_Unique_XOR_Triplets_II.txt) |
 | `2026-07-23` | [3513](https://www.leetcode.com/problems/number-of-unique-xor-triplets-i/) | Number of Unique XOR Triplets I | Array | [/source/Generator3513.py](/source/Generator3513.py) | [/generated/3513_Number_of_Unique_XOR_Triplets_I.txt](/generated/3513_Number_of_Unique_XOR_Triplets_I.txt) |
 | `2026-07-22` | [3501](https://www.leetcode.com/problems/maximize-active-section-with-trade-ii/) | Maximize Active Section with Trade II | Array | [/source/Generator3501.py](/source/Generator3501.py) | [/generated/3501_Maximize_Active_Section_with_Trade_II.txt](/generated/3501_Maximize_Active_Section_with_Trade_II.txt) |
 | `2026-07-21` | [3499](https://www.leetcode.com/problems/maximize-active-section-with-trade-i/) | Maximize Active Section with Trade I | String | [/source/Generator3499.py](/source/Generator3499.py) | [/generated/3499_Maximize_Active_Section_with_Trade_I.txt](/generated/3499_Maximize_Active_Section_with_Trade_I.txt) |
