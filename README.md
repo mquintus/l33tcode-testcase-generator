@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-07-27` | [1464](https://www.leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Maximum Product of Two Elements in an Array | Array | [/source/Generator1464.py](/source/Generator1464.py) | [/generated/1464_Maximum_Product_of_Two_Elements_in_an_Array.txt](/generated/1464_Maximum_Product_of_Two_Elements_in_an_Array.txt) |
 | `2026-07-26` | [628](https://www.leetcode.com/problems/maximum-product-of-three-numbers/) | Maximum Product of Three Numbers | Array | [/source/Generator628.py](/source/Generator628.py) | [/generated/628_Maximum_Product_of_Three_Numbers.txt](/generated/628_Maximum_Product_of_Three_Numbers.txt) |
 | `2026-07-25` | [3536](https://www.leetcode.com/problems/maximum-product-of-two-digits/) | Maximum Product of Two Digits | Math | [/source/Generator3536.py](/source/Generator3536.py) | [/generated/3536_Maximum_Product_of_Two_Digits.txt](/generated/3536_Maximum_Product_of_Two_Digits.txt) |
 | `2026-07-24` | [3514](https://www.leetcode.com/problems/number-of-unique-xor-triplets-ii/) | Number of Unique XOR Triplets II | Array | [/source/Generator3514.py](/source/Generator3514.py) | [/generated/3514_Number_of_Unique_XOR_Triplets_II.txt](/generated/3514_Number_of_Unique_XOR_Triplets_II.txt) |
