@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-08-02` | [877](https://www.leetcode.com/problems/stone-game/) | Stone Game | Array | [/source/Generator877.py](/source/Generator877.py) | [/generated/877_Stone_Game.txt](/generated/877_Stone_Game.txt) |
 | `2026-08-01` | [486](https://www.leetcode.com/problems/predict-the-winner/) | Predict the Winner | Array | [/source/Generator486.py](/source/Generator486.py) | [/generated/486_Predict_the_Winner.txt](/generated/486_Predict_the_Winner.txt) |
 | `2026-07-31` | [3016](https://www.leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Minimum Number of Pushes to Type Word II | Hash Table | [/source/Generator3016.py](/source/Generator3016.py) | [/generated/3016_Minimum_Number_of_Pushes_to_Type_Word_II.txt](/generated/3016_Minimum_Number_of_Pushes_to_Type_Word_II.txt) |
 | `2026-07-30` | [3014](https://www.leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Minimum Number of Pushes to Type Word I | Math | [/source/Generator3014.py](/source/Generator3014.py) | [/generated/3014_Minimum_Number_of_Pushes_to_Type_Word_I.txt](/generated/3014_Minimum_Number_of_Pushes_to_Type_Word_I.txt) |
