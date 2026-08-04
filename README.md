@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-08-04` | [3731](https://www.leetcode.com/problems/find-missing-elements/) | Find Missing Elements | Array | [/source/Generator3731.py](/source/Generator3731.py) | [/generated/3731_Find_Missing_Elements.txt](/generated/3731_Find_Missing_Elements.txt) |
 | `2026-08-03` | [1406](https://www.leetcode.com/problems/stone-game-iii/) | Stone Game III | Array | [/source/Generator1406.py](/source/Generator1406.py) | [/generated/1406_Stone_Game_III.txt](/generated/1406_Stone_Game_III.txt) |
 | `2026-08-02` | [877](https://www.leetcode.com/problems/stone-game/) | Stone Game | Array | [/source/Generator877.py](/source/Generator877.py) | [/generated/877_Stone_Game.txt](/generated/877_Stone_Game.txt) |
 | `2026-08-01` | [486](https://www.leetcode.com/problems/predict-the-winner/) | Predict the Winner | Array | [/source/Generator486.py](/source/Generator486.py) | [/generated/486_Predict_the_Winner.txt](/generated/486_Predict_the_Winner.txt) |
