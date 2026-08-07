@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-08-07` | [3348](https://www.leetcode.com/problems/smallest-divisible-digit-product-ii/) | Smallest Divisible Digit Product II | Math | [/source/Generator3348.py](/source/Generator3348.py) | [/generated/3348_Smallest_Divisible_Digit_Product_II.txt](/generated/3348_Smallest_Divisible_Digit_Product_II.txt) |
 | `2026-08-06` | [3345](https://www.leetcode.com/problems/smallest-divisible-digit-product-i/) | Smallest Divisible Digit Product I | Math | [/source/Generator3345.py](/source/Generator3345.py) | [/generated/3345_Smallest_Divisible_Digit_Product_I.txt](/generated/3345_Smallest_Divisible_Digit_Product_I.txt) |
 | `2026-08-05` | [3310](https://www.leetcode.com/problems/remove-methods-from-project/) | Remove Methods From Project | Depth-First Search | [/source/Generator3310.py](/source/Generator3310.py) | [/generated/3310_Remove_Methods_From_Project.txt](/generated/3310_Remove_Methods_From_Project.txt) |
 | `2026-08-04` | [3731](https://www.leetcode.com/problems/find-missing-elements/) | Find Missing Elements | Array | [/source/Generator3731.py](/source/Generator3731.py) | [/generated/3731_Find_Missing_Elements.txt](/generated/3731_Find_Missing_Elements.txt) |
