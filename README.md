@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-08-10` | [1510](https://www.leetcode.com/problems/stone-game-iv/) | Stone Game IV | Math | [/source/Generator1510.py](/source/Generator1510.py) | [/generated/1510_Stone_Game_IV.txt](/generated/1510_Stone_Game_IV.txt) |
 | `2026-08-09` | [1140](https://www.leetcode.com/problems/stone-game-ii/) | Stone Game II | Array | [/source/Generator1140.py](/source/Generator1140.py) | [/generated/1140_Stone_Game_II.txt](/generated/1140_Stone_Game_II.txt) |
 | `2026-08-08` | [3302](https://www.leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) | Find the Lexicographically Smallest Valid Sequence | Two Pointers | [/source/Generator3302.py](/source/Generator3302.py) | [/generated/3302_Find_the_Lexicographically_Smallest_Valid_Sequence.txt](/generated/3302_Find_the_Lexicographically_Smallest_Valid_Sequence.txt) |
 | `2026-08-07` | [3348](https://www.leetcode.com/problems/smallest-divisible-digit-product-ii/) | Smallest Divisible Digit Product II | Math | [/source/Generator3348.py](/source/Generator3348.py) | [/generated/3348_Smallest_Divisible_Digit_Product_II.txt](/generated/3348_Smallest_Divisible_Digit_Product_II.txt) |
