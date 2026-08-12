@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-08-12` | [2958](https://www.leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | Length of Longest Subarray With at Most K Frequency | Array | [/source/Generator2958.py](/source/Generator2958.py) | [/generated/2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency.txt](/generated/2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency.txt) |
 | `2026-08-11` | [2996](https://www.leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | Smallest Missing Integer Greater Than Sequential Prefix Sum | Array | [/source/Generator2996.py](/source/Generator2996.py) | [/generated/2996_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.txt](/generated/2996_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.txt) |
 | `2026-08-10` | [1510](https://www.leetcode.com/problems/stone-game-iv/) | Stone Game IV | Math | [/source/Generator1510.py](/source/Generator1510.py) | [/generated/1510_Stone_Game_IV.txt](/generated/1510_Stone_Game_IV.txt) |
 | `2026-08-09` | [1140](https://www.leetcode.com/problems/stone-game-ii/) | Stone Game II | Array | [/source/Generator1140.py](/source/Generator1140.py) | [/generated/1140_Stone_Game_II.txt](/generated/1140_Stone_Game_II.txt) |
