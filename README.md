@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-08-17` | [1563](https://www.leetcode.com/problems/stone-game-v/) | Stone Game V | Array | [/source/Generator1563.py](/source/Generator1563.py) | [/generated/1563_Stone_Game_V.txt](/generated/1563_Stone_Game_V.txt) |
 | `2026-08-16` | [2029](https://www.leetcode.com/problems/stone-game-ix/) | Stone Game IX | Array | [/source/Generator2029.py](/source/Generator2029.py) | [/generated/2029_Stone_Game_IX.txt](/generated/2029_Stone_Game_IX.txt) |
 | `2026-08-15` | [3702](https://www.leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | Longest Subsequence With Non-Zero Bitwise XOR | Array | [/source/Generator3702.py](/source/Generator3702.py) | [/generated/3702_Longest_Subsequence_With_Non-Zero_Bitwise_XOR.txt](/generated/3702_Longest_Subsequence_With_Non-Zero_Bitwise_XOR.txt) |
 | `2026-08-14` | [3090](https://www.leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | Maximum Length Substring With Two Occurrences | Hash Table | [/source/Generator3090.py](/source/Generator3090.py) | [/generated/3090_Maximum_Length_Substring_With_Two_Occurrences.txt](/generated/3090_Maximum_Length_Substring_With_Two_Occurrences.txt) |
