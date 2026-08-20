@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-08-20` | [3069](https://www.leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Distribute Elements Into Two Arrays I | Array | [/source/Generator3069.py](/source/Generator3069.py) | [/generated/3069_Distribute_Elements_Into_Two_Arrays_I.txt](/generated/3069_Distribute_Elements_Into_Two_Arrays_I.txt) |
 | `2026-08-19` | [1386](https://www.leetcode.com/problems/cinema-seat-allocation/) | Cinema Seat Allocation | Array | [/source/Generator1386.py](/source/Generator1386.py) | [/generated/1386_Cinema_Seat_Allocation.txt](/generated/1386_Cinema_Seat_Allocation.txt) |
 | `2026-08-18` | [3471](https://www.leetcode.com/problems/find-the-largest-almost-missing-integer/) | Find the Largest Almost Missing Integer | Array | [/source/Generator3471.py](/source/Generator3471.py) | [/generated/3471_Find_the_Largest_Almost_Missing_Integer.txt](/generated/3471_Find_the_Largest_Almost_Missing_Integer.txt) |
 | `2026-08-17` | [1563](https://www.leetcode.com/problems/stone-game-v/) | Stone Game V | Array | [/source/Generator1563.py](/source/Generator1563.py) | [/generated/1563_Stone_Game_V.txt](/generated/1563_Stone_Game_V.txt) |
