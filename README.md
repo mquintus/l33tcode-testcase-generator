@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-08-23` | [1927](https://www.leetcode.com/problems/sum-game/) | Sum Game | Math | [/source/Generator1927.py](/source/Generator1927.py) | [/generated/1927_Sum_Game.txt](/generated/1927_Sum_Game.txt) |
 | `2026-08-22` | [3622](https://www.leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | Check Divisibility by Digit Sum and Product | Math | [/source/Generator3622.py](/source/Generator3622.py) | [/generated/3622_Check_Divisibility_by_Digit_Sum_and_Product.txt](/generated/3622_Check_Divisibility_by_Digit_Sum_and_Product.txt) |
 | `2026-08-21` | [3116](https://www.leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) | Kth Smallest Amount With Single Denomination Combination | Array | [/source/Generator3116.py](/source/Generator3116.py) | [/generated/3116_Kth_Smallest_Amount_With_Single_Denomination_Combination.txt](/generated/3116_Kth_Smallest_Amount_With_Single_Denomination_Combination.txt) |
 | `2026-08-20` | [3069](https://www.leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Distribute Elements Into Two Arrays I | Array | [/source/Generator3069.py](/source/Generator3069.py) | [/generated/3069_Distribute_Elements_Into_Two_Arrays_I.txt](/generated/3069_Distribute_Elements_Into_Two_Arrays_I.txt) |
