@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-08-25` | [3718](https://www.leetcode.com/problems/smallest-missing-multiple-of-k/) | Smallest Missing Multiple of K | Array | [/source/Generator3718.py](/source/Generator3718.py) | [/generated/3718_Smallest_Missing_Multiple_of_K.txt](/generated/3718_Smallest_Missing_Multiple_of_K.txt) |
 | `2026-08-24` | [1872](https://www.leetcode.com/problems/stone-game-viii/) | Stone Game VIII | Array | [/source/Generator1872.py](/source/Generator1872.py) | [/generated/1872_Stone_Game_VIII.txt](/generated/1872_Stone_Game_VIII.txt) |
 | `2026-08-23` | [1927](https://www.leetcode.com/problems/sum-game/) | Sum Game | Math | [/source/Generator1927.py](/source/Generator1927.py) | [/generated/1927_Sum_Game.txt](/generated/1927_Sum_Game.txt) |
 | `2026-08-22` | [3622](https://www.leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | Check Divisibility by Digit Sum and Product | Math | [/source/Generator3622.py](/source/Generator3622.py) | [/generated/3622_Check_Divisibility_by_Digit_Sum_and_Product.txt](/generated/3622_Check_Divisibility_by_Digit_Sum_and_Product.txt) |
