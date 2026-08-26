@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-08-26` | [2904](https://www.leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | Shortest and Lexicographically Smallest Beautiful String | String | [/source/Generator2904.py](/source/Generator2904.py) | [/generated/2904_Shortest_and_Lexicographically_Smallest_Beautiful_String.txt](/generated/2904_Shortest_and_Lexicographically_Smallest_Beautiful_String.txt) |
 | `2026-08-25` | [3718](https://www.leetcode.com/problems/smallest-missing-multiple-of-k/) | Smallest Missing Multiple of K | Array | [/source/Generator3718.py](/source/Generator3718.py) | [/generated/3718_Smallest_Missing_Multiple_of_K.txt](/generated/3718_Smallest_Missing_Multiple_of_K.txt) |
 | `2026-08-24` | [1872](https://www.leetcode.com/problems/stone-game-viii/) | Stone Game VIII | Array | [/source/Generator1872.py](/source/Generator1872.py) | [/generated/1872_Stone_Game_VIII.txt](/generated/1872_Stone_Game_VIII.txt) |
 | `2026-08-23` | [1927](https://www.leetcode.com/problems/sum-game/) | Sum Game | Math | [/source/Generator1927.py](/source/Generator1927.py) | [/generated/1927_Sum_Game.txt](/generated/1927_Sum_Game.txt) |
