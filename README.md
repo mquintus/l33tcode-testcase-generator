@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-09-04` | [3903](https://www.leetcode.com/problems/smallest-stable-index-i/) | Smallest Stable Index I | Array | [/source/Generator3903.py](/source/Generator3903.py) | [/generated/3903_Smallest_Stable_Index_I.txt](/generated/3903_Smallest_Stable_Index_I.txt) |
 | `2026-09-03` | [3876](https://www.leetcode.com/problems/construct-uniform-parity-array-ii/) | Construct Uniform Parity Array II | Array | [/source/Generator3876.py](/source/Generator3876.py) | [/generated/3876_Construct_Uniform_Parity_Array_II.txt](/generated/3876_Construct_Uniform_Parity_Array_II.txt) |
 | `2026-09-02` | [3875](https://www.leetcode.com/problems/construct-uniform-parity-array-i/) | Construct Uniform Parity Array I | Array | [/source/Generator3875.py](/source/Generator3875.py) | [/generated/3875_Construct_Uniform_Parity_Array_I.txt](/generated/3875_Construct_Uniform_Parity_Array_I.txt) |
 | `2026-09-01` | [3568](https://www.leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | Minimum Moves to Clean the Classroom | Array | [/source/Generator3568.py](/source/Generator3568.py) | [/generated/3568_Minimum_Moves_to_Clean_the_Classroom.txt](/generated/3568_Minimum_Moves_to_Clean_the_Classroom.txt) |
