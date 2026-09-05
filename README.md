@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-09-05` | [3904](https://www.leetcode.com/problems/smallest-stable-index-ii/) | Smallest Stable Index II | Array | [/source/Generator3904.py](/source/Generator3904.py) | [/generated/3904_Smallest_Stable_Index_II.txt](/generated/3904_Smallest_Stable_Index_II.txt) |
 | `2026-09-04` | [3903](https://www.leetcode.com/problems/smallest-stable-index-i/) | Smallest Stable Index I | Array | [/source/Generator3903.py](/source/Generator3903.py) | [/generated/3903_Smallest_Stable_Index_I.txt](/generated/3903_Smallest_Stable_Index_I.txt) |
 | `2026-09-03` | [3876](https://www.leetcode.com/problems/construct-uniform-parity-array-ii/) | Construct Uniform Parity Array II | Array | [/source/Generator3876.py](/source/Generator3876.py) | [/generated/3876_Construct_Uniform_Parity_Array_II.txt](/generated/3876_Construct_Uniform_Parity_Array_II.txt) |
 | `2026-09-02` | [3875](https://www.leetcode.com/problems/construct-uniform-parity-array-i/) | Construct Uniform Parity Array I | Array | [/source/Generator3875.py](/source/Generator3875.py) | [/generated/3875_Construct_Uniform_Parity_Array_I.txt](/generated/3875_Construct_Uniform_Parity_Array_I.txt) |
