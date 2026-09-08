@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-09-08` | [3870](https://www.leetcode.com/problems/count-commas-in-range/) | Count Commas in Range | Math | [/source/Generator3870.py](/source/Generator3870.py) | [/generated/3870_Count_Commas_in_Range.txt](/generated/3870_Count_Commas_in_Range.txt) |
 | `2026-09-07` | [940](https://www.leetcode.com/problems/distinct-subsequences-ii/) | Distinct Subsequences II | String | [/source/Generator940.py](/source/Generator940.py) | [/generated/940_Distinct_Subsequences_II.txt](/generated/940_Distinct_Subsequences_II.txt) |
 | `2026-09-06` | [115](https://www.leetcode.com/problems/distinct-subsequences/) | Distinct Subsequences | String | [/source/Generator115.py](/source/Generator115.py) | [/generated/115_Distinct_Subsequences.txt](/generated/115_Distinct_Subsequences.txt) |
 | `2026-09-05` | [3904](https://www.leetcode.com/problems/smallest-stable-index-ii/) | Smallest Stable Index II | Array | [/source/Generator3904.py](/source/Generator3904.py) | [/generated/3904_Smallest_Stable_Index_II.txt](/generated/3904_Smallest_Stable_Index_II.txt) |
