@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-09-10` | [2265](https://www.leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Count Nodes Equal to Average of Subtree | Tree | [/source/Generator2265.py](/source/Generator2265.py) | [/generated/2265_Count_Nodes_Equal_to_Average_of_Subtree.txt](/generated/2265_Count_Nodes_Equal_to_Average_of_Subtree.txt) |
 | `2026-09-09` | [3871](https://www.leetcode.com/problems/count-commas-in-range-ii/) | Count Commas in Range II | Math | [/source/Generator3871.py](/source/Generator3871.py) | [/generated/3871_Count_Commas_in_Range_II.txt](/generated/3871_Count_Commas_in_Range_II.txt) |
 | `2026-09-08` | [3870](https://www.leetcode.com/problems/count-commas-in-range/) | Count Commas in Range | Math | [/source/Generator3870.py](/source/Generator3870.py) | [/generated/3870_Count_Commas_in_Range.txt](/generated/3870_Count_Commas_in_Range.txt) |
 | `2026-09-07` | [940](https://www.leetcode.com/problems/distinct-subsequences-ii/) | Distinct Subsequences II | String | [/source/Generator940.py](/source/Generator940.py) | [/generated/940_Distinct_Subsequences_II.txt](/generated/940_Distinct_Subsequences_II.txt) |
