@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-09-12` | [3414](https://www.leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | Maximum Score of Non-overlapping Intervals | Array | [/source/Generator3414.py](/source/Generator3414.py) | [/generated/3414_Maximum_Score_of_Non-overlapping_Intervals.txt](/generated/3414_Maximum_Score_of_Non-overlapping_Intervals.txt) |
 | `2026-09-11` | [3483](https://www.leetcode.com/problems/unique-3-digit-even-numbers/) | Unique 3-Digit Even Numbers | Array | [/source/Generator3483.py](/source/Generator3483.py) | [/generated/3483_Unique_3-Digit_Even_Numbers.txt](/generated/3483_Unique_3-Digit_Even_Numbers.txt) |
 | `2026-09-10` | [2265](https://www.leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Count Nodes Equal to Average of Subtree | Tree | [/source/Generator2265.py](/source/Generator2265.py) | [/generated/2265_Count_Nodes_Equal_to_Average_of_Subtree.txt](/generated/2265_Count_Nodes_Equal_to_Average_of_Subtree.txt) |
 | `2026-09-09` | [3871](https://www.leetcode.com/problems/count-commas-in-range-ii/) | Count Commas in Range II | Math | [/source/Generator3871.py](/source/Generator3871.py) | [/generated/3871_Count_Commas_in_Range_II.txt](/generated/3871_Count_Commas_in_Range_II.txt) |
