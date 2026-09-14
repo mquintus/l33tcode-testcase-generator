@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-09-14` | [836](https://www.leetcode.com/problems/rectangle-overlap/) | Rectangle Overlap | Math | [/source/Generator836.py](/source/Generator836.py) | [/generated/836_Rectangle_Overlap.txt](/generated/836_Rectangle_Overlap.txt) |
 | `2026-09-13` | [835](https://www.leetcode.com/problems/image-overlap/) | Image Overlap | Array | [/source/Generator835.py](/source/Generator835.py) | [/generated/835_Image_Overlap.txt](/generated/835_Image_Overlap.txt) |
 | `2026-09-12` | [3414](https://www.leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | Maximum Score of Non-overlapping Intervals | Array | [/source/Generator3414.py](/source/Generator3414.py) | [/generated/3414_Maximum_Score_of_Non-overlapping_Intervals.txt](/generated/3414_Maximum_Score_of_Non-overlapping_Intervals.txt) |
 | `2026-09-11` | [3483](https://www.leetcode.com/problems/unique-3-digit-even-numbers/) | Unique 3-Digit Even Numbers | Array | [/source/Generator3483.py](/source/Generator3483.py) | [/generated/3483_Unique_3-Digit_Even_Numbers.txt](/generated/3483_Unique_3-Digit_Even_Numbers.txt) |
