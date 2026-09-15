@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-09-15` | [2472](https://www.leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | Maximum Number of Non-overlapping Palindrome Substrings | Two Pointers | [/source/Generator2472.py](/source/Generator2472.py) | [/generated/2472_Maximum_Number_of_Non-overlapping_Palindrome_Substrings.txt](/generated/2472_Maximum_Number_of_Non-overlapping_Palindrome_Substrings.txt) |
 | `2026-09-14` | [836](https://www.leetcode.com/problems/rectangle-overlap/) | Rectangle Overlap | Math | [/source/Generator836.py](/source/Generator836.py) | [/generated/836_Rectangle_Overlap.txt](/generated/836_Rectangle_Overlap.txt) |
 | `2026-09-13` | [835](https://www.leetcode.com/problems/image-overlap/) | Image Overlap | Array | [/source/Generator835.py](/source/Generator835.py) | [/generated/835_Image_Overlap.txt](/generated/835_Image_Overlap.txt) |
 | `2026-09-12` | [3414](https://www.leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | Maximum Score of Non-overlapping Intervals | Array | [/source/Generator3414.py](/source/Generator3414.py) | [/generated/3414_Maximum_Score_of_Non-overlapping_Intervals.txt](/generated/3414_Maximum_Score_of_Non-overlapping_Intervals.txt) |
