@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-09-21` | [3524](https://www.leetcode.com/problems/find-x-value-of-array-i/) | Find X Value of Array I | Array | [/source/Generator3524.py](/source/Generator3524.py) | [/generated/3524_Find_X_Value_of_Array_I.txt](/generated/3524_Find_X_Value_of_Array_I.txt) |
 | `2026-09-20` | [3498](https://www.leetcode.com/problems/reverse-degree-of-a-string/) | Reverse Degree of a String | String | [/source/Generator3498.py](/source/Generator3498.py) | [/generated/3498_Reverse_Degree_of_a_String.txt](/generated/3498_Reverse_Degree_of_a_String.txt) |
 | `2026-09-19` | [1401](https://www.leetcode.com/problems/circle-and-rectangle-overlapping/) | Circle and Rectangle Overlapping | Math | [/source/Generator1401.py](/source/Generator1401.py) | [/generated/1401_Circle_and_Rectangle_Overlapping.txt](/generated/1401_Circle_and_Rectangle_Overlapping.txt) |
 | `2026-09-18` | [1520](https://www.leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | Maximum Number of Non-Overlapping Substrings | Hash Table | [/source/Generator1520.py](/source/Generator1520.py) | [/generated/1520_Maximum_Number_of_Non-Overlapping_Substrings.txt](/generated/1520_Maximum_Number_of_Non-Overlapping_Substrings.txt) |
