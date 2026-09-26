@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-09-26` | [1807](https://www.leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | Evaluate the Bracket Pairs of a String | Array | [/source/Generator1807.py](/source/Generator1807.py) | [/generated/1807_Evaluate_the_Bracket_Pairs_of_a_String.txt](/generated/1807_Evaluate_the_Bracket_Pairs_of_a_String.txt) |
 | `2026-09-25` | [1096](https://www.leetcode.com/problems/brace-expansion-ii/) | Brace Expansion II | Hash Table | [/source/Generator1096.py](/source/Generator1096.py) | [/generated/1096_Brace_Expansion_II.txt](/generated/1096_Brace_Expansion_II.txt) |
 | `2026-09-24` | [3550](https://www.leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Smallest Index With Digit Sum Equal to Index | Array | [/source/Generator3550.py](/source/Generator3550.py) | [/generated/3550_Smallest_Index_With_Digit_Sum_Equal_to_Index.txt](/generated/3550_Smallest_Index_With_Digit_Sum_Equal_to_Index.txt) |
 | `2026-09-23` | [1658](https://www.leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Minimum Operations to Reduce X to Zero | Array | [/source/Generator1658.py](/source/Generator1658.py) | [/generated/1658_Minimum_Operations_to_Reduce_X_to_Zero.txt](/generated/1658_Minimum_Operations_to_Reduce_X_to_Zero.txt) |
