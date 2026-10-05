@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-10-05` | [856](https://www.leetcode.com/problems/score-of-parentheses/) | Score of Parentheses | String | [/source/Generator856.py](/source/Generator856.py) | [/generated/856_Score_of_Parentheses.txt](/generated/856_Score_of_Parentheses.txt) |
 | `2026-10-04` | [678](https://www.leetcode.com/problems/valid-parenthesis-string/) | Valid Parenthesis String | String | [/source/Generator678.py](/source/Generator678.py) | [/generated/678_Valid_Parenthesis_String.txt](/generated/678_Valid_Parenthesis_String.txt) |
 | `2026-10-03` | [32](https://www.leetcode.com/problems/longest-valid-parentheses/) | Longest Valid Parentheses | String | [/source/Generator32.py](/source/Generator32.py) | [/generated/32_Longest_Valid_Parentheses.txt](/generated/32_Longest_Valid_Parentheses.txt) |
 | `2026-10-02` | [22](https://www.leetcode.com/problems/generate-parentheses/) | Generate Parentheses | String | [/source/Generator22.py](/source/Generator22.py) | [/generated/22_Generate_Parentheses.txt](/generated/22_Generate_Parentheses.txt) |
