@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-10-07` | [301](https://www.leetcode.com/problems/remove-invalid-parentheses/) | Remove Invalid Parentheses | String | [/source/Generator301.py](/source/Generator301.py) | [/generated/301_Remove_Invalid_Parentheses.txt](/generated/301_Remove_Invalid_Parentheses.txt) |
 | `2026-10-06` | [921](https://www.leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Minimum Add to Make Parentheses Valid | String | [/source/Generator921.py](/source/Generator921.py) | [/generated/921_Minimum_Add_to_Make_Parentheses_Valid.txt](/generated/921_Minimum_Add_to_Make_Parentheses_Valid.txt) |
 | `2026-10-05` | [856](https://www.leetcode.com/problems/score-of-parentheses/) | Score of Parentheses | String | [/source/Generator856.py](/source/Generator856.py) | [/generated/856_Score_of_Parentheses.txt](/generated/856_Score_of_Parentheses.txt) |
 | `2026-10-04` | [678](https://www.leetcode.com/problems/valid-parenthesis-string/) | Valid Parenthesis String | String | [/source/Generator678.py](/source/Generator678.py) | [/generated/678_Valid_Parenthesis_String.txt](/generated/678_Valid_Parenthesis_String.txt) |
