@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-10-09` | [1541](https://www.leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Minimum Insertions to Balance a Parentheses String | String | [/source/Generator1541.py](/source/Generator1541.py) | [/generated/1541_Minimum_Insertions_to_Balance_a_Parentheses_String.txt](/generated/1541_Minimum_Insertions_to_Balance_a_Parentheses_String.txt) |
 | `2026-10-08` | [1021](https://www.leetcode.com/problems/remove-outermost-parentheses/) | Remove Outermost Parentheses | String | [/source/Generator1021.py](/source/Generator1021.py) | [/generated/1021_Remove_Outermost_Parentheses.txt](/generated/1021_Remove_Outermost_Parentheses.txt) |
 | `2026-10-07` | [301](https://www.leetcode.com/problems/remove-invalid-parentheses/) | Remove Invalid Parentheses | String | [/source/Generator301.py](/source/Generator301.py) | [/generated/301_Remove_Invalid_Parentheses.txt](/generated/301_Remove_Invalid_Parentheses.txt) |
 | `2026-10-06` | [921](https://www.leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Minimum Add to Make Parentheses Valid | String | [/source/Generator921.py](/source/Generator921.py) | [/generated/921_Minimum_Add_to_Make_Parentheses_Valid.txt](/generated/921_Minimum_Add_to_Make_Parentheses_Valid.txt) |
