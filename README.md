@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-10-20` | [3886](https://www.leetcode.com/problems/sum-of-sortable-integers/) | Sum of Sortable Integers | Array | [/source/Generator3886.py](/source/Generator3886.py) | [/generated/3886_Sum_of_Sortable_Integers.txt](/generated/3886_Sum_of_Sortable_Integers.txt) |
 | `2026-10-19` | [2089](https://www.leetcode.com/problems/find-target-indices-after-sorting-array/) | Find Target Indices After Sorting Array | Array | [/source/Generator2089.py](/source/Generator2089.py) | [/generated/2089_Find_Target_Indices_After_Sorting_Array.txt](/generated/2089_Find_Target_Indices_After_Sorting_Array.txt) |
 | `2026-10-18` | [1569](https://www.leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | Number of Ways to Reorder Array to Get Same BST | Array | [/source/Generator1569.py](/source/Generator1569.py) | [/generated/1569_Number_of_Ways_to_Reorder_Array_to_Get_Same_BST.txt](/generated/1569_Number_of_Ways_to_Reorder_Array_to_Get_Same_BST.txt) |
 | `2026-10-17` | [3551](https://www.leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | Minimum Swaps to Sort by Digit Sum | Array | [/source/Generator3551.py](/source/Generator3551.py) | [/generated/3551_Minimum_Swaps_to_Sort_by_Digit_Sum.txt](/generated/3551_Minimum_Swaps_to_Sort_by_Digit_Sum.txt) |
