@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-10-23` | [3644](https://www.leetcode.com/problems/maximum-k-to-sort-a-permutation/) | Maximum K to Sort a Permutation | Array | [/source/Generator3644.py](/source/Generator3644.py) | [/generated/3644_Maximum_K_to_Sort_a_Permutation.txt](/generated/3644_Maximum_K_to_Sort_a_Permutation.txt) |
 | `2026-10-22` | [3942](https://www.leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | Minimum Operations to Sort a Permutation | Array | [/source/Generator3942.py](/source/Generator3942.py) | [/generated/3942_Minimum_Operations_to_Sort_a_Permutation.txt](/generated/3942_Minimum_Operations_to_Sort_a_Permutation.txt) |
 | `2026-10-21` | [3863](https://www.leetcode.com/problems/minimum-operations-to-sort-a-string/) | Minimum Operations to Sort a String | String | [/source/Generator3863.py](/source/Generator3863.py) | [/generated/3863_Minimum_Operations_to_Sort_a_String.txt](/generated/3863_Minimum_Operations_to_Sort_a_String.txt) |
 | `2026-10-20` | [3886](https://www.leetcode.com/problems/sum-of-sortable-integers/) | Sum of Sortable Integers | Array | [/source/Generator3886.py](/source/Generator3886.py) | [/generated/3886_Sum_of_Sortable_Integers.txt](/generated/3886_Sum_of_Sortable_Integers.txt) |
