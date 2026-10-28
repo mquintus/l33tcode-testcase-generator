@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-10-28` | [3882](https://www.leetcode.com/problems/minimum-xor-path-in-a-grid/) | Minimum XOR Path in a Grid | Array | [/source/Generator3882.py](/source/Generator3882.py) | [/generated/3882_Minimum_XOR_Path_in_a_Grid.txt](/generated/3882_Minimum_XOR_Path_in_a_Grid.txt) |
 | `2026-10-26` | [3619](https://www.leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | Count Islands With Total Value Divisible by K | Array | [/source/Generator3619.py](/source/Generator3619.py) | [/generated/3619_Count_Islands_With_Total_Value_Divisible_by_K.txt](/generated/3619_Count_Islands_With_Total_Value_Divisible_by_K.txt) |
 | `2026-10-25` | [1254](https://www.leetcode.com/problems/number-of-closed-islands/) | Number of Closed Islands | Array | [/source/Generator1254.py](/source/Generator1254.py) | [/generated/1254_Number_of_Closed_Islands.txt](/generated/1254_Number_of_Closed_Islands.txt) |
 | `2026-10-24` | [2409](https://www.leetcode.com/problems/count-days-spent-together/) | Count Days Spent Together | Math | [/source/Generator2409.py](/source/Generator2409.py) | [/generated/2409_Count_Days_Spent_Together.txt](/generated/2409_Count_Days_Spent_Together.txt) |
