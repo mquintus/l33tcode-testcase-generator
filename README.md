@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-10-31` | [3665](https://www.leetcode.com/problems/twisted-mirror-path-count/) | Twisted Mirror Path Count | Array | [/source/Generator3665.py](/source/Generator3665.py) | [/generated/3665_Twisted_Mirror_Path_Count.txt](/generated/3665_Twisted_Mirror_Path_Count.txt) |
 | `2026-10-30` | [3970](https://www.leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | Shortest Path With At Most K Consecutive Identical Characters | String | [/source/Generator3970.py](/source/Generator3970.py) | [/generated/3970_Shortest_Path_With_At_Most_K_Consecutive_Identical_Characters.txt](/generated/3970_Shortest_Path_With_At_Most_K_Consecutive_Identical_Characters.txt) |
 | `2026-10-29` | [3841](https://www.leetcode.com/problems/palindromic-path-queries-in-a-tree/) | Palindromic Path Queries in a Tree | Array | [/source/Generator3841.py](/source/Generator3841.py) | [/generated/3841_Palindromic_Path_Queries_in_a_Tree.txt](/generated/3841_Palindromic_Path_Queries_in_a_Tree.txt) |
 | `2026-10-28` | [3882](https://www.leetcode.com/problems/minimum-xor-path-in-a-grid/) | Minimum XOR Path in a Grid | Array | [/source/Generator3882.py](/source/Generator3882.py) | [/generated/3882_Minimum_XOR_Path_in_a_Grid.txt](/generated/3882_Minimum_XOR_Path_in_a_Grid.txt) |
