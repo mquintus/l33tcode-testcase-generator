@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-11-03` | [3736](https://www.leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | Minimum Moves to Equal Array Elements III | Array | [/source/Generator3736.py](/source/Generator3736.py) | [/generated/3736_Minimum_Moves_to_Equal_Array_Elements_III.txt](/generated/3736_Minimum_Moves_to_Equal_Array_Elements_III.txt) |
 | `2026-11-02` | [462](https://www.leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Minimum Moves to Equal Array Elements II | Array | [/source/Generator462.py](/source/Generator462.py) | [/generated/462_Minimum_Moves_to_Equal_Array_Elements_II.txt](/generated/462_Minimum_Moves_to_Equal_Array_Elements_II.txt) |
 | `2026-11-01` | [453](https://www.leetcode.com/problems/minimum-moves-to-equal-array-elements/) | Minimum Moves to Equal Array Elements | Array | [/source/Generator453.py](/source/Generator453.py) | [/generated/453_Minimum_Moves_to_Equal_Array_Elements.txt](/generated/453_Minimum_Moves_to_Equal_Array_Elements.txt) |
 | `2026-10-31` | [3665](https://www.leetcode.com/problems/twisted-mirror-path-count/) | Twisted Mirror Path Count | Array | [/source/Generator3665.py](/source/Generator3665.py) | [/generated/3665_Twisted_Mirror_Path_Count.txt](/generated/3665_Twisted_Mirror_Path_Count.txt) |
