@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-11-08` | [1267](https://www.leetcode.com/problems/count-servers-that-communicate/) | Count Servers that Communicate | Array | [/source/Generator1267.py](/source/Generator1267.py) | [/generated/1267_Count_Servers_that_Communicate.txt](/generated/1267_Count_Servers_that_Communicate.txt) |
 | `2026-11-07` | [1882](https://www.leetcode.com/problems/process-tasks-using-servers/) | Process Tasks Using Servers | Array | [/source/Generator1882.py](/source/Generator1882.py) | [/generated/1882_Process_Tasks_Using_Servers.txt](/generated/1882_Process_Tasks_Using_Servers.txt) |
 | `2026-11-06` | [2747](https://www.leetcode.com/problems/count-zero-request-servers/) | Count Zero Request Servers | Array | [/source/Generator2747.py](/source/Generator2747.py) | [/generated/2747_Count_Zero_Request_Servers.txt](/generated/2747_Count_Zero_Request_Servers.txt) |
 | `2026-11-05` | [1385](https://www.leetcode.com/problems/find-the-distance-value-between-two-arrays/) | Find the Distance Value Between Two Arrays | Array | [/source/Generator1385.py](/source/Generator1385.py) | [/generated/1385_Find_the_Distance_Value_Between_Two_Arrays.txt](/generated/1385_Find_the_Distance_Value_Between_Two_Arrays.txt) |
