@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-11-11` | [3789](https://www.leetcode.com/problems/minimum-cost-to-acquire-required-items/) | Minimum Cost to Acquire Required Items | Math | [/source/Generator3789.py](/source/Generator3789.py) | [/generated/3789_Minimum_Cost_to_Acquire_Required_Items.txt](/generated/3789_Minimum_Cost_to_Acquire_Required_Items.txt) |
 | `2026-11-10` | [3693](https://www.leetcode.com/problems/climbing-stairs-ii/) | Climbing Stairs II | Array | [/source/Generator3693.py](/source/Generator3693.py) | [/generated/3693_Climbing_Stairs_II.txt](/generated/3693_Climbing_Stairs_II.txt) |
 | `2026-11-09` | [1606](https://www.leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | Find Servers That Handled Most Number of Requests | Array | [/source/Generator1606.py](/source/Generator1606.py) | [/generated/1606_Find_Servers_That_Handled_Most_Number_of_Requests.txt](/generated/1606_Find_Servers_That_Handled_Most_Number_of_Requests.txt) |
 | `2026-11-08` | [1267](https://www.leetcode.com/problems/count-servers-that-communicate/) | Count Servers that Communicate | Array | [/source/Generator1267.py](/source/Generator1267.py) | [/generated/1267_Count_Servers_that_Communicate.txt](/generated/1267_Count_Servers_that_Communicate.txt) |
