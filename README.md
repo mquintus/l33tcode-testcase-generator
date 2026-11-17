@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-11-17` | [2911](https://www.leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | Minimum Changes to Make K Semi-palindromes | Two Pointers | [/source/Generator2911.py](/source/Generator2911.py) | [/generated/2911_Minimum_Changes_to_Make_K_Semi-palindromes.txt](/generated/2911_Minimum_Changes_to_Make_K_Semi-palindromes.txt) |
 | `2026-11-16` | [2243](https://www.leetcode.com/problems/calculate-digit-sum-of-a-string/) | Calculate Digit Sum of a String | String | [/source/Generator2243.py](/source/Generator2243.py) | [/generated/2243_Calculate_Digit_Sum_of_a_String.txt](/generated/2243_Calculate_Digit_Sum_of_a_String.txt) |
 | `2026-11-15` | [1524](https://www.leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Number of Sub-arrays With Odd Sum | Array | [/source/Generator1524.py](/source/Generator1524.py) | [/generated/1524_Number_of_Sub-arrays_With_Odd_Sum.txt](/generated/1524_Number_of_Sub-arrays_With_Odd_Sum.txt) |
 | `2026-11-14` | [3364](https://www.leetcode.com/problems/minimum-positive-sum-subarray/) | Minimum Positive Sum Subarray  | Array | [/source/Generator3364.py](/source/Generator3364.py) | [/generated/3364_Minimum_Positive_Sum_Subarray_.txt](/generated/3364_Minimum_Positive_Sum_Subarray_.txt) |
