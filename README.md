@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-11-24` | [3411](https://www.leetcode.com/problems/maximum-subarray-with-equal-products/) | Maximum Subarray With Equal Products | Array | [/source/Generator3411.py](/source/Generator3411.py) | [/generated/3411_Maximum_Subarray_With_Equal_Products.txt](/generated/3411_Maximum_Subarray_With_Equal_Products.txt) |
 | `2026-11-23` | [1352](https://www.leetcode.com/problems/product-of-the-last-k-numbers/) | Product of the Last K Numbers | Array | [/source/Generator1352.py](/source/Generator1352.py) | [/generated/1352_Product_of_the_Last_K_Numbers.txt](/generated/1352_Product_of_the_Last_K_Numbers.txt) |
 | `2026-11-22` | [2124](https://www.leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | Check if All A's Appears Before All B's | String | [/source/Generator2124.py](/source/Generator2124.py) | [/generated/2124_Check_if_All_A's_Appears_Before_All_B's.txt](/generated/2124_Check_if_All_A's_Appears_Before_All_B's.txt) |
 | `2026-11-21` | [3331](https://www.leetcode.com/problems/find-subtree-sizes-after-changes/) | Find Subtree Sizes After Changes | Array | [/source/Generator3331.py](/source/Generator3331.py) | [/generated/3331_Find_Subtree_Sizes_After_Changes.txt](/generated/3331_Find_Subtree_Sizes_After_Changes.txt) |
