@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-11-27` | [3946](https://www.leetcode.com/problems/maximum-number-of-items-from-sale-i/) | Maximum Number of Items From Sale I | Array | [/source/Generator3946.py](/source/Generator3946.py) | [/generated/3946_Maximum_Number_of_Items_From_Sale_I.txt](/generated/3946_Maximum_Number_of_Items_From_Sale_I.txt) |
 | `2026-11-26` | [3360](https://www.leetcode.com/problems/stone-removal-game/) | Stone Removal Game | Math | [/source/Generator3360.py](/source/Generator3360.py) | [/generated/3360_Stone_Removal_Game.txt](/generated/3360_Stone_Removal_Game.txt) |
 | `2026-11-25` | [3934](https://www.leetcode.com/problems/smallest-unique-subarray/) | Smallest Unique Subarray | Array | [/source/Generator3934.py](/source/Generator3934.py) | [/generated/3934_Smallest_Unique_Subarray.txt](/generated/3934_Smallest_Unique_Subarray.txt) |
 | `2026-11-24` | [3411](https://www.leetcode.com/problems/maximum-subarray-with-equal-products/) | Maximum Subarray With Equal Products | Array | [/source/Generator3411.py](/source/Generator3411.py) | [/generated/3411_Maximum_Subarray_With_Equal_Products.txt](/generated/3411_Maximum_Subarray_With_Equal_Products.txt) |
