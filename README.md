@@ -4,6 +4,7 @@ This is a community project. Do you have ideas how to generate better testcases?
 
 | Date       |   #  | Challenge Title          | Type                         | Code Link | Output |
 |------------|------|--------------------------|------------------------------|-----------|--------|
+| `2026-11-28` | [3947](https://www.leetcode.com/problems/maximum-number-of-items-from-sale-ii/) | Maximum Number of Items From Sale II | Array | [/source/Generator3947.py](/source/Generator3947.py) | [/generated/3947_Maximum_Number_of_Items_From_Sale_II.txt](/generated/3947_Maximum_Number_of_Items_From_Sale_II.txt) |
 | `2026-11-27` | [3946](https://www.leetcode.com/problems/maximum-number-of-items-from-sale-i/) | Maximum Number of Items From Sale I | Array | [/source/Generator3946.py](/source/Generator3946.py) | [/generated/3946_Maximum_Number_of_Items_From_Sale_I.txt](/generated/3946_Maximum_Number_of_Items_From_Sale_I.txt) |
 | `2026-11-26` | [3360](https://www.leetcode.com/problems/stone-removal-game/) | Stone Removal Game | Math | [/source/Generator3360.py](/source/Generator3360.py) | [/generated/3360_Stone_Removal_Game.txt](/generated/3360_Stone_Removal_Game.txt) |
 | `2026-11-25` | [3934](https://www.leetcode.com/problems/smallest-unique-subarray/) | Smallest Unique Subarray | Array | [/source/Generator3934.py](/source/Generator3934.py) | [/generated/3934_Smallest_Unique_Subarray.txt](/generated/3934_Smallest_Unique_Subarray.txt) |
